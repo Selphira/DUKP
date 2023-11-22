@@ -1,0 +1,475 @@
+@781 = ~Killer Weapon~
+@782 = ~Killer Weapon (Alteration, Enchantment)
+Level: 8
+Range: 0
+Duration: 1 round/level
+Casting Time: 8
+Area of Effect: caster
+Saving Throw: special
+
+This spell grants to the weapon carried by the warlord the ability to decapitate the opponent in one shot. The spell favors Vorpal hits, up to 5% + 1% chance every 2 levels of the spellcaster (max 15%). It is the nature of the weapon determinating the hit for which it is lead: clean cut at neck in case of a slashing weapon. violent grubbing of the head if it's a crushing weapon, Whatever be the strike, the victim can escape if it makes a successful saving throw at -4.
+Not all creatures will die after the cut of their head (golems, undead, ...), and some simply do not have it (aberrations, worms,...).~
+@7821 = ~Killer Weapon (Alteration, Enchantment)
+Level: 8
+Range: 0
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: special
+
+This spell grants to the weapon carried by the warlord the ability to decapitate the opponent in one shot. The spell favors 15% Vorpal hits. It is the nature of the weapon determinating the hit for which it is lead: clean cut at neck in case of a slashing weapon, violent grubbing of the head if it's a crushing weapon. Whatever be the strike, the victim can escape if it makes a successful saving throw at -4.
+Not all creatures will die after the cut of their head (golems, undead, ...), and some simply do not have it (aberrations, worms,...).~
+@7822 = ~Killer Weapon (Alteration, Enchantment)
+Level: 8
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell grants to the weapon carried by the recipient the ability to decapitate the opponent in one shot. The spell favors 15% Vorpal hits. It is the nature of the weapon determinating the hit for which it is lead: clean cut at neck in case of a slashing weapon, violent grubbing of the head if it's a crushing weapon, piercing of the heart or brain if it is a piercing weapon. Whatever be the strike, the victim can escape if it makes a successful saving throw at -4.
+Not all creatures will die after the cut of their head or heart (golems, undead, ...), and some simply do not have them (aberrations, worms,...).~
+@78221 = ~Killer Weapon (Alteration, Enchantment)
+Level: 8
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell grants to the weapon carried by the recipient the ability to decapitate the opponent in one shot. The spell favors 15% Vorpal hits. It is the nature of the weapon determinating the hit for which it is lead: clean cut at neck in case of a slashing weapon, violent grubbing of the head if it's a crushing weapon, piercing of the heart or brain if it is a piercing weapon. Whatever be the strike, the victim can escape if it makes a successful saving throw at -4.
+Not all creatures will die after the cut of their head or heart (golems, undead, ...), and some simply do not have them (aberrations, worms,...).
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+Their hits are vorpal in 10% of cases, with a saving throw at -3 to avoid, for 13 rounds.~
+@78239 = ~Vorpal Blow !~
+
+@783 = ~Elemental Shock~
+@784 = ~Elemental Shock (Evocation)
+Level: 8
+Range: 40 meters
+Duration: instantaneous
+Casting Time: 1 round
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+The warlord created this spell realizing how a sudden change of temperature can be destructive to the item who suffers it. To apply this principle to potential victims, this spell simply allows the caster to cast simultaneously two offensive spells of opposite nature: once casting is done, the mage tends both palms toward the target, and from his left hand strikes a fireball, while from the right hand a frost orb. Damage is of 10D6 for fireball and 10D4 +10 for the frost orb (saving throw vs. spells to halve).
+But the frost orb reaches the target slower than the fireball, the victims are first burnt then frozen afterwards. They thus suffer a metabolic shock that doubles the damage they receive if they fail a saving throw vs. polymorph.
+Stone Golems are particularly susceptible to his spell, for which the saving throw is reduced by -4.
+The spell has a special effect against creatures immune against fire/cold: those who fail a saving throw vs. polymorph suffer normal damage (not doubled) of the element they are immune to, the opposed element of the spell works especially in this way.~
+@7841 = ~Elemental Shock (Evocation)
+Level: 8
+Range: 40 meters
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+The warlord created this spell realizing how a sudden change of temperature can be destructive to the item who suffers it. To apply this principle to potential victims, this spell simply allows the caster to cast simultaneously two offensive spells of opposite nature: once casting is done, the mage tends both palms toward the target, and from his left hand strikes a fireball, while from the right hand a frost orb. Damage is of 10D6 for fireball and 10D4 +10 for the frost orb (saving throw vs. spells to halve).
+But the frost orb reaches the target slower than the fireball, the victims are first burnt then frozen afterwards. They thus suffer a metabolic shock that doubles the damage they receive if they fail a saving throw vs. polymorph at -2.
+Stone Golems are particularly susceptible to his spell, for which the saving throw is reduced by -4.
+The spell has a special effect against creatures immune against fire/cold: those who fail a saving throw vs. polymorph suffer normal damage (not doubled) of the element they are immune to, the opposed element of the spell works especially in this way.~
+
+@785 = ~Mirror Image~
+@786 = ~Mirror Image (Illusion/Phantasm)
+Level: 8
+Range: 0
+Duration: 1 round/level
+Casting Time: 8
+Area of Effect: the caster
+Saving Throw: none
+
+This spell allows the warlord to create a mirror image that can perform any action he may take. More powerful than the physical image of Level 6, mirror image is shaped upon the reflection of the caster and thus is no longer directly linked to him. So it can move independently of the caster and engage in combat. It can not perform other actions such as opening a door or taking a conversation, its illusion status does not allow it to fully interact with the physical world.
+When fighting, it can affect all creatures who believe its real (and therefore can not affect a creature immune to illusions). In this case, it fights with 60% skills of the warlord (THAC0, saving throw, proficiency skill, etc..), and can take damage up to 60% of hit points of the warlord before disappearing.
+It will disappear as well if it is discovered by a True Sight or Dispel Magic.
+The warlord having no more reflections as long as the image is active, can not create more than one mirror image.~
+@7861 = ~You already control a mirror image. Wait its disappearance before creating another.~
+@7862 = ~Mirror Image (Illusion/Phantasm)
+Level: 8
+Range: 0
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+This spell allows the warlord to create a mirror image that can perform any action he may take. More powerful than the physical image of Level 6, mirror image is shaped upon the reflection of the caster and thus is no longer directly linked to him. So it can move independently of the caster and engage in combat. It can not perform other actions such as opening a door or taking a conversation, its illusion status does not allow it to fully interact with the physical world.
+When fighting, it can affect all creatures who believe its real (and therefore can not affect a creature immune to illusions). In this case, it fights with 60% skills of the warlord (THAC0, saving throw, proficiency skill, etc..), and can take damage up to 60% of hit points of the warlord before disappearing.
+It will disappear as well if it is discovered by a True Sight or Dispel Magic.
+The warlord having no more reflections as long as the image is active, can not create more than one mirror image.~
+@7863 = ~Mirror Image (Illusion/Phantasm)
+Level: 8
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the warlord to create a mirror image of the recipient that can perform any action he may take. More powerful than the physical image of Level 6, mirror image is shaped upon the reflection of the recipient and thus is no longer directly linked to him. So it can move independently of the recipient and engage in combat. It can not perform other actions such as opening a door or taking a conversation, its illusion status does not allow it to fully interact with the physical world.
+When fighting, it can affect all creatures who believe its real (and therefore can not affect a creature immune to illusions). In this case, it fights with 60% skills of the warlord (THAC0, saving throw, proficiency skill, etc..), and can take damage up to 60% of hit points of the warlord before disappearing.
+It will disappear as well if it is discovered by a True Sight or Dispel Magic.
+The recipient having no more reflections as long as the image is active, can not have more than one mirror image.~
+@78631 = ~Mirror Image (Illusion/Phantasm)
+Level: 8
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the warlord to create a mirror image of the recipient that can perform any action he may take. More powerful than the physical image of Level 6, mirror image is shaped upon the reflection of the recipient and thus is no longer directly linked to him. So it can move independently of the recipient and engage in combat. It can not perform other actions such as opening a door or taking a conversation, its illusion status does not allow it to fully interact with the physical world.
+When fighting, it can affect all creatures who believe its real (and therefore can not affect a creature immune to illusions). In this case, it fights with 60% skills of the warlord (THAC0, saving throw, proficiency skill, etc..), and can take damage up to 60% of hit points of the warlord before disappearing.
+It will disappear as well if it is discovered by a True Sight or Dispel Magic.
+The recipient having no more reflections as long as the image is active, can not have more than one mirror image.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+their image will last 13 rounds only.~
+
+@787 = ~Stonebody~
+@788 = ~Stonebody (Alteration)
+Level: 8
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+When the spell is cast, the body of the warlord turns into a moving stone by adopting the structure of the soil where he steps into. This transformation grants him several distinct powers. As long as the spell lasts, he can not be wounded by enchanted weapons at least equal to +3, slashing and piercing weapons affect him only by 1/4. His natural armor class turns at 1 +/- 1 (according to the structure of the stone of which it is made of) and his strength increases by 3 points.
+Spells that affect breathing or physiology such as clouds, poison, mold, can not affect him. He ignores electricity attacks and suffers only 50% of fire and cold attacks.
+Unfortunately, his movement becomes slow and cumbersome, which turns into a -2 penalty to movement speed and dexterity, -1 to his speed factor and THAC0.
+The mage under stone shape will equally suffers an increase of 1 to his casting speed and a 10% chance to fail casting of every spell, due to his voice that has become slow and guttural.
+The mage must be in touch with the soil when casting the spell otherwise it will not work.~
+@7881 = ~Stonebody (Alteration)
+Level: 8
+Range: 0
+Duration: 25 rounds
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+When the spell is cast, the body of the warlord turns into a moving stone by adopting the structure of the soil where he steps into. This transformation grants him several distinct powers. As long as the spell lasts, he can not be wounded by enchanted weapons at least equal to +3, slashing and piercing weapons affect him only by 1/4. His natural armor class turns at 1 +/- 1 (according to the structure of the stone of which it is made of) and his strength increases by 3 points.
+Spells that affect breathing or physiology such as clouds, poison, mold, can not affect him. He ignores electricity attacks and suffers only 50% of fire and cold attacks.
+Unfortunately, his movement becomes slow and cumbersome, which turns into a -2 penalty to movement speed and dexterity, -1 to his speed factor and THAC0.
+The mage under stone shape will equally suffers an increase of 1 to his casting speed and a 10% chance to fail casting of every spell, due to his voice that has become slow and guttural.
+The mage must be in touch with the soil when casting the spell otherwise it will not work.~
+@7882 = ~Stonebody (Alteration)
+Level: 8
+Range: 0
+Duration: 25 rounds
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+When the spell is cast, the body of the warlord turns into a moving stone by adopting the structure of the soil where he steps into. This transformation grants him several distinct powers. As long as the spell lasts, he can not be wounded by enchanted weapons at least equal to +3, slashing and piercing weapons affect him only by 1/4. His natural armor class turns at 1 +/- 1 (according to the structure of the stone of which it is made of) and his strength increases by 3 points.
+Spells that affect breathing or physiology such as clouds, poison, mold, can not affect him. He ignores electricity attacks and suffers only 50% of fire and cold attacks.
+The mage must be in touch with the soil when casting the spell otherwise it will not work.~
+@7883 = ~Stonebody (Alteration)
+Level: 8
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+When the spell is cast, the body of the recipient turns into a moving stone by adopting the structure of the soil where he steps into. This transformation grants him several distinct powers. As long as the spell lasts, he can not be wounded by enchanted weapons at least equal to +3, slashing and piercing weapons affect him only by 1/4. His natural armor class turns at 1 +/- 1 (according to the structure of the stone of which it is made of) and his strength increases by 3 points.
+Spells that affect breathing or physiology such as clouds, poison, mold, can not affect him. He ignores electricity attacks and suffers only 50% of fire and cold attacks.
+The recipient must be in touch with the soil when the warlord casts the spell otherwise it will not work.~
+@78831 = ~Stonebody (Alteration)
+Level: 8
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+When the spell is cast, the body of the recipient turns into a moving stone by adopting the structure of the soil where he steps into. This transformation grants him several distinct powers. As long as the spell lasts, he can not be wounded by enchanted weapons at least equal to +3, slashing and piercing weapons affect him only by 1/4. His natural armor class turns at 1 +/- 1 (according to the structure of the stone of which it is made of) and his strength increases by 3 points.
+Spells that affect breathing or physiology such as clouds, poison, mold, can not affect him. He ignores electricity attacks and suffers only 50% of fire and cold attacks.
+The recipient must be in touch with the soil when the warlord casts the spell otherwise it will not work.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+they will take the same shape of moving stone, that protects them against +2 weapons, grants them an AC of 1 and increases their strength by 2. They also get the same immunities and resistances for 17 rounds.~
+
+@789 = ~Wrath of the Skies~
+@7810 = ~Wrath of the Skies (Alteration)
+Level: 8
+Range: visual range of the caster
+Duration: 1 round
+Casting Time: 8
+Area of Effect: 1 creature/5-meters radius
+Saving Throw: special
+
+This spell unleashes wrath of skies on a creature. The spell must be cast outside, otherwise it would have no effect. When the spell is cast, one of the many falling stars that cross the sky of Abeir-Toril is diverted from its course and guided by spell to crush upon the target.
+Upon impact, this one will suffer 15D10 damage points. All creatures within 5 meters around will suffer 10D10 damage points.
+The explosion caused by the impact of the meteor is so brutal that it ignores magic resistance of the target and allows no saving throw to reduce damage.
+All creatures who have suffered the impact could remain stunned for 1D4 +2 rounds if they fail a saving throw vs. breath (at -2 for the initial victim).~
+@78101 = ~Wrath of the Skies (Alteration)
+Level: 8
+Range: visual range of the caster
+Duration: 1 round
+Casting Time: 4
+Area of Effect: 1 creature/5-meters radius
+Saving Throw: special
+
+This spell unleashes wrath of skies on a creature. The spell must be cast outside, otherwise it would have no effect. When the spell is cast, one of the many falling stars that cross the sky of Abeir-Toril is diverted from its course and guided by spell to crush upon the target.
+Upon impact, this one will suffer 15D10 damage points. All creatures within 5 meters around will suffer 10D10 damage points.
+The explosion caused by the impact of the meteor is so brutal that it ignores magic resistance of the target and allows no saving throw to reduce damage.
+All creatures who have suffered the impact could remain stunned for 1D4 +2 rounds if they fail a saving throw vs. breath (at -2 for the initial victim).~
+
+@7811 = ~Ethereal Cover~
+@7812 = ~Ethereal Cover (Abjuration)
+Level: 8
+Range: 0
+Duration: 5 rounds + 1 round/2 levels
+Casting Time: 8
+Area of Effect: caster
+Saving Throw: none
+
+This spell covers the caster by ether. Any weapon that tries to hit him must go through this cover, and thus follow hitting rules of an ethereal creature. As long as the caster is protected by this cover, he can not be hit by non-magical weapons, and only powerful magical weapon can affect him. It takes an enchanted weapon equal at +1 every 4 levels of the caster to hit him (as an example, he can be hit only by +4 weapon minimum at level 16, with a maximum "at least +5" at level 20).~
+@78121 = ~Ethereal Cover (Abjuration)
+Level: 8
+Range: 0
+Duration: 15 rounds
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell covers the caster by ether. Any weapon that tries to hit him must go through this cover, and thus follow hitting rules of an ethereal creature. As long as the caster is protected by this cover, he can not be hit by non-magical weapons, and only +5 magical weapon can affect him.~
+@78122 = ~Ethereal Cover (Abjuration)
+Level: 8
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 8
+Area of Effect: 1 creature
+Area of Effect: none
+
+This spell covers the recipient by ether. Any weapon that tries to hit him must go through this cover, and thus follow hitting rules of an ethereal creature. As long as the recipient is protected by this cover, he can not be hit by non-magical weapons, and only +5 magical weapon can affect him.~
+@781221 = ~Ethereal Cover (Abjuration)
+Level: 8
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell covers the recipient by ether. Any weapon that tries to hit him must go through this cover, and thus follow hitting rules of an ethereal creature. As long as the recipient is protected by this cover, he can not be hit by non-magical weapons, and only +5 magical weapon can affect him.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: it takes at least a +3 weapon to him them for 1 turn.~
+
+@7813 = ~Mass Disorder~
+@7814 = ~Mass Disorder (Enchantment)
+Level: 8
+Range: visual range of the caster
+Duration: special
+Casting Time: 8
+Area of Effect: 18-meters-diameter sphere
+Saving Throw: negates
+
+By casting this spell, the warlord attempts to destroy the minds of all visible enemies in the area. If those fail a saving throw to prevent, they suffer a brain stroke. The warlord does not really master workings of brain, the result is variable: awkwardness, confusion, stun, dizzines, migraine, etc..., as well as duration (which can be reduced by a successful dispelling).
+From level 22, the power of the spell increases, the spell can create a more serious injury, which can make the victims fool, morons, vegetative, etc... in this case, the effect is permanent and only a major restoration or wish can pull the faculties of the creatures back.~
+@78141 = ~Mass Disorder (Enchantment)
+Level: 8
+Range: visual range of the caster
+Duration: special
+Casting Time: 4
+Area of Effect: 18-meters-diameter sphere
+Saving Throw: negates
+
+By casting this spell, the warlord attempts to destroy the minds of all visible enemies in the area. If those fail a saving throw to prevent, they suffer a brain stroke. The warlord does not really master workings of brain, the result is variable: awkwardness, confusion, stun, dizzines, migraine, etc..., as well as duration (which can be reduced by a successful dispelling) and may be permanent in case of more serious injuries making the victims fools, dizzy, vegetative, etc... (in this case, only a major restoration or wish can make the faculties of the victims back).~
+
+@7815 = ~Expertise of Executioner~
+@7816 = ~Expertise of Executioner (Divination)
+Level: 8
+Range: 0
+Duration: 2 rounds/level
+Casting Time: 8
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to instinctively detect weaknesses of other creatures, which gives him a +4 bonus to attack rolls and +4 to critical hits (if the character usually scores a critical hit on 20, he could claim 16-20).~
+@78161 = ~You already have the expert eye~
+@78162 = ~Expertise of Executioner (Divination)
+Level: 8
+Range: 0
+Duration: 4 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to instinctively detect weaknesses of other creatures, which gives him a +4 bonus to attack rolls and +4 to critical hits (if the character usually scores a critical hit on 20, he could claim 16-20).~
+@78163 = ~Expertise of Executioner (Divination)
+Level: 8
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to instinctively detect weaknesses of other creatures, which gives him a +4 bonus to attack rolls and +4 to critical hits (if the character usually scores a critical hit on 20, he could claim 16-20).~
+@781631 = ~Expertise of Executioner (Divination)
+Level: 8
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to instinctively detect weaknesses of other creatures, which gives him a +4 bonus to attack rolls and +4 to critical hits (if the character usually scores a critical hit on 20, he could claim 16-20), until the expiration of the spell.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they get a +3 bonus to attack rolls and to critical hits for 27 rounds.~
+
+@7817 = ~Unleash the Beast~
+@7818 = ~Unleash the Beast (Alteration)
+Level: 8
+Range: 0
+Duration: 1 round/level
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who understood the power that stirs inside him can only come after a powerful magical creature somewhere in his lineage can use this spell to awake the creature who left its mark in his blood.
+The truth about this powerful ancestry is revealed since the very first cast of the spell: the caster turns into a terrifying pit fiend, of which he gets all physical attributes:
+Strength: 18/00
+Armor Class: -5
+Movement Speed: 11
+Attacks per round: 5, including a bit that can fatally poison
+Regeneration: 2 HP per round
+Can only be hit by +3 weapons at least
+Immune to fire and poison
+Cold resistance: 50%
+
+He did not gain, however, any extra magical power, nor extra magic resistance. All his equipment is melted into the new shape, and any newly acquired equipment will be the same (including weapons created by a spell).
+There is one major drawback in using this spell: 5% chance at every spellcasting that the warlord also gets the savagery of the beast and gets out: he will attack indiscriminately friends and foes, until the expiration of the spell.~
+@78181 = ~Lose Control~
+@78182 = ~Weapon melted in polymorphing~
+@78183 = ~Unleash the Beast (Alteration)
+Level: 8
+Range: 0
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who understood the power that stirs inside him can only come after a powerful magical creature somewhere in his lineage can use this spell to awake the creature who left its mark in his blood.
+The truth about this powerful ancestry is revealed since the very first cast of the spell: the caster turns into a terrifying pit fiend, of which he gets all physical attributes:
+Strength: 18/00
+Armor Class: -5
+Movement Speed: 11
+Attacks per round: 5, including a bit that can fatally poison
+Regeneration: 2 HP per round
+Can only be hit by +3 weapons at least
+Immune to fire and poison
+Cold resistance: 50%
+
+He did not gain, however, any extra magical power, nor extra magic resistance. All his equipment is melted into the new shape, and any newly acquired equipment will be the same (including weapons created by a spell).
+There is one major drawback in using this spell: 5% chance at every spellcasting that the warlord also gets the savagery of the beast and gets out: he will attack indiscriminately friends and foes, until the expiration of the spell.~
+@78184 = ~Unleash the Beast (Alteration)
+Level: 8
+Range: 0
+Duration: 1 round/level
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who understood the power that stirs inside him can only come after a powerful magical creature somewhere in his lineage can use this spell to awake the creature who left its mark in his blood.
+The truth about this powerful ancestry is revealed since the very first cast of the spell: the caster turns into a terrifying pit fiend, of which he gets all physical attributes:
+Strength: 18/00
+Armor Class: -5
+Movement Speed: 11
+Attacks per round: 5, including a bit that can fatally poison
+Regeneration: 2 HP per round
+Can only be hit by +3 weapons at least
+Immune to fire and poison
+Cold resistance: 50%
+
+He did not gain, however, any extra magical power, nor extra magic resistance. All his equipment is melted into the new shape, and any newly acquired equipment will be the same (including weapons created by a spell).~
+@78185 = ~Unleash the Beast (Alteration)
+Level: 8
+Range: 0
+Duration: 1 round/level
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who understood the power that stirs inside him can only come after a powerful magical creature somewhere in his lineage can use this spell to awake the creature who left its mark in his blood.
+The truth about this powerful ancestry is revealed since the very first cast of the spell: the caster turns into a terrifying pit fiend, of which he gets all physical attributes:
+Strength: 18/00
+Armor Class: -5
+Movement Speed: 11
+Attacks per round: 5, including a bit that can fatally poison
+Regeneration: 2 HP per round
+Can only be hit by +3 weapons at least
+Immune to fire and poison
+Cold resistance: 50%
+
+He did not gain, however, any extra magical power, nor extra magic resistance. All his equipment is melted into the new shape, and any newly acquired equipment will be the same (including weapons created by a spell).
+
+This spell acts on the distant roots of the warlord and can not be applied to another person.~
+
+@7819 = ~Meteor Swarm~
+@7820 = ~Meteor Swarm (Evocation)
+Level: 8
+Range: 90 meters
+Duration: 4 rounds
+Casting Time: 8
+Area of Effect: 10-meters radius
+Saving Throw: none
+
+This spell creates a storm of burning meteors on the targeted area. All creatures taken under the cloud are hit by 1D8 +3 meteors each round, each one inflicting 1D4 crushing damage and 1D4 fire damage. The frequency of the falling meteors allows no saving throw and magic resistance does not protect against meteors.~
+@78201 = ~Meteor Swarm (Evocation)
+Level: 8
+Range: 90 meters
+Duration: 4 rounds
+Casting Time: 4
+Area of Effect: 10-meters radius
+Saving Throw: none
+
+This spell creates a storm of burning meteors on the targeted area. All creatures taken under the cloud are hit by 1D8 +3 meteors each round, each one inflicting 1D4 crushing damage and 1D4 fire damage. The frequency of the falling meteors allows no saving throw and magic resistance does not protect against meteors.~
+
+@7823 = ~Aggressive Rock~
+@7824 = ~Aggressive Rock (Alteration)
+Level: 8
+Range: 40 meters
+Duration: instataneous
+Casting Time: 8
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+This spell creates at the targeted place pockets of molten rock rising up from the soil under the shape of sharp stalagmites. All creatures within the area of effect suffer 1D6 points of damage per level of caster, half fire and the other half piercing damage (max 20D6). Victims who succeed a saving throw vs. spells suffer only half damage. The target of the spell is the soil itself; magic resistance of the victims can not protect them against this spell.~
+@78241 = ~Aggressive Rock (Alteration)
+Level: 8
+Range: 40 meters
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+This spell creates at the targeted place pockets of molten rock rising up from the soil under the shape of sharp stalagmites. All creatures within the area of effect suffer 20D6 points of damage, half fire and the other half piercing damage. Victims who succeed a saving throw vs. spells suffer only half damage. The target of the spell is the soil itself; magic resistance of the victims can not protect them against this spell.~
+
+@7825 = ~Foresight~
+@7826 = ~Foresight (Enchantment, Metamagic)
+Level: 8
+Range: 0
+Duration: special
+Casting Time: 9
+Area of Effect: special
+Saving Throw: special
+
+Always pushing even further his mastery of the arcane, the warlord understood that he could "delay" the action of his spells for a later use. He can, indeed, use them later to prevent certain situations he would not have planned. By using this spell, he becomes able to prepare his spells to be released under certain conditions.
+Technically, in preparing these spells, he must determine which spells he chose and under which conditions they will be released. The condition can be: powerless, poisoning, reduced life, or simply the sight of an enemy, and the spells can be any, in accordance, however, with the condition.
+He can thus prepare two spells of level 6 at maximum to be casted later.
+At level 21, he can prepare two spells of level 7 at maximum
+At level 23, he can prepare two spells of level 8 at maximum
+At level 25, he can prepare two spells of level 8 at maximum or three spells of level 6 or less
+At level 27, he can prepare two spells of level 9 at maximum or three spells of level 7 or less
+At level 29, he can prepare two spells of level 9 at maximum or three spells of level 8 or less
+At level 31, he can prepare three spells of level 9 at maximum.
+
+He can not have several spells prepared at the same time, any new preparation automatically fails if there is already one prepared.
+
+Note: the spells of level 10 are treated as spells of level 9 and can be prepared at level 27.
+
+This spell created by the warlord after a deep study of metamagic can not be used by another character.~
+@78261 = ~Two spells of level 8~
+@78262 = ~Two spells of level 9~
+@78263 = ~Three spells of level 6~
+@78264 = ~Three spells of level 7~
+@78265 = ~Three spells of level 8~

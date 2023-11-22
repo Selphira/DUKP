@@ -1,0 +1,296 @@
+@221 = ~Explosion~
+@222 = ~Explosion (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 5 mètres
+Jet de sauvegarde : ½
+
+Le sort crée une explosion émanant du personnage et blessant toutes les créatures situées dans un rayon de 5 mètres autour de lui. Toutes les créatures affectées subissent 1D4 points de dégâts de feu par niveau de lanceur de sorts (jusqu'à un maximum de 10D4). Un jet de sauvegarde contre les souffles réussi permet de réduire les dégâts de moitié.~
+@2221 = ~Explosion (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 5 mètres
+Jet de sauvegarde : ½
+
+Le sort crée une explosion émanant du personnage et blessant toutes les créatures situées dans un rayon de 5 mètres autour de lui. Toutes les créatures affectées subissent 12D4 points de dégâts de feu (13D4 au niveau 30 et 14D4 au niveau 40). Un jet de sauvegarde contre les souffles permet de réduire les dégâts de moitié.~
+@2222 = ~Explosion (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 5 mètres
+Jet de sauvegarde : ½
+
+Le sort crée une explosion émanant du personnage et blessant toutes les créatures situées dans un rayon de 5 mètres autour de lui. Toutes les créatures affectées subissent 10D4 points de dégâts de feu. Un jet de sauvegarde contre les souffles à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) permet de réduire les dégâts de moitié.~
+
+@224 = ~Lame enflammée (Évocation) 
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 4 rounds + 1 round / 2 niveaux
+Temps d'incantation : 3
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au jeteur de sorts de faire surgir de sa main un rayon de feu brûlant. Cette pseudo- lame se manie comme une épée mais le prêcheur qui s'en sert ne subit aucun malus pour non-compétence. La lame inflige 1D8 points de dégâts de feu,+1 tous les 2 niveaux du lanceur de sort (maximum 1D8+10). De nature non-matérielle, elle ne prend pas en  compte le bonus de force de l'utilisateur et n'est d'aucune utilité contre les créatures insensibles au feu. Elle ne peut pas blesser les créatures qui ne sont affectées que par les armes magiques.
+La lame enflammée ne peut pas être enchantée par le sort "Arme embrasée".~
+@2241 = ~Lame enflammée (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 14 rounds
+Temps d'incantation : 3
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au jeteur de sorts de faire surgir de sa main un rayon de feu brûlant. Cette pseudo- lame se manie comme une épée, mais le prêcheur qui s'en sert ne subit aucun malus pour non-compétence. La lame inflige 1D8+12 points de dégâts de feu (1D8+13 au niveau 30 et 1D8+14 au niveau 40). De nature non-matérielle, elle ne prend pas en  compte le bonus de force de l'utilisateur et n'est d'aucune utilité contre les créatures insensibles au feu. Elle ne peut pas blesser les créatures qui ne sont affectées que par les armes magiques.
+La lame enflammée ne peut pas être enchantée par le sort "Arme embrasée".~
+
+@225 = ~Réduction de la résistance au feu~
+@226 = ~Réduction de la résistance au feu (Abjuration, Altération)
+Niveau : 2
+Sphère : charme, élémentaire (feu)
+Portée : champ de vision
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : zone de 10 mètres de rayon
+Jet de sauvegarde : annule
+
+Lorsque le prêcheur des flammes lance ce sort, la zone qu'il désigne est parcourue d'énergies élémentaires. Toutes les créatures présentes dans la zone doivent réussir un jet de sauvegarde contre les sorts ou voir leur résistance au feu réduite de 2% par niveau du prêcheur (max 40%).~
+@2266 = ~Résistance au feu réduite de 6%~
+@2268 = ~Résistance au feu réduite de 8%~
+@22610 = ~Résistance au feu réduite de 10%~
+@22611 = ~Résistance au feu réduite de 11%~
+@22612 = ~Résistance au feu réduite de 12%~
+@22613 = ~Résistance au feu réduite de 13%~
+@22614 = ~Résistance au feu réduite de 14%~
+@22615 = ~Résistance au feu réduite de 15%~
+@22616 = ~Résistance au feu réduite de 16%~
+@22617 = ~Résistance au feu réduite de 17%~
+@22618 = ~Résistance au feu réduite de 18%~
+@22619 = ~Résistance au feu réduite de 19%~
+@22620 = ~Résistance au feu réduite de 20%~
+@22621 = ~Résistance au feu réduite de 21%~
+@22622 = ~Résistance au feu réduite de 22%~
+@22624 = ~Résistance au feu réduite de 24%~
+@22625 = ~Résistance au feu réduite de 25%~
+@22626 = ~Résistance au feu réduite de 26%~
+@22627 = ~Résistance au feu réduite de 27%~
+@22628 = ~Résistance au feu réduite de 28%~
+@22630 = ~Résistance au feu réduite de 30%~
+@22632 = ~Résistance au feu réduite de 32%~
+@22633 = ~Résistance au feu réduite de 33%~
+@22634 = ~Résistance au feu réduite de 34%~
+@22636 = ~Résistance au feu réduite de 36%~
+@22638 = ~Résistance au feu réduite de 38%~
+@22639 = ~Résistance au feu réduite de 39%~
+@22640 = ~Résistance au feu réduite de 40%~
+@22642 = ~Résistance au feu réduite de 42%~
+@22645 = ~Résistance au feu réduite de 45%~
+@22648 = ~Résistance au feu réduite de 48%~
+@22651 = ~Résistance au feu réduite de 51%~
+@22654 = ~Résistance au feu réduite de 54%~
+@22657 = ~Résistance au feu réduite de 57%~
+@22660 = ~Résistance au feu réduite de 60%~
+
+@227 = ~Semences de feu~
+@2271 = ~Semence de feu~
+@2272 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts pour demi-dégâts)~
+@228 = ~Semences de feu (Conjuration)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet :  le lanceurs de sorts
+Jet de sauvegarde : ½
+
+Ce sort fait apparaître dans l'inventaire du prêcheur des flammes 4 graines de feu. Ces graines ne durent que 3 tours avant de disparaître. Pendant ce laps de temps, si elles sont lancées sur un ennemi, une boule de feu viendra frapper ce dernier infligeant ainsi de 2 à 16 points de dommages à tous ceux situés dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi réduira de moitié les dégâts infligés par les Semences de feu.~
+@2281 = ~Semences de feu (Conjuration)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet :  le lanceurs de sorts
+Jet de sauvegarde : ½
+
+Ce sort fait apparaître dans l'inventaire du prêcheur des flammes 4 graines de feu. Ces graines ne durent que 3 tours avant de disparaître. Pendant ce laps de temps, si elles sont lancées sur un ennemi, une boule de feu viendra frapper ce dernier infligeant ainsi de 2 à 20 points de dommages (2 à 22 au niveau 30 et 2 à 24 au niveau 40) à tous ceux situés dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi réduira de moitié les dégâts infligés par les Semences de feu.~
+@22811 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d10 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d10 (jet de sauvegarde contre les sorts pour demi-dégâts)~
+@22812 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d11 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d11 (jet de sauvegarde contre les sorts pour demi-dégâts)~
+@22813 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d12 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d12 (jet de sauvegarde contre les sorts pour demi-dégâts)~
+@2282 = ~Semences de feu (Conjuration)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet :  le lanceurs de sorts
+Jet de sauvegarde : ½
+
+Ce sort fait apparaître dans l'inventaire du prêcheur des flammes 4 graines de feu. Ces graines ne durent que 3 tours avant de disparaître. Pendant ce laps de temps, si elles sont lancées sur un ennemi, une boule de feu viendra frapper ce dernier infligeant ainsi de 2 à 16 points de dommages à tous ceux situés dans la zone d'effet. Un jet de sauvegarde à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) contre les sorts réussi réduira de moitié les dégâts infligés par les Semences de feu.~
+@22821 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -2 pour demi-dégâts)~
+@22822 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -3 pour demi-dégâts)~
+@22823 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -4 pour demi-dégâts)~
+@22824 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -5 pour demi-dégâts)~
+@22825 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -6 pour demi-dégâts)~
+@22826 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -7 pour demi-dégâts)~
+@22827 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 4,5 mètres.
+
+PARAMÈTRES :
+
+Dégâts : 2d8 (jet de sauvegarde contre les sorts à -8 pour demi-dégâts)~
+
+@229 = ~Pluie de feu~
+@2210 = ~Pluie de feu (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 20 mètres
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 1 créature et zone de 2,5 mètres autour
+Jet de sauvegarde : ½
+
+Ce sort fait tomber une pluie de braises enflammées sur la cible. Celle-ci et toutes les créatures dans les 2,5 mètres alentours subissent 1D6 points de dégâts de feu par niveau du lanceur (maximum 10D6). Pour chacune, un jet de sauvegarde contre les sorts réussis permet de réduire de moitié les dégâts reçus.~
+@22101 = ~Pluie de feu (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 20 mètres
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 1 créature et zone de 2,5 mètres autour
+Jet de sauvegarde : ½
+
+Ce sort fait tomber une pluie de braises enflammées sur la cible. Celle-ci et toutes les créatures dans les 2,5 mètres alentours subissent 12D6 points de dégâts de feu (13D6 au niveau 30 et 14D6 au niveau 40). Pour chacune, un jet de sauvegarde contre les sorts réussis permet de réduire de moitié les dégâts reçus.~
+@22102 = ~Pluie de feu (Évocation)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 20 mètres
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 1 créature et zone de 2,5 mètres autour
+Jet de sauvegarde : ½
+
+Ce sort fait tomber une pluie de braises enflammées sur la cible. Celle-ci et toutes les créatures dans les 2,5 mètres alentours subissent 10D6 points de dégâts de feu. Pour chacune, un jet de sauvegarde à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) contre les sorts réussis permet de réduire de moitié les dégâts reçus.~
+
+@2211 = ~Sang brûlant~
+@2212 = ~Sang brûlant (Alteration)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 30 mètres
+Durée : 4 rounds
+Temps d'incantation : 2
+Zone d'effet : 1 créature 
+Jet de sauvegarde : annule
+
+Cet horrible sort fait bouillir le sang de la créature visée qui raterait son jet de sauvegarde à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème). Les créatures n'ayant pas de sang (Morts-vivants, golems, élémentaux, etc...) ne peuvent pas être affectés par ce sort.
+Au premier round, le sang de la victime commence à s’échauffer et celle-ci ce sent mal en point et fiévreuse. Des deuxième au quatrième round, son sang gagne en température, jusqu'à brûler ses organes internes. Les effets du sorts se répartissent ainsi :
+1er round : la victime subit -1 à ses jets de toucher jusqu’à la fin du sort.
+2eme : round : La victime subit 1D4 point de dégâts 
+3eme round : la victime subit 2D4 points de dégâts et -1 à ses jets de sauvegarde jusqu'à la fin du sort.
+4eme round : la victime subit 4D4 points de dégâts.~
+
+@2213 = ~Bombe magmatique~
+@2214 = ~Bombe magmatique (Enchantement)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort transmute n'importe quelle caillou ou pierre de bonne taille pour qu'il devienne une masse  de magma en fusion que le prêcheur peut lancer comme un projectile considéré comme magique +1 (mais ne donnant aucun bonus au toucher ou aux dégâts). S'il touche une créature avec cette bombe, elle éclate en recouvrant la victime de magma. Cette dernière subit 1D4 points dégâts contondants et 2D4 points de dégâts de brûlure, après quoi le magma qui la recouvre persiste, infligeant chaque round 2D4 points de dégâts supplémentaires jusqu'à ce qu'il refroidisse, s'effrite et tombe en poussière.
+Le magma persiste un round par tranche de 3 niveaux du lanceur de sort, jusqu'au maximum de 6 rounds au niveau 18. Si la victime réussi un jet de sauvegarde contre les sorts, la durée du magma la recouvrant est réduit de moitié.~
+@22141 = ~Ce boulet de roche en fusion à été crée avec le sort Bombe magmatique. Il ne brûle pas la main du porteur et éclatera s'il impacte une créature.~
+@22142 = ~Bombe magmatique (Enchantement)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort transmute n'importe quelle caillou ou pierre de bonne taille pour qu'il devienne une masse  de magma en fusion que le prêcheur peut lancer comme un projectile considéré comme magique +1 (mais ne donnant aucun bonus au toucher ou aux dégâts). S'il touche une créature avec cette bombe, elle éclate en recouvrant la victime de magma. Cette dernière subit 1D4 points dégâts contondants et 2D5 points dégâts de brûlure, après quoi le magma qui la recouvre persiste pendant 6 rounds, infligeant chaque round 2D5 points de dégâts supplémentaires jusqu'à ce qu'il refroidisse, s'effrite et tombe en poussière. Si la victime réussi un jet de sauvegarde contre les sorts, la durée du magma la recouvrant est réduit de moitié.
+Au niveau 30 de lanceur de sort, les dégâts infligés par l'explosion et le magma sont de 1D5+1D6 points.
+Au niveau 40 de lanceur de sort, les dégâts infligés par l'explosion et le magma sont de 2D6 points.~
+@22143 = ~Bombe magmatique (Enchantement)
+Niveau : 2
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort transmute n'importe quelle caillou ou pierre de bonne taille pour qu'il devienne une masse  de magma en fusion que le prêcheur peut lancer comme un projectile considéré comme magique +1 (mais ne donnant aucun bonus au toucher ou aux dégâts). S'il touche une créature avec cette bombe, elle éclate en recouvrant la victime de magma. Cette dernière subit 1D4 points de dégâts contondants et 2D4 points de dégâts de brûlure, après quoi le magma qui la recouvre persiste pendant 6 rounds, infligeant chaque round 2D4 points de dégâts supplémentaires jusqu'à ce qu'il refroidisse, s'effrite et tombe en poussière. Si la victime réussi un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème), la durée du magma la recouvrant est réduit de moitié.~
+
+@2216 = ~Flammes (Transmutation)
+Niveau : 2
+Sphère : Élémentaire (feu)
+Portée : champ visuel du lanceur
+Durée : 1 round
+Temps d'incantation : 5
+Zone d'effet : rayon de 2,5 mètres
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître des flammes causant 1d4 points de dégâts plus 1 point par niveau du prêtre à toutes les créatures comprises dans la zone d'effet.~
+@22161 = ~Flammes (Transmutation)
+Niveau : 2
+Sphère : Élémentaire (feu)
+Portée : champ visuel du lanceur
+Durée : 1 round
+Temps d'incantation : 5
+Zone d'effet : rayon de 2,5 mètres
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître des flammes causant 1d5+24 points de dégâts plus 1 point par niveau du prêtre au delà de 20 à toutes les créatures comprises dans la zone d'effet.
+Au niveau 30 du lanceur de sort les dégâts infligés sont fixés à 1D6 +39, et ils deviennent 1D6 + 42 au niveau 40.~

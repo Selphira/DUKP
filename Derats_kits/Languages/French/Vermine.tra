@@ -1,0 +1,45 @@
+@1099 = ~CHASSEUR DE VERMINE~
+@11 = ~Chasseur de vermine~
+@12 = ~CHASSEUR DE VERMINE : Les cités humaines les mieux protégées ne sont pour autant jamais à l'abri de l'intrusion d'espèces nuisibles tels que les rats, les moisissures et autres. Dans les cités sylvestres, bien qu'installées dans les arbres, ce sont les araignées, scarabées, et autre insectes géants qui peuvent nidifier dans les environs et déranger la tranquillité des lieux.
+Les chasseurs de vermine sont formés dans l'optique de déloger et d'exterminer toutes ces créatures nuisibles. Un long entraînement dans ce domaine leur a fourni une résistance naturelle aux toxines, ainsi qu'une habileté à les guérir sur autrui. Ils sont également à même de se déplacer librement au travers des toiles d'araignée, enchevêtrements et autres sources d'immobilisation.
+Parmi les elfes, de tels rôdeurs sont au service de la communauté, alors que parmi les humains, ce sont plutôt des gardes civils engagés et rémunérés.
+
+Avantages :
+- +3 au toucher et aux dégâts contre les ankhegs, les otyughs, les limons et la vermine géante.
+- Au niveau 4, liberté de mouvements : immunité aux toiles, à l'enchevêtrement, à l'immobilisation et aux ralentissements.
+- Au niveau 8, immunisé aux poisons.
+- Au niveau 10, immunisé aux maladies non-naturelles.
+- Au niveau 4 puis tous les 4 niveaux, peut ralentir le poison une fois par jour. 
+- Au niveau 7 puis tous les 5 niveaux, peut neutraliser les toxines une fois par jour. 
+- Au niveau 12 puis tous les 6 niveaux, peut utiliser "Appel de vermine" une fois par jour.
+- Au niveau 15 puis tous les 8 niveaux, peut utiliser "Appel de grande vermine" une fois par jour.
+
+Désavantages :
+- Ne peut s'encombrer d'aucune armure supérieure à la besantine.
+- Ne peut apprendre aucune compétence d'armes à deux mains, exceptés les arcs et les bâtons.
+
+Note : pour se jumeler en clerc, le chasseur de vermine humain doit avoir au minimum 15 en force et dextérité, et 17 en sagesse.
+
+APPEL DE VERMINE :
+À haut niveau, le chasseur de vermine a tellement l'expérience des nuisibles qu'il peut savoir instinctivement où ils se trouvent dans les environs et appliquer ses compétences de rôdeur afin de les apprivoiser. À chaque lancer de cet appel, jusqu'à 4 créatures se présentent et se joignent à lui pendant 2 minutes.
+
+APPEL DE GRANDE VERMINE :
+Après des années à combattre les créatures nuisibles, le chasseur de vermine est capable de dresser et d'appeler à lui les créatures les plus redoutées. À ce niveau de compétence, il peut faire venir jusqu'à 3 créatures qui se joindront à lui pour pour 2 minutes.~
+
+@13 = ~Appel de vermine~
+@14 = ~Appel de grande vermine~
+@15 = ~Scarabée Vrillemort~
+@16 = ~Néo-otyugh~
+@17 = ~Pudding brun~
+@18 = ~Punaise putride~
+@19 = ~Scarabée scolyte~
+@1010 = ~Araignée piégeuse~
+@1011 = ~Boasilic~
+@1012 = ~Serpent géant~
+@1013 = ~Otyugh~
+@1014 = ~Enchevêtrement de toile~
+@1015 = ~Regard du serpent~
+@1016 = ~Vibration mortelle~
+@1017 = ~Relent fétide~
+@1018 = ~Senteur toxique~
+@1019 = ~Araignée chasseresse~

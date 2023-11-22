@@ -1,0 +1,93 @@
+@909 = ~savant artilleur~
+@91 = ~Savant Artilleur~
+@92 = ~SAVANT ARTILLEUR : Le sort Projectile magique est une des icônes représentatives de la magie arcanique, un bon exemple de magie brute et un des sorts favoris de la plupart des jeunes mages. Il n'est donc pas étonnant que certains mages focalisent leurs études sur ce sort, déterminés à le perfectionner plus que tout autre. Le Savant Artilleur fait parti de ceux là, passionné par ce sort pour son infaillibilité à impacter la cible.
+
+Explorant obsessionnellement toutes les runes et les symboles magiques composant le sort pour en briser les limites, il fini par développer la capacité d'en pervertir l’énergie originale pour créer de nouveaux effets. Incrustant chaque facette du sort dans son esprit il en devient un véritable expert, capable de transcender le dweomer pour en faire un outil de dévastation majeur.
+
+Usant et abusant de ce sort, il en oubli les principes de son école et gagne un nouveau titre : il devient un Savant Artilleur.
+
+Avantages :
+- Au niveau 3, il peut s'entourer une fois par jour d'un bouclier magique qui reproduit les effets du sort "Bouclier" et qui dure trois rounds par niveau.
+- Au niveau 6, il peut restructurer le sort Projectile magique pour en faire un sort élémentaire. Ce sort personnalisé ne peut plus être arrêté par le sort Bouclier.
+- Au niveau 8, il apprend automatiquement le sort "Projectiles de force de Mordenkainen".
+- Au niveau 9, il brise la limite du sort Projectile magique : +1 missile tous les trois niveaux suivants jusqu'au 8ème missile, +1 missile tous les 4 niveaux ensuite.
+- Au niveau 11, son bouclier évolue et peut bloquer les projectiles magiques venus de baguettes, pièges, capacités spéciales, etc....
+- Au niveau 14, il améliore le sort "Projectiles de force de Mordenkainen" pour qu'il  ne soit plus arrêté par le sort Bouclier et qu'il impose -2 au jet de sauvegarde contre l'explosion.
+- Au niveau 15, son sort Projectile magique pénètre plus facilement les résistances magiques : chaque projectile a 5% de chance de percer la résistance à la magie de la cible.
+- Au niveau 16, il gagne une utilisation gratuite de Projectile magique en tant que capacité spéciale une fois par jour. D'autres utilisations sont gagnées aux niveaux 21, 27 et 33.
+- Au niveau 18, son bouclier renvoi tous les projectiles magiques dont il est la cible.
+- Au niveau 20, il améliore encore le sort "Projectiles de force de Mordenkainen" : la zone d'impact de l'explosion est augmentée de 15%, et si le jet de sauvegarde est raté, les cibles impactées restent sonnées pendant 1D2 rounds.
+- Au niveau 25, il brise la limite du sort Projectiles de force de Mordenkainen : +1 missile tous les 4 niveaux suivants jusqu'au 11ème missile.
+
+Inconvénient : 
+- Il a les mêmes restrictions qu'un invocateur : école d'enchantement interdite.
+- Il n'a pas la faculté de mémorisation améliorée normalement accordée à un mage spécialisé.
+- Il n'utilise pas de parchemin ou baguette de Projectile magique. Ce serait du gâchis, il n'a aucun contrôle sur ces sorts préenregistrés.~
+
+
+@921 = ~SAVANT ARTILLEUR : Le sort Projectile magique est une des icônes représentatives de la magie arcanique, un bon exemple de magie brute et un des sorts favoris de la plupart des jeunes mages. Il n'est donc pas étonnant que certains mages focalisent leurs études sur ce sort, déterminés à le perfectionner plus que tout autre. Le Savant Artilleur fait parti de ceux là, passionné par ce sort pour son infaillibilité à impacter la cible.
+
+Explorant obsessionnellement toutes les runes et les symboles magiques composant le sort pour en briser les limites, il fini par développer la capacité d'en pervertir l’énergie originale pour créer de nouveaux effets. Incrustant chaque facette du sort dans son esprit il en devient un véritable expert, capable de transcender le dweomer pour en faire un outil de dévastation majeur.
+
+Usant et abusant de ce sort, il en oubli les principes de son école et gagne un nouveau titre : il devient un Savant Artilleur.
+
+Avantages :
+- Au niveau 3, il peut s'entourer une fois par jour d'un bouclier magique qui bloque tous les projectiles magiques pendant un tour par niveau.
+- Au niveau 6, il peut restructurer le sort Projectile magique pour en faire un sort élémentaire. Ce sort personnalisé ne peut plus être arrêté par le sort Bouclier.
+- Au niveau 7, s'il apprend le sort "Projectiles de force de Mordenkainen", il commence à l'étudier aussi.
+- Au niveau 9, il brise la limite du sort Projectile magique : +1 missile tous les trois niveaux suivants jusqu'au 8ème missile, +1 missile tous les 4 niveaux ensuite.
+- Au niveau 11, son bouclier évolue et peut bloquer les projectiles magiques venus de baguettes, pièges, capacités spéciales, etc....
+- Au niveau 14, il améliore le sort "Projectiles de force de Mordenkainen" pour qu'il  ne soit plus arrêté par le sort Bouclier et qu'il impose -2 au jet de sauvegarde contre l'explosion.
+- Au niveau 15, son sort Projectile magique pénètre plus facilement les résistances magiques : chaque projectile à 5% de chance de percer la résistance a la magie de la cible.
+- Au niveau 18, son bouclier renvoi tous les projectiles magiques dont il est la cible.
+- Au niveau 20, il améliore encore le sort "Projectiles de force de Mordenkainen" : la zone d'impact de l'explosion est augmentée de 15%, et si le jet de sauvegarde est raté, les cibles impactées restent sonnées pendant 1D2 rounds.
+- Au niveau 25, il brise la limite du sort Projectiles de force de Mordenkainen : +1 missile tous les 4 niveaux suivants jusqu'au 11ème missile.
+
+Inconvénient : 
+- Il a les mêmes restrictions qu'un invocateur : écoles de la divination et de la conjuration interdites.
+- Il n'a pas la faculté de mémorisation améliorée normalement accordée à un mage spécialisé.
+- Il n'utilise pas de parchemin ou baguette de Projectile magique. Ce serait du gâchis, il n'a aucun contrôle sur ces sorts préenregistrés.~
+
+@93 = ~Projectile magique (amélioré)~
+@94 = ~Projectile magique (amélioré) (Évocation) 
+Niveau : 1
+Portée : champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet de créer des projectiles d'énergie magique qui fusent du bout des doigts du magicien et frappent à coup sûr leur cible, qui doit être une créature. Ces projectiles peuvent être composés de feu, froid, électricité, acide ou force, au choix du lanceur. Contre les créatures, chaque projectile inflige 1d4+1 points de dégâts de l'élément choisi.
+Le magicien peut créer d'autres projectiles après le premier en gagnant en expérience, suivant l'évolution suivante :
+niveau 3 à 9 : un projectile supplémentaire par tranche de deux niveaux d'expérience
+niveau 12 à 18 : un projectile supplémentaire par tranche de trois niveaux d'expérience
+niveau 22 à 30 : un projectile supplémentaire par tranche de quatre niveaux d'expérience
+jusqu'à un maximum de 11 projectiles au niveau 30.
+Au niveau 15, ce sort pénètre plus facilement la résistance à la magie des cibles : chaque projectile à 5% de chance de percer la résistance à la magie de la cible.~
+
+@95 = ~Projectiles de force de Mordenkainen~
+@96 = ~Projectiles de force de Mordenkainen (Évocation)
+Niveau : 4
+Portée : champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon d'1,5 mètres
+Jet de sauvegarde : spécial
+
+Ce sort fait apparaître un petit globe d'énergie magique filant de la main tendue du mage pour aller frapper à coup sûr la cible désignée. Le personnage crée un projectile au niveau 7, plus un autre tous les trois niveaux supplémentaires (deux au niveau 10, trois au niveau 13, quatre au niveau 16, et ainsi de suite jusqu'à un maximum de sept au niveau 25). Chaque projectile cause 2d4 points de dégâts puis explose, la détonation infligeant 1 point de dégâts par niveau du magicien dans un rayon de 1,50 mètre. Par exemple, un mage de niveau 12 fait apparaître deux projectiles de force, infligeant chacun 2d4+12 points de dégâts. Les créatures touchées ont droit à un jet de sauvegarde contre les sorts pour éviter les dégâts de l'explosion (elles subissent automatiquement les 2d4 points dus au projectile lui-même). Le sort Bouclier protège totalement contre les projectiles.~
+
+@97 = ~Projectiles de force de Mordenkainen (amélioré)~
+@98 = ~Projectiles de force de Mordenkainen (amélioré) (Évocation)
+Niveau : 4
+Portée : champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon d'1,5 mètres
+Jet de sauvegarde : spécial
+
+Ce sort fait apparaître un petit globe d'énergie magique filant de la main tendue du mage pour aller frapper à coup sûr la cible désignée. Il inflige 2d4 points de dégâts puis explose, la détonation infligeant 1 point de dégâts par niveau du magicien (maximum 30 points de dégâts) dans un rayon de 1,50 mètre. A partir du niveau 20 de lanceur de sort l'explosion peut même étourdir les cibles pour 1D2 rounds. Les créatures touchées ont droit à un jet de sauvegarde contre les sorts à -2 pour éviter les dégâts de l'explosion, mais la cible originale ne peut pas éviter les 2d4 points du projectile lui-même.
+Le magicien peut créer d'autres projectiles en gagnant en expérience, suivant l'évolution suivante :
+niveau 10 à 25 : un projectile supplémentaire par tranche de trois niveaux d'expérience
+niveau 29 à 41 : un projectile supplémentaire par tranche de quatre niveaux d'expérience
+jusqu'à un maximum de 11 projectiles au niveau 41.
+Le sort Bouclier ne protège pas contre ce sort.~

@@ -1,0 +1,425 @@
+@731 = ~Arme fantomatique~
+@732 = ~Arme fantomatique (Évocation)
+Niveau : 3
+Portée : 0
+Durée : 3 rounds / 2 niveaux
+Temps d'incantation : 3
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui est à cours d'armes peut en créer une avec le sort Arme fantomatique. Ce sort génère dans la main du mage une portion d'éther qui prend la forme d'une arme qu'il maîtrise. Après quoi l'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Une telle arme voit sa plage de dégâts doublée (une épée longue fantomatique inflige donc 2D8 point de dégâts par coup) et a une meilleure pénétration, pour un bonus de +2 au taco. L'arme fantomatique inflige également 6 points de dégâts supplémentaires aux morts-vivant qui lui sont particulièrement vulnérables.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@73291 = ~Épée fantomatique~
+@73292 = ~Katana fantomatique~
+@73293 = ~Hache fantomatique~
+@73294 = ~Marteau fantomatique~
+@73295 = ~Fléau fantomatique~
+@73296 = ~Hallebarde fantomatique~
+@73297 = ~Arme fantomatique (Évocation)
+Niveau : 3
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui est à cours d'armes peut en créer une avec le sort Arme fantomatique. Ce sort génère dans la main du mage une portion d'éther qui prend la forme d'une arme qu'il maîtrise. Après quoi l'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Une telle arme voit sa plage de dégâts doublée (une épée longue fantomatique inflige donc 2D8 point de dégâts par coup) et a une meilleuer pénétration, pour un bonus de +2 au taco. L'arme fantomatique inflige également 6 points de dégâts supplémentaires aux morts-vivant qui lui sont particulièrement vulnérables.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@73298 = ~Arme fantomatique (Évocation)
+Niveau : 3
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui à besoin d'une arme peut en créer une avec le sort Arme fantomatique. Ce sort génère dans la main de la cible une portion d'éther qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. Il ne peut choisir qu'une arme qu'il maîtrise. Après quoi l'arme ne peut plus quitter la main du bénéficiaire pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Une telle arme voit sa plage de dégâts doublée (une épée longue fantomatique inflige donc 2D8 point de dégâts par coup) et a une meilleure pénétration, pour un bonus de +2 au taco. L'arme fantomatique inflige également 6 points de dégâts supplémentaires aux morts-vivant qui lui sont particulièrement vulnérables
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si la cible est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper le bouclier de la cible d'abord.~
+@732981 = ~Arme fantomatique (Évocation)
+Niveau : 3
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui à besoin d'une arme peut en créer une avec le sort Arme fantomatique. Ce sort génère dans la main de la cible une portion d'éther qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. Il ne peut choisir qu'une arme qu'il maîtrise. Après quoi l'arme ne peut plus quitter la main du bénéficiaire pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Une telle arme voit sa plage de dégâts doublée (une épée longue fantomatique inflige donc 2D8 point de dégâts par coup) et a une meilleure pénétration, pour un bonus de +2 au taco. L'arme fantomatique inflige également 6 points de dégâts supplémentaires aux morts-vivant qui lui sont particulièrement vulnérables.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : dans leurs mains se crée la même arme, mais pour une durée de 2 tours seulement.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si l'une des cibles affectées est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper les boucliers des cibles d'abord.~
+
+@733 = ~Armure de la crainte~
+@734 = ~Armure de la crainte (Illusion, enchantement)
+Niveau : 3
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts du sort
+Jet de sauvegarde : spécial
+
+Le sort entoure le lanceur d'un nuage d'étincelles noires crépitantes, faite de cauchemars et de tourments. Cette armure sombre génère la peur en créant des fantasmes basés sur les phobies des agresseurs du seigneur de guerre. Ainsi, tout adversaire qui frappe le magicien protégé par l'armure de la crainte se trouve confronté à ses angoisses les plus profondes et doit réussir un jet de sauvegarde contre les sorts ou abandonner le combat et s'enfuir pendant 1D4 rounds, terrorisé. La puissance de l'armure augmente avec le niveau du magicien, et chaque tranche de 3 niveaux d'expérience au-delà du niveau 5 rajoute un malus de -1 au jet de sauvegarde et rallonge de 1 round la durée de l'illusion générée.~
+@7341 = ~Armure de la crainte (Illusion, enchantement)
+Niveau : 3
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts du sort
+Jet de sauvegarde : spécial
+
+Le sort entoure le lanceur d'un nuage d'étincelles noires crépitantes, faite de cauchemars et de tourments. Cette armure sombre génère la peur en créant des fantasmes basés sur les phobies des agresseurs du seigneur de guerre. Ainsi, tout adversaire qui frappe le magicien protégé par l'armure de la crainte se trouve confronté à ses angoisses les plus profondes et doit réussir un jet de sauvegarde contre les sorts à -5 ou abandonner le combat et s'enfuir pendant 1D4+5 rounds, terrorisé.~
+@7342 = ~Armure de la crainte (Illusion, enchantement)
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Le sort entoure le bénéficiaire d'un nuage d'étincelles noires crépitantes, faite de cauchemars et de tourments. Cette armure sombre génère la peur en créant des fantasmes basés sur les phobies des agresseurs du porteur. Ainsi, tout adversaire qui frappe le bénéficiaire protégé par l'armure de la crainte se trouve confronté à ses angoisses les plus profondes et doit réussir un jet de sauvegarde contre les sorts à -5 ou abandonner le combat et s'enfuir pendant 1D4+5 rounds, terrorisé.~
+@73421 = ~Armure de la crainte (Illusion, enchantement)
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Le sort entoure le bénéficiaire d'un nuage d'étincelles noires crépitantes, faite de cauchemars et de tourments. Cette armure sombre génère la peur en créant des fantasmes basés sur les phobies des agresseurs du porteur. Ainsi, tout adversaire qui frappe le bénéficiaire protégé par l'armure de la crainte se trouve confronté à ses angoisses les plus profondes et doit réussir un jet de sauvegarde contre les sorts à -5 ou abandonner le combat et s'enfuir pendant 1D4+5 rounds, terrorisé.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils sont couverts pendant 15 rounds d'une armure qui impose un malus de -3 et fait s'enfuir les ennemis pour 1D4+3 rounds.~
+
+@735 = ~Caméléon~
+@736 = ~Caméléon (Illusion) 
+Niveau : 3
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En cherchant l'invisibilité, le seigneur de guerre est tombé sur un résultat mitigé mais utile tout de même, ce sort.
+Caméléon rend le seigneur de guerre presque invisible. En fait, il n'est pas vraiment invisible mais se fond dans le décor en devenant transparent. Il bénéficie alors d'un bonus de camouflage de +1 à la CA et +1 aux jets de sauvegarde.
+Tant qu'il bouge il peut être repéré. Mais s'il s'immobilise et garde la pose pendant un round, il devient alors véritablement invisible. Il perd cet avantage s'il lance un sort ou commence une action offensive, mais tout nouveau round d'immobilité le rendrait à nouveau invisible. Il peut répéter l’opération autant de fois qu’il le désire tant que dure le sort.~
+@7361 = ~Caméléon (Illusion) 
+Niveau : 3
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En cherchant l'invisibilité, le seigneur de guerre est tombé sur un résultat mitigé mais utile tout de même, ce sort.
+Caméléon rend le seigneur de guerre presque invisible. En fait, il n'est pas vraiment invisible mais se fond dans le décor en devenant transparent. Il bénéficie alors d'un bonus de camouflage de +1 à la CA et +1 aux jets de sauvegarde.
+Tant qu'il bouge il peut être repéré. Mais s'il s'immobilise et garde la pose pendant un round, il devient alors véritablement invisible. Il perd cet avantage s'il lance un sort ou commence une action offensive, mais tout nouveau round d'immobilité le rendrait à nouveau invisible. Il peut répéter l’opération autant de fois qu’il le désire tant que dure le sort.~
+@7362 = ~Caméléon (Illusion) 
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+En cherchant l'invisibilité, le seigneur de guerre est tombé sur un résultat mitigé mais utile tout de même, ce sort.
+Caméléon rend la cible presque invisible. En fait, elle n'est pas vraiment invisible mais se fond dans le décor en devenant transparent. Elle bénéficie alors d'un bonus de camouflage de +1 à la CA et +1 aux jets de sauvegarde.
+Tant que le bénéficiaire bouge il peut être repéré. Mais s'il s'immobilise et garde la pose pendant un round, il devient alors véritablement invisible. Il perd cet avantage s'il lance un sort ou commence une action offensive, mais tout nouveau round d'immobilité le rendrait à nouveau invisible. Il peut répéter l’opération autant de fois qu’il le désire tant que dure le sort.~
+@73621 = ~Caméléon (Illusion) 
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+En cherchant l'invisibilité, le seigneur de guerre est tombé sur un résultat mitigé mais utile tout de même, ce sort.
+Caméléon rend la cible presque invisible. En fait, elle n'est pas vraiment invisible mais se fond dans le décor en devenant transparent. Elle bénéficie alors d'un bonus de camouflage de +1 à la CA et +1 aux jets de sauvegarde.
+Tant que le bénéficiaire bouge il peut être repéré. Mais s'il s'immobilise et garde la pose pendant un round, il devient alors véritablement invisible. Il perd cet avantage s'il lance un sort ou commence une action offensive, mais tout nouveau round d'immobilité le rendrait à nouveau invisible. Il peut répéter l’opération autant de fois qu’il le désire tant que dure le sort.
+
+Tous les alliés situés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils bénéficient d'un Transparence moins prononcée qui offre +1 à la CA, et peuvent devenir invisibles en restant immobiles un round, ceci pour 15 rounds.~
+
+@737 = ~Célérité~
+@738 = ~Célérité (Altération) 
+Niveau : 3
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort accélère le seigneur de guerre. Il voit son déplacement augmenté de 75%, gagne +2 à l'initiative, +1 à sa vitesse d'incantation et à la classe d'armure, et peut effectuer une attaque supplémentaire par round. La célérité ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur~
+@7389 = ~Vous êtes déjà accéléré~ ~Vous êtes déjà accélérée~
+@7381 = ~Célérité (Altération) 
+Niveau : 3
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort accélère le seigneur de guerre. Il voit son déplacement augmenté de 75%, gagne +2 à l'initiative, +1 à sa vitesse d'incantation et à la classe d'armure, et peut effectuer une attaque supplémentaire par round. La célérité ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur~
+@7382 = ~Célérité (Altération) 
+Niveau : 3
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort accélère la cible. Elle voit son déplacement augmenté de 75%, gagne +2 à l'initiative, +1 à sa vitesse d'incantation et à la classe d'armure, et peut effectuer une attaque supplémentaire par round. La célérité ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.~
+@73821 = ~Célérité (Altération) 
+Niveau : 3
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort accélère la cible. Elle voit son déplacement augmenté de 75%, gagne +2 à l'initiative, +1 à sa vitesse d'incantation et à la classe d'armure, et peut effectuer une attaque supplémentaire par round. La célérité ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : +50 % au déplacement, +1 à l'initiative, 1 attaque supplémentaire par round, pendant 17 rounds.~
+
+@739 = ~Cercle de givre~
+@7310 = ~Cercle de givre (Altération)
+Niveau : 3
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 3
+Zone d'effet : 5 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort refroidit brusquement l'air autour du seigneur de guerre et agglomère les cristaux de glace formés en une onde givrée qui s'étale à partir de lui jusqu'à une distance de 5 mètres. Toutes les créatures situées sur le trajet de l'onde sont profondément refroidies et subissent 1D4+1 points de dégâts de froid par niveau du magicien (max 10D4+10) et sont engourdies (-15% au déplacement, -1 au taco et -2 à la dextérité) pour un round par niveau (max 1 tour).
+Celles qui réussissent un jet de sauvegarde contre les sorts n'encaissent que la moitié des dégâts et évitent l'engourdissement.~
+@73101 = ~Engourdi~
+@73102 = ~Cercle de givre (Altération)
+Niveau : 3
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 2
+Zone d'effet : 5 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort refroidi brusquement l'air autour du seigneur de guerre et agglomère les cristaux de glace formés en une onde givrée qui s'étale à partir de lui jusqu'à une distance de 5 mètres. Toutes les créatures situées sur le trajet de l'onde sont profondément refroidies, subissent 10D4+10 points de dégâts de froid et sont engourdies (-15% au déplacement, -1 au taco et -2 à la dextérité) pour un tour.
+Celles qui réussissent un jet de sauvegarde contre les sorts n'encaissent que la moitié des dégâts et évitent l'engourdissement.~
+
+@7311 = ~Chaîne d'éclairs~
+@7312 = ~Chaîne d'éclairs (Évocation)
+Niveau : 3
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : ½
+
+En lançant ce sort, le seigneur de guerre crée au creux de ses mains un maelström d'électricité, qu'il relâche sous forme d'éclairs sur ses ennemis. L'éclair en touchant une première cible se divise pour frapper toutes les créatures dans les 9 mètres de rayon. Prudence est de mise en utilisant ce sort, car l'éclair ne fait pas de différence et frappe indifféremment ennemis et alliés du magicien. Toutes les victimes électrocutées subissent 1d6 points de dégâts par niveau du lanceur (10D6 maximum). Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subits.~
+@73121 = ~Chaîne d'éclairs (Évocation)
+Niveau : 3
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : ½
+
+En lançant ce sort, le seigneur de guerre crée au creux de ses mains un maelström d'électricité, qu'il relâche sous forme d'éclairs sur ses ennemis. L'éclair en touchant une première cible se divise pour frapper toutes les créatures dans les 9 mètres de rayon. Prudence est de mise en utilisant ce sort, car l'éclair ne fait pas de différence et frappe indifféremment ennemis et alliés du magicien. Toutes les victimes électrocutées subissent 10D6 points de dégâts. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subits.~
+@73122 = ~Chaîne d'éclairs (Évocation)
+Niveau : 3
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : ½
+
+En lançant ce sort, le seigneur de guerre crée au creux de ses mains un maelström d'électricité, qu'il relâche sous forme d'éclairs sur une cible. L'éclair en touchant cette dernière se divise pour frapper toutes les créatures dans les 9 mètres de rayon, le mage pouvant librement diriger l'éclair afin de ne toucher que ses ennemis. Toutes les victimes électrocutées subissent 10D6 points de dégâts. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subits.~
+
+@7313 = ~Champ de dissipation~
+@7314 = ~Champ de dissipation (Abjuration)
+Niveau : 3
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 2
+Zone d'effet : 10 mètre de rayon
+Jet de sauvegarde : aucun
+
+Ce sort reproduit l'effet de Purge de la magie, mais élargit la dissipation à 10 mètres autour du lanceur, purgeant de fait toutes les créatures dans la zone. Les chances d'une dissipation réussie restent les mêmes, avec toujours 1% minimum de réussite/échec. Chaque créature affectée est traitée indépendamment, la dissipation pouvant donc très bien réussir pour une et échouer pour une autre.~
+
+@7315 = ~Frappe fantomatique~
+@7316 = ~Frappe fantomatique (Évocation)
+Niveau : 3
+Portée : 20 mètres
+Durée : instantanée/spéciale
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+La recherche d'un coup imparable à conduit le seigneur de guerre à créer ce sort. Il fait apparaître du néant une épée faite de pure magie entropique qui frappe immanquablement la cible désignée et lui inflige 1D8 points de dégâts. De plus, l'épée en frappant génère aléatoirement l'un des effets suivants :
+- 2D8 points de dégâts
+- 4D8 points de dégâts
+- Paralysie pendant 2D4 rounds si jet contre les sorts raté, 1D3 rounds si jet réussi
+
+A partir du niveau 12, le seigneur de guerre maîtrise un peu mieux le sort et peut influencer la magie chaotique qui anime l'épée pour rajouter aux effets aléatoires d'autres plus violents ou élémentaires :
+- 6D8 points de dégâts de feu
+- 8D8 points de dégâts de froid
+- Dissipation de la magie (pas de jet de sauvegarde)
+- Transformation en pierre si jet contre la pétrification à -2 raté, sinon paralysie pendant 2D4 rounds
+- 10D8 points de dégâts d’électricité.~
+@73161 = ~Frappe fantomatique (Évocation)
+Niveau : 3
+Portée : 20 mètres
+Durée : instantanée/spéciale
+Temps d'incantation : 2
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+La recherche d'un coup imparable à conduit le seigneur de guerre à créer ce sort. Il fait apparaître du néant une épée faite de pure magie entropique qui frappe immanquablement la cible désignée et lui inflige 1D8 points de dégâts. De plus, l'épée en frappant génère aléatoirement l'un des effets suivants :
+- 2D8 points de dégâts
+- 4D8 points de dégâts
+- Paralysie pendant 2D4 rounds si jet contre les sorts raté, 1D3 rounds si jet réussi
+- 6D8 points de dégâts de feu
+- 8D8 points de dégâts de froid
+- Dissipation de la magie (pas de jet de sauvegarde)
+- Transformation en pierre si jet contre la pétrification à -2 raté, sinon paralysie pendant 2D4 rounds
+- 10D8 points de dégâts d’électricité.~
+
+@7317 = ~Résistance aux éléments~
+@7318 = ~Résistance aux éléments (Abjuration)
+Niveau : 3
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de mieux résister au feu et au froid. Lorsqu'il lance le sort, il doit choisir contre quel élément il souhaite être protégé, après quoi il gagne 4% par niveau (max 80%) de résistance contre cet élément, qu'il soit d'origine magique ou non : sorts, armes, baguettes, souffles, etc. 
+A partir du niveau 8, le seigneur de guerre peut aussi choisir d'être protégé contre l’électricité.
+A partir du niveau 11, il peut également choisir d'être protégé contre l'acide.
+Ce sort peut être lancé plusieurs fois pour cumuler la protection contre différents éléments, mais par plusieurs fois pour le même.~
+@73181 = ~Feu~
+@73182 = ~Froid~
+@73183 = ~Électricité~
+@73184 = ~Acide~
+@73185 = ~Résistance aux éléments (Abjuration)
+Niveau : 3
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de mieux résister au feu,au froid, à l’électricité ou à l'acide. Lorsqu'il lance le sort, il doit choisir contre quel élément il souhaite être protégé, après quoi il gagne 80% de résistance contre cet élément, qu'il soit d'origine magique ou non : sorts, armes, baguettes, souffles, etc.
+Ce sort peut être lancé plusieurs fois pour cumuler la protection contre différents éléments, mais par plusieurs fois pour le même.~
+@73186 = ~Résistance aux éléments (Abjuration)
+Niveau : 3
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au bénéficiaire de mieux résister au feu,au froid, à l’électricité ou à l'acide. Lorsque le seigneur de guerre lance le sort, il doit choisir contre quel élément il souhaite créer une protection, après quoi la cible gagne 80% de résistance contre cet élément, qu'il soit d'origine magique ou non : sorts, armes, baguettes, souffles, etc.
+Ce sort peut être lancé plusieurs fois pour cumuler la protection contre différents éléments, mais par plusieurs fois pour le même.~
+@731861 = ~Résistance aux éléments (Abjuration)
+Niveau : 3
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au bénéficiaire de mieux résister au feu,au froid, à l’électricité ou à l'acide. Lorsque le seigneur de guerre lance le sort, il doit choisir contre quel élément il souhaite créer une protection, après quoi la cible gagne 80% de résistance contre cet élément, qu'il soit d'origine magique ou non : sorts, armes, baguettes, souffles, etc.
+Ce sort peut être lancé plusieurs fois pour cumuler la protection contre différents éléments, mais par plusieurs fois pour le même.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : 53% de résistance à l’élément choisi par le seigneur de guerre pendant 2 tours.~
+
+@7319 = ~Intuition~
+@7320 = ~Intuition (Divination)
+Niveau : 3
+Portée : 0
+Durée : 3 rounds + 1 round/niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort aide le seigneur de guerre a pré-sentir les mauvaises choses qui pourraient lui arriver. Sous le couvert de ce sort, il gagne un bonus général de +1 à la Classe d'armure et au jet de sauvegarde contre les souffles, et il ne peut plus être atteint par une attaque sournoise.~
+@73201 = ~Intuition (Divination)
+Niveau : 3
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort aide le seigneur de guerre a pré-sentir les mauvaises choses qui pourraient lui arriver. Sous le couvert de ce sort, il gagne un bonus général de +1 à la Classe d'armure et au jet de sauvegarde contre les souffles, et il ne peut plus être atteint par une attaque sournoise.~
+@73202 = ~Intuition (Divination)
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort aide le bénéficiaire a pré-sentir les mauvaises choses qui pourraient lui arriver. Sous le couvert de ce sort, il gagne un bonus général de +1 à la Classe d'armure et au jet de sauvegarde contre les souffles, et il ne peut plus être atteint par une attaque sournoise.~
+@732021 = ~Intuition (Divination)
+Niveau : 3
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort aide le bénéficiaire a pré-sentir les mauvaises choses qui pourraient lui arriver. Sous le couvert de ce sort, il gagne un bonus général de +1 à la Classe d'armure et au jet de sauvegarde contre les souffles, et il ne peut plus être atteint par une attaque sournoise.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : il ne dure que 15 rounds.~
+
+@7321 = ~Tornade de fer~
+@7322 = ~Tornade de fer (Enchantement)
+Niveau : 3
+Portée : 0
+Durée : 10 secondes
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant à accélérer sa vitesse de frappe que le seigneur à trouvé ce sort, incomplet mais très efficace. Il accélère considérablement les manipulations du lanceur de sort pendant un court laps de temps, lui permettant de passer à 10 attaques par round pendant 10 secondes. Le sort n'accorde cependant pas son esprit avec cette accélération, ce qui rend ses mouvements brouillons et lui impose un malus de -5 au taco et 50% de chance de rater ses incantations. Seule l'expérience du magicien permet de palier à cet inconvénient, qui diminue de 1/10% pour chaque tranche de 4 niveaux du lanceur de sort après le niveau 5 (-1 au taco et 10% de chance de rater une incantation au niveau 21).~
+@73221 = ~Tornade de fer (Enchantement)
+Niveau : 3
+Portée : 0
+Durée : 10 secondes
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant à accélérer sa vitesse de frappe que le seigneur à trouvé ce sort, incomplet mais très efficace. Il accélère considérablement les manipulations du lanceur de sort pendant un court laps de temps, lui permettant de passer à 10 attaques par round pendant 10 secondes. Le sort n'accorde cependant pas son esprit avec cette accélération, ce qui rend ses mouvements brouillons et lui impose un malus de -1 au taco et 10% de chance de rater ses incantations.~
+@73222 = ~Tornade de fer (Enchantement)
+Niveau : 3
+Portée : 0
+Durée : 10 secondes
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant à accélérer sa vitesse de frappe que le seigneur à trouvé ce sort très efficace. Il accélère considérablement les manipulations du lanceur de sort pendant un court laps de temps, lui permettant de passer à 10 attaques par round pendant 10 secondes.~
+@73223 = ~Tornade de fer (Enchantement)
+Niveau : 3
+Portée : champ de vision
+Durée : 10 secondes
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+C'est en cherchant à accélérer sa vitesse de frappe que le seigneur à trouvé ce sort très efficace. Il accélère considérablement les manipulations du bénéficiaire pendant un court laps de temps, lui permettant de passer à 10 attaques par round pendant 10 secondes.~
+@732231 = ~Tornade de fer (Enchantement)
+Niveau : 3
+Portée : champ de vision
+Durée : 10 secondes
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+C'est en cherchant à accélérer sa vitesse de frappe que le seigneur à trouvé ce sort très efficace. Il accélère considérablement les manipulations du bénéficiaire pendant un court laps de temps, lui permettant de passer à 10 attaques par round pendant 10 secondes.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils passent à 8 attaques par round pour le round suivant l'incantation.~

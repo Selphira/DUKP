@@ -1,0 +1,536 @@
+@761 = ~Arme entropique~
+@762 = ~Arme entropique (Évocation)
+Niveau : 6
+Portée : 0
+Durée : 3 rounds / 2 niveaux
+Temps d'incantation : 6
+Zone d'effet : Spéciale
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître dans la main du seigneur de guerre une bulle d'entropie, qu'il modèle à la forme d'une arme qu'il maîtrise. L'arme ne peut quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme perturbe tout ce qu'elle touche. Elle déstabilise les molécules de toute armure (naturelle ou non) qu'elle frappe et offre un bonus de +2 au toucher. Elle crée un choc métabolique à l'endroit qu'elle touche et inflige 1D8+3 dégâts supplémentaires. Elle perturbe également les flux magiques, et toute créature convoquée frappée est aussitôt renvoyée (un jet de sauvegarde contre les sorts permet de résister au renvoi, fait à -3 par les démons, -6 par toutes les autres créatures). Enfin chaque coup de l'arme annule une protection magique de la victime (jet de sauvegarde à -3 pour résister), et laisse sur cette dernière un résidu d'entropie qui fait échouer automatiquement tout sort lancé dans le round suivant.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@76291 = ~Épée entropique~
+@76292 = ~Katana entropique~
+@76293 = ~Hache entropique~
+@76294 = ~Marteau entropique~
+@76295 = ~Fléau entropique~
+@76296 = ~Hallebarde entropique~
+@76297 = ~Arme entropique (Évocation)
+Niveau : 6
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : Spéciale
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître dans la main du seigneur de guerre une bulle d'entropie, qu'il modèle à la forme d'une arme qu'il maîtrise. L'arme ne peut quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme perturbe tout ce qu'elle touche. Elle déstabilise les molécules de toute armure (naturelle ou non) qu'elle frappe et offre un bonus de +2 au toucher. Elle crée un choc métabolique à l'endroit qu'elle touche et inflige 1D8+3 dégâts supplémentaires. Elle perturbe également les flux magiques, et toute créature convoquée frappée est aussitôt renvoyée (un jet de sauvegarde contre les sorts permet de résister au renvoi, fait à -3 par les démons, -6 par toutes les autres créatures). Enfin chaque coup de l'arme annule une protection magique de la victime (jet de sauvegarde à -3 pour résister), et laisse sur cette dernière un résidu d'entropie qui fait échouer automatiquement tout sort lancé dans le round suivant.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@76298 = ~Arme entropique (Évocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort génère dans la main de la cible une bulle d'entropie qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. L'arme ne peut pas quitter la main du bénéficiaire pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme perturbe tout ce qu'elle touche. Elle déstabilise les molécules de toute armure (naturelle ou non) qu'elle frappe et offre un bonus de +2 au toucher. Elle crée un choc métabolique à l'endroit qu'elle touche et inflige 1D8+3 dégâts supplémentaires. Elle perturbe également les flux magiques, et toute créature convoquée frappée est aussitôt renvoyée (un jet de sauvegarde contre les sorts permet de résister au renvoi, fait à -3 par les démons, -6 par toutes les autres créatures). Enfin chaque coup de l'arme annule une protection magique de la victime (jet de sauvegarde à -3 pour résister), et laisse sur cette dernière un résidu d'entropie qui fait échouer automatiquement tout sort lancé dans le round suivant.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si la cible est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper le bouclier de la cible d'abord.~
+@762981 = ~Arme entropique (Évocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort génère dans la main de la cible une bulle d'entropie qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. L'arme ne peut pas quitter la main du bénéficiaire pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme perturbe tout ce qu'elle touche. Elle déstabilise les molécules de toute armure (naturelle ou non) qu'elle frappe et offre un bonus de +2 au toucher. Elle crée un choc métabolique à l'endroit qu'elle touche et inflige 1D8+3 dégâts supplémentaires. Elle perturbe également les flux magiques, et toute créature convoquée frappée est aussitôt renvoyée (un jet de sauvegarde contre les sorts permet de résister au renvoi, fait à -3 par les démons, -6 par toutes les autres créatures). Enfin chaque coup de l'arme annule une protection magique de la victime (jet de sauvegarde à -3 pour résister), et laisse sur cette dernière un résidu d'entropie qui fait échouer automatiquement tout sort lancé dans le round suivant.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : dans leurs mains se crée la même arme, mais pour une durée de 2 tours seulement.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si l'une des cibles affectées est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper les boucliers des cibles d'abord.~
+
+@763 = ~Armure de vents~
+@764 = ~Armure de vents (Invocation)
+Niveau : 6
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : spécial
+
+Les diverses tentatives du seigneur de guerre pour contrôler le climat ont donné différents résultats, et c'est en améliorant l'un des plus exceptionnels qu'il est arrivé à ce résultat :
+lorsque ce sort est lancé, tous les alizés de la zone proche s'enroulent autour du lanceur de sorts et se mettent à tourbillonner, formant une véritable armure de vents. Tant qu'il est protégé par cette armure il est protégé des coups de vents, souffle tous les nuages et toutes les flammes (+75% de résistance au feu), dévie tous les missiles (+10 à la CA) et perturbes les autres attaques (+2 à la CA). De plus, toute créature l'approchant doit réussir un jet de sauvegarde contre les souffles ou être violemment repoussée sur 10 mètres en arrière.
+Ce sort ne peut être utilisé qu'en extérieur.~
+@7641 = ~Armure de vents (Invocation)
+Niveau : 6
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : spécial
+
+Les diverses tentatives du seigneur de guerre pour contrôler le climat ont donné différents résultats, et c'est en améliorant l'un des plus exceptionnels qu'il est arrivé à ce résultat :
+lorsque ce sort est lancé, tous les alizés de la zone proche s'enroulent autour du lanceur de sorts et se mettent à tourbillonner, formant une véritable armure de vents. Tant qu'il est protégé par cette armure il est protégé des coups de vents, souffle tous les nuages et toutes les flammes (+75% de résistance au feu), dévie tous les missiles (+10 à la CA) et perturbes les autres attaques (+2 à la CA). De plus, toute créature l'approchant doit réussir un jet de sauvegarde contre les souffles ou être violemment repoussée sur 10 mètres en arrière.
+Ce sort ne peut être utilisé qu'en extérieur.~
+@7642 = ~Armure de vents (Invocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Les diverses tentatives du seigneur de guerre pour contrôler le climat ont donné différents résultats, et c'est en améliorant l'un des plus exceptionnels qu'il est arrivé à ce résultat :
+lorsque ce sort est lancé, tous les alizés de la zone proche s'enroulent autour de la cible et se mettent à tourbillonner, formant une véritable armure de vents. Tant qu'elle est protégé par cette armure elle est protégé des coups de vents, souffle tous les nuages et toutes les flammes (+75% de résistance au feu), dévie tous les missiles (+10 à la CA) et perturbes les autres attaques (+2 à la CA). De plus, toute créature l'approchant doit réussir un jet de sauvegarde contre les souffles ou être violemment repoussée sur 10 mètres en arrière.
+Ce sort ne peut être utilisé qu'en extérieur.~
+@76421 = ~Armure de vents (Invocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Les diverses tentatives du seigneur de guerre pour contrôler le climat ont donné différents résultats, et c'est en améliorant l'un des plus exceptionnels qu'il est arrivé à ce résultat :
+lorsque ce sort est lancé, tous les alizés de la zone proche s'enroulent autour de la cible et se mettent à tourbillonner, formant une véritable armure de vents. Tant qu'elle est protégé par cette armure elle est protégé des coups de vents, souffle tous les nuages et toutes les flammes (+75% de résistance au feu), dévie tous les missiles (+10 à la CA) et perturbes les autres attaques (+2 à la CA). De plus, toute créature l'approchant doit réussir un jet de sauvegarde contre les souffles ou être violemment repoussée sur 10 mètres en arrière.
+Ce sort ne peut être utilisé qu'en extérieur.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils sont entourés d'un tourbillon moins puissant qui donne 50% de résistance au feu, +7 à la CA contre les projectiles et +1 à la CA générale pendant 17 rounds.~
+
+@765 = ~Bouclier entropique~
+@766 = ~Bouclier entropique (Évocation)
+Niveau : 6
+Portée : 0 
+Durée : 3 rounds + 1 round / 2 niveaux
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Un champ de force répulsif se forme autour du seigneur de guerre. Tant que le sort est actif, toutes les attaques qu'il devrait recevoir sont amorties par le bouclier, voire annulées si elles sont trop faibles ou trop lentes pour le pénétrer. Le magicien gagne un bonus à la CA de +2, +1 par tranche de 3 niveaux (max +9 au niveau 21), ainsi qu'une résistance aux dégâts égale à 2% par point de CA amélioré. A partir du niveau 18, le bouclier est si puissant qu'il arrête tout les petits projectiles (il n'arrête pas les haches et lances bien lancées) non-magiques.~
+@7661 = ~Bouclier entropique (Évocation)
+Niveau : 6
+Portée : 0 
+Durée : 13 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Un champ de force répulsif se forme autour du seigneur de guerre. Tant que le sort est actif, toutes les attaques qu'il devrait recevoir sont amorties par le bouclier, voire annulées si elles sont trop faibles ou trop lentes pour le pénétrer. Le magicien gagne un bonus à la CA de +9, ainsi que 18% de résistance aux dégâts. Le bouclier arrête aussi tout les petits projectiles (il n'arrête pas les haches et lances bien lancées) non-magiques.~
+@7662 = ~Bouclier entropique (Évocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 13 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Un champ de force répulsif se forme autour de la cible. Tant que le sort est actif, toutes les attaques qu’elle devrait recevoir sont amorties par le bouclier, voire annulées si elles sont trop faibles ou trop lentes pour le pénétrer. Le bénéficiaire gagne un bonus à la CA de +9, ainsi que 18% de résistance aux dégâts. Le bouclier arrête aussi tout les petits projectiles (il n'arrête pas les haches et lances bien lancées) non-magiques.~
+@76621 = ~Bouclier entropique (Évocation)
+Niveau : 6
+Portée : champ de vision
+Durée : 13 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Un champ de force répulsif se forme autour de la cible. Tant que le sort est actif, toutes les attaques qu’elle devrait recevoir sont amorties par le bouclier, voire annulées si elles sont trop faibles ou trop lentes pour le pénétrer. Le bénéficiaire gagne un bonus à la CA de +9, ainsi que 18% de résistance aux dégâts. Le bouclier arrête aussi tout les petits projectiles (il n'arrête pas les haches et lances bien lancées) non-magiques.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils gagnent un bonus de +6 à la CA et 12% de résistance aux dégâts pendant 9 rounds.~
+
+@767 = ~Brume toxique~
+@768 = ~Brume toxique (Évocation)
+Niveau : 6
+Portée : 10 mètres
+Durée : 9 rounds
+Temps d'incantation : 6
+Zone d'effet : rayon de 9 mètres 
+Jet de sauvegarde : aucun
+
+Le sort crée dans les mains du magicien une bulle concentrée d'acide qu'il peut lancer à l'endroit voulu pour qu'elle explose en dégageant une vapeur acre qui envahi toute la zone. La vapeur prend rapidement de la consistance jusqu'à être une véritable purée de pois qui limite le champ de vision et le déplacement des créatures dans la zone (-3 au taco, -30% au déplacement). Elle est si toxique que chaque round elle inflige 3D6 point de dégât d'acide et oblige les créatures qui l’inhalent à tenter un jet de sauvegarde contre le poison pour ne pas être intoxiquées. Une créature intoxiquée perd 2 points de force et de dextérité pour un round et doit réussir un autre jet de sauvegarde ou être empoisonnée plus gravement : 2 points de dégât par seconde pendant le round en court, 1 point de dégât par seconde le round suivant.~
+@7681 = ~Brume toxique (Évocation)
+Niveau : 6
+Portée : 10 mètres
+Durée : 9 rounds
+Temps d'incantation : 3
+Zone d'effet : rayon de 9 mètres 
+Jet de sauvegarde : aucun
+
+Le sort crée dans les mains du magicien une bulle concentrée d'acide qu'il peut lancer à l'endroit voulu pour qu'elle explose en dégageant une vapeur acre qui envahi toute la zone. La vapeur prend rapidement de la consistance jusqu'à être une véritable purée de pois qui limite le champ de vision et le déplacement des créatures dans la zone (-3 au taco, -30% au déplacement). Elle est si toxique que chaque round elle inflige 3D6 point de dégât d'acide et oblige les créatures qui l’inhalent à tenter un jet de sauvegarde contre le poison pour ne pas être intoxiquées. Une créature intoxiquée perd 2 points de force et de dextérité pour un round et doit réussir un autre jet de sauvegarde ou être empoisonnée plus gravement : 2 points de dégât par seconde pendant le round en court, 1 point de dégât par seconde le round suivant.~
+
+@769 = ~Copie solide~
+@7610 = ~Copie solide (Illusion) 
+Niveau : 6
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée une copie illusoire du magicien. Cette réplique agit exactement de la même façon que lui, et peut être confondue avec lui, le sort créant une légère distorsion de l'espace permettant la confusion. En résultat de quoi, chaque fois que le mage est attaqué, il y a 50% de chance que le coup frappe l’image à sa place, lui épargnant l'impact.
+Ce qui diffère avec le sort de niveau 2 "Copies illusoires", c'est que la copie créée par ce sort ne disparaît pas lorsqu'elle est touchée. Seule une dissipation, une divination magique ou l'expiration du sort peuvent faire disparaître l'image.
+L'expérience aidant, le mage peut créer 1D2 copies au niveau 17 et 1D2+1 copies au niveau 22.
+Ce sort ne peut pas être maintenu en même temps que son modèle de niveau 2.~
+@76101 = ~Copie solide (Illusion) 
+Niveau : 6
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée deux ou trois copies illusoires du magicien. Ces répliques agissent exactement de la même façon que lui, et peuvent être confondues avec lui, le sort créant une légère distorsion de l'espace permettant la confusion. En résultat de quoi, chaque fois que le mage est attaqué, il y a 66% de chance (deux copies) ou 75% de chance (trois copies) que le coup frappe une image à sa place, lui épargnant l'impact.
+Ce qui diffère avec le sort de niveau 2 "Copies illusoires", c'est que les copies créées par ce sort ne disparaissent pas lorsqu'elles sont touchées. Seule une dissipation, une divination magique ou l'expiration du sort peuvent faire disparaître les images.
+Ce sort ne peut pas être maintenu en même temps que son modèle de niveau 2.~
+@76102 = ~Copie solide (Illusion) 
+Niveau : 6
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée deux ou trois copies illusoires du magicien. Ces répliques agissent exactement de la même façon que lui, et peuvent être confondues avec lui, le sort créant une légère distorsion de l'espace permettant la confusion. En résultat de quoi, chaque fois que le mage est attaqué, il y a 66% de chance (deux copies) ou 75% de chance (trois copies) que le coup frappe une image à sa place, lui épargnant l'impact.
+Ce qui diffère avec le sort de niveau 2 "Copies illusoires", c'est que les copies créées par ce sort ne disparaissent pas lorsqu'elles sont touchées. Seule une dissipation, une divination magique ou l'expiration du sort peuvent faire disparaître les images.
+L'expérience du mage lui permet de crée une copie supplémentaire au niveau 22.
+Ce sort ne peut pas être maintenu en même temps que son modèle de niveau 2.~
+@761021 = ~Copie solide (Illusion) 
+Niveau : 6
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée deux ou trois copies illusoires du magicien. Ces répliques agissent exactement de la même façon que lui, et peuvent être confondues avec lui, le sort créant une légère distorsion de l'espace permettant la confusion. En résultat de quoi, chaque fois que le mage est attaqué, il y a 66% de chance (deux copies) ou 75% de chance (trois copies) que le coup frappe une image à sa place, lui épargnant l'impact.
+Ce qui diffère avec le sort de niveau 2 "Copies illusoires", c'est que les copies crées par ce sort ne disparaissent pas lorsqu'elles sont touchées. Seule une dissipation, une divination magique ou l'expiration du sort peuvent faire disparaître les images.
+L'expérience du mage lui permet de crée une copie supplémentaire au niveau 22.
+Ce sort ne peut pas être maintenu en même temps que son modèle de niveau 2.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont protégés par une réplique pendant 13 rounds.~
+
+@7611 = ~Force de géant~
+@7612 = ~Force de géant (Altération)
+Niveau : 6
+Portée : 0 
+Durée : 5 round + 1 round / niveau
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort augmente considérablement la puissance physique du seigneur de guerre, jusqu'à lui donner la force d'un géant. La force obtenue grâce au sort est déterminée par le jet d'un dé, modifié par le niveau du lanceur de sort, suivent le schéma suivant :
+
+niveau 12 à 14 : 1D4
+niveau 15 à 17 : 1D6
+niveau 18 et + : 1D4+2
+
+Le résultat sur le dé détermine la force donnée au magicien :
+1 : force de 19 (géant des collines)
+2 : force de 20 (géant des pierres)
+3 : force de 21 (géant du froid)
+4 : force de 22 (géant du feu)
+5 : force de 23 (géant des nuages)
+6 : force de 24 (géant des tempêtes)~
+@76121 = ~Force de géant (Altération)
+Niveau : 6
+Portée : 0 
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort augmente considérablement la puissance physique du seigneur de guerre, jusqu'à lui donner la force d'un géant. La force obtenue grâce au sort est déterminée par le jet d'un D4, avec le résultat suivant :
+1 : force de 21 (géant du froid)
+2 : force de 22 (géant du feu)
+3 : force de 23 (géant des nuages)
+4 : force de 24 (géant des tempêtes)~
+@76122 = ~Force de géant (Altération)
+Niveau : 6
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort augmente considérablement la puissance physique de la cible, jusqu'à lui donner la force d'un géant. La force obtenue grâce au sort est déterminée par le jet d'un D4, avec le résultat suivant :
+1 : force de 21 (géant du froid)
+2 : force de 22 (géant du feu)
+3 : force de 23 (géant des nuages)
+4 : force de 24 (géant des tempêtes)~
+@761221 = ~Force de géant (Altération)
+Niveau : 6
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort augmente considérablement la puissance physique de la cible, jusqu'à lui donner la force d'un géant. La force obtenue grâce au sort est déterminée par le jet d'un D4+2, avec le résultat suivant :
+1 : force de 19 (géant des collines)
+2 : force de 20 (géant des pierres)
+3 : force de 21 (géant du froid)
+4 : force de 22 (géant du feu)
+5 : force de 23 (géant des nuages)
+6 : force de 24 (géant des tempêtes)
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils reçoivent un bonus de force déterminé par un D4 pendant 17 rounds.~
+
+@7613 = ~Décharge statique~
+@7614 = ~Décharge statique (Évocation)
+Niveau : 6
+Portée : 30 mètres
+Durée : Instantanée
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Basé sur le sort "Choc statique", ce sort en est une amélioration qui permet de regrouper toute l'électricité statique de la zone sur une seule créature. En résulte un éclair fulgurant qui vient frapper cette dernière en lui infligeant 1D6 point de dégâts par niveau du lanceur (max 20D6). Un jet de sauvegarde contre les sorts permet de réduire de moitié les dégâts subits.~
+@76141 = ~Décharge statique (Évocation)
+Niveau : 6
+Portée : 30 mètres
+Durée : Instantanée
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Basé sur le sort "Choc statique", ce sort en est une amélioration qui permet de regrouper toute l'électricité statique de la zone sur une seule créature. En résulte un éclair fulgurant qui vient frapper cette dernière en lui infligeant 20D6 point de dégâts. Un jet de sauvegarde contre les sorts permet de réduire de moitié les dégâts subits.~
+
+@7615 = ~Frappe spectrale~
+@7616 = ~Frappe spectrale (Évocation)
+Niveau : 6
+Portée : 15 mètres
+Durée : Instantanée/spéciale
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Comme "Frappe fantomatique", ce sort fait apparaître du néant une épée de pure magie qui frappe immanquablement la cible désignée. Mais la comparaison s'arrête là. Le coup porté par la frappe spectrale est beaucoup plus technique et les effets plus dévastateurs.
+La victime subit un premier coup initial qui inflige 3D8 points de dégâts. Puis elle subit un des effets aléatoires suivants :
+- 3D8 points de dégâts magiques
+- 5D8 points de dégâts de feu, 35% de chance de dégâts majeurs et embrasement en cas de jet de sauvegarde contre les sorts raté.
+- 6D8 points de dégâts de froid, 40% de chance de dégâts majeurs et glaciation en cas de jet de sauvegarde contre les sorts raté.
+- 8D8 point de dégâts d'électricité, 50% de chance de dégâts majeurs et traumatisme interne incapacitant en cas de jet de sauvegarde contre les sorts raté.
+- 8D8 point de dégâts tranchants, 50% de chance de dégâts majeurs et décapitation en cas de jet de sauvegarde contre la mort raté.
+- 10D8 point de dégâts d'acide, 60% de chance de dégâts majeurs et dissolution complète en cas de jet de sauvegarde contre la mort raté.
+
+Dans le cas de dégâts majeurs, les D8 sont comptés sous forme de D6+2. Tous les jets de sauvegarde contre ce sort sont faits à -4.~
+@76161 = ~Traumatisme~
+@76162 = ~Décapité~
+@76163 = ~Dissolu~
+@76164 = ~Frappe spectrale (Évocation)
+Niveau : 6
+Portée : 15 mètres
+Durée : Instantanée/spéciale
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Comme "Frappe fantomatique", ce sort fait apparaître du néant une épée de pure magie qui frappe immanquablement la cible désignée. Mais la comparaison s'arrête là. Le coup porté par la frappe spectrale est beaucoup plus technique et les effets plus dévastateurs.
+La victime subit un premier coup initial qui inflige 3D8 points de dégâts. Puis elle subit un des effets aléatoires suivants :
+- 3D8 points de dégâts magiques
+- 5D8 points de dégâts de feu, 35% de chance de dégâts majeurs et embrasement en cas de jet de sauvegarde contre les sorts raté.
+- 6D8 points de dégâts de froid, 40% de chance de dégâts majeurs et glaciation en cas de jet de sauvegarde contre les sorts raté.
+- 8D8 point de dégâts d'électricité, 50% de chance de dégâts majeurs et traumatisme interne incapacitant en cas de jet de sauvegarde contre les sorts raté.
+- 8D8 point de dégâts tranchants, 50% de chance de dégâts majeurs et décapitation en cas de jet de sauvegarde contre la mort raté.
+- 10D8 point de dégâts d'acide, 60% de chance de dégâts majeurs et dissolution complète en cas de jet de sauvegarde contre la mort raté.
+
+Dans le cas de dégâts majeurs, les D8 sont comptés sous forme de D6+2. Tous les jets de sauvegarde contre ce sort sont fait à -4.~
+
+@7617 = ~Frénésie~
+@7618 = ~Frénésie (Altération)
+Niveau : 6
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de Sauvegarde : aucun
+
+Ce sort accélère considérablement le seigneur de guerre, à tel point qu'il voit son déplacement augmenté de 150%, double son nombre d'attaques par round et en gagne une supplémentaire, et obtient des bonus de +4 à son initiative et +2 à sa vitesse d'incantation et à sa classe d'armure. La frénésie ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.~
+@76189 = ~Vous êtes déjà frénétique~
+@76181 = ~Frénésie (Altération)
+Niveau : 6
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de Sauvegarde : aucun
+
+Ce sort accélère considérablement le seigneur de guerre, à tel point qu'il voit son déplacement augmenté de 150%, double son nombre d'attaques par round et en gagne une supplémentaire, et obtient des bonus de +4 à son initiative et +2 à sa vitesse d'incantation et à sa classe d'armure. La frénésie ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.~
+@76182 = ~Frénésie (Altération)
+Niveau : 6
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de Sauvegarde : aucun
+
+Ce sort accélère considérablement la cible,à tel point qu'elle voit son déplacement augmenté de 150%, double son nombre d'attaques par round et en gagne une supplémentaire, et obtient des bonus de +4 à son initiative et +2 à sa vitesse d'incantation et à sa classe d'armure. La frénésie ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.~
+@761821 = ~Frénésie (Altération)
+Niveau : 6
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de Sauvegarde : aucun
+
+Ce sort accélère considérablement la cible,à tel point qu'elle voit son déplacement augmenté de 150%, double son nombre d'attaques par round et en gagne une supplémentaire, et obtient des bonus de +4 à son initiative et +2 à sa vitesse d'incantation et à sa classe d'armure. La frénésie ne peut se cumuler avec d'autres effets d'accélération, et n'annule pas un sort de lenteur.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leur déplacement est doublé, il gagnent 2 attaques par round, +3 à l'initiative et +1 à la vitesse d’incantation et la classe d'armure pendant 2 tours.~
+
+@7619 = ~Grêle~
+@7620 = ~Grêle (Évocation)
+Niveau : 6
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 6
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
+
+Ce sort crée de la glace au-dessus de la zone désignée, sous forme de blocs compacts grossissants, qui tombent rapidement lorsque leur poids est trop important pour la force magique qui les maintient en l'air. Les blocs s'écrasent au sol en tombant, diffusant froid et éclats gelés dans la zone. Les créatures prises sous la grêle subissent 10D8 points de dégâts contondants et 4D6 points de dégâts de froid. Un jet de sauvegarde contre les sorts permet de ne subir que la moitié des dégâts de froid, mais il est plus difficile d'éviter les blocs de glace : le jet pour réduire de moitié les dégâts contondants est fait à -4.~
+@76201 = ~Grêle (Évocation)
+Niveau : 6
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
+
+Ce sort crée de la glace au-dessus de la zone désignée, sous forme de blocs compacts grossissants, qui tombent rapidement lorsque leur poids est trop important pour la force magique qui les maintient en l'air. Les blocs s'écrasent au sol en tombant, diffusant froid et éclats gelés dans la zone. Les créatures prises sous la grêle subissent 10D8 points de dégâts contondants et 4D6 points de dégâts de froid. Un jet de sauvegarde contre les sorts permet de ne subir que la moitié des dégâts de froid, mais il est plus difficile d'éviter les blocs de glace : le jet pour réduire de moitié les dégâts contondants est fait à -4.~
+
+@7621 = ~Main du diable~
+@7622 = ~Main du diable (Nécromancie)
+Niveau : 6
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Main du diable est un sort particulièrement maléfique, qui vise à tuer une créature d'un simple contact. Pour ce faire, le sort charge la main principale du seigneur de guerre d'une énergie sombre et néfaste tirée du plan négatif.
+Une fois sa main altérée, le mage ne peut plus tenir d'arme. L'altération dure 3 rounds, pendant lesquels s'il touche une créature, l'énergie lui est transmise. La créature doit alors réussir un jet de sauvegarde contre la mort ou mourir instantanément. Si le jet est réussi, l'effet de l'énergie négative est amoindri et se résume à un niveau d'expérience perdu.
+Toute l'énergie négative est transmise à la cible lors du contact, aussi le seigneur de guerre n'a-t-il la possibilité d'effectuer qu'un seul contact.
+Le seigneur de guerre retrouve l'usage de sa main après 3 rounds passés ou un contact effectué.~
+@76221 = ~Toucher mortel~
+@76222 = ~Main du diable (Nécromancie)
+Niveau : 6
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Main du diable est un sort particulièrement maléfique, qui vise à tuer une créature d'un simple contact. Pour ce faire, le sort charge la main principale du seigneur de guerre d'une énergie sombre et néfaste tirée du plan négatif.
+Une fois sa main altérée, le mage ne peut plus tenir d'arme. L'altération dure 3 rounds, pendant lesquels s'il touche une créature, l'énergie lui est transmise. La créature doit alors réussir un jet de sauvegarde contre la mort ou mourir instantanément. Si le jet est réussi, l'effet de l'énergie négative est amoindri et se résume à un niveau d'expérience perdu.
+Toute l'énergie négative est transmise à la cible lors du contact, aussi le seigneur de guerre n'a-t-il la possibilité d'effectuer qu'un seul contact.
+Le seigneur de guerre retrouve l'usage de sa main après 3 rounds passés ou un contact effectué.~
+@76223 = ~Main du diable (Nécromancie)
+Niveau : 6
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Main du diable est un sort particulièrement maléfique, qui vise à tuer une créature d'un simple contact. Pour ce faire, le sort charge la main principale de la cible d'une énergie sombre et néfaste tirée du plan négatif.
+Une fois sa main altérée, le bénéficiaire ne peut plus tenir d'arme. L'altération dure 3 rounds, pendant lesquels s'il touche une créature, l'énergie lui est transmise. La créature doit alors réussir un jet de sauvegarde contre la mort ou mourir instantanément. Si le jet est réussi, l'effet de l'énergie négative est amoindri et se résume à un niveau d'expérience perdu.
+Toute l'énergie négative est transmise à la cible lors du contact, aussi le bénéficiaire n'a-t-il la possibilité d'effectuer qu'un seul contact.
+Le bénéficiaire retrouve l'usage de sa main après 3 rounds passés ou un contact effectué.~
+@762231 = ~Main du diable (Nécromancie)
+Niveau : 6
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Main du diable est un sort particulièrement maléfique, qui vise à tuer une créature d'un simple contact. Pour ce faire, le sort charge la main principale de la cible d'une énergie sombre et néfaste tirée du plan négatif.
+Une fois sa main altérée, le bénéficiaire ne peut plus tenir d'arme. L'altération dure 3 rounds, pendant lesquels s'il touche une créature, l'énergie lui est transmise. La créature doit alors réussir un jet de sauvegarde contre la mort ou mourir instantanément. Si le jet est réussi, l'effet de l'énergie négative est amoindri et se résume à un niveau d'expérience perdu.
+Toute l'énergie négative est transmise à la cible lors du contact, aussi le bénéficiaire n'a-t-il la possibilité d'effectuer qu'un seul contact.
+Le bénéficiaire retrouve l'usage de sa main après 3 rounds passés ou un contact effectué.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leur main se charge pendant 2 rounds d'une énergie moindre, qui n'impose pas la perte automatique d'un niveau : celle-ci est soumise à un second jet de sauvegarde (à-5).~
+
+@7623 = ~Résurgence guerrière~
+@7624 = ~Résurgence guerrière (Altération)
+Niveau : 6
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort offre au seigneur de guerre qui a besoin d'une amélioration conséquente de ses capacités guerrières une alternative simple : raviver ses anciennes capacités, comme s'il ne les avait jamais abandonnées.
+En lançant ce sort, le seigneur de guerre rattrape ses niveaux de guerrier comme s'il avait évolué librement dans cette branche. Son taco et ses jets de sauvegarde deviennent ceux d'un guerrier de son niveau actuel de mage plus deux, et il gagne 2 pvs temporaires par niveau ainsi qu'une deuxième attaque de base s'il n'en a qu'une. Il acquiert aussi une maîtrise instinctive telle qu'il aurait pu l'avoir (maximale) de toutes les armes et styles de combat qu'il a pratiqué lors de sa formation.
+Toute l'efficacité du sort résident dans l'altération des connaissances du seigneur de guerre, tant que le sort fait effet toutes les connaissances arcaniques qu'il possède sont occultées. Il ne peut plus lancer le moindre sort.~
+@76241 = ~Résurgence guerrière (Altération)
+Niveau : 6
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort offre au seigneur de guerre qui a besoin d'une amélioration conséquente de ses capacités guerrières une alternative simple : raviver ses anciennes capacités, comme s'il ne les avait jamais abandonnées.
+En lançant ce sort, le seigneur de guerre rattrape ses niveaux de guerrier comme s'il avait évolué librement dans cette branche. Son taco et ses jets de sauvegarde deviennent ceux d'un guerrier du vingtième niveau, et il gagne 40 pvs temporaires ainsi qu'une deuxième attaque de base s'il n'en a qu'une. Il acquiert aussi une maîtrise instinctive telle qu'il aurait pu l'avoir (maximale) de toutes les armes et styles de combat qu'il a pratiqué lors de sa formation.
+Toute l'efficacité du sort résident dans l'altération des connaissances du seigneur de guerre, tant que le sort fait effet toutes les connaissances arcaniques qu'il possède sont occultées. Il ne peut plus lancer le moindre sort.~
+@762411 = ~Vous ne pouvez pas user de magie sous l'effet de la résurgence guerrière~
+@76242 = ~Résurgence guerrière (Altération)
+Niveau : 6
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort offre au seigneur de guerre qui a besoin d'une amélioration conséquente de ses capacités guerrières une alternative simple : raviver ses anciennes capacités, comme s'il ne les avait jamais abandonnées.
+En lançant ce sort, le seigneur de guerre rattrape ses niveaux de guerrier comme s'il avait évolué librement dans cette branche. Son taco et ses jets de sauvegarde deviennent ceux d'un guerrier du vingtième niveau, et il gagne 40 pvs temporaires ainsi qu'une deuxième attaque de base s'il n'en a qu'une. Il acquiert aussi une maîtrise instinctive telle qu'il aurait pu l'avoir (maximale) de toutes les armes et styles de combat qu'il a pratiqué lors de sa formation.
+Toute l'efficacité du sort résident dans l'altération des connaissances du seigneur de guerre, tant que le sort fait effet toutes les connaissances arcaniques qu'il possède sont occultées. Il ne peut plus lancer le moindre sort.
+
+Ne sort ne peut être utilisé que sur un guerrier qui s'est jumelé en mage. Cela n’inclut aucune cible potentielle autre que le lanceur.~
+
+@7625 = ~Vigueur surhumaine~
+@7626 = ~Vigueur surhumaine (Abjuration, Altération, Nécromancie)
+Niveau : 6
+Portée : 0
+Durée : 2 rounds par niveau
+Temps d'incantation : 7
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort sert à protéger le seigneur de guerre contre toutes les afflictions corporelles. Lorsqu'il lance ce sort, un fluide vital bien supérieur à la normale se met à couler dans ses veines. Tant que cette force est en lui, le seigneur de guerre est immunisé au poison, à la maladie, au drain de niveaux et de caractéristiques et à la mort provoquée par la magie. Il gagne en outre un bonus de +5 au jet de sauvegarde contre le poison/la mort pour ce qui est de résister aux autres effets. Il régénère 1 point de vie par round et gagne 3 points de vie supplémentaires par niveau, qui lui sont enlevés à la fin du sort.~
+@76261 = ~Vigueur surhumaine (Abjuration, Altération, Nécromancie)
+Niveau : 6
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort sert à protéger le seigneur de guerre contre toutes les afflictions corporelles. Lorsqu'il lance ce sort, un fluide vital bien supérieur à la normale se met à couler dans ses veines. Tant que cette force est en lui, le seigneur de guerre est immunisé au poison, à la maladie, au drain de niveaux et de caractéristiques et à la mort provoquée par la magie. Il gagne en outre un bonus de +5 au jet de sauvegarde contre le poison/la mort pour ce qui est de résister aux autres effets. Il régénère 1 point de vie par round et gagne 60 points de vie supplémentaires, qui lui sont enlevés à la fin du sort.~
+@76262 = ~Vigueur surhumaine (Abjuration, Altération, Nécromancie)
+Niveau : 6
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort sert à protéger la cible contre toutes les afflictions corporelles. Lorsque le seigneur de guerre lance le sort, un fluide vital bien supérieur à la normale se met à couler dans les veines du bénéficiaire. Tant que cette force est en lui, il est immunisé au poison, à la maladie, au drain de niveaux et de caractéristiques et à la mort provoquée par la magie. Il gagne en outre un bonus de +5 au jet de sauvegarde contre le poison/la mort pour ce qui est de résister aux autres effets. Il régénère 1 point de vie par round et gagne 60 points de vie supplémentaires, qui lui sont enlevés à la fin du sort.~
+@762621 = ~Vigueur surhumaine (Abjuration, Altération, Nécromancie)
+Niveau : 6
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort sert à protéger la cible contre toutes les afflictions corporelles. Lorsque le seigneur de guerre lance le sort, un fluide vital bien supérieur à la normale se met à couler dans les veines du bénéficiaire. Tant que cette force est en lui, il est immunisé au poison, à la maladie, au drain de niveaux et de caractéristiques et à la mort provoquée par la magie. Il gagne en outre un bonus de +5 au jet de sauvegarde contre le poison/la mort pour ce qui est de résister aux autres effets. Il régénère 1 point de vie par round et gagne 60 points de vie supplémentaires, qui lui sont enlevés à la fin du sort.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils gagnent les mêmes immunités, +3 au jet de sauvegarde, +40 points de vie et une régénération de 2 points de vie tous les 3 rounds pendant 26 rounds.~

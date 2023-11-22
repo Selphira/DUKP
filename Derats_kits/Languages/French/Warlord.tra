@@ -1,0 +1,44 @@
+@71009 = ~guerrier exalté~
+@71 = ~Guerrier exalté~
+@72 = ~GUERRIER EXALTÉ : Il est, parmi les combattants, des fanatiques qui ne vivent que pour se battre, ne jurent que par la guerre et ne rêvent que de victoires. Certains plus fanatiques encore cherchent par tous les moyens à gagner en puissance pour écraser leurs adversaires.
+Un tel guerrier, s'il se découvre un potentiel magique inné, peut y voir une nouvelle source de pouvoir et décider d'apprendre à s'en servir : si tel est le cas, il gagne un nouveau statut : il devient un seigneur de guerre.
+
+Avantages :
+- Aucun particulier tant qu'il n'a pas embrassé la carrière de mage.
+- Pour se jumeler en mage, il n'a besoin que de 17 en intelligence et 12 en sagesse; ses caractéristiques physiques importent peu.
+
+Inconvénients :
+- Il ne considère que les vraies armes de guerre dignes d'être étudiées.
+- Obsédé par l'idée de gagner en puissance, il ne peut être loyal bon.
+- Considérant le combat à distance comme une tactique de lâche, il refuse d'utiliser toute arme de trait.~
+
+@7309 = ~seigneur de guerre~
+@73 = ~Seigneur de guerre~
+@74 = ~SEIGNEUR DE GUERRE : Le seigneur de guerre et un guerrier fanatique qui a vu en ses dons de magie profane un moyen unique de devenir une machine de guerre impitoyable. Continuant à s’entraîner au combat, il axe sa découverte de la magie sur "l'essentiel", tout ce qui lui permettrait de devenir plus puissant au combat ou de faire de lourds dommages dans les rangs adverses. Ignorant la magie traditionnelle il se forme son propre panel de sorts, dont toute l'utilité se démontre au combat.
+Fier combattant, il n'utilise pas de techniques de "lâche" tel que se réfugier derrière des invocations ou se battre de loin. Par contre il ne recherche pas la noblesse dans le combat, et n'a donc aucun scrupule à infliger les pires tourments à ses cibles, que ce soit la destruction mentale ou l'annihilation totale.
+
+Avantages :
+- La magie lui venant spontanément, il peut continuer à s’entraîner au combat, et ses capacités guerrières ne sont que partiellement amoindries :
+     * Il gagne un point de vie supplémentaire par niveau.
+     * Son jet de sauvegarde contre la mort augmente de 1 tous les 4 niveaux (maximum +5)
+     * Sa table de Taco est alignée sur celle d'un clerc.
+     * Il peut porter n'importe quelle armure sans que cela ne le gène pour incanter (quand il a rattrapé ses niveaux de guerrier).
+- Une recherche intérieure pendant les moments de répit lui permet de découvrir régulièrement de nouveaux sorts.
+- Ses capacités de mémorisation évoluent plus vite que celles d'un mage traditionnel.
+
+Inconvénients :
+- Utilisant des dons de magie innés, il n'entend rien à la magie arcanique, et ne peut ni utiliser ni tirer enseignement des parchemins magiques.
+- Consacrant une partie de son temps à son entraînement de combattant, il n'évolue pas pleinement dans sa fonction de magicien. (-15% d'xp)
+- Considérant le combat à distance comme une tactique de lâche, il refuse d'utiliser toute arme de trait.~
+
+@77 = ~J'ai découvert un nouveau sort~
+@7000 = ~Je sais comment me fortifier~
+@7001 = ~Je sais comment créer les éléments~
+@7002 = ~Je sais comment manipuler les esprits~
+@7003 = ~Je sais comment martyriser les corps~
+@7004 = ~Je sais comment maîtriser les forces de la nature~
+@7005 = ~Je sais comment provoquer la mort~
+@7006 = ~Vous êtes déjà sous l'effet de ce sort~
+@7007 = ~Je suis à présent un Seigneur de guerre.~
+@7008 = ~Je ne peux pas devenir Seigneur de guerre, je ne suis pas mage.~
+@7009 = ~Je ne peux pas devenir Seigneur de guerre, j'ai déjà évolué dans une autre classe.~

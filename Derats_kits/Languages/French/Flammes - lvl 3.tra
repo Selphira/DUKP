@@ -1,0 +1,144 @@
+@231 = ~Arme embrasée~
+@232 = ~Arme embrasée (Évocation)
+Niveau : 3
+Sphère : combat, élémentaire (feu)
+Portée : contact
+Durée : 3 rounds + 1 round/niveau
+Temps d'incantation : 4 
+Zone d'effet : arme touchée
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le prêcheur doit toucher une arme. Celle-ci s'embrase alors d'un feu magique qui n'affecte pas le porteur mais rajoute 2D4 dégâts de feu lorsque l'arme frappe. Le feu magique s'additionne si l'arme est déjà un arme de feu, et ne rend pas magique une arme qui ne l'est pas. Il est possible de lancer le sort sur une créature, auquel cas ce sont ses armes naturelles qui s'embrasent. Si le sort est lancé sur une arme à projectiles, le feu est répercuté sur les projectiles, mais ceux-ci ne reçoivent que 1D6 dégâts de feu additionnels.~
+@2321 = ~ Arme embrasée (Évocation)
+Niveau : 3
+Sphère : combat, élémentaire (feu)
+Portée : contact
+Durée : 3 rounds + 1 round/niveau
+Temps d'incantation : 4 
+Zone d'effet : arme touchée
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le prêcheur doit toucher une arme. Celle-ci s'embrase alors d'un feu magique qui n'affecte pas le porteur mais rajoute 2D4+1 dégâts de feu (1D8+2 au niveau 30, 2D4+2 au niveau 40) lorsque l'arme frappe. Le feu magique s'additionne si l'arme est déjà un arme de feu, et ne rend pas magique une arme qui ne l'est pas. Il est possible de lancer le sort sur une créature, auquel cas ce sont ses armes naturelles qui s'embrasent. Si le sort est lancé sur une arme à projectiles, le feu est répercuté sur les projectiles, mais ceux-ci ne reçoivent que 2D3 dégâts de feu additionnels (1D6+1 au niveau 30, 2D4 au niveau 40).~
+
+@233 = ~Bouclier de feu~
+@234 = ~Bouclier de feu (Évocation, Altération)
+Niveau : 3
+Sphère : protection, élémentaire (feu)
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce bouclier de feu protège le lanceur du feu en l'entourant de flammes. Non seulement ce bouclier lui octroie 50% de résistance au feu, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 m. Tout adversaire attaquant le lanceur avec un arme ou un sort subit 1d6+2 points de dégâts de feu.~
+@2341 = ~Bouclier de feu (Évocation, Altération)
+Niveau : 3
+Sphère : protection, élémentaire (feu)
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce bouclier de feu protège le lanceur du feu en l'entourant de flammes. Non seulement ce bouclier lui octroie 50% de résistance au feu, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 m. Tout adversaire attaquant le lanceur avec un arme ou un sort subit 1d8+2 points de dégâts de feu (2D4+2 au niveau 30 et 3D4 au niveau 40).~
+
+@236 = ~Boule de feu (Évocation) 
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½
+
+Une boule de feu est une explosion de flammes qui éclate avec un grondement sourd et engendre des dégâts proportionnels au niveau d'expérience du prêtre : 1D6 points de dégâts par niveau d'expérience du jeteur de sorts (10D6 maximum). Le prêtre pointe son doigt et annonce la distance et la hauteur à laquelle il veut faire exploser la boule de feu. Un éclair jaillit du bout de son doigt et, à moins qu'il ne soit bloqué par un corps physique ou une barrière solide avant d'atteindre sa destination, se transforme en boule de feu (un impact prématuré provoque une explosion prématurée). Les créatures qui ratent leur jet de sauvegarde subissent la totalité des dégâts. Celles qui le réussissent parviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
+@2361 = ~Boule de feu (Évocation) 
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½
+
+Une boule de feu est une explosion de flammes qui éclate avec un grondement sourd et engendre 12D6 points de dégâts (13D6 au niveau 30, 14D6 au niveau 40). Le prêtre pointe son doigt et annonce la distance et la hauteur à laquelle il veut faire exploser la boule de feu. Un éclair jaillit du bout de son doigt et, à moins qu'il ne soit bloqué par un corps physique ou une barrière solide avant d'atteindre sa destination, se transforme en boule de feu (un impact prématuré provoque une explosion prématurée). Les créatures qui ratent leur jet de sauvegarde subissent la totalité des dégâts. Celles qui le réussissent parviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
+@2362 = ~Boule de feu (Évocation) 
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½
+
+Une boule de feu est une explosion de flammes qui éclate avec un grondement sourd et engendre 10d6 points de dégâts. Le prêtre pointe son doigt et annonce la distance et la hauteur à laquelle il veut faire exploser la boule de feu. Un éclair jaillit du bout de son doigt et, à moins qu'il ne soit bloqué par un corps physique ou une barrière solide avant d'atteindre sa destination, se transforme en boule de feu (un impact prématuré provoque une explosion prématurée). Les créatures qui ratent leur jet de sauvegarde à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) subissent la totalité des dégâts. Celles qui le réussissent parviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
+
+@238 = ~Flèche enflammée (Conjuration/Convocation)
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée :  instantanée
+Temps d'incantation : 3 
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêtre de lancer des carreaux enflammés sur tout ennemi à portée de tir. Chaque carreau inflige 1D6 points de dégâts perforants, plus 4D6 points de dégâts du feu. La cible ne subit que la moitié des dégâts du feu si elle réussit un jet de sauvegarde contre les sorts. Le jeteur de sorts peut créer un carreau pour chaque tranche de cinq niveaux d'expérience (deux carreaux au 10ème niveau, trois au 15ème niveau, etc.) Tous les carreaux sont tirés en même temps sur la cible du sort.~
+@2381 = ~Flèche enflammée (Conjuration/Convocation) 
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3 
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêtre de lancer quatre carreaux enflammés sur tout ennemi à portée de tir. Chaque carreau inflige 1D6 points de dégâts perforants, plus 4D6+3 points de dégâts du feu (4D8 au niveau 30, 4D8+2 au niveau 40). La cible ne subit que la moitié des dégâts du feu si elle réussit un jet de sauvegarde contre les sorts. Tous les carreaux sont tirés en même temps sur la cible du sort.~
+@2382 = ~Flèche enflammée (Conjuration/Convocation) 
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3 
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêtre de lancer quatre carreaux enflammés sur tout ennemi à portée de tir. Chaque carreau inflige 1D6 points de dégâts perforants, plus 4D6 points de dégâts du feu. La cible ne subit que la moitié des dégâts du feu si elle réussit un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème). Tous les carreaux sont tirés en même temps sur la cible du sort.~
+
+@2310 = ~Exaltation (Abjuration) // Version IWDEE
+Niveau : 3
+Sphère : Guérison
+Portée : contact
+Durée : 1 tour
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêtre de protéger un compagnon (mais pas lui-même). D'un simple contact, le prêtre protège le sujet contre les effets de la peur, de la fatigue, de la débilité, de l'inconscience, de l'ébriété, de la confusion et de la rage sanguinaire jusqu'au terme de la durée indiquée.
+Le prêcheur des flammes n'ayant plus aucune faculté curative, il ne peut pas faire disparaître ces effets sur un sujet déjà affecté.~
+
+@2311 = ~Minuscules météores~
+@2312 = ~Minuscules météores (Évocation, Altération)
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêcheur des flammes de lancer de petites boules de feu (une par niveau d'expérience) qui explosent en une sphère de 30 cm à l'impact, infligeant 1d4+3 points de dégâts à la créature touchée. Il peut également enflammer les matériaux combustibles (même les planches). Les météores sont considérés comme des missiles, avec un bonus de +3 pour les jets d'attaque, et aucune pénalité de portée. Chaque météore inflige 3 points de dégâts du feu supplémentaire.
+Le prêcheur peut envoyer jusqu'à 4 missiles par round.~
+@23121 = ~Minuscules météores (Évocation, Altération)
+Niveau : 3
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêcheur des flammes de lancer de petites boules de feu (une par niveau d'expérience) qui explosent en une sphère de 30 cm à l'impact, infligeant 1d4+3 points de dégâts à la créature touchée. Il peut également enflammer les matériaux combustibles (même les planches). Les météores sont considérés comme des missiles, avec un bonus de +3 pour les jets d'attaque, et aucune pénalité de portée. Chaque météore inflige 1D2+2 points de dégâts de feu supplémentaire (4 points au niveau 30 et 1D2+3 points au niveau 40).
+Le prêcheur peut envoyer jusqu'à 4 missiles par round.~
+@23122 = ~Minuscule météore~
+@23123 = ~Ce météore luisant a été créé avec le sortilège Minuscules Météores.~
+@23124 = ~Ce météore luisant a été créé avec le sortilège Minuscules Météores. Il est agrémenté de feu élémentaire.~

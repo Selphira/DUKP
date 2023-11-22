@@ -1,0 +1,298 @@
+@221 = ~Explosion~
+@222 = ~Explosion (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 1
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+The spell creates an explosion from the character and wounds all creatures within a 5-meters radius. All affected creatures suffer 1d4 fire damage points per every level of the spellcaster (up to a maximum of 10d4). A saving throw vs. breath allows to halve damage.~
+@2221 = ~Explosion (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 1
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+The spell creates an explosion from the character and wounds all creatures within a 5-meters radius around him. All affected creatures suffer 12d4 fire damage points (13d4 at level 30 and 14d4 at level 40). A saving throw vs. breath allows to halve damage.~
+@2222 = ~Explosion (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 1
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+The spell creates an explosion from the character and wounds all creatures within a 5-meters radius around him. All affected creatures suffer 10d4 fire damage points. A saving throw vs. breath with a -2 bonus (additional -1 every 5 levels of the spellcaster beyond level 20) allows to halve damage.~
+
+@224 = ~Flame Blade (Evocation)
+Level: 2
+Sphere: elemental (Fire)
+Range: 0
+Duration: 4 rounds + 1 round/2 levels
+Casting Time: 3
+Area of Effect: special
+Saving Throw: none
+
+With this spell, the caster causes a blazing ray of red-hot fire to spring forth from his hand. This blade-like ray is wielded as if it were a sword that the caster already knows how to use, hence there are no bonuses or penalties. If the caster successfully hits with the flame blade, the creature struck suffers 1d8 points of fire damage, +1 every 2 levels of the caster of the spell (up to a maximum 1d8 +10). Of non-material nature, fire dwellers and those using fire as an innate attack form does not suffer it, and does not suffer from strength bonus of the caster. However, it is not a magical weapon in the normal sense of the term, so creatures struck only by magical weapons are not harmed by it.
+Flame Blade can't be enchanted by the spell "Blazing Weapon".~
+@2241 = ~Flame Blade (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: 14 rounds
+Casting Time: 3
+Area of Effect: special
+Saving Throw: none
+
+With this spell, the caster causes a blazing ray of red-hot fire to spring forth from his hand. This blade-like ray is wielded as if it were a sword that the caster already knows how to use, hence there are no bonuses or penalties. If the caster successfully hits with the flame blade, the creature struck suffers 1d8 +12 points of fire damage (1d8 +13 at level 30 and 1d8 +14 at level 40). Of non-material nature, fire dwellers and those using fire as an innate attack form does not suffer it, and does not suffer from strength bonus of the caster. However, it is not a magical weapon in the normal sense of the term, so creatures struck only by magical weapons are not harmed by it.
+Flame Blade can't be enchanted by the spell "Blazing Weapon".~
+
+@225 = ~Lower Fire Resistance~
+@226 = ~Lower Fire Resistance (Abjuration, Alteration)
+Level: 2
+Sphere: charm, elemental (fire)
+Range: visual range of the caster
+Duration: 5 rounds + 1 round/level
+Casting Time: 3
+Area of Effect: 10-meters radius square
+Saving Throw: negates
+
+When the preacher of flames casts this spell, the designated area is overrun by elemental powers. All creatures within the area must make a succesfull saving throw vs. spells or their fire resistance will be lowered by 2% for each level of the preacher (max 40%).~
+@2266 = ~Fire Resistance lowered by 6%~
+@2268 = ~Fire Resistance lowered by 8%~
+@22610 = ~Fire Resistance lowered by 10%~
+@22611 = ~Fire Resistance lowered by 11%~
+@22612 = ~Fire Resistance lowered by 12%~
+@22613 = ~Fire Resistance lowered by 13%~
+@22614 = ~Fire Resistance lowered by 14%~
+@22615 = ~Fire Resistance lowered by 15%~
+@22616 = ~Fire Resistance lowered by 16%~
+@22617 = ~Fire Resistance lowered by 17%~
+@22618 = ~Fire Resistance lowered by 18%~
+@22619 = ~Fire Resistance lowered by 19%~
+@22620 = ~Fire Resistance lowered by 20%~
+@22621 = ~Fire Resistance lowered by 21%~
+@22622 = ~Fire Resistance lowered by 22%~
+@22624 = ~Fire Resistance lowered by 24%~
+@22625 = ~Fire Resistance lowered by 25%~
+@22626 = ~Fire Resistance lowered by 26%~
+@22627 = ~Fire Resistance lowered by 27%~
+@22628 = ~Fire Resistance lowered by 28%~
+@22630 = ~Fire Resistance lowered by 30%~
+@22632 = ~Fire Resistance lowered by 32%~
+@22633 = ~Fire Resistance lowered by 33%~
+@22634 = ~Fire Resistance lowered by 34%~
+@22636 = ~Fire Resistance lowered by 36%~
+@22638 = ~Fire Resistance lowered by 38%~
+@22639 = ~Fire Resistance lowered by 39%~
+@22640 = ~Fire Resistance lowered by 40%~
+@22642 = ~Fire Resistance lowered by 42%~
+@22645 = ~Fire Resistance lowered by 45%~
+@22648 = ~Fire Resistance lowered by 48%~
+@22651 = ~Fire Resistance lowered by 51%~
+@22654 = ~Fire Resistance lowered by 54%~
+@22657 = ~Fire Resistance lowered by 57%~
+@22660 = ~Fire Resistance lowered by 60%~
+
+@227 = ~Fire Seeds~
+@2271 = ~Fire Seed~
+@2272 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells to halve damage)~
+@228 = ~Fire Seeds (Conjuration)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: 1/2
+
+Casting the fire seed spell creates 4 fire seeds that will appear in the casters inventory. The seeds will remain in existence after the spell is cast for 3 turns. During this time, if they are thrown at an enemy, a fireball will ensue causing 2-16 points of damage to all within the area of effect, allowing a save vs. spells for half damage.~
+@2281 = ~Fire Seeds (Conjuration)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: 1/2
+
+Casting the fire seed spell creates 4 fire seeds that will appear in the casters inventory. The seeds will remain in existence after the spell is cast for 3 turns. During this time, if they are thrown at an enemy, a fireball will ensue causing 2-20 points of damage (2-22 at level 30 and 2-24 at level 40) to all within the area of effect, allowing a save vs. spells for half damage.~
+@22811 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D10 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d10 (saving throw vs. spells to halve damage)~
+@22812 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D11 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d11 (saving throw vs. spells to halve damage)~
+@22813 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D12 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d12 (saving throw vs. spells to halve damage)~
+@2282 = ~Fire Seeds (Conjuration)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: 1/2
+
+Casting the fire seed spell creates 4 fire seeds that will appear in the casters inventory. The seeds will remain in existence after the spell is cast for 3 turns. During this time, if they are thrown at an enemy, a fireball will ensue causing 2-16 points of damage to all within the area of effect, allowing a save vs. spells with a -2 bomus (additional -1 every 5 levels of the caster beyond level 20) for half damage.~
+@22821 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -2 to halve damage)~
+@22822 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -3 to halve damage)~
+@22823 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -4 to halve damage)~
+@22824 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -5 to halve damage)~
+@22825 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -6 to halve damage)~
+@22826 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -7 to halve damage)~
+@22827 = ~Created by the spell Fire Seeds. Thrown against opponents, they explode forming small fireballs for 2D8 damage within 4.5 meters area of effect.
+
+STATISTICS:
+
+Damage: 2d8 (saving throw vs. spells at -8 to halve damage)~
+
+@229 = ~Boiling Rain Storm~
+@2210 = ~Boiling Rain Storm (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 20 meters
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature and 2.5 meters radius square
+Saving Throw: 1/2
+
+This spell creates a rain storm of burning embers on the target. The latter and all creatures within 2.5 meters radius square around him will suffer 1D6 fire damage points per level of caster (maximum 10D6). For each one, a successful saving throw vs. spells allows to reduce damage by half.~
+@22101 = ~Boiling Rain Storm (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 20 meters
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature and 2.5 meters radius square
+Saving Throw: 1/2
+
+This spell creates a rain storm of burning embers on the target. The latter and all creatures within 2.5 meters radius square around him will suffer 12D6 fire damage points (13D6 at level 30 and 14D6 at level 40). For each one, a successful saving throw vs. spells allows to reduce damage by half.~
+@22102 = ~Boiling Rain Storm (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 20 meters
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature and 2.5 meters radius square
+Saving Throw: 1/2
+
+This spell creates a rain storm of burning embers on the target. The latter and all creatures within 2.5 meters radius square around him will suffer 10D6 fire damage points. For each one, a successful saving throw vs. spells at -2 (additional -1 every 5 levels of the caster beyond level 20) allows to reduce damage by half.~
+
+@2211 = ~Burning Blood~
+@2212 = ~Burning Blood (Alteration)
+Level 2
+Sphere: elemental (Fire)
+Range: 30 meters
+Duration: 4 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: Negated
+
+This horrible spell boils the blood of the target creature who would try his saving throw at -2 (-1 extra for every 5 levels of the caster after the 20th). Creatures with no blood (undead, golems, elementals, etc ...) can not be affected by this spell.
+At the first round, the blood of the victim begins to warm up and the latter feels in a bad shape and feverish. Second to fourth round, his blood is gaining temperature to burn his internal organs. The effects of the spell are subdivided as follows:
+1st round: the victim suffers -1 to his saving throws until the end of the spell.
+2nd round: the victim suffers 1D4 damage points
+3rd round: the victim suffers 2D4 damage points and -1 to saving throws until the end of the spell.
+4th round: the victim suffers 4D4 damage points.~
+
+@2213 = ~Magma Ball~
+@2214 = ~Magma Ball (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates a huge chunk of molten rock that the preacher can throw as a projectile taken as a +1 magical (but it does not give any bonus to hit or damage). If he hits a creature with this ball, it explodes, covering the victim with lava. The latter suffers 1D4 crushing damage and 2D4 burning damage.
+Lava will remain warm after the impact for 1 round every 3 level of the spellcaster for a maximum of 6 rounds at level 18 (half if the target makes a successful saving throw vs. spells) and inflicts 2D4 burning damage at every round. After which it cools down, crumbles and turns into dust.~
+@22141 = ~This huge ball of molten rock has been created by the spell Magma Ball. It does not burn the hand of the wearer and will explode if it hits a creature.~
+@22142 = ~Magma Ball (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates a huge chunk of molten rock that the preacher can throw as a projectile taken as +1 magical (but it does not give any bonus to hit or damage). If he hits a creature with this ball, it explodes, covering the victim with lava. The latter suffers 1D4 crushing damage and 2D5 burning damage.
+Lava will remain warm after the impact for 6 rounds after hitting (3 rounds if the target makes a successful saving throw vs. spells) and inflicts 2D5 extra burning damage points at every round. After which it cools down, crumbles and turns into dust.
+At level 30, burning damage is 1D5 + 1D6.
+At level 40, it is 2D6.~
+@22143 = ~Magma Ball (Evocation)
+Level: 2
+Sphere: elemental (fire)
+Range: 0
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates a huge chunk of molten rock that the preacher can throw as a projectile taken as +1 magical (but it does not give any bonus to hit or damage). If he hits a creature with this ball, it explodes, covering the victim with lava. The latter suffers 1D4 crushing damage and 2D4 burning damage points.
+Lava will remain warm 6 rounds after the impact, 3 rounds if the target makes a successful saving throw vs. spells at -2 (additional -1 every 5 levels of the caster beyond level 20), and inflicts 2D4 burning damage at every round. After which it cools down, crumbles and turns into dust.~
+
+@2216 = ~Produce Fire (Transmutation)
+Level 2
+Sphere: elemental (Fire)
+Range: visual field of the launcher
+Duration: 1 round
+Casting Time: 5
+Area of Effect: radius of 2.5 meters
+Saves: none
+
+This spell creates flames causing 1d4 and an additional 1 damage point per level of the caster to all creatures in the area of effect.~
+@22161 = ~Produce Fire (Transmutation)
+Level 2
+Sphere: elemental (Fire)
+Range: visual field of the launcher
+Duration: 1 round
+Casting Time: 5
+Area of Effect: radius of 2.5 meters
+Saves: none
+
+This spell creates flames causing 1d5 + 24 damage points and an additional 1 damage point per level of the caster beyond level 20 to all creatures in the area of effect.
+At level 30 of the caster damage points inflicted are set at 1D6 + 39, and they become 1D6 + 42 at level 40.~

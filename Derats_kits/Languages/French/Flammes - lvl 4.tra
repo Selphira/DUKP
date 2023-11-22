@@ -1,0 +1,156 @@
+@242 = ~Action Libre (Abjuration)
+Niveau : 4
+Sphère : charme
+Portée : toucher
+Durée : 1 tour + 1 round/niveau
+Temps d'incantation : 5
+Zone d'effet : créature touchée
+Jet de sauvegarde : aucun
+
+Le bénéficiaire du sort est immunisé contre tout ce qui pourrait réduire sa mobilité, y compris les toiles d'araignée, les sorts d'immobilisation des personnes, de glisse et d'enchevêtrement. Le prêcheur des flammes n'ayant plus aucune faculté curative, la version de ce sort qu'il lance ne peut pas libérer une cible déjà paralysée.~
+@2421 = ~Action Libre (Abjuration)
+Niveau : 4
+Sphère : Charme
+Portée : contact
+Durée : 1 tour par niveau
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Le bénéficiaire du sort est immunisé contre tout ce qui pourrait restreindre ses déplacements (tels que les sorts Glisse, Toile d'araignée ou Lenteur), et contre les effets de paralysie, d'immobilisation et d'étourdissement. La cible peut tout de même être sujette au sort de Hâte et bénéficier d'effets améliorant sa mobilité, comme celui procuré par les bottes de rapidité.
+Spécial : le prêcheur des flammes n'ayant plus aucune faculté curative, la version de ce sort qu'il lance ne peut pas libérer une cible déjà paralysée.~ // Texte pour IWDEE
+
+@246 = ~Convocation d'animaux I (Conjuration, Convocation) 
+Niveau : 4
+Sphère : animale, conjuration
+Portée : 20 m
+Durée : 3 tours
+Temps d'incantation : 5 
+Zone d'effet : spéciale 
+Jet de sauvegarde : aucun
+
+Le jeteur de sorts peut convoquer jusqu'à 3 créatures ayant 4 dés de vie ou moins. Les créatures ignées ou ayant une affinité avec le feu remplacent les animaux normalement invoquées par ce sort, attirées par le prêcheur seigneur du feu. Elles restent sous son contrôle jusqu'à leur mort ou expiration du sort.~
+@2461 = ~Drake igné~
+@2462 = ~Araignée de feu~
+@2463 = ~Triton des flammes~
+
+@247 = ~Convocation d'élémentaux de feu mineurs~
+@248 = ~Convocation d'élémentaux de feu mineurs (Conjuration, Convocation)
+Niveau : 4
+Sphère : élémentaire (feu) 
+Portée : champ de vision
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 1 round
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au clerc de convoquer des élémentaux de feu mineurs. Les élémentaux feront tout ce qui est en leur pouvoir pour aider le prêcheur tant que dure le sort, après quoi ils retourneront sur leur plan d'existence.
+Le sort n’appelle pas automatiquement plusieurs élémentaux. En fait il y a une fluctuation suivant l'endroit du plan ou le portail s'ouvre. Ainsi, a chaque lancement du sort il y a 50 % de chances que de un à quatre élémentaux de 2 dés de vie apparaissent, 30 % que ce soit de un à trois élémentaux de 4 dés de vie et 20 % que ce soit un ou deux élémentaux de 6 dés de vie.~
+@2481 = ~Elémental de feu mineur~
+
+@249 = ~Embrasement~
+@2410 = ~Embrasement (Nécromancie)
+Niveau : 4
+Sphère : nécromancie
+Portée : champ de vision
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Si la cible du sort rate un jet de sauvegarde contre les sorts, elle prend feu. Pendants les 5 rounds pendant lesquels les flammes brûlent ses chairs, la victime subit les dégâts suivant : 4D10+5, 4D8+4, 4D6+3, 4D4+2, 4D2+1, après quoi les flammes s’éteignent. Lorsqu'elle s'embrase, la victime doit réussir un autre jet de sauvegarde contre les sorts ou s'enfuir, terrifiée de brûler vive.
+Le sort ne se contente pas de carboniser les chairs, il fait carrément bouillir le sang; et la douleur qui résulte d'un tel traitement handicape considérablement la cible, qui voit tous ces jets réduits de -2, y compris le TAC0, pendant 9 rounds (La douleur persiste après l'extinction des flammes).
+Embrasement n'a aucun effet sur les créature du feu.~
+@24101 = ~Embrasement (Nécromancie)
+Niveau : 4
+Sphère : nécromancie
+Portée : champ de vision
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Si la cible du sort rate un jet de sauvegarde contre les sorts, elle prend feu. Pendants les 5 rounds pendant lesquels les flammes brûlent ses chairs, la victime subit les dégâts suivant : 4D10+10, 4D8+8, 4D6+6, 4D4+4, 4D2+2, après quoi les flammes s’éteignent. Lorsqu'elle s'embrase, la victime doit réussir un autre jet de sauvegarde contre les sorts ou s'enfuir, terrifiée de brûler vive.
+Le sort ne se contente pas de carboniser les chairs, il fait carrément bouillir le sang; et la douleur qui résulte d'un tel traitement handicape considérablement la cible, qui voit tous ces jets réduits de -2, y compris le TAC0, pendant 9 rounds (La douleur persiste après l'extinction des flammes).
+Au niveau 30 de lanceur de sort, les dégâts de l'embrasement sont de 3D12+12, 3D10+10, 3D8+8, 3D6+6, 3D4+4.
+Au niveau 40, un sixième round de brûlure est rajouté, pour un total de dégâts de 4D12+6, 4D10+5, 4D8+4, 4D6+3, 4D4+2, 4D2+1.
+Embrasement n'a aucun effet sur les créature du feu.~
+@24102 = ~Embrasement (Nécromancie)
+Niveau : 4
+Sphère : nécromancie
+Portée : champ de vision
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Si la cible du sort rate un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) elle prend feu. Pendants les 5 rounds pendant lesquels les flammes brulent ses chairs, la victime subit les dégâts suivant : 4D10+5, 4D8+4, 4D6+3, 4D4+2, 4D2+1, après quoi les flammes s’éteignent. Lorsqu'elle s'embrase, la victime doit réussir un autre jet de sauvegarde contre les sorts ou s'enfuir, terrifiée de brûler vive.
+Le sort ne se contente pas de carboniser les chairs, il fait carrément bouillir le sang; et la douleur qui résulte d'un tel traitement handicape considérablement la cible, qui voit tous ces jets réduits de -2, y compris le TAC0, pendant 9 rounds (La douleur persiste après l'extinction des flammes).
+Embrasement n'a aucun effet sur les créature du feu.~
+
+@2411 = ~Forme du feu~ 
+@2412 = ~Forme du feu (Transmutation)
+Niveau : 4
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le corps du prêcheur des flammes se change graduellement en feu, tandis que son équipement se fond dans la masse pour adopter la forme finale d'un élémental de feu. Ainsi transmuté il devient immunisé à toutes formes de dégâts de feu, ainsi qu'aux poisons, armes non magiques et attaques sournoises. Sa classe d'armure naturelle passe à 4 et ses poings infligent 1D8 dégâts de feu supplémentaires. Son taco, ses caractéristiques ainsi que ses pvs restent les même, et il garde la capacité de lancer des sorts. Tant qu'il est sous forme d'élémental, il brûle les toiles, les racines d'enchevêtrement et la graisse, passant sans encombre au travers de chacun de ces éléments.~
+@24121 = ~Forme du feu (Transmutation)
+Niveau : 4
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le corps du prêcheur des flammes se change graduellement en feu, tandis que son équipement se fond dans la masse pour adopter la forme finale d'un élémentaire de feu. Ainsi transmuté il devient immunisé à toutes formes de dégâts de feu, ainsi qu'aux poisons, armes non magiques et attaques sournoises. Sa classe d'armure naturelle passe à 4 et ses poings infligent 1D10 dégâts de feu supplémentaires (2D6-1 au niveau 30 et 1D12 au niveau 40). Son taco, ses caractéristiques ainsi que ses pvs restent les même, et il garde la capacité de lancer des sorts. Tant qu'il est sous forme d'élémental, il brûle les toiles, les racines d'enchevêtrement et la graisse, passant sans encombre au travers de chacun de ces éléments.~
+
+@2413 = ~Souffle enflammé~
+@2414 = ~Souffle enflammé (Altération) 
+Niveau : 4
+Sphère : élémentaire (feu)
+Portée : 5 mètres 
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : arc de 80 degrés
+Jet de sauvegarde : ½
+
+Ce sort permet au prêcheur de souffler du feu. Son souffle prend une forme conique qui peut s'étendre jusqu'à 4 mètres et inflige 1D4+2 points de dégâts de feu par niveau à toutes les créatures prises dans le souffle (maximum 12D4+24). Les victimes qui réussissent un jet de sauvegarde contre les souffles ne subissent que la moitié des dégâts.~
+@24141 = ~Souffle enflammé (Altération) 
+Niveau : 4
+Sphère : élémentaire (feu)
+Portée : 5 mètres 
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : arc de 80 degrés
+Jet de sauvegarde : ½
+
+Ce sort permet au prêcheur de souffler du feu. Son souffle prend une forme conique qui peut s'étendre jusqu'à 4 mètres et inflige 15D4+27 points de dégâts de feu à toutes les créatures prises dans le souffle (16D4+30 au niveau 30 et 17D4+33 au niveau 40). Les victimes qui réussissent un jet de sauvegarde contre les souffles ne subissent que la moitié des dégâts.~
+@24142 = ~Souffle enflammé s (Altération) 
+Niveau : 4
+Sphère : élémentaire (feu)
+Portée : 5 mètres 
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : arc de 80 degrés
+Jet de sauvegarde : ½
+
+Ce sort permet au prêcheur de souffler du feu. Son souffle prend une forme conique qui peut s'étendre jusqu'à 4 mètres et inflige 12D4+24 points de dégâts de feu à toutes les créatures prises dans le souffle. Les victimes qui réussissent un jet de sauvegarde contre les souffles à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) ne subissent que la moitié des dégâts.~
+
+@2415 = ~Réduction de la résistance au feu II~
+@2416 = ~Réduction de la résistance au feu II (Abjuration, Altération)
+Niveau : 4
+Sphère : charme, élémentaire (feu)
+Portée : champ de vision
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : zone de 10 mètres de rayon
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, la zone qu'il désigne est parcourue d'énergies élémentaires. Toutes les créatures présentes dans la zone doivent réussir un jet de sauvegarde contre les sorts à voir leur résistance au feu réduite de 3% par niveau du prêcheur (max 60%). La résistance à la magie des créatures ne permet pas de résister à ce sort, et un jet de sauvegarde réussi ne fait que diminuer de moitié la réduction subie.~
+

@@ -1,0 +1,390 @@
+@7101 = ~Annihilation~
+@7102 = ~Annihilation (Necromancy)
+Level: 10
+Range: 30 meters
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell is a needed sacrifice for the warlord who wants to completely annihilate a target.
+When this spell is cast, much of the vital energy of the warlord is drained to focus and crash on the target. The latter gets magic resistance reduced by 50% to stand this spell, and must make a successful saving throw at -8 or is completely atomized. If this is the case, no spell can bring it back, but, maybe, Wish.
+If the target makes a successful saving throw, it will suffer 20D12 damage points, and if it survives, is stunned for 1D4 rounds.
+This spell pushes into the energy of the warlord the needed strength for such a destruction, he loses 20D4 life points when the spell expires. This could make him die, except if he makes a successful saving throw vs. death and, in this case, the spell can not drain more life points than those he has and leaves him with 1 point of life.~
+@71029 = ~Annihilation (Necromancy)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: 30 meters
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: special
+
+This dangerous spell is a needed sacrifice for the warlord who wants to completely annihilate a target.
+When this spell is cast, much of the vital energy of the caster is drained to focus and crash on the target. The latter gets magic resistance reduced by 50% to stand this spell, and must make a successful saving throw at -8 or is completely atomized. If this is the case, no spell can bring it back, but, maybe, Wish.
+If the target makes a successful saving throw, it will suffer 20D12 damage points, and if it survives, is stunned for 1D4 rounds.
+This spell pushes into the energy of the warlord the needed strength for such a destruction, he loses 20D4 life points when the spell expires. This can kill him unless he makes a successful saving throw vs. death, in this case the spell can not drain more hit points than those he has and leaves him with 1 point of life.~
+
+@7103 = ~Miracle~
+@7104 = ~Miracle (Universal)
+Level: 10
+Range: special
+Duration: special
+Casting Time: 9
+Area of Effect: special
+Saving Throw: special
+
+This spell alters luck factor of the warlord to push it to its maximum. The aid provided by this spell is such that it exceeds the limits of imagination and combines all odds to get the best for the caster. While this spell is in no way linked to any deity whatsoever, there is no other word than "miracle" to describe the effect.
+The result of this spell remains uncertain, the caster had no way of knowing that will happen, but will always be good for him or his party, or evil to his enemies. The effect of the spell is so powerful that it will pump into it the future luck of the caster to give the maximum effect. Once the effect of the spell is gone, the warlord will be 1 full day under bad luck: -2 to all saving throws for the first 8 hours and -1 to all saving throws the following 16 hours, and the impossibility of being subject to any form of magic luck. He can not recast "Miracle" during this time.
+
+Note: offensive effects of this spell will affect all surrounding creatures that are no party members. This includes neutral and summoned creatures. Think about it before casting the spell.~
+
+@710401 = ~You become a beast of war.~
+@710402 = ~All party members are pruned for fighting.~
+@710404 = ~You are healed and reinvigorated, and you regenerate.~
+@710405 = ~All party members are healed and reinvigorated.~
+@710406 = ~All party members are rested.~
+@710407 = ~You are protected by a combination of elemental shields.~
+@710408 = ~Elements do not affect you anymore.~
+@710409 = ~All party members are protected against elements.~
+@710410 = ~Your resistance to physical damage increases.~
+@710411 = ~All party members have an increased resistance to physical damage.~
+@710413 = ~All party members have increased saving throws.~
+@710414 = ~You are invulnerable.~
+@710415 = ~All party members are invulnerable.~
+@710416 = ~All your strikes are critical hits.~
+@710417 = ~All strikes of party members are critical hits.~
+@710418 = ~Your chance to inflict a critical hit increases.~
+@710419 = ~All party members are more likely to inflict critical hits.~
+@710421 = ~All party members are protected by Shields of the Exalted.~
+@710423 = ~Magic does not affect you anymore.~
+@710424 = ~All party members have an increased magic resistance.~
+@710425 = ~You are protected by several physical images.~
+@710426 = ~All party members are protected by physical images.~
+@710427 = ~You send back to the initial caster all spells targeting you.~
+@710428 = ~All party members send back to the initial caster all spells below level 7 targeting them.~
+@710429 = ~You regenerate quickly.~
+@710430 = ~All party members regenerate quickly.~
+@710431 = ~You can chain spells quickly.~
+@710432 = ~You can chain spells and memorize again some of them.~
+@710433 = ~All party members are camouflaged.~
+@710434 = ~All party members are frantic.~
+@710435 = ~All your strikes can be fatal.~
+@710436 = ~All strikes of party members can be fatal.~
+@710437 = ~Time stops for you. You can chain spells.~
+@710438 = ~Time stops for you. You can multiply the hits.~
+@710439 = ~Time stops for all party members.~
+@710440 = ~You are protected against next impacts.~
+@710441 = ~All party members are protected against next impacts.~
+@710442 = ~You have several animated images.~
+@710443 = ~All party members have an animated image.~
+@710444 = ~All your enemies lose levels.~
+@710445 = ~The worst torments batter your enemies.~
+@710446 = ~All your enemies are paralyzed.~
+@710447 = ~All your enemies are petrified.~
+@710448 = ~All your enemies are devastated and vulnerable.~
+@710449 = ~All your enemies are destroyed.~
+@710450 = ~All your enemies are vaporized.~
+@710451 = ~Fury of Heavens crushes your enemies.~
+@710453 = ~Heaven interferes in your favor.~
+@7104531 = ~Solar~
+@710454 = ~Abyss interferes in your favor.~
+@7104541 = ~Glabrezu~
+@7104542 = ~Marilith~
+@7104543 = ~Balor~
+@710455 = ~Hell interferes in your favor.~
+@7104551 = ~Pit Fiend~
+@7104552 = ~Cornugon~
+@710456 = ~Elements combine to come to aid you.~
+@710457 = ~All party members can multiply hits.~
+@710458 = ~You gain experience.~
+@710459 = ~All party members gain experience.~
+@710460 = ~You found an item that has nothing to do here.~
+@7104611 = ~Your characteristics have changed: you are stronger.~
+@7104612 = ~Your characteristics have changed: you are more skilled.~
+@7104613 = ~Your characteristics have changed: your have a better constitution.~
+@7104614 = ~Your characteristics have changed: you are more intelligent.~
+@7104615 = ~Your characteristics have changed: you have better saves.~
+@7104616 = ~Your characteristics have changed: you better resist necromancy.~
+@7104617 = ~Your characteristics have changed: you have more hit points.~
+@7104618 = ~Your characteristics have changed: you have harder skin.~
+@7104619 = ~Your characteristics have changed: you better resist magic.~
+@71046110 = ~Your physiology has changed: poisons affect you no more.~
+@71046111 = ~Your physiology has changed: diseases affect you no more.~
+@7104621 = ~Your roots rework area: you have developed a new ability: you regenerate.~
+@7104622 = ~Your roots rework area: you have developed a new ability: poisons affect you no more.~
+@7104623 = ~Your roots rework area: you have developed a new ability: you resist magic.~
+@7104624 = ~Your roots rework area: you have developed a new ability: you resist fire.~
+@7104625 = ~Your roots rework area: you have developed a new ability: you resist electricity.~
+@7104626 = ~Your roots rework area: you have developed a new ability: non-magical weapons affect you no more.~
+@7104627 = ~Your roots rework area: you have developed a new power.~
+@71046271 = ~Project Image~
+@710463 = ~Improbable: double miracle:~
+@710464 = ~Improbable: miracle without negative effects:~
+@710465 = ~You are under Bad Luck. You can not be affected by this spell yet.~
+@71041 = ~Miracle (Universal)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: special
+Duration: special
+Casting Time: 9
+Area of Effect: special
+Saving Throw: special
+
+This spell alters luck factor of the warlord to push it to its maximum. The aid provided by this spell is such that it exceeds the limits of imagination and combines all odds to get the best for the caster. While this spell is in no way linked to any deity whatsoever, there is no other word than "miracle" to describe the effect.
+The result of this spell remains uncertain, the caster had no way of knowing that will happen, but will always be good for him or his party, or evil to his enemies. The effect of the spell is so powerful that it will pump into it the future luck of the caster to give the maximum effect. Once the effect of the spell is gone, the warlord will be 1 full day under bad luck: -2 to all saving throws for the first 8 hours and -1 to all saving throws the following 16 hours, and the impossibility of being subject to any form of magic luck. He can not recast "Miracle" during this time.
+
+Note: offensive effects of this spell will affect all surrounding creatures that are no party members. This includes neutral and summoned creatures. Think about it before casting the spell.~
+
+@7105 = ~Hybridization~
+@7106 = ~Hybridization (Polymorphing)
+Level: 10
+Range: 0
+Duration: 1 turn
+Casting Time: 1 round
+Area of Effect: caster
+Saving Throw: none
+
+Hybridization is based on the spell "Release the Beast", but contains the main effect: the transformation. In fact, hybridization invests the warlord of all powers of the devil who is the basis of his roots, but without entirely polymorphing. His hardened skin and a reddish color, his muscles swell and his speed increases, his body becomes stronger and his mind is refined but remains human.
+Specifically, the effects of the spell are:
+Greater stature, more imposing and impressive: +3 strength, +2 constitution and +2 charisma.
+Strongest reactions: +2 dexterity, +4 movement, +1 saving throw against breathe and wands and 5 attacks set per round.
+More lively and thought spirit: +2 intelligence, +1 wisdom and +2 saving throw against spells.
+Body more resistant: +4 AC, immunity to poison, +75% fire resistance, +40% cold resistance, +20% magic resistance, +2 saving throw against death and +1 saving throw against polymorph. Immunity to +1 normal and magical weapons and regeneration of 1 life point per round.~
+@71061 = ~Hybridization (Transmutation)
+Level: 10
+Range: 0
+Duration: 1 turn
+Casting Time: 1 round
+Area of Effect: castesr
+Saving Throw: none
+
+Requirements: Arcane Searches
+
+Hybridization is based on the spell "Release the Beast", but contains the main effect: the transformation. In fact, hybridization invests the warlord of all powers of the devil who is the basis of his roots, but without entirely polymorphing. His hardened skin and a reddish color, his muscles swell and his speed increases, his body becomes stronger and his mind is refined but remains human.
+Specifically, the effects of the spell are:
+Greater stature, more imposing and impressive: +3 strength, +2 constitution and +2 charisma.
+Strongest reactions: +2 dexterity, +4 movement, +1 saving throw against breathe and wands and 5 attacks set per round.
+More lively and thought spirit: +2 intelligence, +1 wisdom and +2 saving throw against spells.
+Body more resistant: +4 AC, immunity to poison, +75% fire resistance, +40% cold resistance, +20% magic resistance, +2 saving throw against death and +1 saving throw against polymorph. Immunity to +1 normal and magical weapons and regeneration of 1 life point per round.~
+
+@7107 = ~Antimagic Shield~
+@7108 = ~Antimagic Shield (Abjuration)
+Level: 10
+Range: 0
+Duration: 1 turn
+Casting Time: 1 round
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a shield of magical runes around the caster. Each rune represents a type of magic, and absorbs it if it has to strike the protected wizard. There is no limit to the number of spells absorbed by each rune, as long as the spell lasts, the wizard is protected against all spells, except those he wishes to act, those which are not affected by magic resistance, and supernatural abilities of creatures.~
+@71081 = ~Antimagic Shield (Abjuration)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: 0
+Duration: 1 turn
+Casting Time: 1 round
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a shield of magical runes around the caster. Each rune represents a type of magic, and absorbs it if it has to strike the protected wizard. There is no limit to the number of spells absorbed by each rune, as long as the spell lasts, the wizard is protected against all spells, except those he wishes to act, those which are not affected by magic resistance, and supernatural abilities of creatures.~
+
+@7109 = ~Major Chaos Strike~
+@71010 = ~Major Chaos Strike (Evocation, Alteration, Necromancy)
+Level: 10
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 1 round
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell combines all elemental mastery of the warlord and ghost hit spells too.
+Described as "Wrath of the Warlord", it is the ultimate spell of destruction, that the caster reserves for his worst enemy. Magic energy needed to cast this spell is such that the warlord forgets 3 spells (this one and other two) by casting it. He is also exhausted, and if he fails a saving throw vs. death, he suffers -2 to all saving throws for 4 turns.
+Once the spell is cast, the designated target is hit by 6 energy spears made of the essence of chaos.
+
+The first strike inflicts 2D6 piercing damage and reduces resistance of the creature: all saving throws suffer a 1D4 +2 penalty for following turns.
+The second strike inflicts 2D6 piercing damage and 2D8 magic damage. Magic resistance and magic damage reistance of the target are reduced by 40% for 1 turn (20% in case of a successful saving throw vs. spells).
+The third strike inflicts 2D6 piercing damage and 1D6 fire, cold, acid and electricity damage. The target gets elemental resistance reduced by 50% for 1 turn (25% in case of a successful saving throw vs. spells).
+The fourth strike inflicts 2D6 piercing damage and 4D8 negative energy damage. The victim loses two levels of experience, only one in case of a successful saving throw vs. death.
+The fifth strike inflicts 2D6 piercing damage and 2D8 fire, cold, acid and electricity damage. The confluenced generated energy atomizes the target if it fails a saving throw vs. death at -2.
+The sixth blade passes through the target side to side, inflicting 4D6 piercing damage and scrach the reality veil. The victim changes status, location, and time if it fails a saving throw vs. polymorph at -4. If the saving throw is successful, the target becomes something else, somewhere else, sooner or later.
+
+CAUTION: If the veil of reality is scratched, the actions related to the target could not work anymore (script, dialogues, etc..) and bug the game on your side. Do not use this spell on special targets such as Demogorgon or the Main one, as an example.~
+@710101 = ~Atomized.~
+@710102 = ~Become something else in another place and time.~
+@710103 = ~Major Chaos Strike (Evocation, Alteration, Necromancy)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 1 round
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell combines all elemental mastery of the warlord and ghost hit spells too.
+Described as "Wrath of the Warlord", it is the ultimate spell of destruction, that the caster reserves for his worst enemy. Magic energy needed to cast this spell is such that the warlord forgets 3 spells (this one and other two) by casting it. He is also exhausted, and if he fails a saving throw vs. death, he suffers -2 to all saving throws for 4 turns.
+Once the spell is cast, the designated target is hit by 6 energy castings made of the essence of chaos.
+
+The first strike inflicts 2D6 piercing damage and reduces resistance of the creature: all saving throws suffer a 1D4 +2 penalty for following turns.
+The second strike inflicts 2D6 piercing damage and 2D8 magic damage. Magic resistance and magic damage of the target are reduced by 40% for 1 turn (20% in case of a successful saving throw vs. spells).
+The third strike inflicts 2D6 piercing damage and 1D6 fire, cold, acid and electricity damage. The target gets elemental resistance reduced by 50% for 1 turn (25% in case of a successful saving throw vs. spells).
+The fourth strike inflicts 2D6 piercing damage and 4D8 negative energy damage. The victim loses two levels of experience, only one in case of a successful saving throw vs. death.
+The fifth strike inflicts 2D6 piercing damage and 2D8 fire, cold, acid and electricity damage. The confluenced generated energy atomizes the target if it fails a saving throw vs. death at -2.
+The sixth blade passes through the target side to side, inflicting 4D6 piercing damage and removes reality veil. The victim changes status, location, and time if it fails a saving throw vs. polymorph at -4. If the saving throw is successful, the target becomes something else, somewhere else, sooner or later.~
+
+@71011 = ~Death-Magi~
+@71012 = ~Death-Magi (Abjuration)
+Level: 10
+Range: 0
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 12-meters radius
+Saving Throw: none
+
+The spell Death-Magic is the ultimate disjunction spell. When it is cast by the warlord, a wave of entropic force sweeps and covers an area of 12-meters around him. The power of Death-Magic has several different effects:
+- All magic effects are dispelled on the caster, regardless of the level and there is no saving throw allowed.
+- All magic effects are dispelled within the area, with a spell level of 40, and still with a 1% chance of failure.
+- All summoned creatures are irrimediabily sent back.
+- All arcane spellcasters within the area (except the caster) forget 1D6 spells.
+- All magic charged items within the area (except those of the caster) lose 1D4 charge.
+Moreover, the wave persists for some time, creating for 3 rounds an anti-magic area where every spell that is cast automatically fails. This area affects the Warlord.~
+@710121 = ~One spell forgotten~
+@710122 = ~Two spells forgotten~
+@710123 = ~Three spells forgotten~
+@710124 = ~Four spells forgotten~
+@710125 = ~Five spells forgotten~
+@710126 = ~Six spells forgotten~
+@710127 = ~Magic items lose one charge~
+@710128 = ~Magic items lose two charges~
+@710129 = ~Magic items lose three charges~
+@7101210 = ~Magic items lose four charges~
+@7101211 = ~Death-Magi (Abjuration)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: 0
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 12-meters radius
+Saving Throw: none
+
+The spell Death Magic is the ultimate disjunction spell. When it is cast by the warlord, a wave of entropic force sweeps and covers an area of 12-meters around him. The power of Death Magic has several different effects:
+- All magic effects are dispelled on the caster, regardless of the level and there is no saving throw allowed.
+- All magic effects are dispelled within the area, with a spell level of 40, and still with a 1% chance of failure.
+- All summoned creatures are irrimediabily sent back.
+- All arcane spellcasters within the area (except the caster) forget 1D6 spells.
+- All magic charged items within the area (except those of the caster) lose 1D4 charge.
+Moreover, the wave persists for some time, creating for 3 rounds an anti-magic area where every spell that is cast automatically fails. This area affects the Warlord.~
+
+@71013 = ~Nova Energy~
+@71014 = ~Nova Energy (Evocation)
+Level: 10
+Range: 40 meters
+Duration: instantaneous
+Casting Time: 8
+Area of Effect: 10-meters radius
+Saving Throw: special
+
+When this spell is cast, a column of pure energy strikes the place targeted by the warlord. Upon impact, creatures will suffer 20D6 +40 points of damage (slashing and magic) and can be stunned (3 rounds) if they fail a saving throw vs. spells at -2.
+Creatures within 10-meters radius will suffer less pressure, which inflicts 10D6 +20 damage points. They can be knocked out (2 rounds) if they fail a saving throw vs. spells.
+Nova consists of raw energy and no saving throw allows to reduce damage.
+With the exception of the caster (who can close his eyes or look away at the end of casting), all creatures within the area of impact will be blinded by the intense light released (permanent, 1 turn in case of a successful saving throw vs. spells).~
+@710141 = ~Nova Energy (Evocation)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: 40 meters
+Duration: instantaneous
+Casting Time: 8
+Area of Effect: 10-meters radius
+Saving Throw: special
+
+When this spell is cast, a column of pure energy strikes the place targeted by the warlord. Upon impact, creatures will suffer 20D6 +40 points of damage (slashing and magic) and can be stunned (3 rounds) if they fail a saving throw vs. spells at -2.
+Creatures within 10-meters radius will suffer less pressure, which inflicts 10D6 +20 damage points. They can be knocked out (2 rounds) if they fail a saving throw vs. spells.
+Nova consists of raw energy and no saving throw allows to reduce damage.
+With the exception of the caster (who can close his eyes or look away at the end of casting), all creatures within the area of impact will be blinded by the intense light released (permanent, 1 turn in case of a successful saving throw vs. spells).~
+
+@71015 = ~Dark Globe of Revenge~
+@71016 = ~Dark Globe of Revenge (Abjuration, Evocation)
+Level: 10
+Range: 0
+Duration: 2 turns
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a globe of dark energy around the warlord, whose aim is to strike back any aggressor. As long as the warlord is surrounded by this dark globe, any opponent hitting melee attacks suffers 4D10 points of damage (saving throw vs. spells at -2 to halve). Any projectile launched against him turns back against the one who launched it. Finally, any offensive spell whom is targeted of, will be cast back upon the caster.
+The power to send spells back allows to send back 35 spell levels. After which this protection fades. On the opposite, the power to throw projectiles back is not subjected to limitations and won't cease until the duration of the spell expires.~
+@710161 = ~Counter-shot: Revenge~
+@710162 = ~Dark Globe of Revenge (Abjuration, Evocation)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: 0
+Duration: 2 turns
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a globe of dark energy around the warlord, whose aim is to strike back any aggressor. As long as the warlord is surrounded by this dark globe, any opponent hitting melee attacks suffers 4D10 points of damage (saving throw vs. spells at -2 to halve). Any projectile launched against him turns back against the one who launched it. Finally, any offensive spell whom is targeted of, will be cast back upon the caster.
+The power to send spells back allows to send back 35 spell levels. After which this protection fades. On the opposite, the power to throw projectiles back is not subjected to limitations and won't cease until the duration of the spell expires.~
+
+@71017 = ~Cryogenic Storm~
+@71018 = ~Cryogenic Storm (Evocation)
+Level: 10
+Range: visual range of the caster
+Duration: 4 rounds
+Casting Time: 1 round
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell creates at the targeted area a shower of extremely cold hail. Each round, creatures under the rain will suffer 8D10 damage points (1/4 slashing, 3/4 cold) and must make a successful saving throw vs. spells or freeze. If this happens, a saving throw vs. death determines what they become: if successful, they are trapped inside ice for 5 rounds. In this state they are unable to move and suffer 1D8 +2 cumulative points of damage per round. They are, on the opposite, protected against almost all external attacks, only slashing shocks can still affect them for halve damage points only. If the saving throw vs. death is failed, they melt into ice and they will become ice as well. In this case, their face is sealed, because the slightest shock is enough to deadly crack them and the bombing of hail leaves them no escape.~
+@710181 = ~Cryogenic Storm (Evocation)
+
+Requirement: Arcane Research
+
+Level: 10
+Range: visual range of the caster
+Duration: 4 rounds
+Casting Time: 1 round
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell creates at the targeted area a shower of extremely cold hail. Each round, creatures under the rain will suffer 8D10 damage points (1/4 slashing, 3/4 cold) and must make a successful saving throw vs. spells or freeze. If this happens, a saving throw vs. death determines what they become: if successful, they are trapped inside ice for 5 rounds. In this state they are unable to move and suffer 1D8 +2 cumulative points of damage per round. They are, on the opposite, protected against almost all external attacks, only slashing shocks can still affect them for halve damage points only. If the saving throw vs. death is failed, they melt into ice and they will become ice as well. In this case, their face is sealed, because the slightest shock is enough to deadly crack them and the bombing of hail leaves them no escape.~
+
+@71019 = ~Last Resort~ //not done, missing a very large "boom" animation
+@71020 = ~Last Resort (Polymorph)
+Level: 10
+Range: 0
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 25-meters radius
+Saving Throw: special
+
+This spell is an ultimate sacrifice for the warlord, which involves all he has to devastate an area.
+When this spell is cast, much of the vital and magic energy of the warlord is turned into pure energy to create a wave of mass destruction. This spreads from the body of the wizard and extends up to 25 meters around him, crossing everything (solid objects such as walls, doors and other barriers do not protect from this spell). All creatures within the wave will suffer 24D20 magic damage points and are stunned for 1D4 +2 rounds. Those who make a successful saving throw vs. spells will suffer only 16D10 and are stunned for 1D3 rounds.
+This powerful spell pulls into the energy of the warlord the needed strength for such destruction, he will automatically die if he has less than 60 life points when the spell duration runs out. If he has more life points, he must try a successful saving throw vs. death at -2 to survive. If succesful, all the vital energy drained by the spell leaves him with 1 life point, the rest of energy will be drawn in 1D10 spells that he "forgets". If the saving throw vs. death has been failed with at least 4 points more than the minimum required, the shock sinks him into unconsciousness for 1D4 +1 rounds.~
+@710201 = ~Last Resort (Polymorph)
+Level: 10
+Range: 0
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 25-meters radius
+Saving Throw: special
+
+Requirements: Arcane Research
+
+This spell is an ultimate sacrifice for the warlord, which involves all he has to devastate an area.
+When this spell is cast, much of the vital and magic energy of the warlord is turned into pure energy to create a wave of mass destruction. This spreads from the body of the wizard and extends up to 25 meters around him, crossing everything (solid objects such as walls, doors and other barriers do not protect from this spell). All creatures within the wave will suffer 24D20 magic damage points and are stunned for 1D4 +2 rounds. Those who make a successful saving throw vs. spells will suffer only 16D10 and are stunned for 1D3 rounds.
+This powerful spell pulls into the energy of the warlord the needed strength for such destruction, he will automatically die if he has less than 60 life points when the spell duration runs out. If he has more life points, he must try a successful saving throw vs. death at -2 to survive. If succesful, all the vital energy drained by the spell leaves him with 1 life point, the rest of energy will be drawn in 1D10 spells that he "forgets". If the saving throw vs. death has been failed with at least 4 points more than the minimum required, the shock sinks him into unconsciousness for 1D4 +1 rounds.~

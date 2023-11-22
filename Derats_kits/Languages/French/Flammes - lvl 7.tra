@@ -1,0 +1,119 @@
+@271 = ~Piège de feu~
+@272 = ~Piège de feu (Invocation/Évocation)
+Niveau : 7
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : spécial
+Temps d'incantation : 1 round
+Zone d'effet : rayon de 10 m
+Jet de sauvegarde : ½
+
+Ce sort permet de poser un piège de feu à l'endroit désigné. Après l'incantation du sort, une orbe de feu apparaît là ou le prêcheur le désire. Elle n'est visible que de lui, et ni la détection ni la divination ne permettent de la révéler pour une autre personne. L'orbe reste là jusqu'à ce qu'un imprudent s'en approche. A moment là elle explose en une boule de feu qui inflige 1D6 points de dégâts par niveau d'expérience du jeteur de sorts (20D6 maximum)(un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts reçus).~
+@2721 = ~Piège de feu (Invocation/Évocation)
+Niveau : 7
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : spécial
+Temps d'incantation : 1 round
+Zone d'effet : rayon de 10 m
+Jet de sauvegarde : ½
+
+Ce sort permet de poser un piège de feu à l'endroit désigné. Après l'incantation du sort, une orbe de feu apparaît là ou le prêcheur le désire. Elle n'est visible que de lui, et ni la détection ni la divination ne permettent de la révéler pour une autre personne. L'orbe reste là jusqu'à ce qu'un imprudent s'en approche. A moment là elle explose en une boule de feu qui inflige 24D6 points de dégâts (26D6 au niveau 30 et 28D6 au niveau 40)(un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts reçus).~
+@2728 = ~Piège de feu mortel~
+@2729 = ~Piège de feu mortel (Invocation/Évocation)
+Niveau : 7
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : spécial
+Temps d'incantation : 1 round
+Zone d'effet : rayon de 10 m
+Jet de sauvegarde : ½
+
+Ce sort permet de poser un piège de feu à l'endroit désigné. Après l'incantation du sort, une orbe de feu apparaît là ou le prêcheur le désire. Elle n'est visible que de lui, et ni la détection ni la divination ne permettent de la révéler pour une autre personne. L'orbe reste là jusqu'à ce qu'un imprudent s'en approche. A moment là elle explose en une boule de feu qui inflige 20D6 points de dégâts et embrase les cibles (pour des effets similaires au sort "embrasement" de niveau 4). Les victimes qui réussissent un  jet de sauvegarde contre les sorts à -2 (avec un malus de -1 par tranche de 5 niveaux du lanceur de sort après le 20ème) ne subissent que la moitié des dégâts et celles qui réussissent ce même jet à +2 (même malus progressif) évitent l'embrasement.~
+
+@273 = ~Tempête de feu~
+@274 = ~Tempête de feu (Evocation)
+Niveau : 7
+Sphère : Elémentaire (Feu)
+Portée : 30 mètres
+Durée : 4 rounds
+Temps d'incantation : 1 round
+Zone d'effet : rayon de 7 m
+Jet de sauvegarde : aucun
+
+Lorsqu'une Tempête de feu est invoquée, la zone toute entière est traversée par des plaques de flammes rugissantes. Toutes les créatures dans la zone reçoivent 2d8 points de dégâts plus 1 par niveau du prêtre (soit 2d8 +1/niveau). Ces attaques durent 4 rounds et continuent à infliger des dommages aux créatures tant qu'elles restent dans la zone. Aucun Jet de Sauvegarde n'est possible contre ce sort.~
+@2741 = ~Tempête de feu (Évocation)
+Niveau : 7
+Sphère : élémentaire (feu)
+Portée : 30 mètres
+Durée : 4 rounds
+Temps d'incantation : 1 round
+Zone d'effet : rayon de 7 m
+Jet de sauvegarde : aucun
+
+Lorsqu'une Tempête de feu est invoquée, la zone toute entière est traversée par des plaques de flammes rugissantes. Toutes les créatures dans la zone reçoivent 2D10+24 points de dégâts (2D10+27 au niveau 30 et 3D6+30 au niveau 40. Ces attaques durent 4 rounds et continuent à infliger des dommages aux créatures tant qu'elles restent dans la zone. Aucun jet de sauvegarde n'est possible contre ce sort.~
+
+@275 = ~Fléau de Mouches à feu~
+@276 = ~Fléau de Mouches à feu (Conjuration/Convocation)
+Niveau : 7
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : 4 rounds
+Temps d'incantation : 7
+Zone d'effet : ennemis visibles
+Jet de sauvegarde : spécial
+
+Lorsque ce sort est lancé par le prêcheur des flammes, une horde de mouches à feu apparaît en se réunissant en un essaim qui sautera sur la première cible ennemie, puis sur l'allié le plus proche de la cible, et ainsi de suite jusqu'à un total de 6 créatures. L'invisibilité n'offre aucune protection. Il est impossible de lancer des sorts dans cet essaim (100 % de chances d'échec). Les créatures attaquées par les mouches à feu, quelle que soit leur classe d'armure, subissent 1D6 piqûres brûlantes par round, chacune infligeant 1 point de dégât de feu. De plus si elles ne réussissent pas un jet de sauvegarde chaque round elle peuvent s'embraser et subir 1D6 point de dégât supplémentaire.
+L'essaim ayant tendance à étouffer ses victimes, celle-ci doivent également chaque round réussir un jet de sauvegarde contre les sorts sous peine de fuir de peur.~
+
+@277 = ~Incinération~
+@278= ~Incinération (Évocation, Nécromancie)
+Niveau : 7
+Sphère : nécromancie , élémentaire (feu)
+Portée : champ de vision
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Ce sort enroule la cible dans une colonne de feu. Alors que le feu ardent la dévore, la victime subit 2D6 points de dégâts par round, réduit de moitié en cas de jet de sauvegarde contre les sort réussi.
+Une dissipation réussie permet de mettre fin au feu ardent, sans quoi il continue de brûler la cible inlassablement pendant toute la durée du sort. Le feu alimenté par l’énergie du sort est difficilement extinguible : une douche ou une forte bourrasque ne suffisent pas à l’éteindre. Une immersion dans une étendue d'eau peut y parvenir, si le volume d'eau est au moins égal à celui d'un lac.
+Incinération n'a aucun effet sur les créatures de type feu.~
+@2781 = ~Incinération (Évocation, Nécromancie)
+Niveau : 7
+Sphère : nécromancie, élémentaire (feu)
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Ce sort enroule la cible dans une colonne de feu. Alors que le feu ardent la dévore, la victime subit 2D6+1 points de dégâts (2D8 au niveau 30, 2D8+1 au niveau 40) par round, réduit de moitié en cas de jet de sauvegarde contre les sort réussi.
+Une dissipation réussie permet de mettre fin au feu ardent, sans quoi il continue de brûler la cible inlassablement pendant toute la durée du sort. Le feu alimenté par l’énergie du sort est difficilement extinguible : une douche ou une forte bourrasque ne suffisent pas à l’éteindre. Une immersion dans une étendue d'eau peux y parvenir, si le volume d'eau est au moins égal à celui d'un lac.
+Incinération n'a aucun effet sur les créatures de type feu.~
+@279 = ~Immolation~
+@2710 = ~Immolation (Évocation, Nécromancie)
+Niveau : 7
+Sphère : nécromancie , élémentaire (feu)
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort impitoyable enroule la cible dans une colonne de feu inextinguible. Alors que le feu ardent la dévore, la victime subit 2D6 points de dégâts par round, sans jet de sauvegarde. Le feu est si intense que les créatures situées à moins de 3 mètres du supplicié subissent elles aussi 2D6 points de dégâts par round, mais ont droit à un jet de sauvegarde pour n'en subir que la moitié.
+Une dissipation réussie permet de mettre fin au feu ardent, sans quoi il continue de brûler la cible inlassablement pendant toute la durée du sort. Un vent violent ou une immersion dans l'eau ne peuvent pas à éteindre ses flammes attisées par la volonté farouche du prêcheur des flammes de carboniser la cible.
+Immolation n'a aucun effet sur les créatures de type feu.~
+
+@2711 = ~Conjuration d'un pseudo-Élémental de Feu~
+@2712 = ~Conjuration d'un pseudo-Élémental de Feu (Conjuration/Convocation)
+Niveau : 7
+Sphère : convocation, élémentaire (feu)
+Portée : champ de vision
+Durée : 1 tour / niveau
+Temps d'incantation : 1 round
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort ouvre une porte sur la strate de Phlégéthos de Baator pour y invoquer un pseudo-élémental de feu assujetti à la volonté du jeteur de sorts. Il y a 60 % de chances qu'un pseudo-élémental de 12 dés de vie apparaisse, 35 % qu'un pseudo-élémental de 16 dés de vie réponde à l'appel, et 5 % qu'un pseudo-élémental de 24 dés de vie vienne faire le ménage. Il n'est pas nécessaire de connaître la langue de la créature invoquée puisque le contrôle du pseudo-élémental se fait uniquement par voie télépathique. Les prêtres, à l'inverse des magiciens, n'ont pas besoin de s'engager dans un duel de volontés pour prendre le contrôle du pseudo-élémental invoqué. Ce dernier reste sous le contrôle du lanceur jusqu'à l'expiration de la durée du sort.~
+@27121 = ~pseudo-Élémental de feu~

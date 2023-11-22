@@ -1,0 +1,617 @@
+@751 = ~Lightning~
+@752 = ~Lightning (Invocation)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 6
+Area of Effect: 1 creature and 3-meters radius surrounding
+Saving Throw: 1/2
+
+The Warlord calls to the forces of nature to create a lightning that will hit the designated target. The spell must be cast outside, otherwise it will have no effect. While hitting lightning will inflict 1D8 electricity damage points per level of the warlord to the target and all the creatures within the area (max 20D8). A successful saving throw vs. spells allows to halve the damage received.~
+@7529 = ~Lightning (Invocation)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature and 3-meters radius surrounding
+Saving Throw: 1/2
+
+The Warlord calls to the forces of nature to create a lightning that will hit the designated target. The spell must be cast outside, otherwise it will have no effect. While hitting lightning will inflict 20D8 electricity damage points to the target and all the creatures within the area. A successful saving throw vs. spells allows to halve the damage received.~
+
+@753 = ~Mental Control~
+@754 = ~Mental Control (Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 3 rounds + 1 round/2 levels
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: negates
+
+The warlord who casts this spell tries to control the actions of the target.
+If the latter fails a saving throw vs. spells at -4, will go under the control of the warlord and follows his orders. They can turn against his own, but still keeps a minimum of lucidity: if the warlord of any member of the party tries to harm him, he will immediately put an end to the spell.
+But if the creature is fairly low or unlucky to miss the saving throw without penalty, the bond created by the spell is much stronger. In such a case, the control over the creature is full, so the latter will not react if a party member tries to harm it, and only a successful dispelling or expiration of the spell will free it from the clutches of the wizard.
+This spell can only control humanoid creatures. The mental bound is telepathic, there is no barrier of language and culture to prevent it.~
+@7541 = ~Mental Control (Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 13 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: negates
+
+The warlord who casts this spell tries to control the actions of the target.
+If the latter fails a saving throw vs. spells at -4, will go under the control of the warlord and follows his orders. They can turn against his own, but still keeps a minimum of lucidity: if the warlord of any member of the party tries to harm him, he will immediately put an end to the spell.
+But if the creature is fairly low or unlucky to miss the saving throw without penalty, the bond created by the spell is much stronger. In such a case, the control over the creature is full, so the latter will not react if a party member tries to harm it, and only a successful dispelling or expiration of the spell will free it from the clutches of the wizard.
+This spell can only control humanoid creatures. The mental bound is telepathic, there is no barrier of language and culture to prevent it.~
+@7542 = ~Under Control~
+
+@755 = ~Charged Weapon~
+@756 = ~Charged Weapon (Evocation)
+Level: 5
+Range: 0
+Duration: 2 rounds
+Casting Time: 5
+Area of Effect: caster
+Saving Throw: none
+
+This spell charges the weapon of the warlord by a crude energy consisting of 4 elements (fire, cold, electricity, acid). For the 2 rounds the spell lasts, every hit of the weapon will cause additional 8D4 damage (equal part for each element). The energy charged into the weapon is very unstable and it's not possible to keep it this way more than a few seconds. After 2 rounds, the energy dissipates by the opposition of the 4 elements; there is a 5% risk that this ends up in a maelstrom that inflicting the bearer and all those present in the area 8D4 damage points.~
+@7561 = ~Charged Weapon (Evocation)
+Level: 5
+Range: 0
+Duration: 2 rounds
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell charges the weapon of the warlord by a crude energy consisting of 4 elements (fire, cold, electricity, acid). For the 2 rounds the spell lasts, every hit of the weapon will cause additional 8D4 damage (equal part for each element). The energy charged into the weapon is very unstable and it's not possible to keep it this way more than a few seconds. After 2 rounds, the energy dissipates by the opposition of the 4 elements; there is a 5% risk that this ends up in a maelstrom that inflicting the bearer and all those present in the area 8D4 damage points.~
+@7562 = ~Charged Weapon (Evocation)
+Level: 5
+Range: 0
+Duration: 2 rounds
+Casting Time: 5
+Area of Effect: caster
+Saving Throw: none
+
+This spell charges the weapon of the warlord by a crude energy consisting of 4 elements (fire, cold, electricity, acid). For the 2 rounds the spell lasts, every hit of the weapon will cause additional 8D4 damage (equal part for each element). The energy charged into the weapon is very unstable and it's not possible to keep it this way more than a few seconds. After 2 rounds, the energy dissipates by the opposition of the 4 elements.~
+@7563 = ~Charged Weapon (Evocation)
+Level: 5
+Range: visual range of the caster
+Duration: 2 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell charges the weapon of the recipient by a crude energy consisting of 4 elements (fire, cold, electricity, acid). For the 2 rounds the spell lasts, every hit of the weapon will cause additional 8D4 damage (equal part for each element). The energy charged into the weapon is very unstable and it's not possible to keep it this way more than a few seconds. After 2 rounds, the energy dissipates by the opposition of the 4 elements.~
+@75631 = ~Charged Weapon (Evocation)
+Level: 5
+Range: visual range of the caster
+Duration: 2 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell charges the weapon of the recipient by a crude energy consisting of 4 elements (fire, cold, electricity, acid). For the 2 rounds the spell lasts, every hit of the weapon will cause additional 8D4 damage (equal part for each element). The energy charged into the weapon is very unstable and it's not possible to keep it this way more than a few seconds. After 2 rounds, the energy dissipates by the opposition of the 4 elements.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+Their weapons are charged by 4 energies that inflict 1D6 damage points each one for 8 seconds.~
+
+@758 = ~Heroism (Enchantment)
+Level: 5
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 6
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives the warlord the greatness and fortitude that makes heroes out of mere men. He gains a +2 bonus to attack rolls, saving throws and damage.
+Other effects are added as the spellcaster gains power, according to the following table:
+Level 11 : immunity to all forms of fear.
+Level 13 : +10 additional temporary life points.
+Level 15 : immunity to charm, +1 charisma.
+Level 17 : bonuses to attack rolls, saving throws and damage set at +3.
+Level 19 : immunity to confusion.~
+@7581 = ~Heroism (Enchantment)
+Level: 5
+Range: 0
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives the warlord the greatness and fortitude that makes heroes out of mere men. He gains a +3 bonus to attack rolls, saving throws and damage, 10 additional temporary life points and 1 point of charisma, and is immune to any form of fear, charm and confusion.~
+@7582 = ~Heroism (Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient the greatness and fortitude that makes heroes out of mere men. He gains a +3 bonus to attack rolls, saving throws and damage, 10 additional temporary life points and 1 point of charisma, and is immune to any form of fear, charm and confusion.~
+@75821 = ~Heroism (Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient the greatness and fortitude that makes heroes out of mere men. He gains a +3 bonus to attack rolls, saving throws and damage, 10 additional temporary life points and 1 point of charisma, and is immune to any form of fear, charm and confusion.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: +2 bonus to attack rolls, saving throws and damage, 10 additional life points, +1 to charisma, immunity to any form of fear and charm for 17 rounds.~
+
+@759 = ~Infernal Shout~
+@7510 = ~Infernal Shout (Alteration)
+Level: 5
+Range: 0
+Duration: special
+Casting Time: 5
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell amplifies to extreme the yell uttered by the warlord at the end of casting to turn it into a devastating sound wave. All creatures who hear the cry, with the exception of the caster and party members who recognize the casting spell quick enough to cover their ears (saving throw vs. breath) will suffer different effects depending upon the level of the caster, according to the following table:
+Level 9: 10D4 damage, deafness for 1D4 +2 rounds if the saving throw is successful
+Level 12: 12D4 damage, deafness for 1 turn, 1D4 +2 rounds only if the saving throw is successful
+Level 16: 14D4 damage, deafness for 1 turn, stun for 1D6 rounds if the saving throw is failed
+Level 20: 16D4 damage, deafness for 12 rounds, stun for 1D4 +2 rounds, 1D2 rounds only if the saving throw is successful
+Any damage inflicted by this spell can be halved by a successful saving throw vs. spells. The same saving throw determines the secondary side effects.
+Damage inflicted by this spell can not kill a creature. That whose total hp points is less than damage received will have 1 hp and faints.
+A creature deafened by this spell can no longer be affected and can not be affected by other wails (Banshee, Lich, etc.) before having recovered normal hearing.~
+@75101 = ~Infernal Shout (Alteration)
+Level: 5
+Range: 0
+Duration: special
+Casting Time: 3
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell amplifies to extreme the yell uttered by the warlord at the end of casting to turn it into a devastating sound wave. All creatures who hear the cry, with the exception of the caster and party members who recognize the casting spell quick enough to cover their ears (saving throw vs. breath) will suffer 16D4 damage, deafness for 12 rounds, stunning for 1D4 +2 rounds, 1D2 rounds only if saving throw is successful.
+Any damage inflicted by this spell can be halved by a successful saving throw vs. spells. The same saving throw determines the secondary side effects.
+Damage inflicted by this spell can not kill a creature. That whose total hp points is less than damage received will have 1 hp and faints.
+A creature deafened by this spell can no longer be affected and can not be affected by other wails (Banshee, Lich, etc.) before having recovered normal hearing.~
+
+@7512 = ~Invisibility (Illusion/Phantasm)
+Level: 5
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: the caster
+Saving Throw: none
+
+This spell causes the warlord to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the warlord detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible, items picked up disappear if tucked into the clothing or pouches worn by the warlord.
+As long as he is invisible, he can not be targeted, and only creatures that actively tries to look for him have a chance to spot him. If he comes to be spotted, any aggressor attacks him with a -4 bonus to attack. He also gains a +4 bonus to saving throws.
+The mage stays invisible throughtout the duration of the spell, unless dispelled or a powerful divination spell negates it.~
+@75121 = ~Invisibility (Illusion/Phantasm)
+Level: 5
+Range: 0
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell causes the warlord to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the warlord detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible, items picked up disappear if tucked into the clothing or pouches worn by the warlord.
+As long as he is invisible, he can not be targeted, and only creatures that actively tries to look for him have a chance to spot him. If he comes to be spotted, any aggressor attacks him with a -4 bonus to attack. He also gains a +4 bonus to saving throws.
+The mage stays invisible throughtout the duration of the spell, unless dispelled or a powerful divination spell negates it.~
+@75122 = ~Invisibility (Illusion/Phantasm)
+Level: 5
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell causes the creature to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the creature detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible, items picked up disappear if tucked into the clothing or pouches worn by the warlord.
+As long as he is invisible, he can not be targeted, and only creatures that actively tries to look for him have a chance to spot him. If he comes to be spotted, any aggressor attacks him with a -4 bonus to attack. He also gains a +4 bonus to saving throws.
+The mage stays invisible throughtout the duration of the spell, unless dispelled or a powerful divination spell negates it.~
+@751221 = ~Invisibility (Illusion/Phantasm)
+Level: 5
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell causes the creature to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the creature detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible, items picked up disappear if tucked into the clothing or pouches worn by the warlord.
+As long as he is invisible, he can not be targeted, and only creatures that actively tries to look for him have a chance to spot him. If he comes to be spotted, any aggressor attacks him with a -4 bonus to attack. He also gains a +4 bonus to saving throws.
+The mage stays invisible throughtout the duration of the spell, unless dispelled or a powerful divination spell negates it.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They become almost invisible (5% chance every round to be detected) and have a +3 bonus to saving throws and AC for 17 rounds.~
+
+@7513 = ~Stoneskin~
+@7514 = ~Stoneskin (Alteration/Evocation)
+Level: 5
+Range: 0
+Duration: 3 rounds/level
+Casting Time: 5
+Area of Effect: the caster
+Saving Throw: none
+
+The warlord must to be in contact with the soil when he casts this spell, otherwise it will have no effect. When the spell is cast, an outer skin of stone comes to cover the mage and becoming a second skin. This magical skin does not bother him and immunizes him against hits. The enemies of the mage can destroy the stoneskin by hitting it a number of times equal to half the level of the mage plus one. As an example, the warlord of level 14 protected by stoneskin could withstand without damage 8 hits before that protection is shattered.
+Stoneskin protects only against specific damage inflicted by weapons. It does not prevent elemental damage if the hit is successful, and does not dispel destructive spells.~
+@75141 = ~Stoneskin (Alteration/Evocation)
+Level: 5
+Range: 0
+Duration: 6 turns
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+The warlord must to be in contact with the soil when he casts this spell, otherwise it will have no effect. When the spell is cast, an outer skin of stone comes to cover the mage and becoming a second skin. This magical skin does not bother him and immunizes him against hits. The enemies of the mage can destroy the stoneskin by hitting it 11 times, after which the protection is shattered.
+Stoneskin protects only against specific damage inflicted by weapons. It does not prevent elemental damage if the hit is successful, and does not dispel destructive spells.~
+@75142 = ~Stoneskin (Alteration/Evocation)
+Level: 5
+Range: visual range of the caster
+Duration: 6 turns
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+The recipient must to be in contact with the soil when the warlord casts this spell, otherwise it will have no effect. When the spell is cast, an outer skin of stone comes to cover the recipient and becoming a second skin. This magical skin does not bother him and immunizes him against hits. The enemies of the recipient can destroy the stoneskin by hitting it 11 times, after which the protection is shattered.
+Stoneskin protects only against specific damage inflicted by weapons. It does not prevent elemental damage if the hit is successful, and does not dispel destructive spells.~
+@751421 = ~Stoneskin (Alteration/Evocation)
+Level: 5
+Range: visual range of the caster
+Duration: 6 turns
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+The recipient must to be in contact with the soil when the warlord casts this spell, otherwise it will have no effect. When the spell is cast, an outer skin of stone comes to cover the recipient and becoming a second skin. This magical skin does not bother him and immunizes him against hits. The enemies of the recipient can destroy the stoneskin by hitting it 11 times, after which the protection is shattered.
+Stoneskin protects only against specific damage inflicted by weapons. It does not prevent elemental damage if the hit is successful, and does not dispel destructive spells.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: 7 skins that they can keep for 4 turns.~
+
+@7515 = ~Spooky Fist~
+@7516 = ~Spooky Fist (Illusion)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: negates
+
+This spell offers the warlord an option against an opponent who resists his spells. He uses a gross but violent illusion to make BELIEVE the opponent he suffers a stroke, that he can not thwart by his magic resistance. The spooky fist makes appear over the victim a huge fist that strikes to crush him. If the victim lets his instincts believe being crushed, the phychic backlash inflicts 1D6 +1 damage points per level of the warlord (Max 20D6 +20). If the victims discovers it's an illusion or is strong enough to throw on a side and think to have avoided it (saving throw vs. spells successful), won't suffer anything.~
+@75161 = ~Spooky Fist (Illusion)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: negates
+
+This spell offers the warlord an option against an opponent who resists his spells. He uses a gross but violent illusion to make BELIEVE the opponent he suffers a stroke, that he can not thwart by his magic resistance. The spooky fist makes appear over the victim a huge fist that strikes to crush him. If the victim lets his instincts believe being crushed, the phychic backlash inflicts 20D6 +20 damage points. If the victims discovers it's an illusion or is strong enough to throw on a side and think to have avoided it (saving throw vs. spells successful), won't suffer anything.~
+
+@7517 = ~Draconic Strength~
+@7518 = ~Draconic Strength (Alteration, Enchantment)
+Level: 5
+Range: 0
+Duration: 5 rounds + 1 round/2 levels
+Casting Time: 6
+Area of Effect: caster
+Saving Throw: none
+
+It's by looking to give himself the strength of a dragon that the warlord found this strange spell. The latter performs an incomplete polymorph to the mage: it does not modify at all his appearance, but charges his body by a powerful magic energy that grants him all the attributes of a dragon. His armor class, his Hit Dice (+4 extra HP by dice of overnumbered life than those of a mage) and his magic resistance vary, and he gets immunity to an element as well as the half of the combat modifier (in addition to all melee damage) of this dragon.
+In fact, the granted power while casting the spell is random at the option of two dice rolls, which vary according to the level of the mage:
+Level 9 to 13 : 1D4
+Level 14 to 18: 1D6
+Level 19+     : 1D8
+
+The first result determines the type of dragon:
+1: White Dragon
+2: Black Dragon
+3: Copper Dragon
+4: Blue Dragon
+5: Bronze Dragon
+6: Silver Dragon
+7: Red Dragon
+8: Golden Dragon
+
+and the second determines the age of the dragon:
+1: Juvenile
+2: Young Adult
+3: Adult
+4: Middle Age
+5: Old
+6: Very Old
+7: Venerable
+8: Worm
+
+The transformed wizard does not create an aura of terror and does not get the breath of dragon, or any other special dragon skill.
+He can not be under several draconic strengths.~
+@75181 = ~Strength of White Dragon~
+@75182 = ~Strength of Black Dragon~
+@75183 = ~Strength of Copper Dragon~
+@75184 = ~Strength of Blue Dragon~
+@75185 = ~Strength of Bronze Dragon~
+@75186 = ~Strength of Silver Dragon~
+@75187 = ~Strength of Red Dragon~
+@75188 = ~Strength of Golden Dragon~
+@751811 = ~Juvenile~
+@751812 = ~Young Adult~
+@751813 = ~Adult~
+@751814 = ~Middle Age~
+@751815 = ~Old~
+@751816 = ~Very Old~
+@751817 = ~Venerable~
+@751818 = ~Worm~
+@751819 = ~Draconic Strength (Alteration, Enchantment)
+Level: 5
+Range: 0
+Duration: 15 rounds
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+It's by looking to give himself the strength of a dragon that the warlord found this strange spell. The latter performs an incomplete polymorph to the mage: it does not modify at all his appearance, but charges his body by a powerful magic energy that grants him all the attributes of a dragon. His armor class, his Hit Dice (+4 extra HP by dice of overnumbered life than those of a mage) and his magic resistance vary, and he gets immunity to an element as well as the half of the combat modifier (in addition to all melee damage) of this dragon.
+In fact, the granted power while casting the spell is random at the option of two dice rolls of a D8:
+
+The first result determines the type of dragon:
+1: White Dragon
+2: Black Dragon
+3: Copper Dragon
+4: Blue Dragon
+5: Bronze Dragon
+6: Silver Dragon
+7: Red Dragon
+8: Golden Dragon
+
+and the second determines the age of the dragon:
+1: Juvenile
+2: Young Adult
+3: Adult
+4: Middle Age
+5: Old
+6: Very Old
+7: Venerable
+8: Worm
+
+The transformed wizard does not create an aura of terror and does not get the breath of dragon, or any other special dragon skill.
+He can not be under several draconic strengths.~
+@751810 = ~Draconic Strength (Alteration, Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+It's by looking to give himself the strength of a dragon that the warlord found this strange spell. The latter performs an incomplete polymorph to the recipient: it does not modify at all his appearance, but charges his body by a powerful magic energy that grants him all the attributes of a dragon. His armor class, his Hit Dice (+4 extra HP by dice of overnumbered life than those of a mage) and his magic resistance vary, and he gets immunity to an element as well as the half of the combat modifier (in addition to all melee damage) of this dragon.
+In fact, the granted power while casting the spell is random at the option of two dice rolls of a D8:
+
+The first result determines the type of dragon:
+1: White Dragon
+2: Black Dragon
+3: Copper Dragon
+4: Blue Dragon
+5: Bronze Dragon
+6: Silver Dragon
+7: Red Dragon
+8: Golden Dragon
+
+and the second determines the age of the dragon:
+1: Juvenile
+2: Young Adult
+3: Adult
+4: Middle Age
+5: Old
+6: Very Old
+7: Venerable
+8: Worm
+
+The transformed recipient does not create an aura of terror and does not get the breath of dragon, or any other special dragon skill.
+He can not be under several draconic strengths.~
+@7518101 = ~Draconic Strength (Alteration, Enchantment)
+Level: 5
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+It's by looking to give himself the strength of a dragon that the warlord found this strange spell. The latter performs an incomplete polymorph to the recipient: it does not modify at all his appearance, but charges his body by a powerful magic energy that grants him all the attributes of a dragon. His armor class, his Hit Dice (+4 extra HP by dice of overnumbered life than those of a mage) and his magic resistance vary, and he gets immunity to an element as well as the half of the combat modifier (in addition to all melee damage) of this dragon.
+In fact, the granted power while casting the spell is random at the option of two dice rolls of a D8:
+
+The first result determines the type of dragon:
+1: White Dragon
+2: Black Dragon
+3: Copper Dragon
+4: Blue Dragon
+5: Bronze Dragon
+6: Silver Dragon
+7: Red Dragon
+8: Golden Dragon
+
+and the second determines the age of the dragon:
+1: Juvenile
+2: Young Adult
+3: Adult
+4: Middle Age
+5: Old
+6: Very Old
+7: Venerable
+8: Worm
+
+The transformed recipient does not create an aura of terror and does not get the breath of dragon, or any other special dragon skill.
+He can not be under several draconic strengths.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they are turned into the same kind of dragon as the recipient with a random age determined by a D5 for 1 turn.~
+
+@7519 = ~Pulverisation~
+@7520 = ~Pulverisation (Alteration)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 10-meters radius
+Saving Throw: 1/2
+
+When the warlord casts this spell, the soil at the targeted area heats up to its breaking point before exploding, throwing fire and burning embers on all nearby creatures. These can be hit by a burst per wizard level (max 17), each one inflicting 1D4 slashing damage point and 1 fire damage point. A saving throw vs. spells allows avoiding half of impacts.
+The spell leaves a small crater where it has been cast and can only affect stone, wood and flesh react to the spell burning without exploding. As he targets a place and not living targets, magic resistance of victims does not protect them against it.~
+@75201 = ~Pulverisation (Alteration)
+Level: 5
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 10-meters radius
+Saving Throw: special
+
+When the warlord casts this spell, the soil at the targeted area heats up to its breaking point before exploding, throwing fire and burning embers on all nearby creatures. These will suffer 17D4 slashing damage point and 17 fire damage point. A saving throw vs. spells allows avoiding half of impacts.
+The spell leaves a small crater where it has been cast and can only affect stone, wood and flesh react to the spell burning without exploding. As he targets a place and not living targets, magic resistance of victims does not protect them against it.~
+
+@7521 = ~Regeneration~
+@7522 = ~Regeneration (Necromancy)
+Level: 5
+Range: 0
+Duration: 3 rounds/2 levels
+Casting Time: 6
+Area of Effect: the caster
+Saving Throw: none
+
+This powerful spell allows the warlord to accelerate natural regeneration of his body. Throughout the duration of the spell he recovers 1D4 life points per round. (without exceeding his maximum hit points). The power of this spell increases by experience of the caster, and regeneration grants 1D6 at level 15, and 1D4 +2 at level 20.~
+@75221 = ~Regeneration (Necromancy)
+Level: 5
+Range: 0
+Duration: 3 turns
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This powerful spell allows the warlord to accelerate natural regeneration of his body. Throughout the duration of the spell he recovers 1D4 +2 life points per round. (without exceeding his maximum hit points).~
+@75222 = ~Regeneration (Necromancy)
+Level: 5
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This powerful spell allows the recipient to accelerate natural regeneration of his body. Throughout the duration of the spell he recovers 1D4 +2 life points per round. (without exceeding his maximum hit points).~
+@752221 = ~Regeneration (Necromancy)
+Level: 5
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This powerful spell allows the recipient to accelerate natural regeneration of his body. Throughout the duration of the spell he recovers 1D4 +2 life points per round. (without exceeding his maximum hit points).
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they will recover 1D6 life points per round for 2 turns.~
+@75223 = ~In the very act of regenerating~
+
+@7523 = ~Magic Resistance~
+@7524 = ~Magic Resistance (Alteration)
+Level: 5
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: the caster
+Saving Throw: none
+
+Upon casting this spell, the warlord receives a resistance to all magic (and gives him if he does not have it). The resistance confered is 2% per level of the mage up to a maximum of 50% at 25th level. This effect will last for the duration of the spell or until dispelled.~
+@75241 = ~Magic Resistance (Alteration)
+Level: 5
+Range: 0
+Duration: 23 rounds
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+Upon casting this spell, the warlord receives a resistance to all magic (and gives him if he does not have it). The resistance confered is 2% per level of the mage up to a maximum of 50% at 25th level. This effect will last for the duration of the spell or until dispelled.~
+@75242 = ~Magic Resistance (Alteration)
+Level: 5
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+Upon casting this spell, the recipient receives a resistance to all magic (and gives him if he does not have it). The resistance confered is 2% per level up to a maximum of 50% at 25th level. This effect will last for the duration of the spell or until dispelled.~
+@752421 = ~Magic Resistance (Alteration)
+Level: 5
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+Upon casting this spell, the recipient receives a resistance to all magic (and gives him if he does not have it). The resistance confered is 2% per level up to a maximum of 50% at 25th level. This effect will last for the duration of the spell or until dispelled.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+their magic resistance is increased by 33% for 15 rounds.~
+
+@7525 = ~Supernatural Sight~
+@7526 = ~Supernatural Sight (Divination)
+Level: 5
+Range: 0
+Duration: 5 rounds + 1 round/2 levels
+Casting Time: 6
+Area of Effect: the caster
+Saving Throw: none
+
+This spell gives the warlord a sight that goes beyond normal sight. All hostile illusion/phantasm spells will be dispelled. The spells that are affected by this are: Refected Image, Invisibility, Mirror Image, Non-detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's magic resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel the invisibility from a party member. Casting this spell heals blindness if the caster is affected by it.~
+@75261 = ~Supernatural Sight (Divination)
+Level: 5
+Range: 0
+Duration: 15 rounds
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell gives the warlord a sight that goes beyond normal sight. All hostile illusion/phantasm spells will be dispelled. The spells that are affected by this are: Refected Image, Invisibility, Mirror Image, Non-detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's magic resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel the invisibility from a party member. Casting this spell heals blindness if the caster is affected by it.~
+@75262 = ~Supernatural Sight (Divination)
+Level: 5
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient a sight that goes beyond normal sight. All hostile illusion/phantasm spells will be dispelled. The spells that are affected by this are: Refected Image, Invisibility, Mirror Image, Non-detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's magic resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel the invisibility from a party member. Casting this spell heals blindness if the recipient is affected by it.~
+@752621 = ~Supernatural Sight (Divination)
+Level: 5
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient a sight that goes beyond normal sight. All hostile illusion/phantasm spells will be dispelled. The spells that are affected by this are: Refected Image, Invisibility, Mirror Image, Non-detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's magic resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel the invisibility from a party member. Casting this spell heals blindness if the recipient is affected by it.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: flawed Supernatural Sight (5% chance each round of seeing "only" invisible creatures) for 1 turn.~
+
+@7527 = ~Multi-Elemental Projection~
+@7528 = ~Multi-Elemental Projection (Evocation)
+Level: 5
+Range: 20 meters
+Duration: instantaneous
+Casting Time: 5
+Area of Effect: 75-degrees cone, 10-meters length
+Saving Throw: 1/2
+
+This spell creates a multitude of small elemental orbs, randomly composed of fire, cold, electricity, acid or energy, which are projected to a range in front of the clasped hands of the mage. All creatures within the cone of effect will suffer 10D6 points of damage, in an overall balanced proportion of the 5 elements. Those who make a successful saving throw vs. spells will only suffer half of damage.
+The damage inflicted by the spell increases by the level of the mage, according to the following table:
+Level 12: 10D8
+Level 15: 10D10
+Level 18: 10D12~
+@75281 = ~Multi-Elemental Projection (Evocation)
+Level: 5
+Range: 20 meters
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 75-degrees cone, 10-meters length
+Saving Throw: 1/2
+
+This spell creates a multitude of small elemental orbs, randomly composed of fire, cold, electricity, acid or energy, which are projected to a range in front of the clasped hands of the mage. All creatures within the cone of effect will suffer 10D12 points of damage, in an overall balanced proportion of the 5 elements. Those who make a successful saving throw vs. spells will only suffer half of damage.~
+
+@7529 = ~Strike of the Assassin~
+@7530 = ~Strike of the Assassin (Enchantment, Alteration)
+Level: 5
+Range: visual range of the caster
+Duration: 7 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+It's by looking to create a spell allowing him to focus his strength against a single target that the warlord found out this spell with unexpected effects, but extremely effective. When he begins casting designating a target, he is automatically teleported to it, after which all his hits of the following round are automatically turned into critical hits that can kill the target if it fails a saving throw vs. death. He also gets a bonus of +4 THAC0 and damage against the target, that will remain as long as the spell lasts.~

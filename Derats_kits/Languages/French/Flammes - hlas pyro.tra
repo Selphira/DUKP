@@ -1,0 +1,90 @@
+@2101 = ~Voie du pyromane~
+@2102 = ~Voie du pyromane :
+
+Le prêcheur qui admire le feu comme une arme de destruction massive s'avère être un pyromane confirmé. Les flammes qu'il crée avec ses sorts sont construites de sadisme brut, et sa volonté farouche de voir brûler les choses impose un malus de -2 aux jets de sauvegarde (-1 supplémentaire pour chaque tranche de 5 niveaux après le 20ème, pour un total de -8 au 50ème niveau) contre celles-ci.
+Le lien qui l'uni aux plans maléfiques se renforce lorsqu'il adopte cet état d'esprit, et il est gratifié d'un nouveau sort, tandis que d'autres sont modifiés en profondeurs pour apporter plus de souffrance.
+Si son alignement est (loyal) neutre lorsqu’il choisi la voie du pyromane, il change pour devenir (neutre) mauvais.
+
+Refuser la neutralité du plan du feu apporte quand même son lot d'inconvénients, et le plus évident et de ne plus pouvoir invoquer ses résidents les plus puissants (les meilleurs sorts de convocation de créatures du feu sont perdus en prenant ce hla). Il devient aussi impossible au prêcheur lié aux plans infernaux d'avoir accès aux sorts de protection contre le mal.~
+
+@2105 = ~Rappel de l'armée des flammes~
+@2106 = ~Requis : avoir choisi la voie du pyromane
+
+Rappel de l'armée des flammes
+
+Ce sombre rituel permet au prêcheur d'aller chercher dans les plans infernaux les âmes des combattants morts brûlés qui ont apprécié cette dernières caresse avant de trépasser.
+Il faut 2 rounds complet pour pratiquer le rituel, après quoi 1D10 âmes sont trouvées et ramenées sous forme de morts-vivants au service du prêcheur. Les guerriers ainsi relevés sont en parfaite osmose avec le feu, en apprécient la caresse et la distribue au combat. Il y à 10% de chances à chaque fois qu'un puissant mage pyromancien soit ramené à la vie.
+Toutes les âmes ramenées ainsi retournent dans les abysses si leur corps mort-vivant est détruit ou après huit heures passées sur le plan primaire.~
+@21061 = ~Mort brulé~
+@21062 = ~Guerrier carbonisé~
+@21063 = ~Barbare calciné~
+@21064 = ~Mage pyromancien~
+@210641 = ~Chaîne de contingence - Flétrissure abominable d'Abi-Dalzim + Nuage incendiaire doublé~
+@210642 = ~Souffrez la morsure du feu !~
+@210643 = ~Séquenceur de sorts -  Invisibilité majeur + Peau de pierre + Bouclier de feu, rouge~
+@210644 = ~Déclencheur de sorts - Feu solaire triplé~
+@210645 = ~Contingence - Peau de pierre~
+@210646 = ~Séquenceur mineur - Mains ardentes doublé~
+
+@2107 = ~Surcharge calorique~
+@2108 = ~Requis : avoir choisi la voie du pyromane
+
+Surcharge calorique (Nécromancie)
+Niveau : quête
+Sphère : nécromancie, élémentaire (feu)
+Portée : champ de vision
+Durée : 5 secondes
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort pousse jusqu'à un seuil intolérable la chaleur interne de la créature ciblée. En complément,  un nuage de poussières incandescentes est généré et vient s'agglutiner sur la cible. Elle subit successivement 2D6 points de dégâts de feu, puis 5D6 et enfin 10D6, avant de devoir réussir un jet de sauvegarde contre la mort à -3 ou voler en éclats. Si elle survie, elle refroidi rapidement et subit encore 3D6 dégâts avant que le sort ne cesse de faire effet.
+Ce sort n'a aucun effet sur les créatures de type feu.~
+@21081 = ~Surcharge calorique (Nécromancie)
+Niveau : quête
+Sphère : nécromancie, élémentaire (feu)
+Portée : champ de vision
+Durée : 1 round
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort pousse jusqu'à un seuil intolérable la chaleur interne de la créature ciblée. En complément,  un nuage de poussières incandescentes est généré et vient s'agglutiner sur la cible. Elle subit successivement 2D6 points de dégâts de feu, puis 5D6 et enfin 10D6, avant de devoir réussir un jet de sauvegarde contre la mort à -3 ou voler en éclats. Si elle survie, elle refroidi rapidement et subit encore 3D6 dégâts avant que le sort ne cesse de faire effet.
+Ce sort n'a aucun effet sur les créatures de type feu.~
+
+@2109 = ~Transformation en élémental du feu~
+@21010 = ~Requis : avoir choisi la voie du pyromane
+
+Transformation en élémental du feu
+
+Le prêcheur qui n'a plus la possibilité de convoquer les plus puissants élémentaux mais qui en comprend la nature peut devenir lui même un élémental pour répandre les flammes et la terreur.
+En utilisant cette capacité, il se transforme en un énorme élémental de feu (24 dés de vie) d'une force colossale. Il a une CA de -5, un TAC0 de 0 et inflige 1D8 points de dégâts et 2D8 points de dégâts du feu à chaque attaque. De plus, en revenant à sa forme naturelle il est soigné de 3D10 points de vie.~
+
+@21011 = ~Combustion spontanée résonnante~
+@21012 = ~Requis : Surcharge calorique
+
+Combustion spontanée résonnante (Nécromancie)
+Niveau : quête
+Sphère : nécromancie, élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Ce sort horrible fait exploser toute la chaleur interne de la cible si elle ne réussi pas son jet de sauvegarde contre la mort, la tuant sur le coup en la faisant exploser en une boule de feu qui inflige 10D8 points de dégâts dans les 10 mètres de rayon (jet de sauvegarde contre les sorts pour 1/2). Toute les créatures touchée par la boule de feu subissent les effets du sorts initial et doivent elles-même réussir un jet de sauvegarde contre la mort ou exploser en une nouvelle boule de feu.
+Il est possible qu'une créature subisse plusieurs boules de feu et doivent faire plusieurs jets de sauvegarde, autant qu'il y a de créatures qui explosent. Les explosions multiples en périphérie de la boule de feu peuvent également beaucoup décaler du point original les explosions surnuméraires.~
+@210121 = ~Combustion spontanée résonnante (Nécromancie)
+Niveau : quête
+Sphère : nécromancie, élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Ce sort horrible fait exploser toute la chaleur interne de la cible si elle ne réussi pas son jet de sauvegarde contre la mort, la tuant sur le coup en la faisant exploser en une boule de feu qui inflige 10D8 points de dégâts dans les 10 mètres de rayon (jet de sauvegarde contre les sorts pour 1/2). Toute les créatures touchée par la boule de feu subissent les effets du sorts initial et doivent elles-même réussir un jet de sauvegarde contre la mort ou exploser en une nouvelle boule de feu.
+Il est possible qu'une créature subisse plusieurs boules de feu et doivent faire plusieurs jets de sauvegarde, autant qu'il y a de créatures qui explosent. Les explosions multiples en périphérie de la boule de feu peuvent également beaucoup décaler du point original les explosions surnuméraires.~
+
+
+

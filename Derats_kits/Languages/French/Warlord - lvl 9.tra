@@ -1,0 +1,291 @@
+@791 = ~Arme du vide~
+@792 = ~Arme du vide (Évocation)
+Niveau : 9
+Portée : 0
+Durée : 3 rounds / 2 niveaux
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée une déchirure planaire entre les mains du magicien, qu'il modèle jusqu'à lui donner la forme d'une arme qu'il maîtrise. L'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme constituée de vide anéantit dès lors tout ce qui entre en contact avec elle. Elle pénètre sans effort les armures les plus solides, et donne un bonus de +4 au toucher. Elle atomise la matière autour de ce qu'elle touche, ce qui inflige 2D6+4 points de dégâts supplémentaires. Enfin elle peut désintégrer complètement la victime qu'elle touche, si celle-ci rate un jet de sauvegarde contre la mort à +4.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@79291 = ~Épée du vide~
+@79292 = ~Katana du vide~
+@79293 = ~Hache du vide~
+@79294 = ~Marteau du vide~
+@79295 = ~Fléau du vide~
+@79296 = ~Hallebarde du vide~
+@79297 = ~Arme du vide (Évocation)
+Niveau : 9
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée une déchirure planaire entre les mains du magicien, qu'il modèle jusqu'à lui donner la forme d'une arme qu'il maîtrise. L'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme constituée de vide anéantit dès lors tout ce qui entre en contact avec elle. Elle pénètre sans effort les armures les plus solides, et donne un bonus de +4 au toucher. Elle atomise la matière autour de ce qu'elle touche, ce qui inflige 2D6+4 points de dégâts supplémentaires. Enfin elle peut désintégrer complètement la victime qu'elle touche, si celle-ci rate un jet de sauvegarde contre la mort à +4.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si vous êtes équipé d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper votre bouclier d'abord.~
+@79298 = ~Arme du vide (Évocation)
+Niveau : 9
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+Ce sort crée dans la main de la cible une déchirure planaire qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. L'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme constituée de vide anéantit dès lors tout ce qui entre en contact avec elle. Elle pénètre sans effort les armures les plus solides, et donne un bonus de +4 au toucher. Elle atomise la matière autour de ce qu'elle touche, ce qui inflige 2D6+4 points de dégâts supplémentaires. Enfin elle peut désintégrer complètement la victime qu'elle touche, si celle-ci rate un jet de sauvegarde contre la mort à +4.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si la cible est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper le bouclier de la cible d'abord.~
+@792981 = ~Arme du vide (Évocation)
+Niveau : 9
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+Ce sort crée dans la main de la cible une déchirure planaire qui prend la forme de l'arme que le seigneur de guerre aura choisi lors du lancement du sort. L'arme ne peut plus quitter sa main pendant toute la durée du sort, à moins d'être remplacée par une autre arme modelée de la même façon. Cette arme constituée de vide anéantit dès lors tout ce qui entre en contact avec elle. Elle pénètre sans effort les armures les plus solides, et donne un bonus de +4 au toucher. Elle atomise la matière autour de ce qu'elle touche, ce qui inflige 2D6+4 points de dégâts supplémentaires. Enfin elle peut désintégrer complètement la victime qu'elle touche, si celle-ci rate un jet de sauvegarde contre la mort à +4.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si la cible est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper le bouclier de la cible d'abord.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : dans leurs mains se crée la même arme, mais pour une durée de 2 tours seulement.
+
+Note : ne créez pas une épée à deux mains ou une hallebarde si l'une des cibles affectées est équipée d'un bouclier; cette incohérence ferait planter le jeu. Si vous voulez une telle arme, pensez à déséquiper les boucliers des cibles d'abord.~
+
+@793 = ~Boucliers de l'exalté~
+@794 = ~Boucliers de l'exalté (Abjuration)
+Niveau : 9
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort de protection combine 3 protections majeures.
+Le bouclier élémentaire confère un bonus de résistance de 40% au feu, au froid, à l'acide et à l'électricité.
+Le bouclier physique donne une résistance de 50% contre toutes les armes et un bonus de +5 à la CA.
+Le bouclier magique donne un bonus de +15% de résistance à la magie, +2 à tous les jets de sauvegarde (+4 au jet contre les sorts), et l'immunité contre les sorts mineurs (niveaux 1 et 2).
+Ces trois protections sont inséparables et durent jusqu'au terme de la durée indiquée.~
+@7941 = ~Boucliers de l'exalté (Abjuration)
+Niveau : 9
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort de protection combine 3 protections majeures.
+Le bouclier élémentaire confère un bonus de résistance de 40% au feu, au froid, à l'acide et à l'électricité.
+Le bouclier physique donne une résistance de 50% contre toutes les armes et un bonus de +5 à la CA.
+Le bouclier magique donne un bonus de +15% de résistance à la magie, +2 à tous les jets de sauvegarde (+4 au jet contre les sorts), et l'immunité contre les sorts mineurs (niveaux 1 et 2).
+Ces trois protections sont inséparables et durent jusqu'au terme de la durée indiquée.~
+@7942 = ~Boucliers de l'exalté (Abjuration)
+Niveau : 9
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort de protection combine 3 protections majeures.
+Le bouclier élémentaire confère un bonus de résistance de 40% au feu, au froid, à l'acide et à l'électricité.
+Le bouclier physique donne une résistance de 50% contre toutes les armes et un bonus de +5 à la CA.
+Le bouclier magique donne un bonus de +15% de résistance à la magie, +2 à tous les jets de sauvegarde (+4 au jet contre les sorts), et l'immunité contre les sorts mineurs (niveaux 1 et 2).
+Ces trois protections sont inséparables et durent jusqu'au terme de la durée indiquée.~
+@79421 = ~Boucliers de l'exalté (Abjuration)
+Niveau : 9
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort de protection combine 3 protections majeures.
+Le bouclier élémentaire confère un bonus de résistance de 40% au feu, au froid, à l'acide et à l'électricité.
+Le bouclier physique donne une résistance de 50% contre toutes les armes et un bonus de +5 à la CA.
+Le bouclier magique donne un bonus de +15% de résistance à la magie, +2 à tous les jets de sauvegarde (+4 au jet contre les sorts), et l'immunité contre les sorts mineurs (niveaux 1 et 2).
+Ces trois protections sont inséparables et durent jusqu'au terme de la durée indiquée.
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : les boucliers qui les protègent donnent 27% de résistance élémentaire, 33% de résistance physique, +3 à la CA, 10% de résistance à la magie, +1 à tous les jets (+2 contre les sorts) et l'immunité contre les sorts de niveau 1, pendant 27 rounds.~
+
+@795 = ~Camouflage~
+@796 = ~Camouflage (Illusion)
+Niveau : 9
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Comme le sort de niveau 5 Invisibilité, ce sort rend le seigneur de guerre indécelable par la vision et lui offre des bonus à la défense et aux jets de sauvegarde. Mais le sort camouflage offre en plus une couverture parfaite, en annulant tous ce qui pourrait trahir sa présence. Ainsi ses bruits de pas, sa chaleur corporelle, sa respiration, etc, tout est artificiellement caché. Il peut cependant laisser entendre sa voix s'il désire parler. Le camouflage protège également contre la scrutation, la divination et les visions augmentées.~
+@7961 = ~Camouflage (Illusion)
+Niveau : 9
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Comme le sort de niveau 5 Invisibilité, ce sort rend le seigneur de guerre indécelable par la vision et lui offre des bonus à la défense et aux jets de sauvegarde. Mais le sort camouflage offre en plus une couverture parfaite, en annulant tous ce qui pourrait trahir sa présence. Ainsi ses bruits de pas, sa chaleur corporelle, sa respiration, etc, tout est artificiellement caché. Il peut cependant laisser entendre sa voix s'il désire parler. Le camouflage protège également contre la scrutation, la divination et les visions augmentées.~
+@7962 = ~Camouflage (Illusion)
+Niveau : 9
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Comme le sort de niveau 5 Invisibilité, ce sort rend la cible indécelable par la vision et lui offre des bonus à la défense et aux jets de sauvegarde. Mais le sort camouflage offre en plus une couverture parfaite, en annulant tous ce qui pourrait trahir la présence du sujet. Ainsi ses bruits de pas, sa chaleur corporelle, sa respiration, etc, tout est artificiellement caché. Il peut cependant laisser entendre sa voix s'il désire parler. Le camouflage protège également contre la scrutation, la divination et les visions augmentées.~
+@79621 = ~Camouflage (Illusion)
+Niveau : 9
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Comme le sort de niveau 5 Invisibilité, ce sort rend la cible indécelable par la vision et lui offre des bonus à la défense et aux jets de sauvegarde. Mais le sort camouflage offre en plus une couverture parfaite, en annulant tous ce qui pourrait trahir la présence du sujet. Ainsi ses bruits de pas, sa chaleur corporelle, sa respiration, etc, tout est artificiellement caché. Il peut cependant laisser entendre sa voix s'il désire parler. Le camouflage protège également contre la scrutation, la divination et les visions augmentées.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils deviennent invisibles mais sont imparfaitement couverts : +3 aux jets de sauvegarde et 5% de chance par round d'être détectables, pendant 15 rounds.~
+
+@797 = ~Contrôle de masse~
+@798 = ~ Contrôle de masse (Enchantement)
+Niveau : 9
+Portée : portée de vue
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : 9 m de rayon
+Jet de sauvegarde : annule
+
+En lançant ce sort, le seigneur de guerre tente de prendre le contrôle de toutes les créatures dans la zone désignée. La réussite dépend du jet de sauvegarde des cibles : celles qui échouent à un jet de sauvegarde à -6 sont contrôlées mais gardent un semblant de lucidité : tout acte violent à leur encontre par le magicien ou un allié met fin aussitôt au contrôle imposé par le sort et libère la créature. Celles qui sont assez faibles pour rater un jet de sauvegarde à -2 deviennent des pantins sous sa coupe, dont il peut faire ce qu'il veut. Elles ne peuvent pas se libérer de l'emprise du sort, même si les instructions données vont à l'encontre de leur nature.
+Ce sort ne peut contrôler que les créatures humanoïdes pensantes. Les instructions étant données par télépathie, il n'y a aucune barrière de langue ou de culture pour empêcher le contrôle.~
+@7981 = ~ Contrôle de masse (Enchantement)
+Niveau : 9
+Portée : portée de vue
+Durée : 2 tours
+Temps d'incantation : 5
+Zone d'effet : 9 m de rayon
+Jet de sauvegarde : annule
+
+En lançant ce sort, le seigneur de guerre tente de prendre le contrôle de toutes les créatures dans la zone désignée. La réussite dépend du jet de sauvegarde des cibles : celles qui échouent à un jet de sauvegarde à -6 sont contrôlées mais gardent un semblant de lucidité : tout acte violent à leur encontre par le magicien ou un allié met fin aussitôt au contrôle imposé par le sort et libère la créature. Celles qui sont assez faibles pour rater un jet de sauvegarde à -2 deviennent des pantins sous sa coupe, dont il peut faire ce qu'il veut. Elles ne peuvent pas se libérer de l'emprise du sort, même si les instructions données vont à l'encontre de leur nature.
+Ce sort ne peut contrôler que les créatures humanoïdes pensantes. Les instructions étant données par télépathie, il n'y a aucune barrière de langue ou de culture pour empêcher le contrôle.~
+
+@799 = ~Invulnérabilité~
+@7910 = ~Invulnérabilité (Abjuration, Nécromancie)
+Niveau : 9
+Portée : lanceur
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Sort de protection ultime, l'invulnérabilité a pour but de rendre le seigneur de guerre véritablement immortel. Pendant les 5 rounds que dure le sort, le magicien est immunisé à toutes les formes de dégâts, à tous les effets de mort, de désintégration, de pétrification, et de manière générale, à tout ce qui pourrait mettre fin à son existence. De plus, il réussit automatiquement tous les jets de sauvegarde.
+Note : si le magicien est déjà affecté par quelque chose de dangereux au moment de lancer le sort, cette plaie ne peut le tuer pendant les 5 rounds mais pour autant elle n'est pas annulée, et continuera son effet néfaste après la fin du sort. La puissance du sort est telle qu'il est impossible de le maintenir très longtemps.~
+@79101 = ~Invulnérabilité (Abjuration, Nécromancie)
+Niveau : 9
+Portée : champ de vision
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Sort de protection ultime, l'invulnérabilité a pour but de rendre la cible véritablement immortelle. Pendant les 5 rounds que dure le sort, le bénéficiaire est immunisé à toutes les formes de dégâts, à tous les effets de mort, de désintégration, de pétrification, et de manière générale, à tout ce qui pourrait mettre fin à son existence. De plus, il réussit automatiquement tous les jets de sauvegarde.
+Note : si le sujet est déjà affecté par quelque chose de dangereux au moment de lancer le sort, cette plaie ne peut le tuer pendant les 5 rounds mais pour autant elle n'est pas annulée, et continuera son effet néfaste après la fin du sort. La puissance du sort est telle qu'il est impossible de le maintenir très longtemps.~
+@791011 = ~Invulnérabilité (Abjuration, Nécromancie)
+Niveau : 9
+Portée : champ de vision
+Durée : 5 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Sort de protection ultime, l'invulnérabilité a pour but de rendre la cible véritablement immortelle. Pendant les 5 rounds que dure le sort, le bénéficiaire est immunisé à toutes les formes de dégâts, à tous les effets de mort, de désintégration, de pétrification, et de manière générale, à tout ce qui pourrait mettre fin à son existence. De plus, il réussit automatiquement tous les jets de sauvegarde.
+Note : si le sujet est déjà affecté par quelque chose de dangereux au moment de lancer le sort, cette plaie ne peut le tuer pendant les 5 rounds mais pour autant elle n'est pas annulée, et continuera son effet néfaste après la fin du sort. La puissance du sort est telle qu'il est impossible de le maintenir très longtemps.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont invulnérables pendants 3 rounds.~
+
+@7911 = ~Nuage incendiaire~
+@7912 = ~Nuage incendiaire (Évocation)
+Niveau : 9
+Portée : champ de vision
+Durée : 1 tour
+Temps d'incantation : 6
+Zone d'effet : nuage de 9 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort crée dans la zone désignée un vaste nuage de flammes dévorantes. Tout ce qui se trouve dans le nuage subit 1D4 points de dégâts par niveau du magicien et par round passé dans le nuage. Chaque round, un jet de sauvegarde réussi permet de ne subir que la moitié des dégâts.~
+@79121 = ~Nuage incendiaire (Évocation)
+Niveau : 9
+Portée : champ de vision
+Durée : 1 tour
+Temps d'incantation : 5
+Zone d'effet : nuage de 9 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort crée dans la zone désignée un vaste nuage de flammes dévorantes. Tout ce qui se trouve dans le nuage subit 20D4 points de dégâts par round passé dans le nuage. Chaque round, un jet de sauvegarde réussi permet de ne subir que la moitié des dégâts.~
+
+@7913 = ~Sécheresse~
+@7914 = ~Sécheresse (Transmutation)
+Niveau : 9
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : bulle de 12 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort impose une chaleur viciée dans la zone désignée, comme un désert qui aurait subi 2 ans de soleil sans une goutte d'eau. Toutes les formes de vie situées dans la zone sont profondément déshydratées. Toutes les plantes, le bétail, les animaux et créatures qui ont moins de 5dvs de vies sont instantanément tuées. Les survivants subissent 1D8 points de dégâts par niveau du seigneur de guerre (25D8 au maximum). Un jet de sauvegarde contre les sorts permet de réduire de moitié les dégâts.~
+@79141 = ~Sécheresse (Transmutation)
+Niveau : 9
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : bulle de 12 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort impose une chaleur viciée dans la zone désignée, comme un désert qui aurait subi 2 ans de soleil sans une goutte d'eau. Toutes les formes de vie situées dans la zone sont profondément déshydratées. Toutes les plantes, le bétail, les animaux et créatures qui ont moins de 5dvs de vies sont instantanément tuées. Les survivants subissent 1D8 points de dégâts par niveau du seigneur de guerre (25D8 au maximum). Un jet de sauvegarde contre les sorts permet de réduire de moitié les dégâts.~
+
+@7915 = ~Transfomigration~
+@7916 = ~Transfomigration (Transmutation)
+Niveau : 9
+Portée : lanceur
+Durée : instantanée
+Temps d'incantation : spécial
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant un moyen d'utiliser la magie de manière spontanée que le seigneur de guerre à découvert ce sort très utile, mais coûtant.
+Cet étrange sort permet de modeler l’énergie emmagasinée par le lanceur lors de la mémorisation de ses sorts pour la transformer en n'importe quel sort qu'il connaît, au prix de trois fois cette énergie.
+En fait, une fois l’incantation commencée, le magicien peut choisir n'importe quel sort qu'il connaît, et c'est ce sort qui sera lancé à la fin de l'incantation. L’énergie dépensée correspond à "l'oubli" de Transfomigration et deux autres sorts choisis parmi ceux de plus hauts niveaux qu'il a en encore en mémoire.
+Le temps d'incantation de ce sort dépend directement du sort que le seigneur de guerre désire lancer : il correspond au temps d'incantation de ce dernier. ~
+@79161 = ~Transfomigration (Transmutation)
+Niveau : 9
+Portée : lanceur
+Durée : instantanée
+Temps d'incantation : spécial
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant un moyen d'utiliser la magie de manière spontanée que le seigneur de guerre à découvert ce sort très utile, mais coûtant.
+Cet étrange sort permet de modeler l’énergie emmagasinée par le lanceur lors de la mémorisation de ses sorts pour la transformer en n'importe quel sort qu'il connaît, au prix de deux fois cette énergie.
+En fait, une fois l’incantation commencée, le magicien peut choisir n'importe quel sort qu'il connaît, et c'est ce sort qui sera lancé à la fin de l'incantation. L’énergie dépensée correspond à "l'oubli" de Transfomigration et un autre sort choisi parmi ceux de plus hauts niveaux qu'il a en encore en mémoire.
+Le temps d'incantation de ce sort dépend directement du sort que le seigneur de guerre désire lancer : il correspond au temps d'incantation de ce dernier. ~
+
+@7917 = ~Vaporisation~
+@7918 = ~Vaporisation (Évocation, Altération)
+Niveau : 9
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort annihile complètement la créature prise pour cible. Lorsque l'incantation est finie, une colonne de magie brute entoure la créature, qui voit tout son être tiraillé pour fusionner avec la magie ambiante. Si elle rate un jet de sauvegarde contre les sorts à -6 elle est vaporisée, transformée en particules magiques qui disparaissent en même temps que la colonne. Si elle réussit le jet de sauvegarde, le choc métabolique qu'elle subit est tel qu'elle encaisse 10D10 points de dégâts.~
+@79181 = ~Vaporisation (Évocation, Altération)
+Niveau : 9
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort annihile complètement la créature prise pour cible. Lorsque l'incantation est finie, une colonne de magie brute entoure la créature, qui voit tout son être tiraillé pour fusionner avec la magie ambiante. Si elle rate un jet de sauvegarde contre les sorts à -6 elle est vaporisée, transformée en particules magiques qui disparaissent en même temps que la colonne. Si elle réussit le jet de sauvegarde, le choc métabolique qu'elle subit est tel qu'elle encaisse 10D10 points de dégâts.~

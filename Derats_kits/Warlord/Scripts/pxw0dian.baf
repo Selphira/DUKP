@@ -1,0 +1,39 @@
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+  !GlobalTimerNotExpired("DemonInvisibility","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("DemonInvisibility","LOCALS",6)
+    ReallyForceSpell(Myself,WIZARD_IMPROVED_INVISIBILITY)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Lastseenby(Myself),STATE_HELPLESS)
+  !GlobalTimerNotExpired("DemonSpell","LOCALS")
+THEN
+  RESPONSE #100
+    ForceSpell(Lastseenby(Myself),CLERIC_HOLD_PERSON)
+    SetGlobalTimer("DemonSpell","LOCALS",12)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  RandomNum(2,1)
+  !GlobalTimerNotExpired("DemonSpell","LOCALS")
+THEN
+  RESPONSE #70
+    ForceSpell(Lastseenby(Myself),DEATHKNIGHT_FIREBALL)
+    SetGlobalTimer("DemonSpell","LOCALS",12)
+  RESPONSE #30
+    ApplySpell(Myself,CLERIC_ANIMATE_DEAD)
+    SetGlobalTimer("DemonSpell","LOCALS",12)
+END
+
+IF
+  See([0.GENERAL_ITEM.0.TANARI])
+THEN
+  RESPONSE #100
+    AttackReevaluate([0.GENERAL_ITEM.0.TANARI],30)
+END

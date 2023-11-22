@@ -1,0 +1,42 @@
+@71111 = ~Arcane Research~
+@71112 = ~Arcane Research
+
+Excluded by: Inner Search
+
+The warlord that pursues this path tries to better understand the magic as real wizards feel it, applying to decipher runes, mysticism and the famous "painting" which he heard talking about.
+By exercising to decipher runes, he gains the ability to read and free the energy of mage scrolls. He is, however, still unable to learn new spells by them.
+While working on the spells he already knows, he manages to correct those having errors.
+Finally, continuing to make progress in the path of mysteries, he can exceed the limit of known spells and create new level 10 spells from next level. These spells are memorized as level 9 spells, and his memorizing abilities tune to this spell level, he gains an additional memorizable level 9 spell every 3 level 10 spells created.~
+@711121 = ~Improved memorization skills: + 1 level 9 spell~
+
+@71113 = ~Arcane Development: metamagic~
+@71114 = ~Arcane Development: metamagic
+
+Requirement: Arcane Research
+
+Researches on metamagic allows the warlord to improve his use of magical energy. He develops, in fact, a new spell: "Foresigh", improved two spells he already knows: "Energy in All" and "Transformigration", and gains the ability to combine two spells once a day.
+
+Combination of spells: By using this gift, the warlord can combine two spells to cast them at once.
+Technically, it takes him 5 segments of time, after which he chooses two spells to be merged. His spells are erased from his memory, and he gains the ability to cast the new created spell in 1 segment of time.
+He can merge only spells with identical targets: two spells that target himself, or two spells that target a creature, or two spells that target an area, but no matter what spell may be chosen for this process.
+The merged spell can indefinitely remain "ready", as an annex to his memorizing ability, but prevents any new combination until it is freed (cast).~
+@711141 = ~Combination of Spells~
+@711142 = ~Spells combined~
+
+@71115 = ~Arcane Improvement: depersonalization~
+@71116 = ~Arcane Improvement: depersonalization
+
+Requirement: Arcane Development: metamagic
+
+The concepts of metamagic that the warlord has developed, paired with his work on improving his spells allowed him to develop a new benefit for his self-improvement spells. As it happens to cast offensive spells against a single target, he can now cast his beneficial spells on a third party, within the limit of his visual range. The spell will act on this target as if it was casted on himself (except spells that alter skills based upon his magic or innate skills)
+
+Thus he can not divert level 10 spells, special and complex.~
+
+@71117 = ~Arcane Enhancement: aura diffusion~
+@71118 = ~Arcane Enhancement: aura diffusion
+
+Requirement: Arcane Improvement: depersonalization
+
+Always based on existing options his offensive spells (especially those attacking the mind), the warlord manages to derive his benefial spells into area spells. More precily, he could spread them by aura from the original target: the latter then takes benefits from all spell advantages, while all allies within 5 meters around will benefit of the same effects reduced by one third of power and duration.
+
+In the case the spells can not be cumulated, a person affected by the aura of such a spell can not be affected by the main spell, and vice versa.~

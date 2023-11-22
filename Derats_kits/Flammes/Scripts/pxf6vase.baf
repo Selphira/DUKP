@@ -1,0 +1,42 @@
+IF
+	HitBy([0],FIRE)
+THEN
+	RESPONSE #100
+	IncrementGlobal("fission","LOCALS",1)
+END
+
+IF
+	GlobalGT("fission","LOCALS",4)
+	HPGT(Myself,60)
+	!StateCheck(Myself,STATE_HELPLESS)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@26411)
+	SetGlobal("fission","LOCALS",0)
+	ApplyDamagePercent(Myself,50,MAGIC)
+	ForceSpellRES("pxf6vas3",Myself)
+END
+
+IF
+	GlobalGT("fission","LOCALS",4)
+	HPGT(Myself,40)
+	!StateCheck(Myself,STATE_HELPLESS)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@26411)
+	SetGlobal("fission","LOCALS",0)
+	ApplyDamagePercent(Myself,50,MAGIC)
+	ForceSpellRES("pxf6vas2",Myself)
+END
+
+IF
+	GlobalGT("fission","LOCALS",4)
+	HPGT(Myself,20)
+	!StateCheck(Myself,STATE_HELPLESS)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@26411)
+	SetGlobal("fission","LOCALS",0)
+	ApplyDamagePercent(Myself,50,MAGIC)
+	ForceSpellRES("pxf6vas1",Myself)
+END

@@ -1,0 +1,10 @@
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	See(NearestEnemyOf(Myself))
+	Global("pxf4trit","LOCALS",0)
+	Range(NearestEnemyOf(Myself),9)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxf4tri1",NearestEnemyOf(Myself))
+	SetGlobal("pxf4trit","LOCALS",1)
+END

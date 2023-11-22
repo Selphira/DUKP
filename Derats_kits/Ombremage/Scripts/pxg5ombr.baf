@@ -1,0 +1,25 @@
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Lastseenby(Myself),STATE_CONFUSED)
+  Global("firstUse","LOCALS",0)
+THEN
+  RESPONSE #100
+    ForceSpellRES("pxg5omb1",Lastseenby(Myself))
+    SetGlobal("firstUse","LOCALS",1)
+END
+
+IF
+  Delay(12)
+  See(Nearestenemyof(Myself))
+  !StateCheck(Lastseenby(Myself),STATE_CONFUSED)
+THEN
+  RESPONSE #100
+    ForceSpellRES("pxg5omb1",Lastseenby(Myself))
+END
+
+IF
+  See(Nearestenemyof(Myself))
+THEN
+  RESPONSE #100
+    AttackReevaluate(Nearestenemyof(Myself),5)
+END

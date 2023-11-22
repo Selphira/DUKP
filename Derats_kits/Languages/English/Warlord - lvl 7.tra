@@ -1,0 +1,550 @@
+@771 = ~Elemental Barrier~
+@772 = ~Elemental Barrier (Abjuration)
+Level: 7
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 7
+Area of Effect: caster
+Saving Throw: none
+
+The elemental barries grants 5% per level (max 100%) resistance to all elemental attacks: fire, cold, acid and electricity, whether of magical origins or not: spells, weapons, wands, words, etc. The effects of this spell last to its expiration or dispelling by an outside source.~
+@77219 = ~Elemental Barrier (Abjuration)
+Level: 7
+Range: 0
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+The elemental barries grants 100% resistance to all elemental attacks: fire, cold, acid and electricity, whether of magical origins or not: spells, weapons, wands, words, etc. The effects of this spell last to its expiration or dispelling by an outside source.~
+@77220 = ~Elemental Barrier (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+The elemental barries grants 100% resistance to all elemental attacks: fire, cold, acid and electricity, whether of magical origins or not: spells, weapons, wands, words, etc. The effects of this spell last to its expiration or dispelling by an outside source.~
+@772201 = ~Elemental Barrier (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+The elemental barries grants 100% resistance to all elemental attacks: fire, cold, acid and electricity, whether of magical origins or not: spells, weapons, wands, words, etc. The effects of this spell last to its expiration or dispelling by an outside source.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they receive 66% resistance to elements for 2 turns.~
+
+@773 = ~Major Elemental Shield~
+@774 = ~Major Elemental Shield (Evocation)
+Level: 7
+Range: 0
+Duration: 1 round/level
+Casting Time: 7
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to be covered by a full elemental shield, granting him 30% + 3% per level (max 90%) resistance to the chosen element as well as a backlash ability of 2D8 +2 points of damage to anyone who hits him. Thie shield has also other skills, which vary according to its nature.
+- Fire:
+Burning Flame: The shield takes the shape of a great flame that releases an intense heat.
+Every round, all creatures within 2 meters radius will suffer 2D8 fire damage points.
+Flare: any opponent who is adversely affected must make a successful saving throw at -2 or will burn for 5 rounds: in this case he will suffer diminishing damage as follows: 2D10 +5, 2D8 +4, 2D6 +3, 2D4 +2, 2D2 +1. As long as he burns, he can no longer feel the effects of backlash (the first 3 rounds) and can not flare up again.
+Fire creatures (salamander, elemental, etc.) can not flare up.
+- Cold:
+Crystallization: the skin of the protected mage will turn into ice and partially crystallizes: basic AC increased to 7 and 25% slashing and piercing damage resistance.
+Freezing Aura: any creature that remains more than 3 seconds within 3 meters from the mage is automatically slowed for the current round: -20% to movement speed and -2 to saving throws against hits.
+Freeze: any opponent who is adversely affected must make a successful saving throw at -2 or freezes on the spot, turning into an inert block for 5 rounds. Then he is immune against almost all attacks (slashing attacks still affect him by half damage) but is unable to take any action and suffers 1D6 +2 cumulative cold damage points per round until ice evaporates.
+- Electricity:
+Electricity Globe: the shield takes the shape of a large globe. Every round, it inflicts 4D6 points of damage to the creatures in its radius. A saving throw vs. spells at -2 allows to reduce the damage by half.
+Electric Shock: Any opponent that is adversely affected must make a successful saving throw vs. spells at -2 or will suffer quadruplets damage (8D8 +8) and a shock that stuns him for 1 round and imposes a -2 penalty to all saving throws for the following 2 rounds. Penalties of electric shocks are not cumulable.
+- Acid:
+Acid Bubble: the shield takes the shape of a boiling drops bubble. The humidity of this envelope provides additional 50% protection against fire. It extends up to cover the weapon held by the mage, which adds 2D4 acid damage points to its hits.
+Spatter: any opponent who is adversely affected has 50% chance to occur into the shape of a big spatter. If this happens, it's 8D8 +8 damage points inflicted. A saving throw vs. spells allows to halve damage and if failed the victim is covered by acid and continues being eroded for 3 rounds, for a diminishing damage: 6D6 +6, 4D4 +4, 2D2 +2. Meanwhile, the pain resulting from corrosion penalizes him by -2 to THAC0 and -1 to dexterity.
+
+Only 1 major elemental shield can be active at a time.~
+@7741 = ~Freezing~
+@7742 = ~Major Elemental Shield (Evocation)
+Level: 7
+Range: 0
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to be covered by a full elemental shield, granting him 90% resistance to the chosen element as well as a backlash ability of 2D8 +2 points of damage to anyone who hits him. Thie shield has also other skills, which vary according to its nature.
+- Fire:
+Burning Flame: The shield takes the shape of a great flame that releases an intense heat.
+Every round, all creatures within 2 meters radius will suffer 2D8 fire damage points.
+Flare: any opponent who is adversely affected must make a successful saving throw at -2 or will burn for 5 rounds: in this case he will suffer diminishing damage as follows: 2D10 +5, 2D8 +4, 2D6 +3, 2D4 +2, 2D2 +1. When he flares up, he must must make a successful saving throw vs. spells or he flees, scared of burning alive. As long as he burns, he can no longer feel the effects of backlash (the first 3 rounds) and can not flare up again.
+Fire creatures (salamander, elemental, etc.) can not flare up.
+- Cold:
+Crystallization: the skin of the protected mage will turn into ice and partially crystallizes: basic AC increased to 7 and 25% slashing and piercing damage resistance.
+Freezing Aura: any creature that remains more than 3 seconds within 3 meters from the mage is automatically slowed for the current round: -20% to movement speed and -2 to saving throws against hits.
+Freeze: any opponent who is adversely affected must make a successful saving throw at -2 or freezes on the spot, turning into an inert block for 5 rounds. Then he is immune against almost all attacks (slashing attacks still affect him by half damage) but is unable to take any action and suffers 1D6 +2 cumulative cold damage points per round until ice evaporates.
+- Electricity:
+Electricity Globe: the shield takes the shape of a large globe. Every round, it inflicts 4D6 points of damage to the creatures in its radius. A saving throw vs. spells at -2 allows to reduce the damage by half.
+Electric Shock: Any opponent that is adversely affected must make a successful saving throw vs. spells at -2 or will suffer quadruplets damage (8D8 +8) and a shock that stuns him for 1 round and imposes a -2 penalty to all saving throws for the following 2 rounds. Penalties of electric shocks are not cumulable.
+- Acid:
+Acid Bubble: the shield takes the shape of a boiling drops bubble. The humidity of this envelope provides additional 50% protection against fire. It extends up to cover the weapon held by the mage, which adds 2D4 acid damage points to its hits.
+Spatter: any opponent who is adversely affected has 50% chance to occur into the shape of a big spatter. If this happens, it's 8D8 +8 damage points inflicted. A saving throw vs. spells allows to halve damage and if failed the victim is covered by acid and continues being eroded for 3 rounds, for a diminishing damage: 6D6 +6, 4D4 +4, 2D2 +2. Meanwhile, the pain resulting from corrosion penalizes him by -2 to THAC0 and -1 to dexterity.
+
+Only 1 major elemental shield can be active at a time.~
+@7743 = ~Major Elemental Shield (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to be covered by a full elemental shield, granting him 90% resistance to the chosen element by the warlord as well as a backlash ability of 2D8 +2 points of damage to anyone who hits him. Thie shield has also other skills, which vary according to its nature.
+- Fire:
+Burning Flame: The shield takes the shape of a great flame that releases an intense heat.
+Every round, all creatures within 2 meters radius will suffer 2D8 fire damage points.
+Flare: any opponent who is adversely affected must make a successful saving throw at -2 or will burn for 5 rounds: in this case he will suffer diminishing damage as follows: 2D10 +5, 2D8 +4, 2D6 +3, 2D4 +2, 2D2 +1. When he flares up, he must must make a successful saving throw vs. spells or he flees, scared of burning alive. As long as he burns, he can no longer feel the effects of backlash (the first 3 rounds) and can not flare up again.
+Fire creatures (salamander, elemental, etc.) can not flare up.
+- Cold:
+Crystallization: the skin of the protected recipient will turn into ice and partially crystallizes: basic AC increased to 7 and 25% slashing and piercing damage resistance.
+Freezing Aura: any creature that remains more than 3 seconds within 3 meters from the recipient is automatically slowed for the current round: -20% to movement speed and -2 to saving throws against hits.
+Freeze: any opponent who is adversely affected must make a successful saving throw at -2 or freezes on the spot, turning into an inert block for 5 rounds. Then he is immune against almost all attacks (slashing attacks still affect him by half damage) but is unable to take any action and suffers 1D6 +2 cumulative cold damage points per round until ice evaporates.
+- Electricity:
+Electricity Globe: the shield takes the shape of a large globe. Every round, it inflicts 4D6 points of damage to the creatures in its radius. A saving throw vs. spells at -2 allows to reduce the damage by half.
+Electric Shock: Any opponent that is adversely affected must make a successful saving throw vs. spells at -2 or will suffer quadruplets damage (8D8 +8) and a shock that stuns him for 1 round and imposes a -2 penalty to all saving throws for the following 2 rounds. Penalties of electric shocks are not cumulable.
+- Acid:
+Acid Bubble: the shield takes the shape of a boiling drops bubble. The humidity of this envelope provides additional 50% protection against fire. It extends up to cover the weapon held by the recipient, which adds 2D4 acid damage points to its hits.
+Spatter: any opponent who is adversely affected has 50% chance to occur into the shape of a big spatter. If this happens, it's 8D8 +8 damage points inflicted. A saving throw vs. spells allows to halve damage and if failed the victim is covered by acid and continues being eroded for 3 rounds, for a diminishing damage: 6D6 +6, 4D4 +4, 2D2 +2. Meanwhile, the pain resulting from corrosion penalizes him by -2 to THAC0 and -1 to dexterity.
+
+Only 1 major elemental shield can be active at a time.~
+@77431 = ~Major Elemental Shield (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to be covered by a full elemental shield, granting him 90% resistance to the chosen element by the warlord as well as a backlash ability of 2D8 +2 points of damage to anyone who hits him. Thie shield has also other skills, which vary according to its nature.
+- Fire:
+Burning Flame: The shield takes the shape of a great flame that releases an intense heat.
+Every round, all creatures within 2 meters radius will suffer 2D8 fire damage points.
+Flare: any opponent who is adversely affected must make a successful saving throw at -2 or will burn for 5 rounds: in this case he will suffer diminishing damage as follows: 2D10 +5, 2D8 +4, 2D6 +3, 2D4 +2, 2D2 +1. When he flares up, he must must make a successful saving throw vs. spells or he flees, scared of burning alive. As long as he burns, he can no longer feel the effects of backlash (the first 3 rounds) and can not flare up again.
+Fire creatures (salamander, elemental, etc.) can not flare up.
+- Cold:
+Crystallization: the skin of the protected recipient will turn into ice and partially crystallizes: basic AC increased to 7 and 25% slashing and piercing damage resistance.
+Freezing Aura: any creature that remains more than 3 seconds within 3 meters from the recipient is automatically slowed for the current round: -20% to movement speed and -2 to saving throws against hits.
+Freeze: any opponent who is adversely affected must make a successful saving throw at -2 or freezes on the spot, turning into an inert block for 5 rounds. Then he is immune against almost all attacks (slashing attacks still affect him by half damage) but is unable to take any action and suffers 1D6 +2 cumulative cold damage points per round until ice evaporates.
+- Electricity:
+Electricity Globe: the shield takes the shape of a large globe. Every round, it inflicts 4D6 points of damage to the creatures in its radius. A saving throw vs. spells at -2 allows to reduce the damage by half.
+Electric Shock: Any opponent that is adversely affected must make a successful saving throw vs. spells at -2 or will suffer quadruplets damage (8D8 +8) and a shock that stuns him for 1 round and imposes a -2 penalty to all saving throws for the following 2 rounds. Penalties of electric shocks are not cumulable.
+- Acid:
+Acid Bubble: the shield takes the shape of a boiling drops bubble. The humidity of this envelope provides additional 50% protection against fire. It extends up to cover the weapon held by the recipient, which adds 2D4 acid damage points to its hits.
+Spatter: any opponent who is adversely affected has 50% chance to occur into the shape of a big spatter. If this happens, it's 8D8 +8 damage points inflicted. A saving throw vs. spells allows to halve damage and if failed the victim is covered by acid and continues being eroded for 3 rounds, for a diminishing damage: 6D6 +6, 4D4 +4, 2D2 +2. Meanwhile, the pain resulting from corrosion penalizes him by -2 to THAC0 and -1 to dexterity.
+
+Only 1 major elemental shield can be active at a time.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They are covered by an elemental shield of the same type as the recipient, which grants 60% resistance, gives the same associated bonuses, with a backlash skill that will apply only once over two (50% chance) for 13 rounds.~
+
+@775 = ~Ultimate Dispelling Field~
+@776 = ~Ultimate Dispelling Field (Abjuration)
+Level: 7
+Range: 0
+Duration: special
+Casting Time: 3
+Area of Effect: 10-meters radius
+Saving Throw: none
+
+This spell is a more powerful version of Dispelling Field, which acts the same way, but counting level of the caster as doubled. Thus, if the warlord of level 16 casts this spell, it dispels magic of all creatures within 10 meters radius as if he was of level 32.
+Whatever be the result, there is always at least 1% chance of success or failure.~
+@7761 = ~Ultimate Dispelling Field (Abjuration)
+Level: 7
+Range: 0
+Duration: special
+Casting Time: 3
+Area of Effect: 10-meters radius
+Saving Throw: none
+
+This spell is a more powerful version of Dispelling Field, which acts the same way, but counting level of the caster as doubled. Thus, when the warlord casts this spell, it dispels magic of all creatures within 10 meters radius as if he was of level 40.
+Whatever be the result, there is always at least 1% chance of success or failure.~
+
+@777 = ~Wrath of the Earth~
+@778 = ~Wrath of the Earth (Alteration)
+Level: 7
+Range: visual range of the caster
+Duration: 1 round
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell unleashes all the power of earth against a single creature. When this spell is cast, all telluric movements of the area join together to create under it a seismic fault.
+If the target makes a successful saving throw vs. spell, the fault is limited and spits out a tongue of fire inflicting him 10D6 damage points.
+But if the target fails the saving throw, the fault is significant enough for the creature to fall into it. He suffer extra 10D10 slashing damage points when the fault closes and must make a saving throw vs. breath at -2 to avoid dying crushed. If he succeeds this second saving throw, he is only partly crushed and keeps a heavy handicap (-4 to AC and to hit, movement speed reduced by half).~
+@7781 = ~Crushed by the Fault~
+@7782 = ~Wrath of the Earth (Alteration)
+Level: 7
+Range: visual range of the caster
+Duration: 1 round
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell unleashes all the power of earth against a single creature. When this spell is cast, all telluric movements of the area join together to create under it a seismic fault.
+If the target makes a successful saving throw vs. spell, the fault is limited and spits out a tongue of fire inflicting him 10D6 damage points.
+But if the target fails the saving throw, the fault is significant enough for the creature to fall into it. He suffer extra 10D10 slashing damage points when the fault closes and must make a saving throw vs. breath at -2 to avoid dying crushed. If he succeeds this second saving throw, he is only partly crushed and keeps a heavy handicap (-4 to AC and to hit, movement speed reduced by half).~
+@7781 = ~Crushed by the Fault~
+
+@779 = ~Major Disorder~
+@7710 = ~Major Disorder (Enchantment)
+Level: 7
+Range: visual range of the caster
+Duration: special
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+Major Disorder aims to give a major stroke to the target creature. If it fails a saving throw, it's being struck by madness and stays vegetative, definitely. Only a spell of Major Restoration or Wish can cure this condition. If the saving throw is successful, it will still remain confused for 2 turns.~
+@77101 = ~Major Disorder (Enchantment)
+Level: 7
+Range: visual range of the caster
+Duration: special
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: special
+
+Major Disorder aims to give a major stroke to the target creature. If it fails a saving throw, it's being struck by madness and stays vegetative, definitely. Only a spell of Major Restoration or Wish can cure this condition. If the saving throw is successful, it will still remain confused for 2 turns.~
+
+@7711 = ~Devastation~
+@7712 = ~Devastation (Necromancy, Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 2 rounds/level
+Casting Time: 6
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell aims to drastically reduce the resistance of a too powerful creature.
+It acts in several stages:
+First, it reduces magic resistance of the target by 20%. There is no saving throw allowed against this, and the initial magic resistance of the creature does not protect it at all.
+Then, if the spell isn't negated by the remaining magic resistance of the creature, this will have all saving throws reduced by -4. Again, there is no saving throw allowed to resist.
+Finally, if the creature fails a saving throw vs. spells, it will suffer the following penalties:
+- 4 to AC
+Strength and constitution set at 8
+- 30% elemental damage resistance
+- 20% physical damage resistance
+
+If the creature has no initial resistance to damage or elements, this becomes a vulnerability.
+
+Penalties imposed by this spell improves by experience of the warlord, according to the following table:
+Level 15: strength and constitution set at 5
+Level 16: AC reduction set to -6
+Level 17: elemental resistance reduction set to -50%
+Level 18: physical resistance reduction set to -35%
+Level 19: magic resistance reduction set to -30%
+Level 20: saving throws reduction set to -6
+Level 21: shock inflicted by the spell in case of a failed saving throw is so powerful that is the creature has less than 60 Hit Dice, it will die.
+
+If the spell is cast several times on a creature, it can be cumulated according to the following table:
+Spell negated by magic resistance: magic resistance reduction of the following spell is cumulative.
+Spell negated by a successful saving throw: magic resistance reduction and saving throws reduction of the following spell are cumulative.
+Failed saving throw: the target suffers the full effects and can not be affected again for the duration of the spell.~
+@77129 = ~Vulnerability Increased~
+@771291 = ~Devastation (Necromancy, Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell aims to drastically reduce the resistance of a too powerful creature.
+It acts in several stages:
+First, it reduces magic resistance of the target by 30%. There is no saving throw allowed against this, and the initial magic resistance of the creature does not protect it at all.
+Then, if the spell isn't negated by the remaining magic resistance of the creature, this will have all saving throws reduced by -6. Again, there is no saving throw allowed to resist.
+Finally, if the creature fails a saving throw vs. spells, it will suffer the following penalties:
+- 6 to AC
+Strength and constitution set at 5
+- 50% elemental damage resistance
+- 35% physical damage resistance
+
+If the creature has no initial resistance to damage or elements, this becomes a vulnerability.
+
+At level 21, shock inflicted by the spell in case of a failed saving throw is so powerful that is the creature has less than 60 Hit Dice, it will die.
+
+If the spell is cast several times on a creature, it can be cumulated according to the following table:
+Spell negated by magic resistance: magic resistance reduction of the following spell is cumulative.
+Spell negated by a successful saving throw: magic resistance reduction and saving throws reduction of the following spell are cumulative.
+Failed saving throw: the target suffers the full effects and can not be affected again for the duration of the spell.~
+
+@7713 = ~Energy in All~
+@7714 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: 0
+Duration: 1 round/3 levels
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly, because fabric is not an easily manipulable element for a mage that does not spend many years to understand it.
+The spell allows the warlord to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the mage will remember a spell of level 1 to 8 (determined by throwing a D8; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.
+There is also a 20% - 1% chance every 2 levels of the caster (minimum 10% at level 20) at every cast of the spell that the attempt to control the fabric fails, causing the opposite of the desired effect: the spellcaster has his magic absorbed by the fabric and forgets 1D10 spells.~
+@77141 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: 0
+Duration: 6 rounds (7 at level 21)
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly, because fabric is not an easily manipulable element for a mage that does not spend many years to understand it.
+The spell allows the warlord to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the mage will remember a spell of level 1 to 8 (determined by throwing a D8; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.
+There is also a 10% chance at every cast of the spell that the attempt to control the fabric fails, causing the opposite of the desired effect: the spellcaster has his magic absorbed by the fabric and forgets 1D10 spells.~
+@77142 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: 0
+Duration: 6 rounds (7 at level 21)
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly.
+The spell allows the warlord to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the mage will remember a spell of level 1 to 8 (determined by throwing a D8; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.~
+@77143 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: 0
+Duration: 6 rounds (7 at level 21)
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly.
+The spell allows the warlord to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the mage will remember a spell of level 3 to 8 (determined by throwing a D6 +2; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.~
+@77144 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: visual range of the caster
+Duration: 6 rounds (7 at level 21)
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly.
+The spell allows the mage recipient (the spell has no effect on a recipient with no arcane skill) to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the recipient will remember a spell of level 3 to 8 (determined by throwing a D6 +2; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.~
+@771441 = ~Energy in All (Alteration, Enchantment)
+Level: 7
+Range: visual range of the caster
+Duration: 6 rounds (7 at level 21)
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord tried to create this spell starting by a simple principle: "If magic is present in all things, I have to take advantage of it". And the spell works, but randomly.
+The spell allows the mage recipient (the spell has no effect on a recipient with no arcane skill) to absorb the surrounding magic to restore his own magic, allowing him to recall spells he has already casted.
+Each round, the recipient will remember a spell of level 3 to 8 (determined by throwing a D6 +2; it is not possible to recall a spell of level 9 that way). But he must be careful: every bit of magic that the body of the mage absorbs can hurt him. Every time he remembers a spell, the mage must make a successful saving throw vs. magic death (with a -1 bonus for spells of levels 4-6 and -2 for spells of levels 7 and 8) or suffers a point of damage per remembered spell level because of the magical discharge received.
+
+All allies mages within 5 meters from the recipient will also benefit from softened effects of the spell: they will remember a spell of level 1 to 6, determined by throwing a D6, per round for 4 rounds.~
+
+@7715 = ~Execution~
+@7716 = ~Execution (Necromancy)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: negates
+
+Execution is a spell so cruel that it radically kills the victim that can not resist at a glance. By a humanoid, it is the heart that looses. By an aberration or a monster, it is another vital element being affected. But anyway, death is inevitable if the saving throw is failed at -2. If the saving throw is successful, metabolic shock suffered by the target still inflicts 4D8 points of damage. Execution can not kill the undead, artificial creatures and certain powers of other planes, but all these creatures may still succumb after the damage inflicted by the spell.~
+@77161 = ~Execution (Necromancy)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: negates
+
+Execution is a spell so cruel that it radically kills the victim that can not resist at a glance. By a humanoid, it is the heart that looses. By an aberration or a monster, it is another vital element being affected. But anyway, death is inevitable if the saving throw is failed at -2. If the saving throw is successful, metabolic shock suffered by the target still inflicts 4D8 points of damage. Execution can not kill the undead, artificial creatures and certain powers of other planes, but all these creatures may still succumb after the damage inflicted by the spell.~
+
+@7717 = ~Antimagic Globe~
+@7718 = ~Antimagic Globe (Abjuration)
+Level: 7
+Range: 0
+Duration: 1 round/level
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates around the spellcaster a protective globe inside which no magic can act. When the globe is created, all the magic that acts on the subject is dissipated immediately. Thereafter, no magic can penetrate the globe, or act inside. Indeed, as the globe is active, if the spellcaster is immune to all magic, it is also unable to cast his own if a spell caster.
+
+If the spellcaster is protected by a Lasting Magic spell at the moment when Antimagic Globe is cast, dispelling is negated by Lasting Magic, which absorbs all energy before disappearing, leaving the other ongoing magic effects active.~
+@77181 = ~Antimagic Globe (Abjuration)
+Level: 7
+Range: 0
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates around the spellcaster a protective globe inside which no magic can act. When the globe is created, all the magic that acts on the subject is dissipated immediately. Thereafter, no magic can penetrate the globe, or act inside. Indeed, as the globe is active, if the spellcaster is immune to all magic, it is also unable to cast his own if a spell caster.
+
+If the spellcaster is protected by a Lasting Magic spell at the moment when Antimagic Globe is cast, dispelling is negated by Lasting Magic, which absorbs all energy before disappearing, leaving the other ongoing magic effects active.~
+@771811 = ~Antimagic Globe causes failure to any attempt to cast~
+@77182 = ~Antimagic Globe (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates around the recipient a protective globe inside which no magic can act. When the globe is created, all the magic that acts on the subject is dissipated immediately. Thereafter, no magic can penetrate the globe, or act inside. Indeed, as the globe is active, if the recipient is immune to all magic, it is also unable to cast his own if a spell caster.
+
+If the recipient is protected by a Lasting Magic spell at the moment when Antimagic Globe is cast, dispelling is negated by Lasting Magic, which absorbs all energy before disappearing, leaving the other ongoing magic effects active.~
+@771821 = ~Antimagic Globe (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates around the recipient a protective globe inside which no magic can act. When the globe is created, all the magic that acts on the subject is dissipated immediately. Thereafter, no magic can penetrate the globe, or act inside. Indeed, as the globe is active, if the recipient is immune to all magic, it is also unable to cast his own if a spell caster.
+
+If the recipient is protected by a Lasting Magic spell at the moment when Antimagic Globe is cast, dispelling is negated by Lasting Magic, which absorbs all energy before disappearing, leaving the other ongoing magic effects active.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: it lasts 13 rounds only.~
+
+@7719 = ~Ultimate Heal~
+@7720 = ~Ultimate Heal (Necromancy)
+Level: 7
+Range: 0
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: caster
+Saving Throw: none
+
+This powerful healing spell allows the warlord to get rid of any kind of disease or harms affecting him. All his afflictions are healed and all life points he lost are given back to him.~
+@77201 = ~Ultimate Heal (Necromancy)
+Level: 7
+Range: 0
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This powerful healing spell allows the warlord to get rid of any kind of disease or harms affecting him. All his afflictions are healed and all life points he lost are given back to him.~
+@77202 = ~Ultimate Heal (Necromancy)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+This powerful healing spell allows the recipient to get rid of any kind of disease or harms affecting him. All his afflictions are healed and all life points he lost are given back to him.~
+@772021 = ~Ultimate Heal (Necromancy)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: none
+
+This powerful healing spell allows the recipient to get rid of any kind of disease or harms affecting him. All his afflictions are healed and all life points he lost are given back to him.
+
+All allies within 5 meters of the recipient will also benefit from softened effects of the spell: they recover 75% of their base life points and have a 66% chance to get rid of other afflictions.~
+
+@7721 = ~Acid Rain~
+@7722 = ~Acid Rain (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: 1 round/level
+Casting Time: 7
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell sends a rain of magic gelatinous acid droplets at the targeted area. All creatures within the area of effect are covered by drops of this substance. Acid stays for 1 round per level of the warlord and then evaporates.
+Creatures covered like that will suffer 1D4 points of damage per round for rounds 1 to 3, then 1D6 per round for rounds 4 to 6 and 1D8 each subsequent round. Characters who have succeeded at the first round a saving throw vs. spells will suffer only half acid damage for the following rounds. When spell duration expires, effects quit as well.~
+@77221 = ~Acid Rain (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: 2 turns
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell sends a rain of magic gelatinous acid droplets at the targeted area. All creatures within the area of effect are covered by drops of this substance. Acid stays for 1 round per level of the warlord and then evaporates.
+Creatures covered like that will suffer 1D4 points of damage per round for rounds 1 to 3, then 1D6 per round for rounds 4 to 6 and 1D8 each subsequent round. Characters who have succeeded at the first round a saving throw vs. spells will suffer only half acid damage for the following rounds. When spell duration expires, effects quit as well.~
+
+@7723 = ~Lava Tips~
+@7724 = ~Lava Tips (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+At the end of spell's casting, the warlord projects towards all directions tips of molten lava. Every creature within the area around him is affected by one tip per level of the warlord. Each one inflicts 1D4 piercing damage and 1 fire damage points (max 20D4 +20). Creatures that make a successful saving throw receive only half damage.~
+@77241 = ~Lava Tips (Evocation)
+Level: 7
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+At the end of spell's casting, the warlord projects towards all directions tips of molten lava. Every creature within the area around him is affected by the equivalent of 20 tips. Each one inflicts 1D4 piercing damage and 1 fire damage points. Creatures that make a successful saving throw receive only half damage.~
+
+@7725 = ~Lasting Magic~
+@7726 = ~Lasting Magic (Abjuration)
+Level: 7
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 8
+Area of Effect: caster
+Saving Throw: none
+
+There is nothing more frustrating that seeing a battery of spells casted in advance of a major battle negated at a stroke by an adverse dispelling. It is in response to this unfortunate annoyance suffered that the warlord developed this spell.
+The spell creates a shield made up of opposite energy to that being used to dispel magic. This shield absorbs all attemps of dispelling, ensuring the warlord that his spells will act until their normal expiration.
+
+Be careful though: as a result of this protection, the caster can also no longer be affected by "Dispel Magic", which can be dangerous if he is affected by harmful magical effects.~
+@77261 = ~Lasting Magic (Abjuration)
+Level: 7
+Range: 0
+Duration: 23 rounds
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+There is nothing more frustrating that seeing a battery of spells casted in advance of a major battle negated at a stroke by an adverse dispelling. It is in response to this unfortunate annoyance suffered that the warlord developed this spell.
+The spell creates a shield made up of opposite energy to that being used to dispel magic. This shield absorbs all attemps of dispelling, ensuring the warlord that his spells will act until their normal expiration.
+
+Be careful though: as a result of this protection, the caster can also no longer be affected by "Dispel Magic", which can be dangerous if he is affected by harmful magical effects.~
+@77262 = ~Lasting Magic (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+There is nothing more frustrating that seeing a battery of spells casted in advance of a major battle negated at a stroke by an adverse dispelling. It is in response to this unfortunate annoyance suffered that the warlord developed this spell.
+The spell creates a shield made up of opposite energy to that being used to dispel magic. This shield absorbs all attemps of dispelling, ensuring the recipient that his spells will act until their normal expiration.~
+@772621 = ~Lasting Magic (Abjuration)
+Level: 7
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 8
+Area of Effect: 1 creature
+Saving Throw: none
+
+There is nothing more frustrating that seeing a battery of spells casted in advance of a major battle negated at a stroke by an adverse dispelling. It is in response to this unfortunate annoyance suffered that the warlord developed this spell.
+The spell creates a shield made up of opposite energy to that being used to dispel magic. This shield absorbs all attemps of dispelling, ensuring the recipient that his spells will act until their normal expiration.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: for them it lasts 15 rounds only.~

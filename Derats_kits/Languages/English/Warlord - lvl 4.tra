@@ -1,0 +1,485 @@
+@741 = ~Elemental Weapon~
+@742 = ~Elemental Weapon (Enchantment/Evocation)
+Level: 4
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 4
+Area of Effect: special
+Saving Throw: none
+
+The spells adds to the weapon carried by the Warlord a basic elemental skill when it hits. The Warlord must choose the element enchanting his weapon when casting the spell, after which damages are inflicted according to his level:
+Level 7 to 10 : + 1D6
+Level 11 to 14: + 1D8
+Level 15 to 18: + 1D10
+Level 19+     : + 1D12~
+@7429 = ~You have already enchanted a weapon. You must wait until this enchantment expires to cast another one.~
+@74291 = ~Elemental Weapon (Enchantment, Evocation)
+Level: 4
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: special
+Saving Throw: none
+
+The spells adds to the weapon carried by the Warlord a basic elemental skill that inflicts 1D12 points of damage when it hits. The Warlord must choose the element enchanting his weapon when casting the spell.~
+@74292 = ~Elemental Weapon (Enchantment, Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+The spells adds to the weapon carried by the recipient a basic elemental skill that inflicts 1D12 points of damage when it hits. The Warlord must choose the element enchanting the weapon when casting the spell.~
+@742921 = ~The weapon of this character is already enchanted. You must wait until this enchantment expires to create another~
+@742922 = ~Elemental Weapon (Enchantment, Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+The spells adds to the weapon carried by the recipient a basic elemental skill that inflicts 1D12 points of damage when it hits. The Warlord must choose the element enchanting the weapon when casting the spell.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: the weapon they carry will inflict 1D10 damage of the element chosen by the warlord for 2 turns.~
+
+@744 = ~FireBall (Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+The warlord creates a ball of magma that he throws at the targeted location. The ball then explodes in a wave of flame of 9-meters radius. All creatures within the area receive 1D6 fire damage points per level of the caster (maximum 14D6). Those who make a successful saving throw vs. spells manage to jump away, to throw down or roll on the side, and receive only half damage.~
+@7441 = ~FireBall (Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 2
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+The warlord creates a ball of magma that he throws at the targeted location. The ball then explodes in a wave of flame of 9-meters radius. All creatures within the area receive 14D6 fire damage points. Those who make a successful saving throw vs. spells manage to jump away, to throw down or roll on the side, and receive only half damage.~
+
+@745 = ~Elemental Shield~
+@746 = ~Elemental Shield (Alteration, Evocation)
+Level: 4
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: caster
+Saving Throw: none
+
+When he casts this spell, the warlord must choose the element against which he wishese to create a shield. He can choose fire, cold, electricity or acid. After that, flames rise high around him to protect him, of which nature and color depend upon the chosen element. As long as he is covered by this shield, he gets 20% +2% per level of resistance against the chosen element, and any opponent that hits him will suffer 1D6 +3 points of damage by the high flames of the element chosen.~
+@7461 = ~Burning Backlash~
+@7462 = ~Freezing Backlash~
+@7463 = ~Electric Backlash~
+@7464 = ~Acid Backlash~
+@7465 = ~Elemental Shield (Alteration, Evocation)
+Level: 4
+Range: 0
+Duration: 25 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+When he casts this spell, the warlord must choose the element against which he wishese to create a shield. He can choose fire, cold, electricity or acid. After that, flames rise high around him to protect him, of which nature and color depend upon the chosen element. As long as he is covered by this shield, he gets 60% resistance against the chosen element, and any opponent that hits him will suffer 1D6 +3 points of damage by the high flames of the element chosen.~
+@7466 = ~Elemental Shield (Alteration, Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+When he casts this spell, the warlord must choose the element against which he wishese to create a shield. He can choose fire, cold, electricity or acid. After that, flames rise high around the recipient to protect him, of which nature and color depend upon the chosen element. As long as the recipient is covered by this shield, he gets 60% resistance against the chosen element, and any opponent that hits him will suffer 1D6 +3 points of damage by the high flames of the element chosen.~
+@74661 = ~Elemental Shield (Alteration, Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+When he casts this spell, the warlord must choose the element against which he wishese to create a shield. He can choose fire, cold, electricity or acid. After that, flames rise high around the recipient to protect him, of which nature and color depend upon the chosen element. As long as the recipient is covered by this shield, he gets 60% resistance against the chosen element, and any opponent that hits him will suffer 1D6 +3 points of damage by the high flames of the element chosen.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They are protected by a shield that grants 40% resistance against the element and inflicts 1D4 +2 points of damage for 17 rounds.~
+
+@747 = ~Stroke of Luck~
+@748 = ~Stroke of Luck (Enchantment)
+Level: 4
+Range: 0
+Duration: 4 rounds
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives a big boost to the warlord, significantly increasing his luck. The received aid is proportional to power of the spell, but the effect will not last long, and luck goes by very quickly.
+At the first round, he gets a +10 bonus to hitting and +2 to chance to inflict a critical hit, automatically inflicts the maximum damage when he hits and 1D10 magic damage. In addition, he will have all saving throws successful.
+At the second round, he gets a +6 bonus to hitting and +1 to chance to inflict a critical hit, and inflicts the maximum damage +1D8. He also receives a +4 bonus to saving throws.
+At the third round, he gets a +3 bonus to hitting, +1D6 to damage and +2 to saving throws.
+At the last round, he gets a +2 bonus to hitting, +1D4 to damage and +1 to saving throws.~
+@7481 = ~Stroke of Luck (Enchantment)
+Level: 4
+Range: 0
+Duration: 4 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives a big boost to the warlord, significantly increasing his luck. The received aid is proportional to power of the spell, but the effect will not last long, and luck goes by very quickly.
+At the first round, he gets a +10 bonus to hitting and +2 to chance to inflict a critical hit, automatically inflicts the maximum damage when he hits and 1D10 magic damage. In addition, he will have all saving throws successful.
+At the second round, he gets a +6 bonus to hitting and +1 to chance to inflict a critical hit, and inflicts the maximum damage +1D8. He also receives a +4 bonus to saving throws.
+At the third round, he gets a +3 bonus to hitting, +1D6 to damage and +2 to saving throws.
+At the last round, he gets a +2 bonus to hitting, +1D4 to damage and +1 to saving throws.~
+@7482 = ~Stroke of Luck (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: 4 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives a big boost to the recipient, significantly increasing his luck. The received aid is proportional to power of the spell, but the effect will not last long, and luck goes by very quickly.
+At the first round, he gets a +10 bonus to hitting and +2 to chance to inflict a critical hit, automatically inflicts the maximum damage when he hits and 1D10 magic damage. In addition, he will have all saving throws successful.
+At the second round, he gets a +6 bonus to hitting and +1 to chance to inflict a critical hit, and inflicts the maximum damage +1D8. He also receives a +4 bonus to saving throws.
+At the third round, he gets a +3 bonus to hitting, +1D6 to damage and +2 to saving throws.
+At the last round, he gets a +2 bonus to hitting, +1D4 to damage and +1 to saving throws.~
+@74821 = ~Stroke of Luck (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: 4 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives a big boost to the recipient, significantly increasing his luck. The received aid is proportional to power of the spell, but the effect will not last long, and luck goes by very quickly.
+At the first round, he gets a +10 bonus to hitting and +2 to chance to inflict a critical hit, automatically inflicts the maximum damage when he hits and 1D10 magic damage. In addition, he will have all saving throws successful.
+At the second round, he gets a +6 bonus to hitting and +1 to chance to inflict a critical hit, and inflicts the maximum damage +1D8. He also receives a +4 bonus to saving throws.
+At the third round, he gets a +3 bonus to hitting, +1D6 to damage and +2 to saving throws.
+At the last round, he gets a +2 bonus to hitting, +1D4 to damage and +1 to saving throws.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They get a help lasting 3 rounds and grants maximum damage at 1st round and +5/+2/+1 to hitting, +1D6/+1D4/+1D3 to damage and +4/+1/+0 to saving throws.~
+
+@749 = ~Disorder~
+@7410 = ~Disorder (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: special
+Casting Time: 4
+Area of Effect: 1 target
+Saving Throw: negates
+
+This spell is aimed to destroy the mind of the target. If the latter fails a saving throw to prevent it, suffers a brain stroke. The Warlord does not really master the workings of the human brain, the result is variable: unease, confusion, stunning, dizziness, migraine, etc... , as well as duration (which can be reduced by a successful dispelling).
+From level 12, the power of the spell increases, the spell can create a more serious wound, which can turn the victim mad, stupid, vegetative, etc... In such a case, the effect will be permanent and only a major restoration or wish may pull back again the faculties to the victim.~
+@74101 = ~Migraine~
+@74102 = ~Madness~
+@74103 = ~Trauma~
+@74104 = ~Autism~
+@74105 = ~Dazed~
+@74106 = ~Disorder (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: special
+Casting Time: 2
+Area of Effect: 1 target
+Saving Throw: negates
+
+This spell is aimed to destroy the mind of the target. If the latter fails a saving throw to prevent it, suffers a brain stroke. The Warlord does not really master the workings of the human brain, the result is variable: unease, confusion, stunning, dizziness, migraine, etc... , as well as duration (which can be reduced by a successful dispelling).
+The spell can also create a more serious wound, which can turn the victim mad, stupid, vegetative, etc... In such a case, the effect will be permanent and only a major restoration or wish may pull back again the faculties to the victim.~
+
+@7411 = ~Heal~
+@7412 = ~Heal (Necromancy)
+Level: 4
+Range: 0
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+Heal allows the warlord to close his wounds, recover from his injuries and leave immediately to fight. The spell gives him 2 life points back per level.~
+@74121 = ~Heal (Necromancy)
+Level: 4
+Range: 0
+Duration: instantaneous
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: none
+
+Heal allows the warlord to close his wounds, recover from his injuries and leave immediately to fight. The spell gives him 40 life points back.~
+@74122 = ~Heal (Necromancy)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+Heal allows the recipient to close his wounds, recover from his injuries and leave immediately to fight. The spell gives him 40 life points back.~
+@741221 = ~Heal (Necromancy)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+Heal allows the recipient to close his wounds, recover from his injuries and leave immediately to fight. The spell gives him 40 life points back.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they are healed for 27 points of life.~
+
+@7413 = ~Free Action~
+@7414 = ~Free Action (Abjuration)
+Level: 4
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+While under the effects of this spell, the warlord becomes immune to anything that limits his movement. This includes the effects of web, hold person, grease and entangle.~
+@74141 = ~Free Action (Abjuration)
+Level: 4
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: none
+
+While under the effects of this spell, the warlord becomes immune to anything that limits his movement. This includes the effects of web, hold person, grease and entangle.~
+@74142 = ~Free Action (Abjuration)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+By casting this spell, the warlord ensures that the recipient becomes immune to anything that limits his movement. This includes the effects of web, hold person, grease and entangle.~
+@741421 = ~Free Action (Abjuration)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+By casting this spell, the warlord ensures that the recipient becomes immune to anything that limits his movement. This includes the effects of web, hold person, grease and entangle.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they are protected for 2 turns.~
+
+@7415 = ~Mental Steel~
+@7416 = ~Mental Steel (Abjuration)
+Level: 4
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 5
+Area of Effect: caster
+Saving Throw: none
+
+This spell protects the warlord against mental attacks, natural or magical. Under the guise of this spell he is protected against attacks such as Rigid Thinking, Charm, Domination, Command, Sleep, Stun, Confusion, etc... as well as against psionic attacks.~
+@74161 = ~Mental Steel (Abjuration)
+Level: 4
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell protects the warlord against mental attacks, natural or magical. Under the guise of this spell he is protected against attacks such as Rigid Thinking, Charm, Domination, Command, Sleep, Stun, Confusion, etc... as well as against psionic attacks.~
+@74162 = ~Mental Steel (Abjuration)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell protects the recipient against mental attacks, natural or magical. Under the guise of this spell he is protected against attacks such as Rigid Thinking, Charm, Domination, Command, Sleep, Stun, Confusion, etc... as well as against psionic attacks.~
+@741621 = ~Mental Steel (Abjuration)
+Level: 4
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell protects the recipient against mental attacks, natural or magical. Under the guise of this spell he is protected against attacks such as Rigid Thinking, Charm, Domination, Command, Sleep, Stun, Confusion, etc... as well as against psionic attacks.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they are protected for 2 turns.~
+
+@7417 = ~Frost Orb~
+@7418 = ~Frost Orb (Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 7.5 meters radius
+Saving Throw: 1/2
+
+The spell creates a severe cold in the hands of the mage, which he compacts it into an orb that he immediately throws to the targeted place. It then explodes projecting cold and ice shards towards all creatures present in the area of explosion, inflicting 1 slashing damage point and 1D4 cold damage point per level of the caster (maximum 14D4 +14). The creatures may attempt a saving throw vs. spells to avoid shards and thus halve the damage received.~
+@74181 = ~Frost Orb (Evocation)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 2
+Area of Effect: 7.5 meters radius
+Saving Throw: 1/2
+
+The spell creates a severe cold in the hands of the mage, which he compacts it into an orb that he immediately throws to the targeted place. It then explodes projecting cold and ice shards towards all creatures present in the area of explosion, inflicting 14 slashing damage point and 14D4 cold damage points. The creatures may attempt a saving throw vs. spells to avoid shards and thus halve the damage received.~
+
+@7419 = ~Panacea~
+@7420 = ~Panacea (Necromancy)
+Level: 4
+Range: 0
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell dispels the warlord of all harms affecting him, whether natural or magical. When this spell is cast, it immediately neutralizes effects of poison, disease, fever and nausea, and gives 1D10 life points back.~
+@74201 = ~Panacea (Necromancy)
+Level: 4
+Range: 0
+Duration: instantaneous
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell dispels the warlord of all harms affecting him, whether natural or magical. When this spell is cast, it immediately neutralizes effects of poison, disease, fever and nausea, and gives 1D10 life points back.~
+@74202 = ~Panacea (Necromancy)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell dispels the recipient of all harms affecting him, whether natural or magical. When this spell is cast, it immediately neutralizes effects of poison, disease, fever and nausea, and gives 1D10 life points back.~
+@742021 = ~Panacea (Necromancy)
+Level: 4
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell dispels the recipient of all harms affecting him, whether natural or magical. When this spell is cast, it immediately neutralizes effects of poison, disease, fever and nausea, and gives 1D10 life points back.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spells:
+they recover 1D6 points of life and are dispelled from gevers and nausea, but from poisons and disease only 70% of cases (independently of each other).~
+
+@7421 = ~Rage~
+@7422 = ~Rage (Alteration)
+Level: 4
+Range: 0
+Duration: 1 turn
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+This spell makes the warlord goes berserk.
+While under Rage, the warlord is immune to charm, sleep, fear, hold, stunning, confusion, emotion, symbol spells, and related effects. In addition, the warlord gains +2 to hit and damage and 10 extra hit points.
+The spell has several disadvantages, however. The Rage pushes the warlord to constantly attack, which prevents him to focus enough to cast. In addition, this propensity to full attack action penalizes his defense, giving him -2 penalty to AC.
+Second, and no less, there is 20% chance each round that the rage causes a real state of Bersek Rage if the warlord fails a saving throw vs. spells, making him unable to distinguish friends from enemies and stultifying him as much as he only attempts to attack the nearest creature (until death of the latter, after which he move to the next one and so on until the duration of the spell expires).
+At level 16, the experienced warlord may choose to enter into a higher form of rage, Blood Rage. He then gets other bonuses in addition to those already provided by Rage: +3 to Strength, +1 to Constitution, +2 to Movement Speed, +1 attack per round. But Blood Rage has two major disadvantages: first, he can re-enter into Berserk Fury every round if he fails a saving throw vs. spells. Second, it is extremely stressful for the body, which suffers (muscle tension, high blood rate, abundance of adrenaline, etc.) and gets 1D3 points of damage per round.~
+@74221 = ~Blood Rage~
+@74222 = ~Rage (Alteration)
+Level: 4
+Range: 0
+Duration: 1 turn
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: none
+
+This spell allows the warlord to enter into a state of rage that he must choose while casting the spell.
+Rage makes the warlord goes berserk.
+While under Rage, the warlord is immune to charm, sleep, fear, hold, stunning, confusion, emotion, symbol spells, and related effects. In addition, the warlord gains +2 to hit and damage and 15 extra hit points.
+The spell has several disadvantages, however. The Rage pushes the warlord to constantly attack, which prevents him to focus enough to cast. In addition, this propensity to full attack action penalizes his defense, giving him -2 penalty to AC.
+Second, and no less, there is 20% chance each round that the rage causes a real state of Bersek Rage if the warlord fails a saving throw vs. spells, making him unable to distinguish friends from enemies and stultifying him as much as he only attempts to attack the nearest creature (until death of the latter, after which he move to the next one and so on until the duration of the spell expires).
+
+Blood Rage is a major form of rage, that makes him get other bonuses in addition to those already provided by Rage: +3 to Strength, +1 to Constitution, +2 to Movement Speed, +1 attack per round. But Blood Rage has two major disadvantages: first, he can re-enter into Berserk Fury every round if he fails a saving throw vs. spells. Second, it is extremely stressful for the body, which suffers (muscle tension, high blood rate, abundance of adrenaline, etc.) and gets 1D3 points of damage per round.~
+@74223 = ~Rage (Alteration)
+Level: 4
+Range: 0
+Duration: 1 turn
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+This spell makes the warlord to enter into a state of Blood Rage.
+While under Blood Rage he gets +3 to Strength, +1 to Constitution, +2 to movement speed, +1 attack per round and +2 to hit and damage. He is also immune to charm, sleep, fear, hold, stunning, confusion, emotion, symbol spells, and related effects. Finally, he gets 15 temporary extra hit points.
+
+The spell has a disadvantage, however. The Rage pushes the warlord to constantly attack, which prevents him to focus enough to cast.~
+@742231 = ~You can not use magic under Rage~
+@74224 = ~Rage (Alteration)
+Level: 4
+Range: visual range of the caster
+Duration: 1 turn
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to enter into a state of Blood Rage.
+While under Blood Rage he gets +3 to Strength, +1 to Constitution, +2 to movement speed, +1 attack per round and +2 to hit and damage. He is also immune to charm, sleep, fear, hold, stunning, confusion, emotion, symbol spells, and related effects. Finally, he gets 15 temporary extra hit points.
+
+The spell has a disadvantage, however. The Rage pushes the recipient to constantly attack, which prevents him to focus enough to cast.~
+@742241 = ~Rage (Alteration)
+Level: 4
+Range: visual range of the caster
+Duration: 1 turn
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to enter into a state of Blood Rage.
+While under Blood Rage he gets +3 to Strength, +1 to Constitution, +2 to movement speed, +1 attack per round and +2 to hit and damage. He is also immune to charm, sleep, fear, hold, stunning, confusion, emotion, symbol spells, and related effects. Finally, he gets 15 temporary extra hit points.
+
+The spell has a disadvantage, however. The Rage pushes the recipient to constantly attack, which prevents him to focus enough to cast.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They enter a state of Rage giving them +2 to hit and damage, all immunities of Blood Rage and 10 temporary extra hit points for 7 rounds. They can not cast spells while under Rage.~
+
+@7423 = ~Stabilization~
+@7424 = ~Stabilization (Enchantment)
+Level: 4
+Range: 0
+Duration: 3 rounds + 1 round/2 levels
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+This spell stabilizes the weapon of the warlord by removing any random fluctuation that could reduce the power of his hits. As long as the spell lasts, it always ensures the fighter to inflict the maximum damage when he hits.~
+@74241 = ~Stabilization (Enchantment)
+Level: 4
+Range: 0
+Duration: 13 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell stabilizes the weapon of the warlord by removing any random fluctuation that could reduce the power of his hits. As long as the spell lasts, it always ensures the fighter to inflict the maximum damage when he hits.~
+@74242 = ~Stabilization (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: 13 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell stabilizes the weapon of the recipient by removing any random fluctuation that could reduce the power of his hits. As long as the spell lasts, it always ensures the fighter to inflict the maximum damage when he hits.~
+@742421 = ~Stabilization (Enchantment)
+Level: 4
+Range: visual range of the caster
+Duration: 13 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell stabilizes the weapon of the recipient by removing any random fluctuation that could reduce the power of his hits. As long as the spell lasts, it always ensures the fighter to inflict the maximum damage when he hits.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: they will inflict maximum damage for 9 rounds.~

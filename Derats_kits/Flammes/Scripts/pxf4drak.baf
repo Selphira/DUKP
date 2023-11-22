@@ -1,0 +1,19 @@
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	GlobalLT("pxf4drak","LOCALS",6)
+	See(Nearestenemyof(Myself))
+	Range(Nearestenemyof(Myself),9)
+	!GlobalTimerNotExpired("breath","LOCALS")
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxf4dra1",NearestEnemyOf(Myself))
+	SetGlobalTimer("breath","LOCALS",12)
+	IncrementGlobal("pxf4drak","LOCALS",1)
+END
+
+IF
+	HitBy([Anyone],SLASHING)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxf4dra2",LastAttackerOf(Myself))
+END

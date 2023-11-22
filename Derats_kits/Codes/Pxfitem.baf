@@ -1,0 +1,14 @@
+IF
+	Global("pxfitem","GLOBAL",0)
+	OR(6)
+	Kit(Player1,pxFLAMMES)
+	Kit(Player2,pxFLAMMES)
+	Kit(Player3,pxFLAMMES)
+	Kit(Player4,pxFLAMMES)
+	Kit(Player5,pxFLAMMES)
+	Kit(Player6,pxFLAMMES)
+THEN
+	RESPONSE #100
+	ActionOverride("secret01",CreateItem("pxfkossu",0,0,0))
+	SetGlobal("pxfitem","GLOBAL",1)
+  END

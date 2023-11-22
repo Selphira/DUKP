@@ -1,0 +1,68 @@
+@209 = ~prêcheur des flammes~
+@21 = ~Prêcheur des flammes~
+@22 = ~PRÊCHEUR DES FLAMMES : Le feu a souvent suscité l'admiration chez les humanoïdes. Les pyromanes les allument pour le simple plaisir de le voir consumer toutes choses. Les magiciens l'admirent pour sa puissance destructrice. Les tacticiens s'en servent pour effrayer, repousser, acculer les ennemis.
+Il arrive que des clercs aussi tombent en admiration devant cette force de la nature. Certains moins raisonnables que d'autres peuvent même trouver cette puissance digne d'être vénérée. Rejetant ainsi leur dieu vénéré d'origine, ils se trouvent démunis de leur faculté à lancer des sorts d'origine divine. Parmi ces prêtres déchus, les plus fanatiques envers le feu et la destruction qu'il peut causer sont parfois repérés par de sombres puissances, la plupart du temps d'origine démoniaque. Ces clercs fanatiques se voient alors ré-attribuée la capacité de lancer des sorts, quoique altérés par la puissance du feu et n'ayant plus de facultés réparatrices. Les sombres puissances qui relancent ainsi la puissance des ces clercs déchus font d'eux un outil de dévastation pur et simple, bien qu'ils ne les contactent pas forcement pour le leur expliquer...
+
+Avantages :
+- Il gagne des sorts supplémentaires, tous basés sur le feu :
+     Niveau 1 : Dard de feu, Incinérateur, Mains ardentes.
+     Niveau 2 : Bombe magmatique, Explosion, Pluie de feu, Réduction de la résistance au feu, Semences de feu. 
+     Niveau 3 : Arme embrasée, Bouclier de feu, Boule de feu, Flèche enflammée, Minuscules météores.
+     Niveau 4 : Convocation d'élémentaux de feu mineurs, Embrasement, Forme du feu, Réduction de la résistance au feu II, Souffle enflammé.
+     Niveau 5 : Appel de serviteur des flammes, Manteau ardent, Marque du feu, Protection contre le feu de groupe, Pulvérisation.
+     Niveau 6 : Aura de chaleur, Boule de feu élémentaire, Convocation d'élémental de Feu, Détonation, Méphites explosifs.
+     Niveau 7 : Incinération, Piège de feu.
+- Il gagne 10% de résistance au feu au niveau 1, puis 3% par niveau suivant.
+- Au niveau 10 et tous les 3 niveaux suivants, il peux utiliser "Paume ardente" une fois par jour.
+- Au niveau 13 et 20, il peut charmer un élémental de feu une fois par jour.
+
+Désavantages :
+- Le Prêcheur des flammes n'a accès à AUCUN sort de soins, guérison ou restauration.
+- Il ne peut pas repousser les morts-vivants.
+- Son alignement ne peut être que neutre ou neutre mauvais.
+- Obsédé par le feu, il n'envisagera jamais d'embrasser une autre carrière. (ne peut pas se jumeler)
+- il ne reçoit pas de symbole divin au niveau 25, n'ayant plus aucune liaison avec quelque "dieu" que ce soit.
+
+PAUME ARDENTE :
+Une fois le sort lancé le prêcheur a deux rounds pour toucher son adversaire, le brûlant alors pour 1D6 points de dégâts de feu par deux niveaux du prêcheur. Si le prêcheur ne parvient pas à toucher l'adversaire, le sort est perdu.
+
+CHARME D'ELEMENTAL DE FEU :
+Le prêcheur peut tenter de contrôler n'importe quel élémental de feu par simple contact. La cible à droit à un jet de sauvegarde assorti d'un malus de -1 tous les 5 niveaux du prêcheur pour résister, sans quoi elle passe sous le contrôle du prêcheur pour 5 tours.~
+
+@203 = ~Paume ardente~
+@204 = ~Paume ardente :
+
+Ce don permet d'utiliser Paume ardente une fois de plus par jour.~
+@205 = ~Charmer un Élémental de feu~
+
+//Textes non repris dans BGEE
+@210001 = ~Souffle de feu de Molosse satanique~
+@210002 = ~Explosion de kamikaze~
+@220003 = ~PRÊCHEUR DES FLAMMES : Le feu a souvent suscité l'admiration chez les humanoïdes. Les pyromanes les allument pour le simple plaisir de le voir consumer toutes choses. Les magiciens l'admirent pour sa puissance destructrice. Les tacticiens s'en servent pour effrayer, repousser, acculer les ennemis.
+Il arrive que des clercs aussi tombent en admiration devant cette force de la nature. Certains moins raisonnables que d'autres peuvent même trouver cette puissance digne d'être vénérée. Rejetant ainsi leur dieu vénéré d'origine, ils se trouvent démunis de leur faculté à lancer des sorts d'origine divine. Parmi ces prêtres déchus, les plus fanatiques envers le feu et la destruction qu'il peut causer sont parfois repérés par de sombres puissances, la plupart du temps d'origine démoniaque. Ces clercs fanatiques se voient alors ré-attribuée la capacité de lancer des sorts, quoique altérés par la puissance du feu et n'ayant plus de facultés réparatrices. Les sombres puissances qui relancent ainsi la puissance des ces clercs déchus font d'eux un outil de dévastation pur et simple, bien qu'ils ne les contactent pas forcement pour le leur expliquer...
+
+Avantages :
+- Il gagne des sorts supplémentaires, tous basés sur le feu :
+     Niveau 1 : Dard de feu, Incinérateur, Mains ardentes.
+     Niveau 2 : Bombe magmatique, Explosion, Flammes, Pluie de feu, Réduction de la résistance au feu, Semences de feu. 
+     Niveau 3 : Arme embrasée, Bouclier de feu, Boule de feu, Flèche enflammée, Minuscules météores.
+     Niveau 4 : Convocation d'élémentaux de feu mineurs, Embrasement, Forme du feu, Réduction de la résistance au feu II, Souffle enflammé.
+     Niveau 5 : Appel de serviteur des flammes, Manteau ardent, Marque du feu, Protection contre le feu de groupe, Pulvérisation.
+     Niveau 6 : Aura de chaleur, Boule de feu élémentaire, Convocation d'élémental de Feu, Détonation, Méphites explosifs.
+     Niveau 7 : Incinération, Piège de feu.
+- Il gagne 10% de résistance au feu au niveau 1, puis 3% par niveau suivant.
+- Au niveau 10 et tous les 3 niveaux suivants, il peux utiliser "Paume ardente" une fois par jour.
+- Au niveau 13 et 20, il peut charmer un élémental de feu une fois par jour.
+
+Désavantages :
+- Le Prêcheur des flammes n'a accès à AUCUN sort de soins, guérison ou restauration.
+- Il ne peut pas repousser les morts-vivants.
+- Son alignement ne peut être que neutre ou neutre mauvais.
+- Obsédé par le feu, il n'envisagera jamais d'embrasser une autre carrière. (ne peut pas se jumeler)
+- il ne reçoit pas de symbole divin au niveau 25, n'ayant plus aucune liaison avec quelque "dieu" que ce soit.
+
+PAUME ARDENTE :
+Une fois le sort lancé le prêcheur a deux rounds pour toucher son adversaire, le brûlant alors pour 1D6 points de dégâts de feu par deux niveaux du prêcheur. Si le prêcheur ne parvient pas à toucher l'adversaire, le sort est perdu.
+
+CHARME D'ELEMENTAL DE FEU :
+Le prêcheur peut tenter de contrôler n'importe quel élémental de feu par simple contact. La cible à droit à un jet de sauvegarde assorti d'un malus de -1 tous les 5 niveaux du prêcheur pour résister, sans quoi elle passe sous le contrôle du prêcheur pour 5 tours.~

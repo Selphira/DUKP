@@ -1,0 +1,614 @@
+@751 = ~Foudre~
+@752 = ~Foudre (Invocation)
+Niveau : 5
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 6
+Zone d'effet : une créature et la zone de 3 mètres autour
+Jet de sauvegarde : ½
+
+Le seigneur de guerre en appelle aux forces de la nature pour créer un éclair qui va frapper la cible qu'il désigne. Le sort doit être lancé en extérieur, sans quoi il n'aura aucun effet. L'éclair en frappant inflige 1D8 points de dégâts électrique par niveau du seigneur de guerre à la cible et à toutes les créatures dans le périmètre (Max 20D8). Un jet de sauvegarde contre les sorts réussi permet de réduire de moitié les dégâts reçus.~
+@7529 = ~Foudre (Invocation)
+Niveau : 5
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : une créature et la zone de 3 mètres autour
+Jet de sauvegarde : ½
+
+Le seigneur de guerre en appelle aux forces de la nature pour créer un éclair qui va frapper la cible qu'il désigne. Le sort doit être lancé en extérieur, sans quoi il n'aura aucun effet. L'éclair en frappant inflige 20D8 points de dégâts électrique à la cible et à toutes les créatures dans le périmètre. Un jet de sauvegarde contre les sorts réussi permet de réduire de moitié les dégâts reçus.~
+
+@753 = ~Contrôle mental~
+@754 = ~Contrôle mental (Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 3 rounds + 1 round / 2 niveaux
+Temps d'incantation : 5
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Le seigneur de guerre qui lance ce sort essaie de contrôler les actes de la cible.
+Si celle-ci rate un jet de sauvegarde contre les sorts à -4, elle passe sous le commandement du seigneur de guerre et répond à ses ordres. Elles peut se retourner contre les siens, mais garde quand même un minimum de lucidité : si le seigneur de guerre ou n'importe quel membre du groupe essaie de lui nuire, cela met fin aussitôt au sort.
+Mais si la créature est assez faible ou malchanceuse pour rater le jet de sauvegarde sans pénalité, le lien crée par le sort est beaucoup plus fort. Dans ce cas, le contrôle sur la créature est total, si bien qu'elle ne réagira pas si un membre du groupe lui fait du mal, et seule une dissipation réussie ou la fin normale du sort peuvent la libérer de l'emprise du magicien.
+Ce sort ne peut contrôler que les créatures humanoïdes pensantes. Le lien mental se faisant par télépathie, il n'y a pas de barrière de langue ou de culture pour l'empêcher.~
+@7541 = ~Contrôle mental (Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 13 rounds
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Le seigneur de guerre qui lance ce sort essaie de contrôler les actes de la cible.
+Si celle-ci rate un jet de sauvegarde contre les sorts, elle passe sous le commandement du seigneur de guerre et répond à ses ordres. Elles peut se retourner contre les siens, mais garde quand même un minimum de lucidité : si le seigneur de guerre ou n'importe quel membre du groupe essaie de lui nuire, cela met fin aussitôt au sort.
+Si le jet de sauvegarde est raté à -4, le lien crée par le sort est beaucoup plus fort. Dans ce cas, le contrôle sur la créature est total, si bien qu'elle ne réagira pas si un membre du groupe lui fait du mal, et seule une dissipation réussie ou la fin normale du sort peuvent la libérer de l'emprise du magicien.
+Ce sort ne peut contrôler que les créatures humanoïdes pensantes. Le lien mental se faisant par télépathie, il n'y a pas de barrière de langue ou de culture pour l'empêcher.~
+@7542 = ~Contrôlé (e)~
+
+@755 = ~Arme chargée~
+@756 = ~Arme chargée (Évocation)
+Niveau : 5 
+Portée : 0
+Durée : 2 rounds
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort charge l'arme du seigneur de guerre d'une énergie brute composée de 4 éléments (feu, glace, électricité, acide). Pendant les 2 rounds pendant lesquels le sort agit, chaque frappe de l'arme occasionnera 8D4 dégâts supplémentaires (part égale des 4 éléments). L’énergie chargée dans l'arme est très instable et il n'est pas possible de la maintenir en l'état plus de quelques secondes. Après deux rounds, l’énergie se dissipe par opposition des 4 éléments ; il existe 5% de risque que cela se fasse sous la forme d'un maelström qui infligera au porteur de l'arme et à tous ceux présents dans la zone 8D4 points de dégâts.~
+@7561 = ~Arme chargée (Évocation)
+Niveau : 5 
+Portée : 0
+Durée : 2 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort charge l'arme du seigneur de guerre d'une énergie brute composée de 4 éléments (feu, glace, électricité, acide). Pendant les 2 rounds pendant lesquels le sort agit, chaque frappe de l'arme occasionnera 8D4 dégâts supplémentaires (part égale des 4 éléments). L’énergie chargée dans l'arme est très instable et il n'est pas possible de la maintenir en l'état plus de quelques secondes. Après deux rounds, l’énergie se dissipe par opposition des 4 éléments ; il existe 5% de risque que cela se fasse sous la forme d'un maelström qui infligera au porteur de l'arme et à tous ceux présents dans la zone 8D4 points de dégâts.~
+@7562 = ~Arme chargée (Évocation)
+Niveau : 5 
+Portée : 0
+Durée : 2 rounds
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort charge l'arme du seigneur de guerre d'une énergie brute composée de 4 éléments (feu, glace, électricité, acide). Pendant les 2 rounds pendant lesquels le sort agit, chaque frappe de l'arme occasionnera 8D4 dégâts supplémentaires (part égale des 4 éléments). L’énergie chargée dans l'arme est très instable et il n'est pas possible de la maintenir en l'état plus de quelques secondes. Après deux rounds, l’énergie se dissipe par opposition des 4 éléments.~
+@7563 = ~Arme chargée (Évocation)
+Niveau : 5 
+Portée : champ de vision
+Durée : 2 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort charge l'arme de la créature ciblée d'une énergie brute composée de 4 éléments (feu, glace, électricité, acide). Pendant les 2 rounds pendant lesquels le sort agit, chaque frappe de l'arme occasionnera 8D4 dégâts supplémentaires (part égale des 4 éléments). L’énergie chargée dans l'arme est très instable et il n'est pas possible de la maintenir en l'état plus de quelques secondes. Après deux rounds, l’énergie se dissipe par opposition des 4 éléments.~
+@75631 = ~Arme chargée (Évocation)
+Niveau : 5 
+Portée : champ de vision
+Durée : 2 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort charge l'arme de la créature ciblée d'une énergie brute composée de 4 éléments (feu, glace, électricité, acide). Pendant les 2 rounds pendant lesquels le sort agit, chaque frappe de l'arme occasionnera 8D4 dégâts supplémentaires (part égale des 4 éléments). L’énergie chargée dans l'arme est très instable et il n'est pas possible de la maintenir en l'état plus de quelques secondes. Après deux rounds, l’énergie se dissipe par opposition des 4 éléments.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leur arme est chargée de quatre énergies qui infligent 1D6 points de dégâts chacune pendant 8 secondes.~
+
+@758 = ~Héroïsme (Enchantement)
+Niveau : 5
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre la grandeur et la force morale qui font de simples hommes des héros de légende. Il bénéficie alors d’un bonus de +2 aux jets d’attaque, jets de sauvegarde et dégâts.
+D'autres effets sont ajoutés à mesure que le lanceur de sort gagne en puissance, selon le schéma suivant :
+niveau 11 : immunité à toute forme de peur.
+niveau 13 : +10 pvs temporaires supplémentaires.
+niveau 15 : immunité aux charmes, +1 au charisme.
+niveau 17 : les bonus aux jets d’attaque, jets de sauvegarde et dégâts passent à +3
+niveau 19 : immunité à la confusion.~
+@7581 = ~Héroïsme (Enchantement)
+Niveau : 5
+Portée : 0
+Durée : 25 rounds 
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre la grandeur et la force morale qui font de simples hommes des héros de légende. Il bénéficie alors d’un bonus de +3 aux jets d’attaque, jets de sauvegarde et dégâts, gagne 10 pvs temporaires supplémentaires et 1 point de charisme, et est immunisé à toute forme de peur, aux charmes et à la confusion.~
+@7582 = ~Héroïsme (Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds 
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible la grandeur et la force morale qui font de simples hommes des héros de légende. Elle bénéficie alors d’un bonus de +3 aux jets d’attaque, jets de sauvegarde et dégâts, gagne 10 pvs temporaires supplémentaires et 1 point de charisme, et est immunisé à toute forme de peur, aux charmes et à la confusion.~
+@75821 = ~Héroïsme (Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds 
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible la grandeur et la force morale qui font de simples hommes des héros de légende. Elle bénéficie alors d’un bonus de +3 aux jets d’attaque, jets de sauvegarde et dégâts, gagne 10 pvs temporaires supplémentaires et 1 point de charisme, et est immunisé à toute forme de peur, aux charmes et à la confusion.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : bonus de +2 aux jets d'attaques, de sauvegarde et de dégâts, 10 pvs supplémentaires, +1 au charisme, immunité à la peur et aux charmes, pendant 17 rounds.~
+
+@759 = ~Hurlement infernal~
+@7510 = ~Hurlement infernal (Altération) 
+Niveau : 5
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 5
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : spécial
+
+Ce sort amplifie à l’extrême le cri que pousse le seigneur de guerre à la fin de l'incantation pour en faire une onde sonore dévastatrice. Toutes les créatures qui entendent le cri, à l’exception du lanceur de sort et des membres du groupe qui reconnaissent l’incantion du sort assez rapidement pour se boucher les oreilles (jet de sauvegarde contre les souffles) subissent des effets variables selon le niveau du lanceur de sort, suivant le schéma suivant :
+niveau 9 : 10D4 dégâts, surdité pendant 1D4+2 rounds si jet raté
+niveau 12: 12D4 dégâts, surdité pendant 1 tour, 1D4+2 rounds seulement si jet réussi
+niveau 16: 14D4 dégâts, surdité pendant 1 tour, étourdissement pendant 1D6 rounds si jet raté
+niveau 20: 16D4 dégâts, surdité pendant 12 rounds, étourdissement pendant 1D4+2 rounds, 1D2 rounds seulement si jet réussi
+Tous les dégâts infligés par ce sort peuvent être réduits de moitié par un jet de sauvegarde contre les sorts réussi. Ce même jet détermine l'application des effets secondaires.
+Les dégâts infligés par ce sort ne peuvent pas tuer une créature. Celle dont le total de pvs est inférieur aux dégâts reçus reste à 1 pv et s'évanouit.
+Une créature assourdie par ce sort ne peut plus en subir les effets et ne peut plus être affectée par les cris (banshee, liche, etc) avant d'avoir retrouvé une audition normale.~
+@75101 = ~Hurlement infernal (Altération) 
+Niveau : 5
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 3
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : spécial
+
+Ce sort amplifie à l’extrême le cri que pousse le seigneur de guerre à la fin de l'incantation pour en faire une onde sonore dévastatrice. Toutes les créatures qui entendent le cri, à l’exception du lanceur de sort et des membres du groupe qui reconnaissent l’incantion du sort assez rapidement pour se boucher les oreilles (jet de sauvegarde contre les souffles) subissent16D4 points de dégâts, surdité pendant 12 rounds, étourdissement pendant 1D4+2 rounds, 1D2 rounds seulement si jet réussi.
+Tous les dégâts infligés par ce sort peuvent être réduits de moitié par un jet de sauvegarde contre les sorts réussi. Ce même jet détermine l'application des effets secondaires.
+Les dégâts infligés par ce sort ne peuvent pas tuer une créature. Celle dont le total de pvs est inférieur aux dégâts reçus reste à 1 pv et s'évanouit.
+Une créature assourdie par ce sort ne peut plus en subir les effets et ne peut plus être affectée par les cris (banshee, liche, etc) avant d'avoir retrouvé une audition normale.~
+
+@7512 = ~Invisibilité (Illusion)
+Niveau : 5
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+L'invisibilité permet au seigneur de guerre de se soustraire à la vision normale. Le sort rend le magicien invisible, ainsi que tout ce qu'il porte ou manipule. Les effets magiques qui l'entourent sont aussi rendus invisibles, ainsi que tout ce qui pourrait visuellement trahir sa présence. Le sort ne le rend cependant pas indétectable, car son odeur, les bruits qu'il fait, sa voix et tout ce qui n'est pas visuel n'est pas couvert par le sort. De même, tout objet qu'il lâche redevient visible en tombant.
+Tant qu'il est invisible, il ne peut être pris pour cible, et seules les créatures qui le cherchent activement ont une chance de le repérer. S'il vient à être repéré, tout agresseur l'attaque avec un malus de -4 à l'attaque. Il bénéficie également d'un bonus de +4 aux jets de sauvegarde.
+Le magicien reste invisible pendant tout la durée du sort, à moins qu'une dissipation ou un puissant sort de divination n'y mette fin.~
+@75121 = ~Invisibilité (Illusion)
+Niveau : 5
+Portée : 0
+Durée : 25 rounds 
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+L'invisibilité permet au seigneur de guerre de se soustraire à la vision normale. Le sort rend le magicien invisible, ainsi que tout ce qu'il porte ou manipule. Les effets magiques qui l'entourent sont aussi rendus invisibles, ainsi que tout ce qui pourrait visuellement trahir sa présence. Le sort ne le rend cependant pas indétectable, car son odeur, les bruits qu'il fait, sa voix et tout ce qui n'est pas visuel n'est pas couvert par le sort. De même, tout objet qu'il lâche redevient visible en tombant.
+Tant qu'il est invisible, il ne peut être pris pour cible, et seules les créatures qui le cherchent activement ont une chance de le repérer. S'il vient à être repéré, tout agresseur l'attaque avec un malus de -4 à l'attaque. Il bénéficie également d'un bonus de +4 aux jets de sauvegarde.
+Le magicien reste invisible pendant tout la durée du sort, à moins qu'une dissipation ou un puissant sort de divination n'y mette fin.~
+@75122 = ~Invisibilité (Illusion)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds 
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+L'invisibilité permet à la cible de se soustraire à la vision normale. Le sort rend le bénéficiaire invisible, ainsi que tout ce qu'il porte ou manipule. Les effets magiques qui l'entourent sont aussi rendus invisibles, ainsi que tout ce qui pourrait visuellement trahir sa présence. Le sort ne le rend cependant pas indétectable, car son odeur, les bruits qu'il fait, sa voix et tout ce qui n'est pas visuel n'est pas couvert par le sort. De même, tout objet qu'il lâche redevient visible en tombant.
+Tant qu'il est invisible, il ne peut être pris pour cible, et seules les créatures qui le cherchent activement ont une chance de le repérer. S'il vient à être repéré, tout agresseur l'attaque avec un malus de -4 à l'attaque. Il bénéficie également d'un bonus de +4 aux jets de sauvegarde.
+Le bénéficiaire reste invisible pendant tout la durée du sort, à moins qu'une dissipation ou un puissant sort de divination n'y mette fin.~
+@751221 = ~Invisibilité (Illusion)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds 
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+L'invisibilité permet à la cible de se soustraire à la vision normale. Le sort rend le bénéficiaire invisible, ainsi que tout ce qu'il porte ou manipule. Les effets magiques qui l'entourent sont aussi rendus invisibles, ainsi que tout ce qui pourrait visuellement trahir sa présence. Le sort ne le rend cependant pas indétectable, car son odeur, les bruits qu'il fait, sa voix et tout ce qui n'est pas visuel n'est pas couvert par le sort. De même, tout objet qu'il lâche redevient visible en tombant.
+Tant qu'il est invisible, il ne peut être pris pour cible, et seules les créatures qui le cherchent activement ont une chance de le repérer. S'il vient à être repéré, tout agresseur l'attaque avec un malus de -4 à l'attaque. Il bénéficie également d'un bonus de +4 aux jets de sauvegarde.
+Le bénéficiaire reste invisible pendant tout la durée du sort, à moins qu'une dissipation ou un puissant sort de divination n'y mette fin.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils deviennent quasi-invisibles (5% de chance à chaque round d'être repérés) et bénéficient d'un bonus de +3 aux jets de sauvegarde et à la CA pendant 17 rounds.~
+
+@7513 = ~Peau de pierre~
+@7514 = ~Peau de pierre (Altération, Évocation)
+Niveau : 5
+Portée : 0	
+Durée : 3 rounds / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de la guerre doit être en contact avec le sol lorsqu'il lance ce sort, sans quoi il restera sans effet. Lorsque le sort est lancé, une gangue de pierre vient recouvrir le magicien et se fixer sur lui telle une seconde peau. Cette armure de pierre magique ne le gêne pas dans ses mouvements et l'immunise tous les coups. Les ennemis du mage peuvent détruire la peau de pierre en la frappant un nombre de fois égale à la moitié du niveau du magicien plus un. Par exemple, le seigneur de guerre de niveau 14 protégé par la peau de pierre pourrait subir sans dommage 8 coups avant que la protection ne vole en éclats.
+La peau de pierre ne protège que contre les dégâts spéciaux rajoutés par les armes. Elle n’empêche pas les dégâts élémentaires si le coup en inflige, et n’arrête pas les sorts destructeurs.~
+@75141 = ~Peau de pierre (Altération, Évocation)
+Niveau : 5
+Portée : 0	
+Durée : 6 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de la guerre doit être en contact avec le sol lorsqu'il lance ce sort, sans quoi il restera sans effet. Lorsque le sort est lancé, une gangue de pierre vient recouvrir le magicien et se fixer sur lui telle une seconde peau. Cette armure de pierre magique ne le gêne pas dans ses mouvements et l'immunise tous les coups. Les ennemis du mage peuvent détruire la peau de pierre en la frappant 11 fois, après quoi la protection vole en éclats.
+La peau de pierre ne protège que contre les dégâts spéciaux rajoutés par les armes. Elle n’empêche pas les dégâts élémentaires si le coup en inflige, et n’arrête pas les sorts destructeurs.~
+@75142 = ~Peau de pierre (Altération, Évocation)
+Niveau : 5
+Portée : champ de vision
+Durée : 6 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+La cible doit être en contact avec le sol lorsque le seigneur de guerre lance ce sort, sans quoi il restera sans effet. Lorsque le sort est lancé, une gangue de pierre vient recouvrir la cible et se fixer sur celle-ci telle une seconde peau. Cette armure de pierre magique ne la gêne pas dans ses mouvements et l'immunise tous les coups. Les ennemis du bénéficiaire peuvent détruire la peau de pierre en la frappant 11 fois, après quoi la protection vole en éclats.
+La peau de pierre ne protège que contre les dégâts spéciaux rajoutés par les armes. Elle n’empêche pas les dégâts élémentaires si le coup en inflige, et n’arrête pas les sorts destructeurs.~
+@751421 = ~Peau de pierre (Altération, Évocation)
+Niveau : 5
+Portée : champ de vision
+Durée : 6 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+La cible doit être en contact avec le sol lorsque le seigneur de guerre lance ce sort, sans quoi il restera sans effet. Lorsque le sort est lancé, une gangue de pierre vient recouvrir la cible et se fixer sur celle-ci telle une seconde peau. Cette armure de pierre magique ne la gêne pas dans ses mouvements et l'immunise tous les coups. Les ennemis du bénéficiaire peuvent détruire la peau de pierre en la frappant 11 fois, après quoi la protection vole en éclats.
+La peau de pierre ne protège que contre les dégâts spéciaux rajoutés par les armes. Elle n’empêche pas les dégâts élémentaires si le coup en inflige, et n’arrête pas les sorts destructeurs.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : 7 peaux qu'ils peuvent garder pendant 4 tours.~
+
+@7515 = ~Poing fantasmagorique~
+@7516 = ~Poing fantasmagorique (Illusion)
+Niveau : 5
+Portée : Champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Ce sort offre au seigneur de guerre une alternative contre un adversaire qui résisterait à ses sorts. Il se sert d'une illusion grossière mais violente pour faire CROIRE à l'adversaire qu'il subit un coup, ce qu'il ne peut contrecarrer par sa résistance à la magie. Le poing fantasmagorique fait apparaître au dessus de la victime un énorme poing qui s'abat pour l'écraser. Si la victime laisse ses instincts croire qu'elle est écrasée, le contrecoup psychique lui inflige 1D6+1 points de dommage par niveau du seigneur de guerre. (Max 20D6+20). Si la victime comprend qu'il s'agit d'une illusion ou est assez vive pour se jeter sur le coté et pense l'avoir évité (jet de sauvegarde contre les sorts réussi), elle ne subit rien du tout.~
+@75161 = ~Poing fantasmagorique (Illusion)
+Niveau : 5
+Portée : Champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Ce sort offre au seigneur de guerre une alternative contre un adversaire qui résisterait à ses sorts. Il se sert d'une illusion grossière mais violente pour faire CROIRE à l'adversaire qu'il subit un coup, ce qu'il ne peut contrecarrer par sa résistance à la magie. Le poing fantasmagorique fait apparaître au dessus de la victime un énorme poing qui s'abat pour l'écraser. Si la victime laisse ses instincts croire qu'elle est écrasée, le contrecoup psychique lui inflige 20D6+20 points de dommage. Si la victime comprend qu'il s'agit d'une illusion ou est assez vive pour se jeter sur le coté et pense l'avoir évité (jet de sauvegarde contre les sorts réussi), elle ne subit rien du tout.~
+
+@7517 = ~Puissance draconique~
+@7518 = ~Puissance draconique (Transmutation, Enchantement)
+Niveau : 5
+Portée : 0
+Durée : 5 rounds + 1 round / 2 niveaux
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant à se donner la puissance d'un dragon que le seigneur de guerre à trouvé cet étrange sort. Ce dernier effectue une métamorphose incomplète du mage : il ne modifie en rien son apparence, mais charge son corps d'une puissante énergie magique qui lui donne tous les attributs d'un dragon. Sa classe d'armure, ses dés de vie (+4 pvs par dé de vie surnuméraire à ceux du mage) et sa résistance à la magie deviennent ceux d'un dragon, et il gagne l'immunité à un élément ainsi que la moitié du modificateur de combat (qui s'ajoute à tous ses dégâts au corps à corps) de ce dragon.
+En fait, la puissance gagnée lors du lancement du sort est aléatoire au gré de deux jets de dé, qui varient selon le niveau du mage :
+niveau 9 à 13 : 1D4
+niveau 14 à 18 : 1D6
+niveau 19 et + : 1D8
+
+Le premier résultat déterminer le type de dragon :
+1 : Dragon blanc
+2 : Dragon noir
+3 : Dragon de cuivre
+4 : Dragon bleu
+5 : Dragon de bronze
+6 : Dragon d'argent
+7 : Dragon rouge
+8 : Dragon d'or
+
+et le second détermine l'âge du dragon :
+1 : Juvénile
+2 : Jeune adulte
+3 : Adulte
+4 : Age mur
+5 : Vieux
+6 : Très vieux
+7 : Vénérable
+8 : Ver
+
+Le magicien métamorphosé ne génère pas d'aura de terreur et n'acquiert pas le souffle draconique, ni aucune autre capacité particulière de dragon.
+Il ne peut être sous l'effet de plusieurs puissances draconiques.~
+@75181 = ~Puissance du dragon blanc~
+@75182 = ~Puissance du dragon noir~
+@75183 = ~Puissance du dragon de cuivre~
+@75184 = ~Puissance du dragon bleu~
+@75185 = ~Puissance du dragon de bronze~
+@75186 = ~Puissance du dragon d'argent~
+@75187 = ~Puissance du dragon rouge~
+@75188 = ~Puissance du dragon d'or~
+@751811 = ~Juvénile~
+@751812 = ~Jeune adulte~
+@751813 = ~Adulte~
+@751814 = ~Age mur~
+@751815 = ~Vieux~
+@751816 = ~Très vieux~
+@751817 = ~Vénérable~
+@751818 = ~Ver~
+@751819 = ~Puissance draconique (Transmutation, Enchantement)
+Niveau : 5
+Portée : 0
+Durée : 15 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+C'est en cherchant à se donner la puissance d'un dragon que le seigneur de guerre à trouvé cet étrange sort. Ce dernier effectue une métamorphose incomplète du mage : il ne modifie en rien son apparence, mais charge son corps d'une puissante énergie magique qui lui donne tous les attributs d'un dragon. Sa classe d'armure, ses dés de vie (+4 pvs par dé de vie surnuméraire à ceux du mage) et sa résistance à la magie deviennent ceux d'un dragon, et il gagne l'immunité à un élément ainsi que la moitié du modificateur de combat (qui s'ajoute à tous ses dégâts au corps à corps) de ce dragon.
+En fait, la puissance gagnée lors du lancement du sort est aléatoire au gré de deux jets d'un D8 :
+
+Le premier résultat déterminer le type de dragon :
+1 : Dragon blanc
+2 : Dragon noir
+3 : Dragon de cuivre
+4 : Dragon bleu
+5 : Dragon de bronze
+6 : Dragon d'argent
+7 : Dragon rouge
+8 : Dragon d'or
+
+et le second détermine l'âge du dragon :
+1 : Juvénile
+2 : Jeune adulte
+3 : Adulte
+4 : Age mur
+5 : Vieux
+6 : Très vieux
+7 : Vénérable
+8 : Ver
+
+Le magicien métamorphosé ne génère pas d'aura de terreur et n'acquiert pas le souffle draconique, ni aucune autre capacité particulière de dragon.
+Il ne peut être sous l'effet de plusieurs Puissances draconiques.~
+@751810 = ~Puissance draconique (Transmutation, Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+C'est en cherchant à se donner la puissance d'un dragon que le seigneur de guerre à trouvé cet étrange sort. Ce dernier effectue une métamorphose incomplète de la cible : il ne modifie en rien son apparence, mais charge son corps d'une puissante énergie magique qui lui donne tous les attributs d'un dragon.Sa classe d'armure, ses dés de vie (+4 pvs par dé de vie surnuméraire à ceux du mage) et sa résistance à la magie deviennent ceux d'un dragon, et il gagne l'immunité à un élément ainsi que la moitié du modificateur de combat (qui s'ajoute à tous ses dégâts au corps à corps) de ce dragon.
+En fait, la puissance gagnée lors du lancement du sort est aléatoire au gré de deux jets d'un D8 :
+
+Le premier résultat déterminer le type de dragon :
+1 : Dragon blanc
+2 : Dragon noir
+3 : Dragon de cuivre
+4 : Dragon bleu
+5 : Dragon de bronze
+6 : Dragon d'argent
+7 : Dragon rouge
+8 : Dragon d'or
+
+et le second détermine l'âge du dragon :
+1 : Juvénile
+2 : Jeune adulte
+3 : Adulte
+4 : Age mur
+5 : Vieux
+6 : Très vieux
+7 : Vénérable
+8 : Ver
+
+Le personnage métamorphosé ne génère pas d'aura de terreur et n'acquiert pas le souffle draconique, ni aucune autre capacité particulière de dragon.
+Il ne peut être sous l'effet de plusieurs Puissances draconiques.~
+@7518101 = ~Puissance draconique (Transmutation, Enchantement)
+Niveau : 5
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+C'est en cherchant à se donner la puissance d'un dragon que le seigneur de guerre à trouvé cet étrange sort. Ce dernier effectue une métamorphose incomplète de la cible : il ne modifie en rien son apparence, mais charge son corps d'une puissante énergie magique qui lui donne tous les attributs d'un dragon. Sa classe d'armure, ses dés de vie (+4 pvs par dé de vie surnuméraire à ceux du mage) et sa résistance à la magie deviennent ceux d'un dragon, et il gagne l'immunité à un élément ainsi que la moitié du modificateur de combat (qui s'ajoute à tous ses dégâts au corps à corps) de ce dragon.
+En fait, la puissance gagnée lors du lancement du sort est aléatoire au gré de deux jets d'un D8 :
+
+Le premier résultat déterminer le type de dragon :
+1 : Dragon blanc
+2 : Dragon noir
+3 : Dragon de cuivre
+4 : Dragon bleu
+5 : Dragon de bronze
+6 : Dragon d'argent
+7 : Dragon rouge
+8 : Dragon d'or
+
+et le second détermine l'âge du dragon :
+1 : Juvénile
+2 : Jeune adulte
+3 : Adulte
+4 : Age mur
+5 : Vieux
+6 : Très vieux
+7 : Vénérable
+8 : Ver
+
+Le personnage métamorphosé ne génère pas d'aura de terreur et n'acquiert pas le souffle draconique, ni aucune autre capacité particulière de dragon.
+Il ne peut être sous l'effet de plusieurs Puissances draconiques.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont transformés en le même type de dragon que la cible avec une catégorie d'age aléatoire déterminée par un D5 pour 1 tour.~
+
+@7519 = ~Pulvérisation~
+@7520 = ~Pulvérisation (Altération)
+Niveau : 5
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 10 mètres de rayon
+Jet de sauvegarde : spécial
+
+Lorsque le seigneur de guerre lance ce sort, le sol à l'endroit désigné chauffe jusqu'à son point de rupture avant d'exploser, projetant feu et éclats brûlants sur toutes les créatures proches. Elles peuvent être heurtées par un éclat par niveau du magicien (max 17), chacun infligeant 1D4 points de dégâts contondants et 1 point de dégât de feu. Un jet de sauvegarde contre les sorts permet d'éviter la moitié des impacts.
+Le sort laisse un petit cratère à l'endroit où il a été lancé et ne peut affecter que la pierre, le bois et la chair réagissant au sort en brûlant sans exploser. Comme il cible un endroit et non des cibles vivantes, la résistance à la magie des victimes du sort ne les protège pas contre celui-ci.~
+@75201 = ~Pulvérisation (Altération)
+Niveau : 5
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : 10 mètres de rayon
+Jet de sauvegarde : spécial
+
+Lorsque le seigneur de guerre lance ce sort, le sol à l'endroit désigné chauffe jusqu'à son point de rupture avant d'exploser, projetant feu et éclats brûlants sur toutes les créatures proches. Elles subissent 17D4 points de dégâts contondants et 17 points de dégâts de feu. Un jet de sauvegarde contre les sorts permet d'éviter la moitié des impacts.
+Le sort laisse un petit cratère à l'endroit où il a été lancé et ne peut affecter que la pierre, le bois et la chair réagissant au sort en brûlant sans exploser. Comme il cible un endroit et non des cibles vivantes, la résistance à la magie des victimes du sort ne les protège pas contre celui-ci.~
+
+@7521 = ~Régénération~
+@7522 = ~Régénération (Nécromancie)
+Niveau : 5
+Portée : 0
+Durée : 3 rounds / 2 niveaux
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort permet au seigneur de guerre d'accélérer la régénération naturelle de son corps. Pendant toute la durée du sort il récupère 1D4 points de vie par round. (sans pour autant dépasser son maximum de points de vie). La puissance de ce sort augmente avec l’expérience du lanceur, et la régénération conférée passe à 1D6 au niveau 15, et 1D4+2 au niveau 20.~
+@75221 = ~Régénération (Nécromancie)
+Niveau : 5
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort permet au seigneur de guerre d'accélérer la régénération naturelle de son corps. Pendant toute la durée du sort il récupère 1D4+2 points de vie par round. (sans pour autant dépasser son maximum de points de vie).~
+@75222 = ~Régénération (Nécromancie)
+Niveau : 5
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort permet à la cible d'accélérer la régénération naturelle de son corps. Pendant toute la durée du sort elle récupère 1D4+2 points de vie par round. (sans pour autant dépasser son maximum de points de vie).~
+@752221 = ~Régénération (Nécromancie)
+Niveau : 5
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort permet à la cible d'accélérer la régénération naturelle de son corps. Pendant toute la durée du sort elle récupère 1D4+2 points de vie par round. (sans pour autant dépasser son maximum de points de vie).
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils régénèrent de 1D6 points de vie par round pendant 2 tours.~
+@75223 = ~En train de se régénérer~
+
+@7523 = ~Résistance à la magie~
+@7524 = ~Résistance à la magie (Altération)
+Niveau : 5
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de Sauvegarde : aucun
+
+Ce sort augmente la résistance à la magie du seigneur de guerre (et lui en donne une s'il n'en a pas). La résistance à la magie du magicien augmente de 2% par niveau, jusqu'à un maximum de 50% au 25ème niveau. Ce bonus est efficace pour la durée du sort, ou jusqu'à dissipation.~
+@75241 = ~Résistance à la magie (Altération)
+Niveau : 5
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de Sauvegarde : aucun
+
+Ce sort augmente la résistance à la magie du seigneur de guerre (et lui en donne une s'il n'en a pas). La résistance à la magie du magicien augmente de 2% par niveau, jusqu'à un maximum de 50% au 25ème niveau. Ce bonus est efficace pour la durée du sort, ou jusqu'à dissipation.~
+@75242 = ~Résistance à la magie (Altération)
+Niveau : 5
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de Sauvegarde : aucun
+
+Ce sort augmente la résistance à la magie de la cible (et lui en donne une si elle n'en a pas). La résistance à la magie du bénéficiaire augmente de 2% par niveau, jusqu'à un maximum de 50% au 25ème niveau. Ce bonus est efficace pour la durée du sort, ou jusqu'à dissipation.~
+@752421 = ~Résistance à la magie (Altération)
+Niveau : 5
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de Sauvegarde : aucun
+
+Ce sort augmente la résistance à la magie de la cible (et lui en donne une si elle n'en a pas). La résistance à la magie du bénéficiaire augmente de 2% par niveau, jusqu'à un maximum de 50% au 25ème niveau. Ce bonus est efficace pour la durée du sort, ou jusqu'à dissipation.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leur résistance à la magie est augmentée de 33% pendant 15 rounds.~
+
+@7525 = ~Vision surnaturelle~
+@7526 = ~Vision surnaturelle (Divination)
+Niveau : 5
+Portée : 0
+Durée : 5 rounds + 1 round / 2 niveaux
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre une vision qui va bien au-delà de la vision normale. Avec la vision surnaturelle il peut voir les créatures invisibles, dissimulées, floues, dédoublées, et déjouer la plupart des illusions. La vision surnaturelle ne se laisse pas arrêter par la résistance à la magie et ne révèle pas les illusions alliées. Lancer ce sort guérit de la cécité si le lanceur en est affecté.~
+@75261 = ~Vision surnaturelle (Divination)
+Niveau : 5
+Portée : 0
+Durée : 15 rounds
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre une vision qui va bien au-delà de la vision normale. Avec la vision surnaturelle il peut voir les créatures invisibles, dissimulées, floues, dédoublées, et déjouer la plupart des illusions. La vision surnaturelle ne se laisse pas arrêter par la résistance à la magie et ne révèle pas les illusions alliées. Lancer ce sort guérit de la cécité si le lanceur en est affecté.~
+@75262 = ~Vision surnaturelle (Divination)
+Niveau : 5
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible une vision qui va bien au-delà de la vision normale. Avec la vision surnaturelle elle peut voir les créatures invisibles, dissimulées, floues, dédoublées, et déjouer la plupart des illusions. La vision surnaturelle ne se laisse pas arrêter par la résistance à la magie et ne révèle pas les illusions alliées. Lancer ce sort guérit de la cécité si la cible en est affectée.~
+@752621 = ~Vision surnaturelle (Divination)
+Niveau : 5
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 6
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible une vision qui va bien au-delà de la vision normale. Avec la vision surnaturelle elle peut voir les créatures invisibles, dissimulées, floues, dédoublées, et déjouer la plupart des illusions. La vision surnaturelle ne se laisse pas arrêter par la résistance à la magie et ne révèle pas les illusions alliées. Lancer ce sort guérit de la cécité si la cible en est affectée.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : vision surnaturelle imparfaite (5% de chance à chaque round de ne voir "que" les créatures invisibles) pendant 1 tour.~
+
+@7527 = ~Projection multi-élémentaire~
+@7528 = ~Projection multi-élémentaire (Évocation)
+Niveau : 5
+Portée : 20 m
+Durée : Instantanée
+Temps d'incantation : 5
+Zone d'effet : cône de 75 degrés, 10 mètres de long
+Jet de sauvegarde : ½
+
+Ce sort crée une multitude de petits orbes élémentaires, aléatoirement constituées de feu, froid, électricité, acide ou force, qui sont projetés en éventail devant les mains jointes du mage. Toutes les créatures prises dans le cône d'effet subissent 10D6 points de dommage, en proportion globalement équilibrée des 5 éléments. Celles qui réussissent un jet de sauvegarde contre les sorts ne subissent que la moitié de ses dégâts.
+Les dégâts infligés par le sort augmentent avec le niveau du mage, selon le schéma suivant : 10D8 au niveau 12, 10D10 au niveau 15, 10D12 au niveau 18.~
+@75281 = ~Projection multi-élémentaire (Évocation)
+Niveau : 5
+Portée : 20 m
+Durée : Instantanée
+Temps d'incantation : 3
+Zone d'effet : cône de 75 degrés, 10 mètres de long
+Jet de sauvegarde : ½
+
+Ce sort crée une multitude de petits orbes élémentaires, aléatoirement constitués de feu, froid, électricité, acide ou force, qui sont projetées en éventail devant les mains jointes du mage. Toutes les créatures prises dans le cône d'effet subissent 10D12 points de dommage, en proportion globalement équilibrée des 5 éléments. Celles qui réussissent un jet de sauvegarde contre les sorts ne subissent que la moitié de ses dégâts.~
+
+@7529 = ~Frappe de l'assassin~
+@7530 = ~Frappe de l'assassin (Enchantement, altération)
+Niveau : 5
+Portée : champ de vision
+Durée : 7 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+C'est en cherchant à créer un sort lui permettant de focaliser sa puissance contre une cible unique que le seigneur de guerre à trouvé ce sort aux effets inattendus, mais terriblement efficace. Lorsqu'il le lance en désignant une cible, il est automatiquement téléporté vers celle-ci, après quoi toutes ses frappes du round suivant sont automatiquement des coups critiques pouvant la tuer si elle rate un jet de sauvegarde contre la mort. Il gagne aussi contre cette cible un bonus de +4 au taco et aux dégâts, qui reste actif pour toute la durée du sort.~

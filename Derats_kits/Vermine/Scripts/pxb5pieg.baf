@@ -1,0 +1,21 @@
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	GlobalLT("pxb5web","LOCALS",4)
+	See(NearestEnemyOf(Myself))
+	CheckStat(NearestEnemyOf(Myself),0,WEB)
+	!HasItemEquiped("Antiweb",Nearestenemyof(Myself))
+	!GlobalTimerNotExpired("web","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpell(Nearestenemyof(Myself),FIGURINE_SPIDER_WEB)
+		SetGlobalTimer("web","LOCALS",24)
+		IncrementGlobal("pxb5web","LOCALS",1)
+		Attack(Nearestenemyof(Myself))
+END
+
+IF
+	Global("pxb5web","LOCALS",4)
+THEN
+	RESPONSE #100
+		ChangeAIScript("",OVERRIDE)
+END

@@ -1,0 +1,485 @@
+@741 = ~Arme élémentaire~
+@742 = ~Arme élémentaire (Enchantement, Évocation)
+Niveau : 4
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 4
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Le sort rajoute à l'arme que porte le seigneur de guerre une capacité élémentaire basique qui rajoute des dégâts lorsqu'il frappe. Le seigneur de guerre doit choisir l'élément qui enchante son arme lorsqu'il lance le sort, après quoi les dégâts rajoutés sont fonction de son niveau :
+niveau 7 à 10 : + 1D6
+niveau 11 à 14 : + 1D8
+niveau 15 à 18 : + 1D10
+niveau 19 et + : + 1D12~
+@7429 = ~Vous avez déjà enchanté une arme. Vous devez attendre la fin de cet enchantement pour pouvoir le relancer.~
+@74291 = ~Arme élémentaire (Enchantement, Évocation)
+Niveau : 4
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Le sort rajoute à l'arme que porte le seigneur de guerre une capacité élémentaire basique qui rajoute 1D12 points de dégâts lorsqu'il frappe. Le seigneur de guerre doit choisir l'élément qui enchante son arme lorsqu'il lance le sort.~
+@74292 = ~Arme élémentaire (Enchantement, Évocation)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le sort rajoute à l'arme que porte la cible une capacité élémentaire basique qui rajoute 1D12 points de dégâts lorsqu'elle frappe. Le seigneur de guerre doit choisir l'élément qui enchante l'arme lorsqu'il lance le sort.~
+@742921 = ~L'arme de ce personnage est déjà enchantée. Vous devez attendre la fin de cet enchantement pour en créer un autre~
+@742922 = ~Arme élémentaire (Enchantement, Évocation)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le sort rajoute à l'arme que porte la cible une capacité élémentaire basique qui rajoute 1D12 points de dégâts lorsqu'elle frappe. Le seigneur de guerre doit choisir l'élément qui enchante l'arme lorsqu'il lance le sort.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : l'arme qu'ils portent rajoute 1D10 dégâts de l’élément choisi par le seigneur de guerre pendant 2 tours.~
+
+@744 = ~Boule de feu (Évocation) 
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½ 
+
+Le seigneur de guerre crée une boule de magma qu'il lance à l'endroit désigné. La boule explose alors en une vague de flamme de 9 mètres de rayon. Toutes les créatures situées dans la zone subissent 1D6 point de dégâts de feu par niveau du lanceur (maximum 14D6). Celles qui réussissent un jet de sauvegarde contre les sortsparviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
+@7441 = ~Boule de feu (Évocation) 
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½ 
+
+Le seigneur de guerre crée une boule de magma qu'il lance à l'endroit désigné. La boule explose alors en une vague de flamme de 9 mètres de rayon. Toutes les créatures situées dans la zone subissent 14D6 point de dégâts de feu. Celles qui réussissent un jet de sauvegarde contre les sortsparviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
+
+@745 = ~Bouclier élémentaire~
+@746 = ~Bouclier élémentaire (Altération, Évocation)
+Niveau : 5
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le seigneur de guerre doit choisir l'élément dont il souhaite se faire un bouclier. Il peut choisir, feu, froid, électricité ou acide. Après quoi de hautes flammes s’élèvent autour de lui pour le protéger, dont la nature et la couleur dépendent de l'élément choisi. Tant qu'il est couvert par ce bouclier, il gagne 20% + 2% par niveau de résistance à l'élément choisi, et tout adversaire qui le frappe subit 1D6+3 points de dégâts de l'élément choisi infligés par les hautes flammes.~
+@7461 = ~Contrecoup enflammé~
+@7462 = ~Contrecoup glacial~
+@7463 = ~Contrecoup électrique~
+@7464 = ~Contrecoup acide~
+@7465 = ~Bouclier élémentaire (Altération, Évocation)
+Niveau : 5
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le seigneur de guerre doit choisir l'élément dont il souhaite se faire un bouclier. Il peut choisir, feu, froid, électricité ou acide. Après quoi de hautes flammes s’élèvent autour de lui pour le protéger, dont la nature et la couleur dépendent de l'élément choisi. Tant qu'il est couvert par ce bouclier, il gagne 60% de résistance à l'élément choisi, et tout adversaire qui le frappe subit 1D6+3 points de dégâts de l'élément choisi infligés par les hautes flammes.~
+@7466 = ~Bouclier élémentaire (Altération, Évocation)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le seigneur de guerre doit choisir l'élément contre lequel il souhaite créer un bouclier. Il peut choisir, feu, froid, électricité ou acide. Après quoi de hautes flammes s’élèvent autour de la cible pour la protéger, dont la nature et la couleur dépendent de l'élément choisi. Tant que le bénéficiaire est couvert par ce bouclier, il gagne 60% de résistance à l'élément choisi, et tout adversaire qui le frappe subit 1D6+3 points de dégâts de l'élément choisi infligés par les hautes flammes.~
+@74661 = ~Bouclier élémentaire (Altération, Évocation)
+Niveau : 5
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Lorsqu'il lance ce sort, le seigneur de guerre doit choisir l'élément contre lequel il souhaite créer un bouclier. Il peut choisir, feu, froid, électricité ou acide. Après quoi de hautes flammes s’élèvent autour de la cible pour la protéger, dont la nature et la couleur dépendent de l'élément choisi. Tant que le bénéficiaire est couvert par ce bouclier, il gagne 60% de résistance à l'élément choisi, et tout adversaire qui le frappe subit 1D6+3 points de dégâts de l'élément choisi infligés par les hautes flammes.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils sont protégés par un bouclier qui accorde 40% de résistance à l'élément et inflige 1D4+2 points de dégâts pendant 17 rounds.~
+
+@747 = ~Coup de chance~
+@748 = ~Coup de chance (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 4 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne un gros coup de pouce au seigneur de guerre, en forçant grassement sa chance. L'aide reçue est proportionnelle à la puissance du sort, mais l'effet ne dure qu'un temps, et la chance passe très vite.
+Le premier round, il reçoit un bonus de +10 au toucher et +2 à ses chances de coup critique, et fait automatiquement le maximum de dommages lorsqu'il frappe plus 1D10 dégâts magiques. En complément, il réussit automatiquement tous ses jets de sauvegarde.
+Le deuxième round, il reçoit +6 au toucher et +1 à ses chances de coup critique, et fait le maximum de dégâts +1D8. Il reçoit également un bonus de +4 à ses jets de sauvegarde.
+Le troisième round, il reçoit un bonus de +3 au toucher, +1D6 aux dommages et +2 aux jets de sauvegardes.
+Au dernier round, il reçoit un bonus de +2 au toucher, +1D4 aux dommages et +1 aux jets de sauvegarde.~
+@7481 = ~Coup de chance (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 4 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne un gros coup de pouce au seigneur de guerre, en forçant grassement sa chance. L'aide reçue est proportionnelle à la puissance du sort, mais l'effet ne dure qu'un temps, et la chance passe très vite.
+Le premier round, il reçoit un bonus de +10 au toucher et +2 à ses chances de coup critique, et fait automatiquement le maximum de dommages lorsqu'il frappe plus 1D10 dégâts magiques. En complément, il réussit automatiquement tous ses jets de sauvegarde.
+Le deuxième round, il reçoit +6 au toucher et +1 à ses chances de coup critique, et fait le maximum de dégâts +1D8. Il reçoit également un bonus de +4 à ses jets de sauvegarde.
+Le troisième round, il reçoit un bonus de +3 au toucher, +1D6 aux dommages et +2 aux jets de sauvegardes.
+Au dernier round, il reçoit un bonus de +2 au toucher, +1D4 aux dommages et +1 aux jets de sauvegarde.~
+@7482 = ~Coup de chance (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 4 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne un gros coup de pouce à la cible, en forçant grassement sa chance. L'aide reçue est proportionnelle à la puissance du sort, mais l'effet ne dure qu'un temps, et la chance passe très vite.
+Le premier round, elle reçoit un bonus de +10 au toucher et +2 à ses chances de coup critique, et fait automatiquement le maximum de dommages lorsqu'elle frappe plus 1D10 dégâts magiques. En complément, elle réussit automatiquement tous ses jets de sauvegarde.
+Le deuxième round, elle reçoit +6 au toucher et +1 à ses chances de coup critique, et fait le maximum de dégâts +1D8. Elle reçoit également un bonus de +4 à ses jets de sauvegarde.
+Le troisième round, elle reçoit un bonus de +3 au toucher, +1D6 aux dommages et +2 aux jets de sauvegardes.
+Au dernier round, elle reçoit un bonus de +2 au toucher, +1D4 aux dommages et +1 aux jets de sauvegarde.~
+@74821 = ~Coup de chance (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 4 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne un gros coup de pouce à la cible, en forçant grassement sa chance. L'aide reçue est proportionnelle à la puissance du sort, mais l'effet ne dure qu'un temps, et la chance passe très vite.
+Le premier round, elle reçoit un bonus de +10 au toucher et +2 à ses chances de coup critique, et fait automatiquement le maximum de dommages lorsqu'elle frappe plus 1D10 dégâts magiques. En complément, elle réussit automatiquement tous ses jets de sauvegarde.
+Le deuxième round, elle reçoit +6 au toucher et +1 à ses chances de coup critique, et fait le maximum de dégâts +1D8. Elle reçoit également un bonus de +4 à ses jets de sauvegarde.
+Le troisième round, elle reçoit un bonus de +3 au toucher, +1D6 aux dommages et +2 aux jets de sauvegardes.
+Au dernier round, elle reçoit un bonus de +2 au toucher, +1D4 aux dommages et +1 aux jets de sauvegarde.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils reçoivent une aide qui dure 3 rounds et accorde le maximum de dégâts au premier round plus +5/+2/+1 au toucher, +1D6/+1D4/+1D3 aux dégâts et +4/+1/+0 aux jets de sauvegarde.~
+
+@749 = ~Désordre~
+@7410 = ~Désordre (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 4
+Zone d'effet : 1 cible
+Jet de sauvegarde : annule
+
+Ce sort vise à détruire le mental de la cible. Si celle-ci rate le jet de sauvegarde pour s'en prévenir, elle subit une attaque cérébrale. Le seigneur de guerre ne maîtrisant pas vraiment les rouages du cerveau humain, la conséquence est variable : malaise, confusion, abrutissement, étourdissement, migraine, etc.., ainsi que la durée. (qui peut être réduite par une dissipation réussie)
+A partir du niveau 12, la puissance du sort augmentant, le sort peut créer une lésion plus grave, qui peut rendre la victime folle, débile, végétative, etc. Dans ce cas, l'effet et permanent et seule une restauration majeure ou un souhait pourront rendre ses facultés à la victime.~
+@74101 = ~Migraine~
+@74102 = ~Folie~
+@74103 = ~Traumatisme~
+@74104 = ~Autisme~
+@74105 = ~Abruti~
+@74106 = ~Désordre (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 2
+Zone d'effet : 1 cible
+Jet de sauvegarde : annule
+
+Ce sort vise à détruire le mental de la cible. Si celle-ci rate le jet de sauvegarde pour s'en prévenir, elle subit une attaque cérébrale. Le seigneur de guerre ne maîtrisant pas vraiment les rouages du cerveau humain, la conséquence est variable : malaise, confusion, abrutissement, étourdissement, migraine, etc.., ainsi que la durée. (qui peut être réduite par une dissipation réussie).
+Le sort peut aussi créer une lésion plus grave, qui peut rendre la victime folle, débile, végétative, etc. Dans ce cas, l'effet et permanent et seule une restauration majeure ou un souhait pourront rendre ses facultés à la victime.~
+
+@7411 = ~Guérison~
+@7412 = ~Guérison (Nécromancie)
+Niveau : 4
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Guérison permet au seigneur de guerre de refermer ses plaies, récupérer de ses blessures et repartir aussitôt au combat. Le sort lui rend 2 points de vie par niveau.~
+@74121 = ~Guérison (Nécromancie)
+Niveau : 4
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Guérison permet au seigneur de guerre de refermer ses plaies, récupérer de ses blessures et repartir aussitôt au combat. Le sort lui rend 40 points de vie.~
+@74122 = ~Guérison (Nécromancie)
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Guérison permet à la cible de refermer ses plaies, récupérer de ses blessures et repartir aussitôt au combat. Le sort lui rend 40 points de vie.~
+@741221 = ~Guérison (Nécromancie)
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Guérison permet à la cible de refermer ses plaies, récupérer de ses blessures et repartir aussitôt au combat. Le sort lui rend 40 points de vie.
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont guéris de 27 points de vie.~
+
+@7413 = ~Liberté de mouvement~
+@7414 = ~Liberté de mouvement (Abjuration)
+Niveau : 4
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le seigneur de guerre s'assure de ne plus être entravé. Pendant toute la durée du sort, il est immunisé contre tout ce qui pourrait réduire sa mobilité, y compris les toiles d'araignée, les sorts d'immobilisation des personnes, de glisse et d'enchevêtrement.~
+@74141 = ~Liberté de mouvement (Abjuration)
+Niveau : 4
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le seigneur de guerre s'assure de ne plus être entravé. Pendant toute la durée du sort, il est immunisé contre tout ce qui pourrait réduire sa mobilité, y compris les toiles d'araignée, les sorts d'immobilisation des personnes, de glisse et d'enchevêtrement.~
+@74142 = ~Liberté de mouvement (Abjuration)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le seigneur de guerre s'assure que la cible ne puisse plus être entravée. Pendant toute la durée du sort, elle est immunisée contre tout ce qui pourrait réduire sa mobilité, y compris les toiles d'araignée, les sorts d'immobilisation des personnes, de glisse et d'enchevêtrement.~
+@741421 = ~Liberté de mouvement (Abjuration)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le seigneur de guerre s'assure que la cible ne puisse plus être entravée. Pendant toute la durée du sort, elle est immunisée contre tout ce qui pourrait réduire sa mobilité, y compris les toiles d'araignée, les sorts d'immobilisation des personnes, de glisse et d'enchevêtrement.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont protégés pendant 2 tours.~
+
+
+@7415 = ~Mental d'acier~
+@7416 = ~Mental d'acier (Abjuration)
+Niveau : 4
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort protège le seigneur de guerre contre les attaques mentales, naturelles ou magiques. Sous couvert du sort il est protégé des attaques telles que Charme, Domination, Étourdissement, Sommeil, Confusion, etc..., ainsi que des attaques psioniques.~
+@74161 = ~Mental d'acier (Abjuration)
+Niveau : 4
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort protège le seigneur de guerre contre les attaques mentales, naturelles ou magiques. Sous couvert du sort il est protégé des attaques telles que Charme, Domination, Étourdissement, Sommeil, Confusion, etc..., ainsi que des attaques psioniques.~
+@74162 = ~Mental d'acier (Abjuration)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort protège la cible contre les attaques mentales, naturelles ou magiques. Sous couvert du sort elle est protégée des attaques telles que Charme, Domination, Étourdissement, Sommeil, Confusion, etc..., ainsi que des attaques psioniques.~
+@741621 = ~Mental d'acier (Abjuration)
+Niveau : 4
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort protège la cible contre les attaques mentales, naturelles ou magiques. Sous couvert du sort elle est protégée des attaques telles que Charme, Domination, Étourdissement, Sommeil, Confusion, etc..., ainsi que des attaques psioniques.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont protégés pendant 2 tours.~
+
+@7417 = ~Orbe de givre~
+@7418 = ~Orbe de givre (Évocation) 
+Niveau : 4
+Portée : champ visuel du lanceur
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon de 7,5 mètres
+Jet de sauvegarde : ½
+
+Le sort crée un froid intense entre les mains du mage, qu'il compacte en un orbe qu'il lance aussitôt à l'endroit voulu. Il explose alors en projetant froid et éclats sur toutes les créatures présentes dans l'aire de l'explosion, infligeant 1 point de dégât tranchant et 1D4 de froid par niveau du lanceur (14D4+14 maximum). Les créatures peuvent tenter un jet de sauvegarde contre les sorts pour éviter les éclats et ainsi diminuer de moitié les dégâts reçus.~
+@74181 = ~Orbe de givre (Évocation) 
+Niveau : 4
+Portée : champ visuel du lanceur
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : rayon de 7,5 mètres
+Jet de sauvegarde : ½
+
+Le sort crée un froid intense entre les mains du mage, qu'il compacte en un orbe qu'il lance aussitôt à l'endroit voulu. Il explose alors en projetant froid et éclats sur toutes les créatures présentes dans l'aire de l'explosion, infligeant 14 points de dégât tranchant et 14D4 points de dégâts de froid . Les créatures peuvent tenter un jet de sauvegarde contre les sorts pour éviter les éclats et ainsi diminuer de moitié les dégâts reçus.~
+
+@7419 = ~Panacée~
+@7420 = ~Panacée (Nécromancie)
+Niveau : 4
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort purge le seigneur de guerre de tous les maux l'affectant, qu'ils soient naturels ou magiques. Lorsque ce sort est lancé, il neutralise immédiatement les effets du poison, des maladies, des fièvres et des nausées, et rend 1D10 point de vie.~
+@74201 = ~Panacée (Nécromancie)
+Niveau : 4
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort purge le seigneur de guerre de tous les maux l'affectant, qu'ils soient naturels ou magiques. Lorsque ce sort est lancé, il neutralise immédiatement les effets du poison, des maladies, des fièvres et des nausées, et rend 1D10 point de vie.~
+@74202 = ~Panacée (Nécromancie)
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort purge la cible de tous les maux l'affectant, qu'ils soient naturels ou magiques. Lorsque ce sort est lancé, il neutralise immédiatement les effets du poison, des maladies, des fièvres et des nausées, et rend 1D10 point de vie.~
+@742021 = ~Panacée (Nécromancie)
+Niveau : 4
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort purge la cible de tous les maux l'affectant, qu'ils soient naturels ou magiques. Lorsque ce sort est lancé, il neutralise immédiatement les effets du poison, des maladies, des fièvres et des nausées, et rend 1D10 point de vie.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils récupèrent 1D6 points de vie et sont purgés des fièvres et des nausées, mais des poisons et des maladies dans seulement 70% des cas (indépendamment l'un de l'autre).~
+
+@7421 = ~Rage~
+@7422 = ~Rage (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort fait entrer le seigneur de guerre dans un état de rage similaire à la furie d'un guerrier berserker.
+Sous l'effet de la rage il gagne +2 au toucher et aux dégâts. Il est immunisé à la terreur, aux charmes, à la confusion, à l'immobilisation, à l'étourdissement et aux effets de sommeil, de même qu'aux sorts de Labyrinthe, Emprisonnement et Symboles. Enfin, il gagne 15 points de vie temporaires.
+Il y a deux inconvénients à l'utilisation de ce sort. Premièrement, la rage pousse le seigneur de guerre à attaquer sans cesse, ce qui l’empêche de se concentrer suffisamment pour incanter. De plus, cette propension à l’attaque à outrance le pénalise dans sa défense, lui donnant -2 de malus à la CA.
+Deuxièmement et non des moindres, il existe 20% de risques chaque round que la rage entraîne un véritable état de furie berserk si le seigneur de guerre rate un jet de sauvegarde contre les sorts, le rendant alors incapable de discerner ses amis de ses ennemis et l'abrutissant au point de ne chercher qu'à attaquer la créature la plus proche de lui (jusqu'à la mort de celle-ci, après quoi il passe à la suivante, et ainsi de suite jusqu'à la fin du sort).
+Au niveau 16, le seigneur de guerre ayant gagné en expérience peut choisir d'entrer dans une forme de rage supérieure, la furie sanguinaire. Il gagne alors d'autres bonus en plus de ceux déjà fournis par la rage : +3 en force, +1 en constitution, +2 à la vitesse de déplacement, +1 attaque par round. Mais la furie sanguinaire présente deux inconvénients majeurs : premièrement, il peux rentrer en furie berserk chaque round s'il rate un jet de sauvegarde contre les sorts. Deuxièmement, elle est extrêmement éprouvante pour le corps, qui souffre (tension musculaire, rythme sanguin élevé, profusion d'adrénaline, etc) et subit 1D3 points de dégâts par round.~
+@74221 = ~Furie sanguinaire~
+@74222 = ~Rage (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'entrer dans un état de rage qu'il doit choisir lors de l'incantation du sort.
+La rage le fait entrer dans un état de rage similaire à la furie d'un guerrier berserker.
+Sous l'effet de la rage il gagne +2 au toucher et aux dégâts. Il est immunisé à la terreur, aux charmes, à la confusion, à l'immobilisation, à l'étourdissement et aux effets de sommeil, de même qu'aux sorts de Labyrinthe, Emprisonnement et Symboles. Enfin, il gagne 15 points de vie temporaires.
+Il y a deux inconvénients à l'utilisation de ce sort. Premièrement, la rage pousse le seigneur de guerre à attaquer sans cesse, ce qui l’empêche de se concentrer suffisamment pour incanter. De plus, cette propension à l’attaque à outrance le pénalise dans sa défense, lui donnant -2 de malus à la CA.
+Deuxièmement et non des moindres, il existe 20% de risques chaque round que la rage entraîne un véritable état de furie berserk si le seigneur de guerre rate un jet de sauvegarde contre les sorts, le rendant alors incapable de discerner ses amis de ses ennemis et l'abrutissant au point de ne chercher qu'à attaquer la créature la plus proche de lui (jusqu'à la mort de celle-ci, après quoi il passe à la suivante, et ainsi de suite jusqu'à la fin du sort).
+
+La furie sanguinaire est une force de rage supérieure, qui lui fait gagner d'autres bonus en plus de ceux déjà fournis par la rage : +3 en force, +1 en constitution, +2 à la vitesse de déplacement, +1 attaque par round. Mais la furie sanguinaire présente deux inconvénients majeurs : premièrement, il peux rentrer en furie berserk chaque round s'il rate un jet de sauvegarde contre les sorts. Deuxièmement, elle est extrêmement éprouvante pour le corps, qui souffre (tension musculaire, rythme sanguin élevé, profusion d'adrénaline, etc) et subit 1D3 points de dégâts par round.~
+@74223 = ~Rage (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'entrer dans un état de furie sanguinaire.
+Sous l'effet de la furie il gagne +3 en force, +1 en constitution, +2 à la vitesse de déplacement, +1 attaque par round et +2 au toucher et aux dégâts. Il est aussi immunisé à la terreur, aux charmes, à la confusion, à l'immobilisation, à l'étourdissement et aux effets de sommeil, de même qu'aux sorts de Labyrinthe, Emprisonnement et Symboles. Enfin, il gagne 15 points de vie temporaires.
+
+Il y a un inconvénient à l'utilisation de ce sort : la furie pousse le seigneur de guerre à attaquer sans cesse, ce qui l’empêche de se concentrer suffisamment pour incanter.~
+@742231 = ~Vous ne pouvez pas user de magie sous l'effet de la rage~
+@74224 = ~Rage (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 1 tour
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'entrer dans un état de furie sanguinaire.
+Sous l'effet de la furie elle gagne +3 en force, +1 en constitution, +2 à la vitesse de déplacement, +1 attaque par round et +2 au toucher et aux dégâts. Elle est aussi immunisée à la terreur, aux charmes, à la confusion, à l'immobilisation, à l'étourdissement et aux effets de sommeil, de même qu'aux sorts de Labyrinthe, Emprisonnement et Symboles. Enfin, elle gagne 15 points de vie temporaires.
+
+Il y a un inconvénient à l'utilisation de ce sort : la furie pousse le bénéficiaire à attaquer sans cesse, ce qui l’empêche de se concentrer suffisamment pour incanter.~
+@742241 = ~Rage (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 1 tour
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'entrer dans un état de furie sanguinaire.
+Sous l'effet de la furie elle gagne +3 en force, +1 en constitution, +2 à la vitesse de déplacement, +1 attaque par round et +2 au toucher et aux dégâts. Elle est aussi immunisée à la terreur, aux charmes, à la confusion, à l'immobilisation, à l'étourdissement et aux effets de sommeil, de même qu'aux sorts de Labyrinthe, Emprisonnement et Symboles. Enfin, elle gagne 15 points de vie temporaires.
+
+Il y a un inconvénient à l'utilisation de ce sort : la furie pousse le bénéficiaire à attaquer sans cesse, ce qui l’empêche de se concentrer suffisamment pour incanter.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils rentrent dans un état de rage leur donnant +2 au toucher et aux dégâts, toutes les immunités communes à la furie sanguinaire et 10 pvs supplémentaires pendant 7 rounds. Ils ne peuvent pas lancer de sorts sous l'effet de la rage.~
+
+@7423 = ~Stabilisation~
+@7424 = ~Stabilisation (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 3 rounds + 1 round / 2 niveaux
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort stabilise l'arme du seigneur de guerre en supprimant toutes les fluctuations aléatoires qui pourraient réduire la puissance de ses coups. Tant que le sort agit, il donne au combattant l'assurance de faire toujours le maximum de dégâts lors de sa frappe.~
+@74241 = ~Stabilisation (Enchantement)
+Niveau : 4
+Portée : 0
+Durée : 13 rounds
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort stabilise l'arme du seigneur de guerre en supprimant toutes les fluctuations aléatoires qui pourraient réduire la puissance de ses coups. Tant que le sort agit, il donne au combattant l'assurance de faire toujours le maximum de dégâts lors de sa frappe.~
+@74242 = ~Stabilisation (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 13 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort stabilise l'arme de la cible en supprimant toutes les fluctuations aléatoires qui pourraient réduire la puissance de ses coups. Tant que le sort agit, il donne au combattant l'assurance de faire toujours le maximum de dégâts lors de sa frappe.~
+@742421 = ~Stabilisation (Enchantement)
+Niveau : 4
+Portée : champ de vision
+Durée : 13 rounds
+Temps d'incantation : 4
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort stabilise l'arme de la cible en supprimant toutes les fluctuations aléatoires qui pourraient réduire la puissance de ses coups. Tant que le sort agit, il donne au combattant l'assurance de faire toujours le maximum de dégâts lors de sa frappe.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils font le maximum de dégâts pendant 9 rounds.~

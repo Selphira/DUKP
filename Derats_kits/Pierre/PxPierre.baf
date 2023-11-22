@@ -1,0 +1,109 @@
+IF
+	!ActuallyInCombat()
+	GlobalGT("pxpcombat","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("pxpcombat","LOCALS",0)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",0)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG1",myself) //+1/+1+/+1
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",1)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",1)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG2",myself) //peur
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",2)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",2)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG3",myself) //+1 jds
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",3)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",3)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG4",myself) //confusion
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",4)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",4)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG4",myself) //confusion
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",5)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",5)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG5",myself) //charme
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",6)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",6)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG5",myself) //charme
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",7)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",7)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG6",myself) //berserk
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",8)
+END
+
+IF
+	ActuallyInCombat()
+	Global("pxpcombat","LOCALS",8)
+	!GlobalTimerNotExpired("combat","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("PXDSONG7",myself) //berserk
+		SetGlobalTimer("combat","LOCALS",6)
+		SetGlobal("pxpcombat","LOCALS",8)
+END
+
+
+

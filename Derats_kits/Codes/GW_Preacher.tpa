@@ -1,0 +1,191 @@
+/* ============================================================================================ *
+ * FONCTION GW_DEF_OFFSETS_FILE : DÉFINITION des offsets généraux des fichiers SPL, ITM et CRE. *
+ * ============================================================================================ */
+
+DEFINE_PATCH_FUNCTION ~GW_DEF_OFFSETS_FILE~ 
+	STR_VAR GW_file_sig = ""	// file type
+	RET	GW_oe					// Extended Header offset
+		GW_oc					// Extended Header count
+		GW_al					// Extended Header length (ability length)
+		GW_fx					// Feature blocks offset
+		GW_fi					// Equipping-Casting feature blocks index
+		GW_fc					// Equipping Feature Blocks count
+		GW_min_size				// Minimum size
+BEGIN
+
+	PATCH_IF ("%GW_file_sig%" STRING_COMPARE_CASE "") BEGIN SPRINT sig EVAL "%GW_file_sig%" END ELSE BEGIN READ_ASCII 0 sig (3) END
+	PATCH_MATCH ~%sig%~ WITH
+		ITM	BEGIN	SET GW_oe = 0x64		// Extended Header offset
+					SET GW_oc = 0x68		// Extended Header count
+					SET GW_al = 0x38		// Extended Header length (ability length)
+					SET GW_fx = 0x6a		// Feature blocks offset
+					SET GW_fi = 0x6e		// Equipping feature blocks index
+					SET GW_fc = 0x70		// Equipping Feature Blocks count
+					SET GW_min_size = 0x71	// Minimum size
+		END
+		SPL	BEGIN	SET GW_oe = 0x64		// Extended Header offset
+					SET GW_oc = 0x68		// Extended Header count
+					SET GW_al = 0x28		// Extended Header length (ability length)
+					SET GW_fx = 0x6a		// Feature Block Table offset
+					SET GW_fi = 0x6e		// Casting Feature Block offset
+					SET GW_fc = 0x70		// Casting Feature Block count
+					SET GW_min_size = 0x71	// Minimum size
+		END
+		CRE BEGIN	SET GW_oe = 0			// Extended Header offset
+					SET GW_oc = 0			// Extended Header count
+					SET GW_al = 0			// Extended Header length (ability length)
+					SET GW_fx = 0x2c4		// Effects offset
+					SET GW_fi = 0			// Casting Feature Block offset
+					SET GW_fc = 0x2c8		// Effects count
+					SET GW_min_size = 0x2d3	// Minimum size
+		END
+		DEFAULT
+	END
+
+END	// of DEFINE_PATCH_FUNCTION
+
+
+/* ========================================================= *
+ * FONCTION GW_ADD_HEADERS : CLONAGE et/ou AJOUT de headers. *
+ * --------------------------------------------------------- *
+ * Creates copies of the first header up to GW_Headers       *
+ * Or creates empty headers if there is no header.           *
+ * Borrowed from atweaks fill_headers                        *
+ * ========================================================= */
+
+DEFINE_PATCH_FUNCTION ~GW_ADD_HEADERS~ 
+	INT_VAR GW_Headers  = 20		// Nombre de headers à obtenir.
+	STR_VAR GW_file_sig = ""		// Type de fichier à patcher. "" signifie que l'on va chercher automatiquement les valeurs selon le type de fichier.
+									// ITM, SPL ou CRE permettent d'utiliser cette fonction avec la fonction GW_DEF_OFFSETS_FILE.
+BEGIN
+
+//	LPF ~GW_DEF_OFFSETS_FILE~ STR_VAR GW_file_sig RET GW_oe GW_oc GW_al GW_fx GW_fi GW_fc GW_min_size END
+	READ_LONG   GW_oe ao	// "abil_off"
+	READ_SHORT  GW_oc na	// "abil_num"
+	READ_LONG   GW_fx eo	// "fx_off"
+	GW_number = GW_Headers - na
+
+	FOR (i = 0 ; i < GW_number ; ++i) BEGIN
+		PATCH_IF na > 0 BEGIN						// Clonage du header
+			READ_ASCII	 ao ab_copy (GW_al)
+			INSERT_BYTES ao + GW_al*na GW_al
+			WRITE_ASCIIE ao + GW_al*na "%ab_copy%"
+		END ELSE BEGIN								// Création sans copie du header.
+			INSERT_BYTES ao GW_al
+		END
+		++na
+		eo += GW_al
+	END
+	WRITE_SHORT GW_oc na
+	WRITE_LONG  GW_fx eo
+
+END	// of DEFINE_PATCH_FUNCTION
+
+
+/* =========================================================================================================================== *
+ * FONCTION GW_SEARCH_OPCODE : RECHERCHE de la présence d'un opcode dans les extended headers dans un fichier.                 *
+ * --------------------------------------------------------------------------------------------------------------------------- *
+ * FUNCTION GW_SEARCH_OPCODE_FEATURE : RECHERCHE de la présence d'un opcode dans les effets globaux d'un fichier.              *
+ * --------------------------------------------------------------------------------------------------------------------------- *
+ * Utilisées par les bibliothèques GW_Cre_fonctions_macros.tpa et 310_Sorts_Kits.tph et par la fonction GW_CLONE_CUTSCENE_CRE. *
+ * =========================================================================================================================== */
+
+DEFINE_PATCH_FUNCTION ~GW_SEARCH_OPCODE~
+	INT_VAR	GW_opcode_to_check = "-99"		// Pas de vérification
+	RET		GW_opcode_checked				// Valeur retournée	==> 0 = pas d'opcode	-	1 = opcode présent dans le fichier
+BEGIN
+
+	SET GW_opcode_checked = 0
+	PATCH_IF ("%GW_opcode_to_check%" != "-99") BEGIN
+
+		PATCH_IF (GW_oe = 0) BEGIN				// Creatures : NO Extended Headers !
+			SET abil_off = 0
+			SET abil_num = 0
+		END ELSE BEGIN
+			READ_LONG  GW_oe abil_off
+			READ_SHORT GW_oc abil_num
+			READ_LONG  GW_fx fx_off
+		END
+		FOR (i = 0 ; i < abil_num ; ++i) BEGIN									// pour chaque abilitie
+			READ_SHORT (abil_off + 0x1e + GW_al*i) "abil_fx_num"
+			READ_SHORT (abil_off + 0x20 + GW_al*i) "abil_fx_idx"
+			FOR (j = 0 ; j < abil_fx_num ; ++j) BEGIN							 // pour chaque effet
+				PATCH_IF (GW_opcode_checked = 0) BEGIN
+					READ_SHORT (fx_off + (0x30 * (j + abil_fx_idx))) "opcode"
+					PATCH_IF (opcode = "%GW_opcode_to_check%") BEGIN			// Vérification de l'existence de l'opcode.
+						SET GW_opcode_checked = 1
+					END	// of PATCH_IF ("%opcode%" = "%GW_opcode_to_check%")
+				END		// of PATCH_IF (GW_opcode_checked = 0)
+			END			// of looping through effects
+		END				// of looping through headers
+	END					// of PATCH_IF ("%GW_opcode_to_check%" != "-99")
+
+END						// of DEFINE_PATCH_FUNCTION
+
+
+/* ================================================================================================================= *
+ * FONCTION GW_DERAT_FIND_CURE_HP : RECHERCHE des sorts de guérison - Dérivée de la fonction suivante.               *
+ * ----------------------------------------------------------------------------------------------------------------- *
+ * FONCTION GW_MODIF_EFFECT_BY_OPCODE : REMPLACEMENT des paramètres 1 et 2 d'un effet selon la valeur de son opcode. *
+ * ----------------------------------------------------------------------------------------------------------------- *
+ * Créé spécialement car la fonction ALTER_EFFECT ne prend pas en compte les valeurs négatives.                      *
+ * Modifie les valeurs des champs paramètre 1 et/ou 2 par une valeur négative.                                       *
+ * ----------------------------------------------------------------------------------------------------------------- *
+ * Utilisée par les routines 300_Sorts.tph et 360_SortsBouffe.tph.                                                   *
+ * ================================================================================================================= */
+
+DEFINE_PATCH_FUNCTION ~GW_DERAT_FIND_CURE_HP~
+	INT_VAR GW_opcode_to_check	= "-99"	// Opcode à vérifier		==> -99 = Pas de vérification
+			GW_param1_to_check	= "-99"	// Paramètre1 à vérifier	==> -99 = Pas de vérification
+			GW_param2_to_check	= "-99"	// Paramètre1 à vérifier	==> -99 = Pas de vérification
+	RET		GW_opcode_Cure_checked		// Valeur retournée	==> 0 = ce n'est pas un sort de soins	-	1 = c'est un sort de soins
+BEGIN
+
+	SET GW_opcode_Cure_checked = 0
+
+	PATCH_IF ("%GW_opcode_to_check%" != "-99") BEGIN
+
+		PATCH_IF (GW_oe = 0) BEGIN				// Creatures : NO Extended Headers !
+			SET abil_off = 0
+			SET abil_num = 0
+		END ELSE BEGIN
+			READ_LONG  GW_oe abil_off
+			READ_SHORT GW_oc abil_num
+			READ_LONG  GW_fx fx_off
+		END
+
+		FOR (i = 0 ; i < abil_num ; ++i) BEGIN												// pour chaque abilitie
+			READ_SHORT ("%abil_off%" + 0x1e + GW_al*i) "abil_fx_num"
+			READ_SHORT ("%abil_off%" + 0x20 + GW_al*i) "abil_fx_idx"
+
+			FOR (j = 0 ; j < abil_fx_num ; ++j) BEGIN										// pour chaque effet
+
+				PATCH_IF (GW_opcode_Cure_checked = 0) BEGIN									// la procédure s'arrête quand on a trouvé une correspondance.
+
+					READ_SHORT ("%fx_off%" +        (0x30 * (j + %abil_fx_idx%))) "opcode"	// Opcode to check
+					READ_LONG  ("%fx_off%" + 0x04 + (0x30 * (j + %abil_fx_idx%))) "param1"	// Parameter 1 to check
+					READ_LONG  ("%fx_off%" + 0x08 + (0x30 * (j + %abil_fx_idx%))) "param2"	// Parameter 2 to check
+
+					PATCH_IF (opcode = "%GW_opcode_to_check%") BEGIN						// Vérification de l'existence de l'opcode.
+
+						PATCH_IF ("%GW_param2_to_check%" != "-99") BEGIN					// Vérification de l'existence de la valeur saisie du Paramètre 2 à vérifier.
+							PATCH_IF ("%GW_param2_to_check%" = "%param2%") BEGIN
+
+								PATCH_IF ("%GW_param1_to_check%" != "-99") BEGIN			// Vérification de l'existence de la valeur saisie du Paramètre 1 à vérifier.
+									PATCH_IF ("%param1%" >= "%GW_param1_to_check%") BEGIN
+										SET GW_opcode_Cure_checked = 1						// C'est un sort de Soins !
+									END
+								END	// of PATCH_IF ("%GW_param1_to_check%" != "-99")
+
+							END		// of PATCH_IF ("%GW_param2_to_check%" = "%param2%")
+						END			// of PATCH_IF ("%GW_param2_to_check%" != "-99")
+
+					END				// of PATCH_IF (opcode = "%GW_opcode_to_check%")
+
+				END					// of PATCH_IF (GW_opcode_Cure_checked = 0)
+
+			END						// of looping through effects
+		END							// of looping through headers
+	END								// of PATCH_IF ("%GW_opcode_to_check%" != "-99")
+
+END									// of DEFINE_PATCH_FUNCTION

@@ -1,0 +1,74 @@
+IF
+  Detect([PC])
+  Global("Display","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("Display","LOCALS",1)
+    DisplayStringHead(Myself,72786)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  Global("CastFlamestrike","LOCALS",0)
+  !GlobalTimerNotExpired("FlamestrikeTimer","LOCALS")
+THEN
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Nearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Secondnearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Thirdnearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Fourthnearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Fifthnearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Sixthnearestenemyof(Myself))
+    DisplayStringHead(Myself,72787)
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  Global("CastFlamestrike","LOCALS",1)
+  !GlobalTimerNotExpired("FlamestrikeTimer","LOCALS")
+THEN
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Nearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Secondnearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Thirdnearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Fourthnearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Fifthnearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+  RESPONSE #100
+    ForceSpellRES("SPIMIX01",Sixthnearestenemyof(Myself))
+    IncrementGlobal("CastFlamestrike","LOCALS",1)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+THEN
+  RESPONSE #100
+    SetGlobal("CastFlamestrike","LOCALS",0)
+    SetGlobalTimer("FlamestrikeTimer","LOCALS",15)
+    AttackReevaluate(Nearestenemyof(Myself),120)
+END
+

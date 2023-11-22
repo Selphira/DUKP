@@ -1,0 +1,41 @@
+@609 = ~theurgical explorer~
+@61 = ~Theurgical Explorer~
+@62 = ~THEURGICAL EXPLORER: The theurgical Explorer is a very hard priest of Azuth who has devoted to the sacred mission to add as many spells as possible to the great encyclopedia of Azuth. He does that for that choice to open himself to arcane magic and explore one of its most exotic branches: wild magic. If he is not the first to do so for worship, it is his deep passion for the magic that distinguishes him in the eyes of his god, and it is only when he wishes to devote himself completely to the exploration of magic in all its forms he can be given a complete change of divine abilities granted to him, in order to assist him in the mission he is given. He then ceases to be a priest to become a theurgical explorer.
+
+Advantages:
+- Dweomeric divine protection: his incantations can not fail: he is immune to miscast magic and Dispel Magic, and wearing an armor does not prevent him to use his mage spells. (He can still be stopped, paralyzed or muted)
+- Divine assistance: 100% chance of learning spells whatever intelligence level is.
+- Divine Advantage: -1 to casting time of spells, additional -1 at level 15.
+- Special Divine Spell: he can cast a special version of "Wondrous Recall", which allows him to remember two priest and two mage spells.
+
+Disadvantages:
+- Divine Balance: -1 divine spell memorizable by spell level.
+- Desired Entropy : some spells he launches, random each day and with variable frequency, automatically undergo an entropy Hiatus.
+- Shared Entropy: divine spells he casts have a 5% chance to trigger an entropy Hiatus.
+
+Special: After character creation, the theurgical Explorer automatically becomes a multi-class cleric/wild mage.~
+
+@63 = ~Wondrous Recall (Alteration)
+Sphere: charm, Creation
+Level: 6
+Range: 0
+Duration: instantaneous
+Casting Time: 9
+Area of ??Effect: The caster
+Saving Throw: none
+
+This enables the mage to bring back into memory two spells that have been already cast of each type of magic he knows (divine and arcane spells). If no spells have been cast yet, then nothing happens. Wondrous recall cannot recall 6th-level or greater spells.~
+
+@64 = ~Wonderful Memory (Transmutation)
+Level: 6
+Sphere: charm, Creation
+Range: Personal
+Duration: instant
+Casting Time: 9
+Area of ??Effect: Caster
+Saving Throw: none
+
+This enables the mage to bring back into memory two spells that have been already cast of each type of magic he knows (divine and arcane spells). If no spells have been cast yet, then nothing happens. Wondrous recall cannot recall 6th-level or greater spells.~
+
+@65 = ~Divine Advantage: -1 to spell casting time.~
+@66 = ~Theurgical Explorer / Wild Mage~

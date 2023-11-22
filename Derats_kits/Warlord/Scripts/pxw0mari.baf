@@ -1,0 +1,47 @@
+IF
+  See(Nearestenemyof(Myself))
+  Global("Prep","LOCALS",0)
+THEN
+  RESPONSE #100
+    ApplySpell(Myself,CLERIC_ANIMATE_DEAD)
+    ApplySpell(Myself,CLERIC_ANIMATE_DEAD)
+    ApplySpell(Myself,CLERIC_ANIMATE_DEAD)
+    ForceSpell(Nearestenemyof(Myself),WIZARD_CLOUDKILL)
+    SetGlobal("Prep","LOCALS",1)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  Global("Prep","LOCALS",1)
+  Global("SpellSequencer","LOCALS",0)
+THEN
+  RESPONSE #100
+    DisplayString(Myself,39968)
+    DisplayString(Myself,40244)
+    ForceSpell(Myself,WIZARD_STONE_SKIN)
+    DisplayString(Myself,40248)
+    ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)
+    DisplayString(Myself,2469)
+    ReallyForceSpell(Myself,WIZARD_PROTECTION_FROM_MAGIC_WEAPONS)
+    SetGlobal("SpellSequencer","LOCALS",1)
+END
+
+IF
+  HPPercentLT(Myself,50)
+  See(Nearestenemyof(Myself))
+  RandomNum(2,1)
+THEN
+  RESPONSE #100
+    ForceSpell(Myself,CLERIC_CURE_SERIOUS_WOUNDS)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  CheckStatLT(Myself,1,STONESKINS)
+  !GlobalTimerNotExpired("onecontin","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("onecontin","LOCALS",1000)
+    DisplayString(Myself,29736)
+    ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
+END

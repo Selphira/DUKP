@@ -1,0 +1,148 @@
+IF
+	Global("pxsforc","LOCALS",8)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxsforc",Myself)
+	SetGlobal("pxsforc","LOCALS",0)
+END
+
+IF
+	Global("pxsmait5","LOCALS",1)
+	LevelGT(Myself,14)
+	HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai3",Myself)
+	SetGlobal("pxsmait5","LOCALS",2)
+END
+
+IF
+	Global("pxsmait5","LOCALS",2)
+	LevelGT(Myself,14)
+	!HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai2",Myself)
+	SetGlobal("pxsmait5","LOCALS",1)
+END
+
+IF
+	Global("pxsmait2","LOCALS",1)
+	LevelGT(Myself,7)
+	HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai2",Myself)
+	SetGlobal("pxsmait2","LOCALS",2)
+END
+
+IF
+	Global("pxsmait2","LOCALS",2)
+	LevelGT(Myself,7)
+	!HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai15",Myself)
+	SetGlobal("pxsmait2","LOCALS",1)
+END
+
+IF
+	Global("pxsmait2","LOCALS",1)
+	LevelLT(Myself,8)
+	HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai15",Myself)
+	SetGlobal("pxsmait2","LOCALS",2)
+END
+
+IF
+	Global("pxsmait2","LOCALS",2)
+	LevelLT(Myself,8)
+	!HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsmai1",Myself)
+	SetGlobal("pxsmait2","LOCALS",1)
+END
+
+IF
+	CheckStatLT(myself,1,PROFICIENCY2HANDED)
+	Global("pxsequilibre","LOCALS",0)
+	Global("pxsorcel","LOCALS",3)
+	CheckStat(myself,1,PROFICIENCYDAGGER)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxs2main",Myself)
+	SetGlobal("pxsequilibre","LOCALS",1)
+	DisplayStringHead(Myself,@1147)
+END
+
+IF
+	CheckStatLT(myself,1,PROFICIENCY2HANDED)
+	Global("pxsequilibre","LOCALS",0)
+	Global("pxsorcel","LOCALS",3)
+	CheckStat(myself,1,PROFICIENCYSLING)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxs2main",Myself)
+	SetGlobal("pxsequilibre","LOCALS",1)
+	DisplayStringHead(Myself,@1148)
+END
+
+IF
+	CheckStatLT(myself,1,PROFICIENCY2HANDED)
+	Global("pxsequilibre","LOCALS",0)
+	Global("pxsorcel","LOCALS",3)
+	CheckStat(myself,1,PROFICIENCYDART)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxs2main",Myself)
+	SetGlobal("pxsequilibre","LOCALS",1)
+	DisplayStringHead(Myself,@1149)
+END
+
+IF
+	Global("pxsfrappe","LOCALS",0)
+	HaveSpell(WIZARD_INFRAVISION)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsfraok",Myself)
+	SetGlobal("pxsfrappe","LOCALS",1)
+END
+
+IF
+	Global("pxsarmure","LOCALS",0)
+	HaveSpell(WIZARD_ARMOR)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsarmok",Myself)
+	SetGlobal("pxsarmure","LOCALS",1)
+END
+
+IF
+	Global("pxsforce","LOCALS",0)
+	HaveSpell(WIZARD_STRENGTH)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsforok",Myself)
+	SetGlobal("pxsforce","LOCALS",1)
+END
+
+IF
+	Global("pxsboucr","LOCALS",0)
+	HaveSpell(WIZARD_FIRE_SHIELD_RED)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsborok",Myself)
+	SetGlobal("pxsboucr","LOCALS",1)
+END
+
+IF
+	Global("pxsboucb","LOCALS",0)
+	HaveSpell(WIZARD_FIRE_SHIELD_BLUE)
+THEN
+	RESPONSE #100
+	ApplySpellRES("pxsbobok",Myself)
+	SetGlobal("pxsboucb","LOCALS",1)
+END

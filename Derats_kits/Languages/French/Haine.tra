@@ -1,0 +1,158 @@
+@309 = ~porteur de haine~
+@31 = ~Porteur de haine~
+@32 = ~PORTEUR DE HAINE : Sur la Côte des Épées, près des Dix Cités, d'anciennes guerres contre des armées réunies d'orques et de gobelins ont laissé aux habitants une haine profonde envers ces créatures. Aussi les demi-orques, résultant de viols d'humaines par les orques, ne devraient pas pouvoir exister. Ils sont généralement tués à la naissance. Mais parmi les mères ainsi violées, il en est qui ne peuvent se résoudre à abandonner leur rejeton, quelle que soit son engeance. Ainsi des demi-orques peuvent malgré tout naître parmi les humains. Lorsque cela arrive, de tels enfants sont élevés en cachette, car la populace n'aurait aucune pitié pour un bâtard orque, fut-il un enfant. Élevés dans le noir d'une cave, ou dans un grenier puant, vivant dans la peur continuelle d'être découverts et tués, n'ayant pour seul lien social qu'une mère qui leur apprend que le monde les hait, les porteurs de haine sont des demi-orques qui se sont forgés un mental instable basé sur une seule réflexion : le monde me hait, je le hais en retour. Ce sont des brutes sans scrupules qui ne connaissent que la force, la rancœur et la colère. Leur condition de demi-orque les dote d'une condition physique exceptionnelle, mais leur instabilité mentale freine considérablement leur capacité à réfléchir ou à apprendre quoi que ce soit. Il ne savent utiliser que des dons "brutaux" et ne font preuve d'aucune finesse.
+
+Avantages :
+- Intimidation une fois par jour tous les 4 niveaux. Cette capacité agit comme le sort "charme personne", mais avec une durée plus longue et des jets de sauvegarde réduits. La capacité à intimider augmente en puissance au fur et à mesure que le porteur de haine monte en niveau. La personne ainsi intimidée est toujours hostile à la fin de l'effet de la capacité.
+- Hurlement de rage une fois par jour tous les 5 niveaux à partir du niveau 7. Cette capacité agit comme le sort Horreur, forçant toutes les créatures entourant le porteur de haine à réussir un jet de sauvegarde sous peine d'être effrayées pendant 45 secondes. La capacité à effrayer par le hurlement augmente en puissance au fur et à mesure que le porteur de haine monte en niveau.
+- Poing de rage une fois par jour tous les 6 niveaux à partir du niveau 12. Lorsqu'il utilise ce don, le porteur de haine met toute sa hargne dans ses attaques. Il fait alors preuve de tellement de violence que pendant les deux rounds qui suivent il gagne une attaque supplémentaire et toutes ses attaques font les dégâts maximaux. De plus, chaque coup qu'il inflige à une chance d'étourdir l'adversaire.
+- Indomptable : immunisé aux charmes
+- Brutal : +1 aux dégâts
+
+Inconvénients :
+- Alignement limité à chaotique neutre, neutre mauvais et chaotique mauvais
+- Reçoit 10% de points d'expérience en moins (dû à ces faibles capacités de compréhension)
+- -3 à l'intelligence, au charisme et à la sagesse à la création (dû à son manque chronique d'éducation)~
+
+@33 = ~Intimidation~
+@34 = ~Hurlement de rage~
+@35 = ~Poing de rage~
+
+@36 = ~champion de xvim~
+@37 = ~Champion de Xvim~
+@38 = ~CHAMPION DE XVIM : Sur la Côte des Épées, près des Dix Cités, d'anciennes guerres contre des armées réunies d'orques et de gobelins ont laissé aux habitants une haine profonde envers ces créatures. Aussi les demi-orques, résultant de viols d'humaines par les orques, ne devraient pas pouvoir exister. Ils sont généralement tués à la naissance. Mais parmi les mères ainsi violées, il en est qui ne peuvent se résoudre à abandonner leur rejeton, quelle que soit son engeance. Ainsi des demi-orques peuvent malgré tout naître parmi les humains. Lorsque cela arrive, de tels enfants sont élevés en cachette, car la populace n'aurait aucune pitié pour un bâtard orque, fut-il un enfant. Élevés dans le noir d'une cave, ou dans un grenier puant, vivant dans la peur continuelle d'être découverts et tués, n'ayant pour seul lien social qu'une mère qui leur apprend que le monde les hait, les porteurs de haine sont des demi-orques qui se sont forgés un mental instable basé sur une seule réflexion : le monde me hait, je le hais en retour. Ce sont des brutes sans scrupules qui ne connaissent que la force, la rancœur et la colère.
+Lorsque ces êtres antisociaux parcourent les royaumes, ils arrive que certains (en fait, les plus agressifs, responsables de nombreuses souffrances) soient remarqués par Iyachtu Xvim, la nouvelle nuit. Si le porteur de haine qui a ainsi plu au dieu accepte l'offre qui lui est faite, il gagne de nombreux pouvoir en échange d'un maître exigeant.
+Heureusement pour les habitants des royaumes, les conditions pour voir naître un porteur de haine sont déjà rares, mais celles pour que celui-ci devienne le champion de Xvim sont exceptionnelles. 
+
+Avantages :
+- Il garde ses capacités de porteur de haine et en gagne de nouvelle en tant que chevalier noir :
+   * Il peut repousser les morts-vivants comme un clerc possédant deux niveaux de moins.
+   * Il peut lancer "Blessure par imposition des mains" une fois par jour pour infliger une blessure égale à 2 points de vie par niveau.
+   * Il peut lancer quelques sorts divins (limités).
+   * Il a un bonus de +1 aux jets de sauvegarde.
+   * Il est immunisé à la terreur et aux échecs de moral.
+
+Inconvénients :
+- Sa réputation ne doit pas dépasser 12. Si cela devait se produire, le champion de Xvim se verrait dépossédé de tous ces pouvoirs d'origine divine, pour redevenir le simple guerrier qu'il était à la base.
+- Son alignement ne doit en aucun cas devenir neutre, sans quoi il perdrait ses pouvoirs de la même manière. Si son alignement devenait bon, Xvim lui ferait probablement payer le prix de sa trahison.~
+
+@39 = ~Apaisement (Abjuration) 
+Niveau : 1
+Sphère : charme 
+Portée : 10 mètres
+Durée : 1 heure
+Temps d'incantation : 1 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
+
+Le paladin insuffle du courage aux bénéficiaires du sort et élève leur moral à son plus haut niveau. Au fur et à mesure que la durée du sort s'écoule, le moral des cibles revient à son niveau normal.
+Le paladin de Xvim n'ayant aucunes facultés curatives, la version d'apaisement qu'il lance ne peut pas annuler la peur de quelqu'un déjà effrayé.~
+
+@310 = ~Bénédiction impie~
+@311 = ~Bénédiction impie (Conjuration/Convocation) 
+Niveau : 1
+Sphère : toutes 
+Portée : 30 mètres 
+Durée : 6 rounds 
+Temps d'incantation : 1 round 
+Zone d'effet : cube de 15 mètres de côté
+Jet de sauvegarde : aucun
+
+Avec le sort de bénédiction impie, le paladin de Xvim élève le moral des créatures mauvaises amicales et confère un bonus de +1 aux jets de sauvegarde de ces créatures contre les effets de la terreur. Ce sort ajoute également +1 à leurs jets d'attaque. Lorsque l'incantation se termine, le sort affecte toutes les créatures dans une zone correspondant à un cube de 15 mètres de côté, convergeant vers le point désigné par le jeteur de sorts (ainsi, les créatures affectées qui quittent la zone restent sous l'effet du sort ; celles qui y pénètrent après l'incantation échappent à son effet). Ce sort n'affecte que les alliés mauvais, et n'a aucun impact sur les alliés neutres ou bons.~
+
+@312 = ~Protection contre le bien~
+@313 = ~Protection contre le bien (Abjuration) 
+Niveau : 1
+Sphère : Générale
+Portée : toucher 
+Durée : 3 rounds par niveau
+Temps d'incantation : 1 
+Zone d'effet : créature touchée 
+Jet de sauvegarde : aucun
+
+Grâce à ce sort, une barrière magique se crée autour de la cible à 30 cm de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : d'abord, toute créature bénéfique ou enchantée lançant une attaque contre la cible protégée reçoit un malus de -2 au jet d'attaque, et la cible bénéficie d'un bonus de +2 sur ses jets de sauvegarde.~
+
+@314 = ~Détection du bien~
+@315 = ~Détection du bien (Divination) 
+Niveau : 1
+Sphère : Divination
+Portée : 30 mètres
+Durée : Instantanée 
+Temps d'incantation : 2 
+Zone d'effet : vision
+Jet de sauvegarde : aucun 
+
+Ce sort permet de découvrir l'aura bénéfique de n'importe quelle créature. Toute créature bonne à portée du sort se met à dégager une aura bleu pendant un bref instant.~
+
+@316 = ~Blessure légère~
+@317 = ~Blessure légère (Nécromancie)
+Niveau : 1
+Sphère : Guérison
+Portée : contact
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 1 créature
+Jet de sauvegarde : demi-dégâts
+
+Une fois qu'il a lancé ce sort, le paladin inflige 8 points de dégâts à la première créature qu'il touche (4 points en cas de jet de sauvegarde réussi). Ce sort reste sans effet sur les morts-vivants, les créatures artificielles ou extra-planaires.~
+
+@318 = ~Chant funeste~
+@319 = ~Chant funeste (Conjuration/Convocation) 
+Niveau : 2
+Sphère : combat 
+Portée : 0 
+Durée : 1 tour 
+Temps d'incantation : 1 round 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : aucun
+
+Avec le sort de chant funeste, le paladin de Xvim attire une malédiction sur ses ennemis. Lorsque l'incantation est achevée, tous les jets d'attaque et de dégâts, ainsi que les jets de sauvegarde de ses ennemis proches sont réduits de -2 (-1 en cas de jet de sauvegarde contre les sorts). Plusieurs Chant funestes ne sont pas cumulatifs.~
+
+@320 = ~Masse de Xvim~
+@321 = ~Masse de Xvim (Évocation)
+Niveau : 2
+Sphère : combat 
+Portée : 0 
+Durée : 5 rounds
+Temps d'incantation : 5 
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître une masse luisante dans la main du paladin. Elle bénéficie d'un bonus de +3 au jet d'attaque et inflige 1D12 points de dégâts à chaque coup et oblige les objets touchés à réussir un jet de sauvegarde contre les chocs violents ou à être détruit. Tout objet réussissant son jet de sauvegarde n'a plus rien à craindre des effets de la masse, même s'il est frappé à répétition.
+La masse disparaît si elle n'est plus tenue par le paladin. Personne d'autre ne peut la manier.~
+
+@322 = ~Blessure modérée~
+@323 = ~Blessure modérée (Nécromancie)
+Niveau : 2
+Sphère : Guérison
+Portée : contact
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+En lançant ce sort, le paladin de Xvim peut, en touchant la créature ciblée, lui infliger 11 points de dégâts (jet de sauvegarde contre les sorts pour demi-dégâts). Ce sort reste sans effet sur les morts-vivants, les créatures artificielles et extra-planaires.~
+
+@324 = ~Blessure moyenne~
+@325 = ~Blessure moyenne (Nécromancie)
+Niveau : 3
+Sphère : Guérison
+Portée : contact
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 1 créature
+Jet de sauvegarde : demi-dégâts
+
+En lançant ce sort, le paladin de Xvim peut, en touchant la créature ciblée, lui infliger 14 points de dégâts (jet de sauvegarde contre les sorts pour demi-dégâts). Ce sort reste sans effet sur les morts-vivants, les créatures artificielles et extra-planaires. ~
+
+@326 = ~Protection contre le bien, rayon de 3m~
+@327 = ~Protection contre le bien, rayon de 3m (Abjuration)
+Niveau : 4
+Sphère : Protection
+Portée : Toucher
+Durée : 1 tour par niveau
+Temps d'incantation : 7
+Zone d'effet : Rayon de 3 m
+Jet de Sauvegarde : Non
+
+Toute créature dans un rayon de 3 m du paladin de Xvim est affectée par une Protection contre le bien. Cette protection crée une barrière magique à 30 cm de distance du porteur, qui se déplace avec lui, et qui a deux effets : toutes les créatures bénéfiques reçoivent un malus de -2 sur les jets d'attaque ; et tout Jet de Sauvegarde contre de telles attaques se fait avec un bonus de +2.~

@@ -1,0 +1,693 @@
+@701 = ~Feu céleste~
+@702 = ~Cette lourde épée est chaude et des flammes ont été gravées sur toute sa longueur. La complexité de l'ouvrage est proprement ahurissante et l'épée semble environnée de flammes métalliques. L'artiste a dû avoir besoin de plusieurs siècles avant d'obtenir un tel rendu. Le métal de la lame est particulièrement étrange. Il est lourd mais brille comme de l'argent.
+
+L'épée a l'air d'avoir plusieurs milliers d'années. Un léger bourdonnement semble issu de son cœur, et cette vibration augmente quand l'épée touche la chair humaine. Comme de bien entendu, Feu céleste ne peut être maniée que par les individus suffisamment forts et au cœur pur. Au combat, elle s'entoure d'une aura lumineuse qui brûle les créatures maléfiques qu'elle touche.
+
+PARAMETRES :
+
+Capacités d'équipement 
+Classe d'armure : +2
+Résistance aux dégâts tranchants : +10%
+
+Spécial : le porteur de Feu céleste peut par une demande consciente et respectueuse faire évoluer l'épée en une forme plus courte : épée longue, épée courte ou dague.
+
+TAC0 : +2
+Dégâts : 3D6, +10 points de dégâts de feu contre les créatures mauvaises
+Type de dégâts : tranchants
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : épée bâtarde
+Type : arme à 1 main
+Utilisable uniquement par :
+Personnages d'alignement Loyal Bon~
+@70291 = ~Cette lourde épée est chaude et des flammes ont été gravées sur toute sa longueur. La complexité de l'ouvrage est proprement ahurissante et l'épée semble environnée de flammes métalliques. L'artiste a dû avoir besoin de plusieurs siècles avant d'obtenir un tel rendu. Le métal de la lame est particulièrement étrange. Il est lourd mais brille comme de l'argent.
+
+L'épée a l'air d'avoir plusieurs milliers d'années. Un léger bourdonnement semble issu de son cœur, et cette vibration augmente quand l'épée touche la chair humaine. Comme de bien entendu, Feu céleste ne peut être maniée que par les individus suffisamment forts et au cœur pur. Au combat, elle s'entoure d'une aura lumineuse qui brûle les créatures maléfiques qu'elle touche.
+
+PARAMETRES :
+
+Capacités d'équipement 
+Classe d'armure : +2
+Résistance aux dégâts tranchants : +10%
+
+Spécial : le porteur de Feu céleste peut par une demande consciente et respectueuse faire évoluer l'épée en une autre forme : épée bâtarde, épée courte ou dague.
+
+TAC0 : +2
+Dégâts : 3D6, +10 points de dégâts de feu contre les créatures mauvaises
+Type de dégâts : tranchants
+Poids : 5
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Utilisable uniquement par :
+Personnages d'alignement Loyal Bon~
+@70292 = ~Cette lourde épée est chaude et des flammes ont été gravées sur toute sa longueur. La complexité de l'ouvrage est proprement ahurissante et l'épée semble environnée de flammes métalliques. L'artiste a dû avoir besoin de plusieurs siècles avant d'obtenir un tel rendu. Le métal de la lame est particulièrement étrange. Il est lourd mais brille comme de l'argent.
+
+L'épée a l'air d'avoir plusieurs milliers d'années. Un léger bourdonnement semble issu de son cœur, et cette vibration augmente quand l'épée touche la chair humaine. Comme de bien entendu, Feu céleste ne peut être maniée que par les individus suffisamment forts et au cœur pur. Au combat, elle s'entoure d'une aura lumineuse qui brûle les créatures maléfiques qu'elle touche.
+
+PARAMETRES :
+
+Capacités d'équipement 
+Classe d'armure : +2
+Résistance aux dégâts tranchants : +10%
+
+Spécial : le porteur de Feu céleste peut par une demande consciente et respectueuse faire évoluer l'épée en une autre forme : épée bâtarde, épée longue ou dague.
+
+TAC0 : +2
+Dégâts : 3D6, +10 points de dégâts de feu contre les créatures mauvaises
+Type de dégâts : perforants
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : épée courte
+Type : arme à 1 main
+Utilisable uniquement par :
+Personnages d'alignement Loyal Bon~
+@70293 = ~Cette lourde dague est chaude et des flammes ont été gravées sur toute sa longueur. La complexité de l'ouvrage est proprement ahurissante et l'arme semble environnée de flammes métalliques. L'artiste a dû avoir besoin de plusieurs siècles avant d'obtenir un tel rendu. Le métal de la lame est particulièrement étrange. Il est lourd mais brille comme de l'argent.
+
+La dague a l'air d'avoir plusieurs milliers d'années. Un léger bourdonnement semble issu de son cœur, et cette vibration augmente quand la lame touche la chair humaine. Comme de bien entendu, Feu céleste ne peut être maniée que par les individus suffisamment forts et au cœur pur. Au combat, elle s'entoure d'une aura lumineuse qui brûle les créatures maléfiques qu'elle touche.
+
+PARAMETRES :
+
+Capacités d'équipement 
+Classe d'armure : +2
+Résistance aux dégâts tranchants : +10%
+
+Spécial : le porteur de Feu céleste peut par une demande consciente et respectueuse faire évoluer la dague en une forme plus longue : épée bâtarde, épée longue ou épée courte.
+
+TAC0 : +2
+Dégâts : 3D6, +10 points de dégâts de feu contre les créatures mauvaises
+Type de dégâts : perforants
+Poids : 1
+Facteur de vitesse : 1
+Type de compétence : dague
+Type : arme à 1 main
+Utilisable uniquement par :
+Personnages d'alignement Loyal Bon~
+
+@703 = ~Contresort~
+@704 = ~Naradon, mercenaire de Thesk, était connu pour sa faculté à se débarrasser rapidement des mages adverses, même quand ceux-ci étaient plus nombreux que lui. Il a obtenu cette réputation avec l'aide de trois objets : des bottes de rapidité, des potions de rapidité et sa fidèle épée courte, Contresort. Contrairement à beaucoup d'armes magiques, cette dernière n'a pas une histoire de meurtres et de secrets. Naradon prit sa retraite à l'âge de trente-deux ans, mais les nombreuses potions de rapidité qu'il avait ingérées le rattrapèrent vite et il mourut de vieillesse quatre ans plus tard. Son unique héritier n'avait nulle envie de devenir aventurier et il vendit l'arme à un célèbre monte-en-l'air. L'épée se reconnaît au martin-pêcheur sculpté sur son pommeau.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+Octroie une attaque supplémentaire par round
+Jet de sauvegarde contre les sorts : +3
+Résistance à la magie : +10%
+
+Capacités de combat : 50% de chance à chaque coup de lancer Fourvoiement magique sur la cible, lui ôtant toutes possibilités de lancer le moindre sort pendant 2 rounds
+
+TAC0 : +4
+Dégâts : 1D6+4
+Type de dégât : perforant
+Poids : 1
+Facteur de vitesse : 1
+Compétence : Épée courte 
+Type d'arme : à 1 main
+Inutilisable par 
+Druides
+Clercs
+Mages~
+
+@705 = ~Broyeur~
+@706 = ~Ce marteau est l’œuvre d'un inventeur gnome fort ingénieux et quelque peu magicien nommé Airon Broune ; en fait, on ne fait que supposer qu'Airon était gnome, puisque personne à ce jour ne l'a jamais rencontré. Quoi qu'il en soit, il semble qu'il ait prit possession d'une échoppe abandonnée aux abords d'une petite ville, et ce du jour au lendemain : la boutique était en effet vide depuis des lustres et se retrouva soudain parée d'écriteaux indiquant, dans toutes les langues connues, qu'il valait mieux passer son chemin sans s'attarder. Le précédent propriétaire se précipita sur les lieux en apprenant la nouvelle, mais abandonna bien vite toute velléité d'expropriation lorsqu'il vit un gros sac d'or apparaître à ses pieds. Peu de temps après, de curieuses affiches étaient placardées en ville et toutes arboraient le même message :
+
+**************************************
+
+Achète patates. Paiement en or
+
+- Airon Broune
+
+**************************************
+
+Intrigués, quelques habitants décidèrent de tenter leur chance et de livrer des sacs de patates à la mystérieuse échoppe. Il fallait pour cela faire tomber les féculents dans une trappe spéciale située à l'arrière du magasin pour voir aussitôt apparaître un petit sac d'or, contenant environ cinq fois plus d'or qu'on pouvait en attendre. Les patates de meilleure qualité étaient encore mieux récompensées... La nouvelle ne tarda pas à s'ébruiter et ce furent bientôt des montagnes de patates qui furent livrées à la boutique ! Qu'importe la quantité livrée, un sac d'or apparaissait toujours en paiement...
+
+Toutes les fermes des environs se mirent donc instantanément à la culture de la patate, chacune tentant de produire les plus grosses et les plus goûteuses. Ce petit manège dura quelques années et la qualité des patates livrées devint si exceptionnelle que bientôt ce ne furent plus des sacs d'or, mais des objets magiques qui apparurent en paiement. Ne comprenant pas la teneur de ce nouveau mode de paiement, les paysans arrêtèrent aussitôt de cultiver des patates et vendirent les objets récupérés au premier venu... et ce marteau en fait partie. On peut modifier ses fonctions en insérant simplement des plaques spéciales dans sa tête. Ce marteau dispose ainsi de plaques permettant de causer des dégâts supplémentaires de l'acide, du froid ou du feu.
+
+PARAMETRES :
+
+Capacités de combat : 
+Impact : +2 aux possibilités de coup critique
+Corrosion : +1d6 de dégâts d'acide et 10% de chances d'infliger 2d6 supplémentaires d'acide
+Feu intense : +1d6 de dégâts du feu et 10% de chances d'infliger 2d6 supplémentaires du feu
+Froid glacial : +1d6 de dégâts du froid et 10% de chances d'infliger 2d6 supplémentaires du froid
+
+Dégâts : 1d4+6
+TAC0 : +5
+Type de dégâts : contondants
+Poids : 5
+Facteur de vitesse : 4
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage 
+ Voleur~
+
+@707 = ~Alamion~
+@708 = ~Cette épée longue fait partie d'une paire d'armes dont l'autre est l'épée courte Malamion. La lame d'Alamion est légèrement plus fine que celle d'une épée longue normale et son centre est orné d'une longue rainure. Des cristaux de neige gravés à l'acide ornent toute sa surface, même s'ils sont plus nombreux à proximité de la garde. Cette dernière est constituée d'une plaque de bronze prise entre deux blocs d'ivoire sculptés pour représenter des nuages libérant vent et neige. La poignée est couverte de nacre, maintenue en place par du fil de bronze. Quant au pommeau, c'est une sphère de bronze massif s'ornant du cristal de neige d'Aurile.
+
+L'histoire des deux lames est bien connue. Il y a environ deux cents ans, un magicien de Shannath nommé Obren le Gaucher reçut pour instruction de forger une paire d'épées à la gloire d'Aurile. Il le fit à contrecœur, donnant ainsi naissance à Alamion (" Papa du Givre ") et Malamion (" Bébé du Givre ") en l'espace de cinq ans. Après s'être querellés avec lui au sujet de son paiement, les prêtres d'Aurile tentèrent de lui arracher les deux armes de force. On ignore comment l'affrontement s'acheva, mais ce qui est sûr, c'est que les épées ne finirent pas entre les mains des fidèles de la Fille du Gel. Trente ans plus tard, le guerrier Berdino se vanta à Procampur de posséder une lame capable de tuer un démon d'un seul coup. On le retrouva mort sur la plage deux décades plus tard, criblé de carreaux d'arbalète empoisonnés.
+
+Le nouveau possesseur d'Alamion était un voleur vaniteux et égocentrique, Pellas le Bel. Il avait acquis Malamion par le plus grand des hasards quatorze années plus tôt, et cherchait à obtenir sa lame-sœur depuis qu'il avait appris son existence. Il conserva les deux épées jusqu'au jour où il succomba aux coups de Garijon Renold, paladin de Torm. Garijon trouva les deux armes extrêmement utiles contre les fiélons, et les épées furent transmises de paladin en paladin au fil des générations.
+
+Heleban d'Ithmong, paladin de Tyr, est le dernier propriétaire connu des épées. On pense qu'il a péri face aux pirates et esclavagistes de la côte des Epées.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+Résistance au froid : +15%
+
+Capacités de combat :
+2D4 points de dégâts supplémentaire de froid
+5% de chances de transformer la cible en glace
+
+Dégâts : 1d8+3, +5 contre les démons
+TAC0 : +3, +5 contre les démons
+Type de dégâts : tranchants
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@709 = ~Potion étrange~
+@7010 = ~Cette potion contient un liquide quasi-transparent, légèrement vert et sans odeur. La seule indication portée sur le papier collé dessus indique : "Desty Nova, expérience NR-52O".
+La divination ne donne aucun résultat sur cette potion, signe qu'elle n'a laissé aucune trace dans l'histoire d'Abel-Toril. La lecture de la magie ne révèle aucune trace de magie. Qu'est ce c'est que cette potion, d'où vient-elle et que fait-elle ? Il semble que la seule façon de le savoir soit de la boire.~
+@70101 = ~Nano-réparateurs absorbés : régénération accrue~
+@70102 = ~Nano-protecteurs absorbés : protection contre les maladies et les poisons~
+@70103 = ~Nano-accélérateurs phase béta absorbés : rapidité d'attaque, rapidité de mouvement et dextérité accrus, sagesse diminuée~
+@70104 = ~Nano-stimulateurs absorbés : force accrue~
+@70105 = ~Nano-stimulateurs phase béta absorbés : force accrue, intelligence diminuée~
+@70106 = ~Les nano-machines incluses dans cette potion ne sont pas cumulables~
+
+@7011 = ~Mort aux innocents~
+@7012 = ~Cet énorme hachoir ressemblant davantage à une hache a gagné son surnom entre les mains d'un certain Oswell Breck, boucher qui officiait autrefois dans le Quartier des Gratte-Papier de Sigil. On dit qu'un jour, ce citoyen affable et respecté aurait été pris de folie pendant dix jours et dix nuits. Armé de son hachoir, Oswell hanta alors les rues du quartier, massacrant tout homme, femme ou enfant qui avait le malheur de croiser son chemin. On prétend que la Dame elle-même finit par intervenir. Oswell avait apparemment contracté une étrange maladie qui le rongeait lentement de l'intérieur, et c'est cette infection qui l'aurait rendu fou.
+
+On ignore d'où vient cette arme de mort, mais les différents magiciens et érudits qui l'ont étudiée suite au carnage sont parvenus à déterminer la nature de son enchantement. Le hachoir semble se nourrir de l'énergie vitale de ses victimes, tout en en transmettant une partie à son porteur.
+
+PARAMETRES :
+
+Capacité de combat :
+1D4+1 dégâts infligés par cette arme sont ajoutés au total de point de vie de l'utilisateur
+
+TAC0 : +2
+Dégâts : 1D8 +4
+Type de dégât : tranchant
+Poids : 7
+Facteur de vitesse : 4
+Type de compétence : hache
+Type : arme à 1 main
+Force nécessaire : 10
+Inutilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Personnage bon~
+
+@7013 = ~Umei-Kaihen~
+@7014 = ~Cette dague semble presque vouloir glisser de ta main lorsque que tu l'empoignes, tout en te laissant une étrange sensation quand tu la brandis, comme si le destin lui-même avait été changé en ta faveur. Il s'agit d'une arme redoutable et massive pour une dague, avec des lames dentelées des deux côtés. Elle baigne dans une teinte pourpre intense. Les mots suivants sont gravés sur le manche : "Hii 'toh 'mi".
+
+On prétend que cette arme tristement célèbre appartenait autrefois à Zar'Anun l'assassin. Ce dernier, qui n'était tout d'abord qu'un voleur peu connu, gravit peu à peu les échelons de sa guilde en assassinant quiconque le gênait. Sa carrière s'acheva quand l'une de ses futures victimes s'aperçut que Zar'Anun ne quittait jamais sa dague, même lorsqu'il se baignait. Quand l'arme disparut mystérieusement, Zar'Anun fit de même.
+
+PARAMETRES : 
+
+Capacités d'équipement 
+Classe d'armure : +3
+Dextérité : +3
+Chance : +3
+Crochetage : +25% 
+Furtivité : +25% 
+Détection des pièges : +25%
+
+Spécial : toujours considérée +7 pour déterminer ce qu'elle peut toucher
+
+TAC0 : +3
+Dégâts : 2D10+1
+Type de dégâts : perforants
+Poids : 2
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Utilisable uniquement par :
+Guerriers
+Voleurs~
+
+@7015 = ~Marque du Savant~
+@7016 = ~Cet objet intelligemment conçu se divise en deux pièces qui ne sont autres que des dagues coup-de-poing, armes redoutables entre les mains de quiconque sait les utiliser. Leviers et engrenages font jaillir diverses lames qui sont comme des extensions de la main. Mais ses mécanismes, qui lacèrent la chair humaine avec une désarmante facilité, peuvent également servir à crocheter les serrures et à désamorcer les pièges.
+
+Seuls les voleurs et combattants extrêmement doués possèdent un tel ustensile, qui exige un esprit affûté et d'excellents réflexes.
+
+PARAMETRES : 
+
+Capacités d'équipement 
+Classe d'armure : +3
+Maximum de points de vie : +15
+Dextérité : +1
+Crochetage : +25% 
+Furtivité : +25% 
+Détection des pièges : +10% 
+
+TAC0 : +3
+Dégâts : 3D6
+Type de dégâts : perforants
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Dextérité nécessaire : 13
+Intelligence nécessaire : 13
+Utilisable uniquement par :
+Guerriers
+Voleurs~
+
+@7017 = ~Dague de Moorin~
+@7018 = ~Cette dague appartenait autrefois à Moorin, dite Porte-Poisse, une jeune femme pourchassée par la malchance qui devint voleuse sur un coup du sort (ou plutôt, plusieurs). Chaque fois qu'elle se choisissait une profession, son mentor mourait de façon accidentelle. Au bout du compte, elle devint voleuse autodidacte, mais ses compétences étaient proprement risibles. 
+La carrière de Moorin ne fut qu'une succession d'accidents. Chaque fois, elle se retrouvait obligée de combattre sans l'avoir choisi, et finissait généralement mortellement blessée et en prison. Quand son père, l'archimage Xoorcon, comprit qu'elle ne survivrait pas longtemps à ce rythme, il créa cette lame à son intention. 
+Grâce à la chance prodiguée par la dague, Moorin arriva enfin à toucher ses adversaires au combat (ce qui fut un choc pour elle) et à les étourdir. Leur perte de connaissance passagère lui permettait de s'enfuir. Malheureusement, un jour, alors qu'elle fuyait à toutes jambes, elle tomba sur son arme, fût étourdie et se vida de son sang. Elle mourut avant d'avoir repris connaissance. 
+
+CARACTÉRISTIQUES :
+
+Capacité d'équipement
+Classe d'armure : +2
+Chance : +2
+
+Capacités de combat
+15% de chances d'étourdir la cible (2 rounds, pas de jet)
+
+TAC0 : +3
+Dégâts : 1D4+4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@7021 = ~Anneau de Défense du Culte Aramite~
+@7022 = ~Ces anneaux d'argent rose et de rubis étaient portés par les suivants d'un mage charismatique nommé Aramite du Vent du Nord. Il y a de cela plusieurs centaines d'années, Aramite avait établi un culte qui révérait les adorateurs de l'antique Néthéril. Désireux de recréer la culture néthérisse, Aramite et ses suivants s'embarquèrent dans une campagne de fouilles de ruines dans tout Féérûne. Aramite parvint à retrouver de nombreux écrits néthérisses et autres artefacts, depuis longtemps considérés comme perdus à jamais. La rumeur dit que la reine-liche néthérisse Larloch mit un point final aux recherches d'Aramite et de ses adeptes. Ces anneaux sont les seuls signes encore tangibles de la réalité de leur confrérie.
+
+CARACTERISTIQUES :
+
+Capacités d'équipement :
+CA : +2
+Jets de sauvegarde contre les sorts : +3
+Résistance aux dégâts physiques : +15%
+Résistance à la magie : +15%~
+
+@7023 = ~Aura Céleste~
+@7024 = ~Les aasimars naissent des unions entre mortels et célestes. La plupart d’entre eux disposent d’importants pouvoirs innés, mais il n’est pas rare qu’ils revêtent une armure bénie. C’est ce qui explique l’existence de l’Aura Céleste, qui dégage une lueur argentée et dont la cuirasse s’orne de splendides filigranes bleus. Il suffit de la voir pour comprendre qu’elle confère une importante protection à son porteur.
+
+Il y a bien longtemps, la Guerre sanglante opposant baatezus et tanar’ri toucha également le Plan matériel. Heureusement pour les mortels, les combats se déroulèrent loin des grands centres d’habitation, mais cela ne suffit pas à rassurer les célestes qui suivaient la progression du conflit depuis leur plan. Ceux-ci décidèrent donc de constituer une armée afin de repousser tanar’ris et baatezus dans les plans inférieurs. En raison du nombre d’ennemis à combattre, les célestes protégèrent leurs alliés aasimars en bénissant l’armure de ces derniers et en la dotant du pouvoir permanent de Protection contre le Mal, sort qui permettrait aux aasimars de se rapprocher de leurs adversaires sans risquer de se faire attaquer à distance. Une fois les aasimars en place, les célestes donnèrent l’ordre d’attaquer, prenant les hordes de baatezus et tanar'ri par surprise. La bataille qui s’ensuivit fit rage de nombreux jours durant et l’on enregistra des pertes effroyables dans les deux camps, mais les hordes malfaisantes furent finalement renvoyées dans leurs plans abyssaux.
+
+Nombre d’aasimars périrent ce jour-là, et certains furent dépouillés de leur armure par les pillards qui rôdaient non loin. C’est ce qui explique que l’on retrouve parfois une Aura Céleste dans une échoppe ou sur le dos d’un aventurier assez fortuné pour l’acheter.
+
+PARAMETRES :
+
+Capacités d'équipement
+Résistance au feu : +50%
+Jet de sauvegarde contre la mort : +4
+Protection contre le mal en permanence
+
+CA : -1
+Poids : 25
+Force nécessaire : 12
+
+Non utilisable par :
+ Personnage d’alignement mauvais
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@7025 = ~"Œil de Vecna"~
+@7026 = ~"On prétend que Vecna était l'un des plus grands sorciers du multivers et qu'il était capable d'extraire la vie de la poussière, de tuer les gens d'un seul regard et de faire trembler la terre à son seul contact. On prétend qu'il était tellement puissant que même la mort refusa de l'accueillir dans son royaume.
+
+Et c'est pourquoi, malgré la mort, Vecna continua de vivre. 
+
+Abandonné par la mort, il devint le maître d'un grand royaume sur l'un des mondes du Plan Primaire, la Tærre. Il régnait par la terreur et la souffrance, et son pouvoir était tel que même les dieux de la Tærre craignait de s'attirer son courroux.
+
+Mais, le regard perpétuellement tourné vers ses nouvelles conquêtes, Vecna ne vit pas sa fin approcher... sous la forme de son propre lieutenant, Kas.
+
+L'archiliche avait forgé une arme terrible pour son second, qui la portait comme symbole de son autorité. Le talent de Vecna était tel que l'on prétend qu'une partie de son être aurait fusionné avec la lame, et que c'est cette portion du sorcier qui aurait rendu l'épée traîtresse et maléfique. Et c'est ainsi que ce qui n'avait été conçu que pour être un objet de mort acquit une âme et, surtout, une voix.
+
+Jour après jour, année après année, l'épée incita l'ambitieux Kas à renverser son maître. Finalement, un soir, Kas succomba aux promesses de la lame. Convaincu par cette dernière qu'il était plus fort que Vecna, il alla le trouver sur son Trône Desséché et le défia. Les deux hommes se livrèrent une terrible bataille.
+
+Kas périt au cours du combat mais, avant de mourir, il réussit à démembrer son ancien maître et à éparpiller ses restes afin que personne ne puisse jamais le ramener à la vie. C'est ainsi que quelques fragments de Vecna continuent de circuler entre les plans. L'Oeil est de ceux-ci. Son histoire n'est qu'une succession d'événements sanglants, à tel point que la plupart des érudits refusent d'évoquer les traîtrises dont il s'est rendu coupable, de peur qu'il vienne jusqu'à eux et les ajoute à la longue liste de ses victimes.
+
+L'Oeil de Vecna est ainsi responsable de la destruction de la Maison de Hyéric, qui était autrefois la dynastie dirigeante du Nyrond. On prétend qu'il est également à la base de fin du Conclave de Tyssis-sur-Mer, événement qui déboucha sur la guerre des trois cycles et l'empoisonnement irréversible des eaux de Malhataï, la planète aquatique. Sur le plan de Ghalentir, il posséda le père de Sasaran, nourrisson qui avait le potentiel de conduire son peuple de martyres jusqu'aux Portes du Paradis ; mais l'Oeil poussa le père à étrangler son fils dans son berceau. Bien des royaumes ont été détruits, bien des avenirs avortés, à cause de l'Oeil de Vecna."
+
+Mais l'Oeil de Vecna est un objet vivant, doté de sa propre conscience puissante et dominatrice. Ce n'est pas le cas de CET œil. Celui-ci raconte la même histoire, mais il est tout ratatiné et son orbite n'est qu'un trou béant laissant voir un intérieur vide. Cette orbe desséchée semble dénuée d’énergie spirituelle et ne ressemble en rien à l'artefact qui à causé de nombreux désastres.
+Il s'agit en fait de l'Oeil tel qu'il sera après mille millénaires d’existence. Son pouvoir sera alors tellement puissant qu'il ne se déplacera plus seulement dans l'espace mais aussi dans le temps. Et la puissance du sort a fait que c'est vous, aujourd'hui, qui l'avez trouvé....
+
+Pour profiter des pouvoirs de l'Oeil tel qu'il est maintenant, il faut se l'implanter à la place d'un œil. Cette opération ne peut pas être réalisée sans dommage et sans douleur, et la personne qui la subit perd définitivement 5 points de vie. Après quoi, l’œil ne peux plus être enlevé et ne disparaît qu'à la mort de son porteur, se déplaçant alors pour un autre endroit dans un autre temps.
+
+Capacités après implantation :
+Vision véritable
+Double le nombre de sorts de niveau 1 et 2
++35% de résistance à la magie
++4 aux jets de sauvegarde contre les sorts
+
+Poids : 1
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)
+Personnages d'alignement mauvais~
+@70261 = ~Œil desséché~
+@70262 = ~Cet objet semble être un œil complètement desséché. Il est vide et son orbite n'est qu'un trou. Bizarrement, il résiste très bien à l'écrasement.~
+
+@7031 = ~Arc de Mithral, le marteleur~
+@7032 = ~On estime encore parfois que l'Arc de Mithral et son cousin, l'Arc d'Or, furent en partie responsables de la fin de l'alliance entre les Elfes et les Nains dans le Nord, tout autant qu'ils provoquèrent la chute de la Main Tranchée et de Profondorn. Ces deux objets semblent en tout état de cause au centre de moultes tragédies, sans qu'une seule flèche n'en ait d'ailleurs jamais été tirée.
+
+L'Arc de Mithral fut créé à l'apogée de l'alliance entre les Nains et les Elfes du Nord et fut l'un des nombreux objets magiques que les alliés d'alors avaient fabriqué en commun avant la chute de la Main Tranchée et de Profondorn. Sa précision était sans pareille et les Nains le présentèrent comme un gage d'entente cordiale entre les deux communautés. La corde de l'arc aurait même été bénie par l'archimage Elfe Larrel en personne et sa portée semblait illimitée. Il fut longtemps entreposé dans les couloirs de la Main Tranchée comme symbole de l'alliance entre les deux peuples et des bienfaits que celle-ci pouvait apporter.
+
+Mais son cousin, l'Arc d'Or, fut découvert entre les mains d'une horde d'orques qui ravageait les forêts du nord de la Main Tranchée ; les Elfes en prirent ombrage et accusèrent les Nains de vendre leurs reliques communes au plus offrant. Les Nains, furieux, s'emparèrent de l'Arc de Mithril et retournèrent en Profondorn, rompant toute relation avec leurs anciens alliés.
+
+La légende raconte que la corde de l'arc se brisa à l'annonce de la rupture entre les peuples et que l'arme, désormais inutilisable, ait été entreposée dans le Bas Profondorn, observant silencieusement les Nains s'enfoncer toujours plus profondément dans leurs cavernes alors que les hordes de gobelins semaient terreur et destruction dans le Nord. Mais la Horde Noire ne put jamais s'en emparer, malgré ses fréquentes incursions dans Profondorn, et l'Arc de Mithril resta des années parmi les cadavres des Nains, toujours agrippés à leurs armes.
+
+Personne ne sait vraiment comment il est parvenu jusqu'ici, mais la chose la plus étonnante est encore que sa corde a été restaurée et que l'arc semble pressé d'en découdre. Peut-être y a-t-il encore un espoir pour les Elfes et les Nains tombés au champ d'honneur... ne serait-ce que pour faire valoir leurs droits sur leurs terres natales tombées aux mains des hordes de gobelins.
+
+CARACTÉRISTIQUES :
+
+Capacité d'équipement 
+CA : +1
+Hâte
+
+Capacité de combat 
+3 flèches par round
+
+TAC0 : +5
+Dégâts : +4 (projectile)
+Poids : 3
+Facteur de vitesse : 6
+Compétence : Arc long
+Type d'arme : à 2 mains
+Force nécessaire : 12
+Dextérité nécessaire : 17
+Non-utilisable par :
+ Druides
+ Clercs
+ Mages
+ Voleurs~
+
+@7037 = ~Mystère des Morts~
+@7038 = ~La face externe de ce gros bouclier en acier est ornée de dessins à l'émail noir entourant un crâne central. La face interne est couverte de signes anciens. Les seuls mots compréhensibles posent la question " ET QU'EN EST-IL DES MORTS ? " Nul sort de divination ne permet de découvrir l'histoire de cet objet.
+A la demande du marchand Nym de Mantol-Derith, les sorciers drows ont enchanté ce bouclier pour lui donner de sombres capacités.
+
+PARAMETRES : 
+
+Capacité d'équipement :
+immunité contre Doigt de mort et Mot de pouvoir mortel
+
+Spécial:
+Permet de lancer Animation des morts 3 fois par jour et Cri de la Banshee 1 fois par jour.
+
+Bonus de Classe d'armure : 4
+Spécial : +1 contre les armes à projectile
+Poids : 20
+Force nécessaire : 15
+Utilisable uniquement par 
+ Elfes
+ Humains
+ Demi-elfes
+Non utilisable par :
+ Druides
+ Voleurs
+ Mages
+ Bardes~
+@70381 = ~Cri de la Banshee~
+
+@7043 = ~Cape scintillante~
+@7044 = ~L'origine de cette cape a été perdue dans la nuit des temps. Cependant, elle a longtemps appartenu à Drosus, un mage relativement puissant d'Eauprofonde. Drosus périt lors de l'attaque d'une meute de loups des glaces plus nombreuse que de coutume, alors qu'il menait une expédition en solitaire à travers l'Epine Dorsale du Monde : il avait dû revêtir une cape plus épaisse pour se protéger du froid...
+De prime abord, cette cape semble être de couleur blanche. En fait, elle est composée de milliers de couleurs, qui scintillent sous la moindre source de lumière, ce qui a pour effet de distraire et d'aveugler partiellement les personnes regardant directement le porteur de la cape.
+
+PARAMETRES : 
+
+La cape donne un bonus de +3 à la classe d'armure et peut être combinée à tout autre enchantement de protection, elle peut donc, à la différence d'une cape de protection, être portée par-dessus une armure magique.
+Poids : 3~
+
+@7045 = ~Bouclier de Bayle~
+@7046 = ~Ce bandeau béni appartenait à Bayle Dugallon, Chevalier de Torm. Lorsque ce dernier reçu pour ordre de détruire un trio de prêtres du Seigneur noir, il lui fut donné le loisir de choisir dans la réserve secrète du temple un objet pour l'aider dans sa mission. Déjà satisfait de son épée et de son armure, il choisi ce bandeau, bijou simple qui ne couvrirait pas son visage.
+La mission se révéla plus ardue que prévue, et emmena le chevalier à suivre les cyriquistes sur le plan inférieur du Pandémonium. En effet, ces derniers s'étaient réfugiés sur le plan de la folie car ils y bénéficiaient d'une aide à la mesure de la puissance du soleil noir.
+Fort de sa foi inébranlable, Bayle psalmodia des prières ininterrompus à l’attention de Torm alors qu'il parcourait le plan infernal pour traquer les prêtres noirs. Il ne failli point et son entreprise fut couronnée de succès. Lorsqu'il porta le coup ultime au dernier des trois, il comprit que son dieu était avec lui, et que le bandeau qu'il avait reçu avait la puissance d'un artefact mineur.
+Malheureusement, il ne pût jamais s'en resservir. Pour une raison encore inconnue, on ne revit jamais le Chevalier sur le plan primaire.
+L'artefact fût ensuite retrouvé par une bande d'aventurier avides de trésors, qui décimait en boucle des glabrezus dans les égout de Sigil. L'un des glabrezus portait le bandeau, et c'est l’immortel sans-nom qui menait le groupe qui le récupéra.
+Comment cet objet à pu finir sur Abel-Toril, cela reste un mystère. Toujours est-il que la magie du sort vous à permit de le trouver.
+
+PARAMETRES : 
+
+Résistance à la magie : +25%
+Classe d'armure : +3
+Sagesse : +3
+Permet de mémoriser un sort de clerc supplémentaire des niveaux 1 à 6
+
+Utilisable uniquement par :
+Paladin et clerc d'alignement bon~
+
+@7047 = ~Écharpe étincelante~
+@7048 = ~Cette splendide écharpe en soie est l'une des nombreuses qui ont vu le jour dans le sud de Zakhara. Elles étaient tissées pour aider leur porteur à éviter les attaques. La Confrérie du Vrai Soleil, société de tueurs sacrés, en donnait à ses fidèles serviteurs. Cette écharpe spécifique appartenait récemment à l'un de ces tueurs sacrés, Khamu Bedi. De fines lettres noires cousues sur la soie rouge indiquent " Sois fort, vif et mortel. Mais surtout, sois moral. "
+
+PARAMETRES : 
+Le porteur est en permanence sous l'effet de Flou
+
+Utilisable uniquement par :
+Personnage d’alignement bon~
+
+@7049 = ~Anneau Zéro~
+@7050 = ~L'origine de cet anneau c'est perdu dans la nuit des temps. Il aurait pu rester caché, si un immortel sans-nom avide de puissance ne l'avait pas retrouvé en prononçant un sort de souhait.
+Lorsqu'il réapparut, l'anneau se trouvait alors à Maudith, ville-portail de l'Outreterre qui venait de basculer dans les Carcéres.
+Des année plus tard, la puissance du sort vous à fait le trouver sur Abel-Toril. Comment cela est possible, cela reste un mystère.
+
+PARAMETRES :
+
+Capacités d'équipement :
+Classe d'Armure : +3
+Intelligence : +3
+Résistance à la magie : +15%
+Permet de mémoriser un sort de mage supplémentaire des niveaux 6 à 9
+
+Capacité spéciale :
+Invoque le souffle du Canon de Méchanus sur une cible une fois par jour
+
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)~
+@70501 = ~Canon de Méchanus~
+
+@7051 = ~Égide des tourments~
+@7052 = ~Cet anneau est curieusement chaud au toucher. Il est imprégné de l'essence d'un Baatezu majeur. Il appartenait autrefois à une puissant fièlon qui passa une éternité enfermé dans une boîte maudite, que personne n'osait ouvrir de peur de libérer le monstre.
+Il fût libéré lorsqu’un immortel trouva un moyen original de se débarrasser de la boîte, libérant du même coup l'être qui y était emprisonné. Le fiélon libéré ne fût pas reconnaissant pour autant. Un millénaire d'enfermement l'avait rendu fou furieux, et une seule idée l’obsédait : massacrer le dernier impudent qui avait osé le manipuler.
+Il retrouva l'immortel à un carrefour des plans. Le combat qui s'en suivi fût épique, et l’issue incertaine. Finalement, le fiélon de la boîte de Morridor fût vaincu, et son anneau récupéré par l'immortel sans nom.
+Aucun moyen de divination ne permet ensuite de comprendre comment cet anneau a pu se retrouver sur Abel-Toril.
+
+PARAMETRES : 
+
+Classe d'armure : +3
+Constitution : +3
+Maximum de points de vie : +15
+Résistance aux dégâts physiques : +25%~
+
+@7053 = ~Anneau de Thex~
+@7054 = ~Cet anneau en argent ouvragé est serti d'une pierre rouge impossible à reconnaître. On pense qu'il a été créé par une magicienne aventurière du nom de Thex. Cette dernière aurait dit qu'elle en avait assez de rester en arrière alors que ses compagnons étaient libres d'aller combattre. Grâce à l'anneau, elle put devenir ce qu'elle appela une magicienne de guerre. L'anneau fut le couronnement de sa brève carrière.
+
+PARAMETRES :
+Classe d'armure : +4
+Maximum de points de vie : +20
+Jets de sauvegarde : +2
+
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)~
+
+@7055 = ~Anneau des Arcanes d'Édion~
+@7056 = ~Ce puissant anneau appartenait récemment à Édion, nécromancien mourant natif de Sembie, qui l'a lui-même fabriqué. À la fin, il avait tellement pris l'habitude de le porter qu'il ne l'ôtait presque jamais. Il le portait à l'annulaire gauche, pour symboliser son mariage avec les arts magiques.
+
+PARAMETRES : 
+Double le nombre de sorts de magicien de niveau 5 que le personnage peut mémoriser.
+
+Utilisable uniquement par :
+Mage~
+
+@7059 = ~Froidarmure de Martek~
+@7060 = ~De nombreux anneaux furent forgés pour aider les tueurs de mages du Cercle de Glace à combattre les membres de la Tour de l'Arcane.
+
+L'organisation et la fabrication des anneaux étaient financées par un marchand d'Eauprofonde dont le nom a été effacé des livres d'histoire par la Tour de l'Arcane. Il semblerait que ce marchand gardait rancune contre la Tour de l'Arcane suite à un différend au cours duquel il dut abandonner ses biens à Luskan, ainsi qu'une bonne partie de ses marchandises. Il dépêcha alors une poignée de sorciers d'Eauprofonde pour lui procurer des anneaux magiques et recruter un groupe de tueurs de magiciens, dont la mission consistait à anéantir la Tour de l'Arcane. Les vingt tueurs et le marchand devaient ensuite se retrouver à Luskan.
+
+L'un des tueurs de magicien, un dénommé Martek, craignait à juste titre la puissance de la Tour de l'Arcane et préféra donc faire forger un anneau bien plus puissant par un de ses amis Nains. Les premiers membres du Cercle de Glace tombèrent rapidement sous les coups de la Tour de l'Arcane, qui avait depuis longtemps découvert le fin mot de l'histoire... Seul Martek parvint à leur échapper en fuyant vers le sud, protégé par son anneau spécial. Il retourna auprès de son ami Nain et lui rendit son anneau, que celui-ci vendit à un marchand en route pour Bryn Shander.
+
+Cet anneau de Froidarmure d'acier diffère des autres anneaux du Cercle de Glace par sa fine tige d'acier déroulée sous la couche de glace... un peu comme Martek, en quelque sorte.
+
+PARAMETRES : 
+Résistance au feu, au froid à l'électricité et à l'acide : +35%
+Résistance à la magie : +15%
+
+Sort : Globe d'invulnérabilité une fois par jour
+
+Spécial : cet anneau très particulier peut être porté par un tueur de magiciens
+Poids : 0~
+
+@7061 = ~Cape de Mithran~
+@7062 = ~Cette cape elfique, tissée de soie et de laine, était portée par un puissant magicien de Myth Nantar, Mithran Finpétale. Mithran était connu pour son amour des voyages et son acceptation des " N'TelQuessir ", c'est-à-dire le " non peuple ", ou tous les individus qui n'étaient pas elfes. C'est cette cape qui causa sa perte, car elle avait été tissée et enchantée par celle qu'il aimait, l'elfe noire Rauva Vrinn. Le style de la cape noire et bleu sombre était tellement éloigné de ce que les elfes fabriquaient que les compagnons de Mithran commencèrent à avoir des doutes à son sujet.
+
+Un jour, une connaissance de Mithran, un elfe chasseur de drows appelé Gaedel, découvrit la cachette de Rauva dans la forêt entourant Myth Nantar. Accompagné d'un petit groupe de guerriers, il prit la hutte d'assaut et tua Rauva. Quand Mithran l'apprit, il devint fou de rage. Il attaqua le chalet de chasse de Gaedel et ses frères, qu'il détruisit en abattant tous ses occupants. La famille de Gaedel se vengea en tuant Mithran. La cape fut récupérée par un proche ami du mage, un guerrier nain du nom d'Hael Lacdebronze. Sans ce dernier, elle aurait fini au fond du lac des Etoiles Déchues, engloutie avec le reste de Myth Nantar, qui sombra quelques années après la mort de Mithran. 
+
+CARACTÉRISTIQUES :
+
+Classe d'Armure : +3
+Jets de sauvegarde : +3
+Poids : 5
+Non utilisable par :~
+
+@7063 = ~Vaillant~
+@7064 = ~Ce légendaire cimeterre a appartenu pour un temps limité au guerrier Ilban d'Elturel. C'est suite aux exploits de ce dernier, à Calimshan, que Vaillant a gagné son nom. Avant lui, il appartenait à un tueur sacré de la lointaine Zakhara. S'il faut en croire les sages, ce cimeterre aurait été forgé pour un ordre d'assassins. Ses possesseurs ont survécu à d'incroyables périls, le plus souvent grâce à ses pouvoirs magiques. L'arme a été perdue à Calimshan lorsqu'un tueur sacré a poursuivi les agents blasphémateurs d'un pacha jusqu'à Calimport. Le cimeterre a appartenu à la Cabale de Barris pendant une douzaine d'années, jusqu'à ce qu'Ilban et ses compagnons en viennent à bout. Avec Ilban, Vaillant a affronté hommes de sable, scorpions géants, maraudeurs et autres sorciers maléfiques, sans oublier les serviteurs démoniaques de Celan Harad.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+CA : +2
+Résistance aux dégâts physiques : +20%
+Octroie une attaque supplémentaire par round
+
+TAC0 : +3
+Dégâts : 1D8 +3
+Type de dégât : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 8
+Inutilisable par :
+Clerc
+Mage~
+
+@7071 = ~Coeur de <CHARNAME>~
+@7072 = ~Vous ne savez absolument pas d’où provient cette épée de facture naine, mais vous distinguez nettement le mot <CHARNAME> sur sa lame. Vous êtes sûr de ne l’avoir jamais vue et pourtant elle vous semble étrangement familière lorsque vous la tenez. Elle semble assez ancienne et sa lame est ébréchée à plusieurs endroits. Un léger froid en émane. Vous vous demandez pourquoi cette épée porte votre nom.
+
+PARAMETRES : 
+
+Capacités d'équipement :
+Force : +2
+Dextérité : +2
+Maximum de points de vie : +25
+Action libre
+Hâte
+
+Dégâts : 1d8 +4
+TAC0 : +4
+Type de dégâts : tranchants
+Poids : 5
+Facteur de vitesse : 2
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@7073 = ~Ceinture d'Ombre ~
+@7074 = ~Les Ceintures d'Ombre auraient autrefois été portées par des émissaires à la solde de Kresselack le Loup Noir. Ceux-ci avaient pour mission de trouver le lieu idéal pour la dernière demeure de Kresselack, où il pourrait mourir et reposer en paix. Après avoir découvert un tel endroit, les émissaires et leurs ceintures rejoignirent leur maître dans son tombeau, quelque part dans le Val des Ombres. Les ceintures furent découvertes quelques années plus tard par des pilleurs de tombes, qui les disséminèrent un peu partout dans le Nord. Cette ceinture est particulière, car elle semble avoir absorbé une partie de l'essence du Val des Ombres avant de quitter le tombeau de Kresselack.
+
+Cette ceinture disparaît complètement une fois nouée autour de la taille et son porteur semble s'évanouir, devenant indétectable. Il semble se fondre dans les ombres et résiste aux sorts d'immobilisation ou de confinement.
+
+PARAMETRES : 
+Bonus : +10 % pour se cacher dans l'ombre
+Action libre
+Non détection
+
+Poids : 2~
+
+@7075 = ~Ogre Nain~
+@7076 = ~L'Ogre Nain est une ceinture de cuir épais de très belle facture, faite de poils de nain rouge et de cheveux de géant des collines, qui confère à son porteur une force surhumaine. Créée par le fameux tueur de géants, Petit Géant Hohn Barbefeu, elle dispose également d'une boucle faite de l'oeil pétrifié d'un chaman firbolg qu'Hohn vainquit au cours de ses pérégrinations. L'ajout de cet oeil transféra une partie de l'essence du chaman dans la ceinture, sans oublier la mauvaise grippe nordique dont souffrait le firbolg lorsque Barbefeu le rencontra. Il en résulte que toute créature qui tente de se concentrer sur le porteur de cette ceinture ressent instantanément tous les effets de cette maladie : larmes qui troublent la vision, tremblements, fièvre, etc. Chose étonnante, cet enchantement est aussi efficace contre les créatures déjà mortes, sans que l'on puisse en déterminer la raison.
+
+Hohn perdit cette ceinture dans une rivière en poursuivant un verbeeg qui tentait de s'enfuir avec un de ses poneys. La ceinture fut emportée par le courant et finit entre les mains d'un trappeur, qui la revendit à un inventeur de passage.
+
+Cette ceinture confère une force surhumaine à son porteur et trouble la vision de ceux qui l'entourent. Les effets de la grippe nordique sont si violents que les compagnons du porteur de cette ceinture lui demandent souvent de la délaisser, car elle incommode autant ses amis que ses ennemis. Mais il suffit que son propriétaire menace d'arracher un arbre d'une seule main pour que cette question soit immédiatement résolue.
+
+PARAMETRES : 
+Confère +3 en force au porteur.
+Le porteur est en permanence sous l'effet de Flou
+
+Poids : 2
+Utilisable uniquement par 
+Guerrier (mono classé, à classes jumelées ou multiclassé)~
+
+@7087 = ~Amulette du nécromancien~
+@7088 = ~Cet objet est originaire d'une autre sphère de cristal !
+Cette amulette vient d'un autre monde appelé Nirn, et son origine est profondément inscrite dans son aura : Forgé par le maître enchanteur Parsinoman pour l'archimage Ocato, cette amulette faisait la fierté de son propriétaire, jusqu'à ce qu'un décret de l'empereur force Ocato à nommer le mage Trébonius Maître de guilde sur l’île de Vaardenfell. Devant la stupidité manifeste de l'imposant bonhomme et pour éviter d'égratigner la confiance établie entre l'empire et le pouvoir en place sur l’île, l'archimage se vit contraint d'offrir l'amulette à Trébonius, pour qu’elle lui fournisse le surplus de crédibilité nécessaire à son nouveau rang.
+En fait, l'amulette au cou de Trébonius ne fût qu'un beau gâchis, et l'archimage Ocato fût satisfait plus tard quand il apprit que le bijou fût gagné par la réincarnation de Nérévar, devenu nouveau Maitre de guilde sur Vaardenfell.
+Originaire d'un monde hors des limites de l'espace connu, cet objet n'a rien à faire sur Abel-Toril. Pourtant, aussi improbable que cela soit, la puissance du sort vous a fait le trouver.
+
+Capacités d'équipement :
+Résistance aux dégâts physiques : +25%
+Intelligence : +3
+Sagesse +3
+Régénération : 1 point de vie toute les 3 secondes.
+
+Capacité spéciale :
+Piège à sort (8 heures ou jusqu'à ce que 30 niveaux de sort aient été emprisonnés), une fois par jour.
+
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)~
+
+@7089 = ~Casque d'Oreyn Griffedours~
+@7090 = ~Cette armure vient d'un autre monde appelé Nirn, et son origine est profondément inscrite dans son aura : Oreyn Griffedours est l'un des grands héros de l'histoire du Val-Boisé. Fils du roi Faume Oeildecrapaud, c'était un chasseur respecté qui devint par la suite chef de son clan. Les légendes des Elfes des bois racontent qu'il aurait vaincu seul Glenhwyfaunva, sorcière-serpent des bois elfiques, ramenant ainsi la paix sur les terres de son clan. Par la suite, il accomplit de nombreux autres exploits avant de succomber à la grippe de Knahaten. Les générations suivantes le vénérèrent par le biais du casque, qui fut finalement perdu lorsque le clan se scinda en plusieurs groupes. Aujourd'hui, il fait le bonheur des aventuriers. On prétend qu'il augmenterait l'agilité et l'endurance de son porteur.
+Originaire d'un monde hors des limites de l'espace connu, cet objet n'a rien à faire sur Abel-Toril. Pourtant, aussi improbable que cela soit, la puissance du sort vous a fait le trouver.
+
+PARAMETRES :
+
+CA +1
+Dextérité : +8
+Constitution : +8~
+
+@7093 = ~Cuirasse en Peau de Sauveur~
+@7094 = ~Cet objet est originaire d'une autre sphère de cristal !
+Cette armure vient d'un autre monde appelé Nirn, et son origine est profondément inscrite dans son aura : La Cuirasse en Peau de Sauveur est l'un des artefacts les plus populaires que l'on doive à la déesse Hircine. Elle possède le pouvoir de résister à la magie. Selon la légende, Hircine aurait ôté un lambeau de sa propre chair afin de l'offrir au seul et unique mortel à avoir réussi à sortir vivant de son terrain de chasse. Cet illustre inconnu aurait ensuite fait transformer la peau en armure. La Peau du Sauveur a tendance à passer d'un héros à l'autre, comme si elle n'obéissait qu'à elle-même.
+Originaire d'un monde hors des limites de l'espace connu, cet objet n'a rien à faire sur Abel-Toril. Pourtant, aussi improbable que cela soit, la puissance du sort vous a fait le trouver.
+
+PARAMETRES :
+Résistance à la magie : +60%
+
+Classe d'Armure : 1
+Poids : 20
+Force nécessaire : 4
+Non utilisable par :
+Mage~
+
+@7095 = ~Armure d’Ébène~
+@7096 = ~Cet objet est originaire d'une autre sphère de cristal !
+Cette armure vient d'un autre monde appelé Nirn, et son origine est profondément inscrite dans son aura : Selon la légende en cours sur Nirn, cet artefact aurait été créé avant le début de l'histoire écrite par Boéthia, dieu des Elfes noirs. C'est lui qui détermine qui a le droit de posséder l'armure et pour combien de temps. Si son porteur est jugé digne, il bénéficie de résistance au feu et de magie supplémentaire. Comme expliqué ci-dessus, seul Boéthia décide qui peut porter son armure, et il lui arrive de se montrer extrêmement capricieux.
+Originaire d'un monde hors des limites de l'espace connu, cet objet n'a rien à faire sur Abel-Toril. Pourtant, aussi improbable que cela soit, la puissance du sort vous a fait le trouver.
+
+PARAMETRES : 
+
+Résistance au feu : +75%
+Résistance à la magie : +25%
+
+Classe d'Armure : -2
+Poids : 35
+Force nécessaire : 13
+Non utilisable par :
+Barde
+Druide
+Mage
+Voleur~
+
+@7097 = ~Poings de Randagulf~
+@7098 = ~Cet objet est originaire d'une autre sphère de cristal !
+Ces gantelets viennent d'un autre monde appelé Nirn, et leur origine est profondément inscrite dans leur aura : Randagulf du Clan Bégalihn reste l'un des plus grands guerriers de la province de Bordeciel. Connu pour son courage et sa férocité au combat, il a, par sa seule présence, permis aux siens de remporter de nombreuses batailles. Il a péri quand le roi Harold a conquit Bordeciel. Harold éprouvait un grand respect pour Randagulf, dont il s'accapara les gantelets. Ces derniers ont disparu suite au décès du monarque, à l'âge de 108 ans.
+Originaire d'un monde hors des limites de l'espace connu, cet objet n'a rien à faire sur Abel-Toril. Pourtant, aussi improbable que cela soit, la puissance du sort vous a fait le trouver.
+
+PARAMETRES :
+
+Force :+5
+Dextérité : +5
+
+Poids : 8
+Non utilisable par :
+Barde
+Mage (monoclassé)~

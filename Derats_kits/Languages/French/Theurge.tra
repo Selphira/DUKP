@@ -1,0 +1,43 @@
+@609 = ~explorateur théurgique~
+@61 = ~Explorateur théurgique~
+@62 = ~EXPLORATEUR THÉURGIQUE : L'explorateur théurgique est un prêtre d'Azouth très assidu qui s'est donné pour mission sacrée d'ajouter autant de sorts que possible à la grande encyclopédie d'Azouth. Il fait pour cela le choix de s'ouvrir à la magie arcanique et d'en explorer une de ses branches les plus exotiques : la magie entropique. S'il n'est pas le premier à agir ainsi pour le culte, c'est bien sa passion profonde pour la magie qui le distingue aux yeux de son dieu, et ce n'est que lorsqu’il fait vœux de se consacrer totalement à l'exploration de la magie sous toutes ses formes qu'il peut se voir accorder une modification totale des capacités divines qui lui sont accordées, ceci afin de l'aider dans la mission qu'il s'est donné. Il cesse alors d'être un prêtre pour devenir un explorateur théurgique.
+
+Avantage :
+- Protection dweomerique divine : ses incantations ne peuvent pas échouer : il est immunisé au fourvoiement magique et à la magie morte, et porter une armure ne l’empêche pas d'utiliser ses sorts de mage. (Il peut toujours être interrompu, paralysé ou rendu muet)
+- Avantage divin : aux niveau 8 et 15, il gagne un bonus de -1 au temps d'incantation des sorts.
+- Sort divin particulier : il peut lancer une version spéciale de "Souvenir merveilleux", qui lui permet de se rappeler de deux sorts de prêtre ET deux sorts de mage.
+- Récompense divine : il reçoit le symbole divin d'Azouth au niveau 21.
+
+Inconvénient :
+- Entropie partagée : les sorts divins qu'il lance ont 5% de chance de déclencher un Hiatus entropique.
+- Entropie recherchée : certains sorts qu'il lance, aléatoires chaque jour et à fréquence variable, subissent automatiquement un hiatus entropique.
+- Alignement limité au clergé d'Azouth.
+
+Spécial : à la création du personnage, l'explorateur théurgique devient automatiquement un multiclassé clerc/entropiste.~
+
+@63 = ~Souvenir merveilleux (Altération)
+Sphère : Charme, Création
+Niveau : 6
+Portée : 0
+Durée : Instantanée
+Temps d'incantation : 9
+Zone d'effet : Lanceur du sort
+Jet de sauvegarde : Non
+
+Ce sort permet au magicien de rappeler dans sa mémoire deux sorts précédemment lancés de chaque type de magie qu'il connaît (sorts divins et arcaniques). Si aucun sort n'a été lancé, rien ne se passe. Ce sort ne permet pas de rappeler des sorts de niveau 6 et plus.~
+
+@64 = ~Mémoire merveilleuse
+(Transmutation)
+
+Niveau : 6
+Sphère : Charme, Création
+Portée : personnelle
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Ce sort permet au magicien de rappeler dans sa mémoire deux sorts précédemment lancés de chaque type de magie qu'il connaît (sorts divins et arcaniques). Si aucun sort n'a été lancé, rien ne se passe. Ce sort ne permet pas de rappeler des sorts de niveau 6 et plus.~
+
+@65 = ~Avantage divin : -1 au temps d'incantation des sorts.~
+@66 = ~ Explorateur théurgique / Entropiste~

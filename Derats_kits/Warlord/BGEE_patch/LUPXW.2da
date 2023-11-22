@@ -1,0 +1,22 @@
+2DA V1.0
+*
+     Ability       Icon       Strref       MIN_LEV       MAX_LEVEL       NUM_ALLOWED       PREREQUISITE       EXCLUDED_BY       ALIGNMENT_RESTRICT
+1    AP_PXWXAR1    *          *            1             99              1                 *                  AP_PXWYIN1        *
+2    AP_PXWXAR2    *          *            1             99              1                 AP_PXWXAR1         *                 *
+3    AP_PXWXAR3    *          *            1             99              1                 AP_PXWXAR2         *                 *
+4    AP_PXWXAR4    *          *            1             99              1                 AP_PXWXAR3         *                 *
+5    AP_PXW0ANNG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+6    AP_PXW0BOUG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+7    AP_PXW0DERG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+8    AP_PXW0FRAG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+9    AP_PXW0HYBG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+10   AP_PXW0TEMG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+11   AP_PXW0MIRG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+12   AP_PXW0MORG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+13   AP_PXW0NOVG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+14   AP_PXW0SPHG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+15   AP_PXW0INCG   *          *            1             99              1                 AP_PXWXAR1         *                 *
+16   AP_PXWYIN1    *          *            1             99              1                 *                  AP_PXWXAR1        *
+17   AP_PXWYIN2    *          *            1             99              1                 AP_PXWYIN1         *                 *
+18   AP_PXWYIN3    *          *            1             99              1                 AP_PXWYIN2         *                 *
+19   AP_PXWYIN4    *          *            1             99              1                 AP_PXWYIN3         *                 *

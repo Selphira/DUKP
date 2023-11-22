@@ -1,0 +1,80 @@
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Myself,STATE_MIRRORIMAGE)
+THEN
+  RESPONSE #100
+    ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !GlobalTimerNotExpired("vision","LOCALS")
+THEN
+    RESPONSE #100
+    SetGlobalTimer("vision","LOCALS",60)
+    ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  OR(3)
+    StateCheck(Lastseenby(Myself),STATE_HELPLESS)
+    StateCheck(Lastseenby(Myself),STATE_CONFUSED)
+    StateCheck(Lastseenby(Myself),STATE_STUNNED)
+THEN
+  RESPONSE #100
+    AttackOneRound(Nearestenemyof(Myself))
+    AttackOneRound(Nearestenemyof(Myself))
+    Continue()
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  OR(6)
+    StateCheck(Lastseenby(Myself),STATE_HASTED)
+    StateCheck(Lastseenby(Myself),STATE_NORMAL)
+    StateCheck(Lastseenby(Myself),STATE_IMPROVEDINVISIBILITY)
+    StateCheck(Lastseenby(Myself),STATE_BLESS)
+    StateCheck(Lastseenby(Myself),STATE_BLUR)
+    StateCheck(Lastseenby(Myself),STATE_MIRRORIMAGE)
+  !GlobalTimerNotExpired("dispelled","LOCALS")
+  RandomNum(3,1)
+THEN
+  RESPONSE #100
+    SetGlobalTimer("dispelled","LOCALS",1000)
+    SpellNoDec(Lastseenby(Myself),WIZARD_DISPEL_MAGIC)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Lastseenby(Myself),STATE_CONFUSED)
+  !StateCheck(Nearestenemyof(Myself),STATE_STUNNED)
+  !GlobalTimerNotExpired("confused","LOCALS")
+  RandomNum(3,1)
+THEN
+  RESPONSE #100
+    SetGlobalTimer("confused","LOCALS",1000)
+    SpellNoDec(Nearestenemyof(Myself),WIZARD_CONFUSION)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  GlobalLT("PWStun","LOCALS",5)
+  !GlobalTimerNotExpired("GlabStun","LOCALS")
+  RandomNum(3,1)
+  !StateCheck(Nearestenemyof(Myself),STATE_STUNNED)
+  !StateCheck(Nearestenemyof(Myself),STATE_CONFUSED)
+THEN
+  RESPONSE #50
+    IncrementGlobal("PWStun","LOCALS",1)
+    SetGlobalTimer("GlabStun","LOCALS",12)
+    SpellNoDec(Nearestenemyof(Myself),WIZARD_POWER_WORD_STUN)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+THEN
+  RESPONSE #70
+    AttackReevaluate(Nearestenemyof(Myself),30)
+END
+

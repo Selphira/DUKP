@@ -1,0 +1,134 @@
+@291 = ~Voie de l'élémentaliste~
+@292 = ~Voie de l'élémentaliste :
+
+Le prêcheur qui vénère le feu comme une force de la nature se révèle comme maître élémentaliste. Il se lie d'avantage avec le plan élémentaire du feu et gagne la possibilité d'ajouter à chaque sort utilisant le feu qu'il lance une partie de feu primitif conjurée depuis le plan élémentaire. Les sorts ainsi modifiés infligent environ 20% de dégâts en plus (30% en plus au niveau 30 et 40% en plus au niveau 40) et ne peuvent plus être bloqué par une simple protection contre l'évocation.
+Si l'alignement du prêcheur est mauvais lorsqu’il choisi la voie de l'élémentaliste, il change pour devenir (loyal) neutre.
+
+Note : Cette capacité ne modifie pas les sorts concernés que vous avez en mémoire. Veillez donc à les effacer pour mémoriser les nouveaux modifiés.
+Les sorts "Boule de feu élémentaire" (déjà composée de feu primitif) et "Détonation" (simple explosion) ne peuvent pas être amélioré par cette capacité.~
+
+@293 = ~Invocation de prince élémentaire~
+@294 = ~Requis : avoir choisi la voie de l'élémentaliste
+
+Invocation de prince élémentaire (Conjuration/Convocation)
+Niveau : quête
+Sphère : élémentaire, conjuration
+Portée : 20 mètres
+Durée : 2 tours
+Temps d'incantation : 1 round
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Le prêcheur des flammes qui a un lien privilégié avec le plan élémentaire du feu et qui dispose d'un pouvoir important est à même d'invoquer directement le Prince élémentaire Zaaman Rul. Celui-ci restera au service du prêcheur pendant 2 tours.~
+@2941 = ~Invocation de prince élémentaire (Conjuration/Convocation)
+Niveau : quête
+Sphère : élémentaire, conjuration
+Portée : 20 mètres
+Durée : 2 tours
+Temps d'incantation : 1 round
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Ce sort permet d'invoquer le Prince élémentaire Zaaman Rul. Celui-ci restera au service du prêcheur pendant 2 tours.~
+
+@295 = ~Seigneur du feu~
+@296 = ~Requis : pouvoir invoquer Zaaman Rul 
+
+Seigneur du feu
+Le prêcheur qui peut commander à Zaaman-rul, prince du feu, gagne le respect de nombreuses créatures du feu. Son pouvoir et sa renommée augmentant, il confirme sa position de seigneur du feu, gagnant de fait l'allégeance de nombre d'entre elles.
+Le pouvoir de charme du seigneur du feu devient universel (feu). Ainsi, son don évolue et peut affecter n'importe quelle créature du type feu : élémentaire, salamandre, djinn, effrit, méphit, etc.....
+Il n'a plus besoin de les toucher pour cela, et elles n'ont plus la possibilité de résister. Il gagne également deux utilisations quotidiennes supplémentaires.
+Certains de ses sorts de convocation évoluent également en fonction de son nouveau statut :
+Invocation de Prince élémentaire lui permet désormais de convoquer l'archimental Imix.
+Appel de serviteur du feu lui offre un éventail plus large de créatures à appeler depuis le plan élémentaire.
+Convocation d'animaux I,II et III changent car ce sont des créatures ignées qui répondront à l'appel plus vite et à la place des animaux.
+Il gagne également la possibilité de contrôler les essaims de mouches à feu.~
+@2961 = ~Contrôler une créature du feu~
+@2962 = ~Invocation d'archimental~
+@2963 = ~Invocation d'archimental (Conjuration/Convocation)
+Niveau : quête
+Sphère : élémentaire, convocation
+Portée : 9 mètres
+Durée : 2 tours
+Temps d'incantation : 1 round
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Ce sort permet d'invoquer le prince élémental Imix. Celui-ci restera au service du prêcheur pendant 2 tours.~
+@29631 = ~Imix~
+
+@297 = ~Gardes du prince~
+@298 = ~Requis : Seigneur du feu
+
+Gardes du prince (Conjuration/Convocation)
+Niveau : quête
+Sphère : élémentaire, conjuration
+Portée : 20 mètres
+Durée : 2 tours
+Temps d'incantation : 1 round
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Ce sort permet d'invoquer les trois gardes personnels d'Imix. Tous les trois sont des élémentaux majeurs de 16 dé de vies. Il resteront au service du prêcheur pour la durée du sort, et si Imix est également convoqué, resteront liés par la magie du sort au prêcheur.~
+@2981 = ~Gardes du prince (Conjuration/Convocation)
+Niveau : quête
+Sphère : élémentaire, conjuration
+Portée : 20 mètres
+Durée : 2 tours
+Temps d'incantation : 1 round
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Ce sort permet d'invoquer les trois gardes personnels d'Imix. Tous les trois sont des élémentaux majeurs de 16 dé de vies. Il resteront au service du prêcheur pour la durée du sort, et si Imix est également convoqué, resteront liés par la magie du sort au prêcheur.~
+@2982= ~Garde princier~
+
+@299 = ~Canalisation élémentaire~
+@2910 = ~Requis : avoir choisi la voie de l'élémentaliste
+
+Canalisation élémentaire :
+
+Le prêcheur des flammes qui s'est étroitement lié avec le plan élémentaire peut choisir de devenir un canalisateur, en ouvrant un canal entre son corps et le plan élémentaire du feu. Les flammes originelles l'investissent alors et il se transforme en incarnation du feu. L’extase qu'il ressent est tellement énorme qu'il ne pense plus à incanter. Il ne fait que se délecter de son état et de la puissance que cela lui confère. Sous cette forme il possède une force herculéenne et une constitution exceptionnelle, il est insensible aux armes non-magiques et magique jusqu'à +2, il résiste aux dégâts physiques, les dégâts de feu le régénèrent et pire, il dégage tellement de chaleur que quiconque reste à proximité subit 2D10 points de dégâts de feu (par round). Ceux qui le touchent et ceux qu'il frappe subissent également 2D10+2 points de dégâts de feu. Il brûle les toiles et les racines et carbonise la graisse, passant sans encombre au travers de tous ces encombrants.
+Cette transformation peut durer jusqu'à 8 heures avant que les énergies interplans n'épuisent le canal et le force à se refermer. Le prêcheur des flammes aura beaucoup de mal à supporter son retour à une forme humaine. S'il choisit de le faire volontairement, il restera déstabilisé quelques temps et ne pourra pas canaliser de nouveau avant une bonne nuit de sommeil.~
+@29101 = ~Retour à l'état normal~
+
+@2911 = ~Explosion élémentaire~
+@2912 = ~Requis : Canalisation élémentaire
+
+Explosion élémentaire :
+
+Le prêcheur qui canalise l’énergie du plan élémentaire peut s'en servir pour abattre toute la fureur du plan sur ses ennemis. En utilisant cette capacité, il appelle un supplément d’énergie du plan élémentaire et y ajoute l'énergie qu'il à déjà emmagasiné pour la dégager en une onde de feu qui s’étend sur 12 mètres et inflige 15D8 points de dégâts de feu à toutes les créatures dans la zone. Après quoi elle laisse sur celles-ci un résidu magmatique qui continue à les brûler pendant 1D4 rounds avant de disparaître. Chaque round les créatures ainsi recouvertes subissent des dégâts decrescendo :
+1er round : 10D8 points de dégâts
+2eme round : 6D8 points de dégâts
+3eme round: 3D8 points de dégâts
+4eme round : 1D8 points de dégâts
+Par exemple, une victime qui serait couverte de magma chaud pour 2 rounds subirait encore 3D8 et 1D8 dégâts.
+Les victimes qui réussissent un jet de sauvegarde contre les souffles ne subissent que la moitié des dommages de l'explosion et ne sont affectées que pour 1D2 rounds. 
+S'il réussi un jet de sauvegarde contre la métamorphose à -5, le prêcheur peut reprendre la canalisation et continuer sous forme d’incarnation du feu. Dans le cas contraire, l’énergie sacrifiée pour alimenter l'explosion met fin à la canalisation et rend au prêcheur sa forme originelle, avec tous les inconvénient que cela comporte.
+
+Note : Si le personnage est en état de canalisation lorsqu'il choisi cette hla, il ne pourra en profiter qu'à sa prochaine canalisation.~
+
+
+
+@2913 = ~Transcendance élémentaire~
+@2914 = ~Requis : Canalisation élémentaire
+
+Transcendance élémentaire
+
+La transcendance élémentaire à lieu pendant une canalisation, et permet au prêcheur de flammes de fusionner corps et âme avec le feu. Alors que la canalisation se termine, le feu continue à parcourir son corps, remplaçant son sang et transformant sa chair. Le prêcheur transcendé ne change pas de forme, mais des changement physiques multiples permettent de voir qu'il a changé. Ses pupilles prennent la couleur de la flamme vive, ses cheveux virent vers le roux clair, de petites flammèches se développent parfois sur sa peau et restent quelques secondes avant de s'éteindre, et son sang n'est plus que du feu liquide.
+Il cesse d'être un primaire et devient un élémentaire. Sa résistance au feu passe à 127, mais sa résistance au froid devient -50. Il est immunisé aux poisons, aux maladies, aux attaques sournoises, aux coup critiques, aux effets de sommeil, d'étourdissement et de paralysie.
+Il n'est plus affecté par les effets qui ciblent les mortels, mais ne peux plus alors recevoir de soins conventionnels. Rappel à la vie et Résurrection n'ont plus d'effet sur lui : s'il venait à mourir, se serait définitif.
+Il peut heureusement contrôler son corps pour qu'il n'embrase pas les objets qu'il porte.~
+
+@2915 = ~Guérison par le feu~
+@2916 = ~Requis : Transcendance élémentaire
+
+Guérison par le feu (Conjuration/Convocation)
+Niveau : 6
+Sphère : élémentaire, feu
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Le prêcheur des flammes qui a transcendé son statut primaire peut utiliser ce sort pour restaurer son corps blessé. Ce sort l'enveloppe dans une colonne de feu intense, dans laquelle il regagne entre 80% et 100% de ses points de vie de base grâce à sa résistance supérieure au feu.~

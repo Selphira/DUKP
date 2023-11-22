@@ -1,0 +1,71 @@
+IF
+Global("Journeesauvage","LOCALS",0)
+THEN
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",12)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",25)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",50)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",75)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",150)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",300)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",450)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",600)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",900)
+SetGlobal("Journeesauvage","LOCALS",1)
+RESPONSE #10
+SetGlobalTimer("aleajournee","LOCALS",1200)
+SetGlobal("Journeesauvage","LOCALS",1)
+END
+
+IF
+PartyRested()
+THEN
+RESPONSE #100
+SetGlobal("Journeesauvage","LOCALS",0)
+END
+
+IF
+Global("Journeesauvage","LOCALS",1)
+GlobalTimerExpired("aleajournee","LOCALS")
+THEN
+RESPONSE #25
+ReallyForceSpellRES("pxtwild",Myself) // Sort qui oblige le prochain sort lancé à faire un wild surge
+SetGlobal("Journeesauvage","LOCALS",2)
+SetGlobalTimer("aleajourneemoment","LOCALS",200)
+RESPONSE #25
+ReallyForceSpellRES("pxtwild",Myself) // Sort qui oblige le prochain sort lancé à faire un wild surge
+SetGlobal("Journeesauvage","LOCALS",2)
+SetGlobalTimer("aleajourneemoment","LOCALS",400)
+RESPONSE #25
+ReallyForceSpellRES("pxtwild",Myself) // Sort qui oblige le prochain sort lancé à faire un wild surge
+SetGlobal("Journeesauvage","LOCALS",2)
+SetGlobalTimer("aleajourneemoment","LOCALS",600)
+RESPONSE #25
+ReallyForceSpellRES("pxtwild",Myself) // Sort qui oblige le prochain sort lancé à faire un wild surge
+SetGlobal("Journeesauvage","LOCALS",2)
+SetGlobalTimer("aleajourneemoment","LOCALS",800)
+END
+
+IF
+Global("Journeesauvage","LOCALS",2)
+GlobalTimerExpired("aleajourneemoment","LOCALS")
+THEN
+RESPONSE #100
+SetGlobal("Journeesauvage","LOCALS",0)
+END

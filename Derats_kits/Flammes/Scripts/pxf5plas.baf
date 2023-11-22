@@ -1,0 +1,31 @@
+IF
+	HitBy([0],FIRE)
+THEN
+	RESPONSE #100
+	ForceSpellRES("pxf5pla2",Myself)
+END
+
+IF
+	Global("pxf5cloud","LOCALS",0)
+	HPPercentLT(Myself,50)
+	HPGT(Myself,1)
+	!StateCheck(Myself,STATE_HELPLESS)
+	See(Nearestenemyof(Myself))
+THEN
+	RESPONSE #100
+	ApplyDamage(Myself,10,MAGIC)
+	ForceSpellRES("pxf5pla1",Myself)
+	SetGlobal("pxf5cloud","LOCALS",1)
+END
+
+IF
+	Global("pxf5cloud","LOCALS",1)
+	HPPercentGT(Myself,90)
+	!StateCheck(Myself,STATE_HELPLESS)
+	See(Nearestenemyof(Myself))
+THEN
+	RESPONSE #100
+	ApplyDamage(Myself,10,MAGIC)
+	ForceSpellRES("pxf5pla1",Myself)
+	SetGlobal("pxf5cloud","LOCALS",2)
+END

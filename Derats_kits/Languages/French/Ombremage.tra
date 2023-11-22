@@ -1,0 +1,88 @@
+@409 = ~ombremage~
+@41 = ~Ombremage~
+@42 = ~OMBREMAGE : parfois, l’incursion de créatures d'autres plans sur Toril laisse des traces plus ou moins discrètes. La communautés gnome n'est pas exempte de ses rencontres interplanaires, et plusieurs génération après, certaines marques profondes peuvent ressurgir de manière incongrue.
+Ainsi, lorsqu’un voleur gnome qui s’entraîne à se fondre dans l'ombre ressent l'impression bizarre qu'il fait vraiment corps avec elle, il peut prendre peur ou y voir une possibilité de dépasser sa condition.
+L'ombremage est un de ses voleur qui s'est découvert une ascendance particulière avec l'ombre. Profitant de cette manne inespérée et de son affinité particulière avec les illusions, il apprend à manipuler l’énergie sombre du demi-plan pour la modeler en pouvoirs magiques semblables à des sorts.
+
+Avantages :
+- Il peut lancer des sorts du registre de l'ombre et de l'illusion comme un sorcier. Il peut lancer jusqu'à 4 sorts par niveau de sorts et par jour et développe un niveau supérieur de sorts chaque tranche de 3 niveaux de voleur.
+- Il apprend a faire véritablement corps avec les ombres et gagne un bonus de 2% au camouflage dans l'ombre et 3% en furtivité chaque niveau.
+- Sa maîtrise de la manipulation de l'ombre augmente progressivement et la part d'ombre qu'il insuffle dans ses illusions de même. Il lance alors les sorts utilisant la matière d'ombre comme de niveau inférieurs à ceux des mages.
+
+Inconvénients :
+- Il ne peut lancer que des sorts du registre de l'ombre et de l'illusion.
+- Il ne peut utiliser aucun objet réservé aux magiciens.
+- Modeler l’énergie du demi plan de l'ombre est dangereux, surtout pour un débutant. 10% de chance moins 1% par niveau (plus aucune chance au niveau 11) chaque fois qu'il lance un sort qu'il perde un niveau d’énergie ou un point de constitution. Il récupère la constitution perdue après une nuit de sommeil mais un niveau d’expérience perdu ne peut être récupéré qu'à l'aide d'un sort dédié.
+- Il consacre beaucoup de temps à développer ses pouvoirs et n'évolue pas pleinement dans sa classe de voleur : seulement 15% à répartir dans ses talent de voleur à chaque niveau et 20% d'xp en moins.~
+
+@43 = ~Camouflage~
+@44 = ~Missile d'ombre~
+@441 = ~Douleur~
+@45 = ~Poussière d'ombre~
+@46 = ~Cape d'ombre~
+@47 = ~Monstres d'ombre~
+@48 = ~Monstre de demi-ombre~
+@49 = ~Magie d'ombre~
+@410 = ~Affaiblissement~
+@411 = ~Assassin imaginaire~
+@412 = ~Armure de ténèbres~
+@413 = ~Reflets~
+@414 = ~Magie de demi-ombre~
+@415 = ~Animation d'ombres~
+@416 = ~Double illusoire~
+@417 = ~Transport par les ombres~
+@418 = ~Reflet de magie~
+@419 = ~Affliction~
+@420 = ~Projection de l'image~
+@421 = ~Infusion d'ombre~
+@422 = ~Invisibilité majeure sur 3m~
+@423 = ~Images d'ombre~
+@424 = ~Ennemies subconscients~
+@425 = ~Invisibilité suprême~
+@426 = ~Charge d'ombre~
+@441 = ~Un pas dans l'ombre~
+@442 = ~Un pas dans l'ombre :
+
+L'ombremage garde constamment un pied dans le plan de l'ombre et devient légèrement flou :
++1 à la Classe d'armure, +10 en furtivité.~
+
+@443 = ~Infusion d'ombre~
+@444 = ~Infusion d'ombre :
+
+Pré-requis : Un pas dans l'ombre
+
+L'ombremage infuse progressivement de l'ombre dans son essence vitale :
++5 au maximum de points de vie, +10% à la résistance au froid, +2 au jet de sauvegarde contre la mort.~
+
+@445 = ~Transition ombreuse~
+@446 = ~Transition ombreuse :
+
+Pré-requis : Infusion d'ombre
+
+L'ombre parcoure maintenant la majeur partie des fluides vitaux de l'ombremage :
++5% à la résistance à la magie, +20% à la résistance au froid, +2 aux jets de sauvegarde contre la mort et les sorts. Le sort "infusion d'ombre" ne l'affecte plus.~
+@4461 = ~Ce sort ne vous affecte plus : l'ombre parcoure déjà une grande partie de vos fluides vitaux~
+
+@447 = ~Plus vraiment un gnome~
+@448 = ~Plus vraiment un gnome :
+
+Pré-requis : Transition ombreuse
+
+L'ombremage entre en osmose avec l'ombre qui parcoure son corps. Il n'a presque plus rien de primaire :
++5 au maximum de points de vie, immunité aux poisons et aux maladies, immunité au drain de niveaux, +30% à la résistance au froid.~
+
+@449 = ~Ombre~
+@450 = ~Ombre :
+
+Pré-requis : Plus vraiment un gnome
+
+L’ombremage a transcendé son statut mortel et est devenu une ombre (il n'est pas considéré comme mort-vivant) :
+Immunité contre le froid, immunité contre les armes non-magiques, immunité contre la magie de mort, Toucher glacial (3 rounds) à volonté.~
+
+@451 = ~Reflet~
+@452 = ~Reflet :
+
+Pré-requis : Ombre
+
+En gardant constamment une partie de son essence dans le plan de l'ombre, l'ombremage se détache  du plan primaire :
++10% à la résistance à la magie, immunité à l'immobilisation et aux charmes, non détection, furtivité +30.~

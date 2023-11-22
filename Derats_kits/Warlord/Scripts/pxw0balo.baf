@@ -1,0 +1,79 @@
+IF
+  See(Nearestenemyof(Myself))
+  OR(3)
+    StateCheck(Lastseenby(Myself),STATE_HELPLESS)
+    StateCheck(Lastseenby(Myself),STATE_CONFUSED)
+    StateCheck(Lastseenby(Myself),STATE_STUNNED)
+THEN
+  RESPONSE #100
+    AttackOneRound(Nearestenemyof(Myself))
+    AttackOneRound(Nearestenemyof(Myself))
+    Continue()
+END
+
+
+IF
+  See(Nearestenemyof(Myself))
+  Global("symbol","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("symbol","LOCALS",1)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_NPC_SYMBOL_DEATH)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(Lastseenby(Myself),STATE_PANIC)
+  !GlobalTimerNotExpired("DemFear","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("DemFear","LOCALS",45)
+    ForceSpell(Nearestenemyof(Myself),DEMON_FEAR)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(LastSeenBy,STATE_HELPLESS)
+  GlobalLT("TANARIPARALYZE","LOCALS",3)
+THEN
+  RESPONSE #100
+    ForceSpell(LastSeenBy,TANARI_PARALYZE)
+    IncrementGlobal("TANARIPARALYZE","LOCALS",1)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  !StateCheck(LastSeenBy,STATE_HELPLESS)
+  Global("TANARIPARALYZE","LOCALS",3)
+  !GlobalTimerNotExpired("stun","LOCALS")
+THEN
+  RESPONSE #100
+    ForceSpell(NearestEnemyOf(Myself),WIZARD_NPC_SYMBOL_STUN)
+    SetGlobalTimer("stun","LOCALS",60)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  StateCheck(LastSeenBy,STATE_HELPLESS)
+THEN
+  RESPONSE #100
+    AttackOneRound(LastSeenBy)
+    AttackOneRound(LastSeenBy)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+  OR(6)
+    StateCheck(Lastseenby(Myself),STATE_HASTED)
+    StateCheck(Lastseenby(Myself),STATE_NORMAL)
+    StateCheck(Lastseenby(Myself),STATE_IMPROVEDINVISIBILITY)
+    StateCheck(Lastseenby(Myself),STATE_BLESS)
+    StateCheck(Lastseenby(Myself),STATE_BLUR)
+    StateCheck(Lastseenby(Myself),STATE_MIRRORIMAGE)
+  !GlobalTimerNotExpired("dispelled","LOCALS")
+  RandomNum(3,1)
+THEN
+  RESPONSE #100
+    SetGlobalTimer("dispelled","LOCALS",1000)
+    SpellNoDec(Lastseenby(Myself),WIZARD_DISPEL_MAGIC)
+END

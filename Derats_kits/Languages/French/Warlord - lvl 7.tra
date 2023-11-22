@@ -1,0 +1,550 @@
+@771 = ~Barrière élémentaire~
+@772 = ~Barrière élémentaire (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 1 tour + 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+La barrière élémentaire confère 5% par niveau (max 100%) de résistance contre tous les éléments agressifs : feu, froid, acide et électricité, qu'ils soient d'origines magiques ou non : sorts, armes, baguettes, souffles, etc. Les effets de ce sort se prolongent jusqu'à son expiration ou sa dissipation par une source extérieure.~
+@77219 = ~Barrière élémentaire (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+La barrière élémentaire confère 100% de résistance contre tous les éléments agressifs : feu, froid, acide et électricité, qu'ils soient d'origines magiques ou non : sorts, armes, baguettes, souffles, etc. Les effets de ce sort se prolongent jusqu'à son expiration ou sa dissipation par une source extérieure.~
+@77220 = ~Barrière élémentaire (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+La barrière élémentaire confère 100% de résistance contre tous les éléments agressifs : feu, froid, acide et électricité, qu'ils soient d'origines magiques ou non : sorts, armes, baguettes, souffles, etc. Les effets de ce sort se prolongent jusqu'à son expiration ou sa dissipation par une source extérieure.~
+@772201 = ~Barrière élémentaire (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+La barrière élémentaire confère 100% de résistance contre tous les éléments agressifs : feu, froid, acide et électricité, qu'ils soient d'origines magiques ou non : sorts, armes, baguettes, souffles, etc. Les effets de ce sort se prolongent jusqu'à son expiration ou sa dissipation par une source extérieure.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils gagnent 66% de résistance aux éléments pendant 2 tours.~
+
+@773 = ~Bouclier élémentaire majeur~
+@774 = ~Bouclier élémentaire majeur (Évocation)
+Niveau : 7
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'être couvert par un bouclier élémentaire intégral, qui lui donne 30% + 3% par niveau (max 90%) de résistance à l'élément choisi ainsi qu'une capacité de contrecoup de 2D8+2 points de dégâts à quiconque le frappe. Le bouclier possède aussi d'autres capacités, qui varient selon sa nature.
+- Feu :
+Flamme ardente : Le bouclier prend la forme d'une grande flamme qui dégage une intense chaleur. 
+Chaque round, toutes les créatures dans un rayon de 2 mètres de portée subissent 2D8 points de dégâts de feu.
+Embrasement : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou prendre feu pendant 5 rounds : dans ce cas il subit des dégâts décroissants comme suit : 2D10+5, 2D8+4, 2D6+3, 2D4+2, 2D2+1. Tant qu'il brûle, il ne peut plus subit les effets du contrecoup (les 3 premiers rounds) et ne peut pas s'embraser de nouveau.
+Les créatures issues du feu (salamandre, élémentaire, etc) ne peuvent pas s'embraser. 
+- Froid :
+Cristallisation : la peau du magicien protégé se change en glace et cristallise en partie : CA de base portée à 7 et 25% de résistance aux dégâts tranchants et perçants.
+Aura de froid : toute créature qui reste plus de 3 secondes à moins de 3 mètres du magicien est automatiquement ralentie pour le round en cours : -20% au déplacement et -2 aux jets de toucher.
+Glaciation : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou geler sur place, devenant un bloc inerte pour 5 rounds. Il est alors immunisé contre presque toutes les attaques (Il est alors immunisé les attaques contondantes l'affectent encore pour moitié) mais est incapable d'entreprendre la moindre action et subit 1D6+2 dégâts de froid cumulatifs par round jusqu'à la disparition de la glace.
+- Électricité :
+Sphère électrique : le bouclier prend la forme d'une grosse sphère. Chaque round, elle inflige 4D6 points de dégâts aux créatures prises dans son rayon. Un jet de sauvegarde contre les sorts à -2 permet de réduire les dégâts de moitié.
+Choc électrique : Tout opposent qui subit le contrecoup doit réussir un jet de sauvegarde contre les sorts à -2 ou voir les dégâts quadruplés (8D8+8) et subir un choc qui l'étourdit pour un round et lui impose un malus de -2 à tous les jets pour les deux suivants. Les malus de chocs électriques ne sont pas cumulables.
+- Acide :
+Bulle acide : le bouclier prend la forme d'une bulle parcourue de gouttes bouillonnantes. L'humidité de cette enveloppe procure une protection supplémentaire de 50% contre le feu. Elle s’étend jusqu'à recouvrir l'arme tenue par le magicien, ce qui rajoute 2D4 point de dégâts d'acide à sa frappe.
+Éclaboussure : tout opposant qui subit le contrecoup a 50% de chances qu'il se produise sous la forme d'une grosse éclaboussure. Si cela se produit, ce sont 8D8+8 points de dégâts qui lui sont infligés. Un jet contre les sorts permet de réduire les dégâts de moitié et s'il est raté la victime est recouverte d'acide et continue à être rongée pendant 3 rounds, pour des dégâts dégressifs : 6D6+6, 4D4+4, 2D2+2. Pendant ce temps, la douleur résultant de cette corrosion la pénalise de -2 au taco et -1 à la dextérité.
+
+Un seul bouclier élémentaire majeur peut être actif à la fois.~
+@7741 = ~Glaciation~
+@7742 = ~Bouclier élémentaire majeur (Évocation)
+Niveau : 7
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'être couvert par un bouclier élémentaire intégral, qui lui donne 90% de résistance à l'élément choisi ainsi qu'une capacité de contrecoup de 2D8+2 points de dégâts à quiconque le frappe. Le bouclier possède aussi d'autres capacités, qui varient selon sa nature.
+- Feu :
+Flamme ardente : Le bouclier prend la forme d'une grande flamme qui dégage une intense chaleur. 
+Chaque round, toutes les créatures dans un rayon de 2 mètres de portée subissent 2D8 points de dégâts de feu.
+Embrasement : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou prendre feu pendant 5 rounds : dans ce cas il subit des dégâts décroissants comme suit : 2D10+5, 2D8+4, 2D6+3, 2D4+2, 2D2+1. Lorsqu'il prend feu, il doit réussir un autre jet de sauvegarde contre le sorts ou s'enfuir, terrorisé de bruler vif. Tant qu'il brûle, il ne peut plus subit les effets du contrecoup (les 3 premiers rounds) et ne peut pas s'embraser de nouveau.
+Les créatures issues du feu (salamandre, élémentaire, etc) ne peuvent pas s'embraser. 
+- Froid :
+Cristallisation : la peau du magicien protégé se change en glace et cristallise en partie : CA de base portée à 7 et 25% de résistance aux dégâts tranchants et perçants.
+Aura de froid : toute créature qui reste plus de 3 secondes à moins de 3 mètres du magicien est automatiquement ralentie pour le round en cours : -20% au déplacement et -2 aux jets de toucher.
+Glaciation : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou geler sur place, devenant un bloc inerte pour 5 rounds. Il est alors immunisé contre presque toutes les attaques (Il est alors immunisé les attaques contondantes l'affectent encore pour moitié) mais est incapable d'entreprendre la moindre action et subit 1D6+2 dégâts de froid cumulatifs par round jusqu'à la disparition de la glace.
+- Électricité :
+Sphère électrique : le bouclier prend la forme d'une grosse sphère. Chaque round, elle inflige 4D6 points de dégâts aux créatures prises dans son rayon. Un jet de sauvegarde contre les sorts à -2 permet de réduire les dégâts de moitié.
+Choc électrique : Tout opposent qui subit le contrecoup doit réussir un jet de sauvegarde contre les sorts à -2 ou voir les dégâts quadruplés (8D8+8) et subir un choc qui l'étourdit pour un round et lui impose un malus de -2 à tous les jets pour les deux suivants. Les malus de chocs électriques ne sont pas cumulables.
+- Acide :
+Bulle acide : le bouclier prend la forme d'une bulle parcourue de gouttes bouillonnantes. L'humidité de cette enveloppe procure une protection supplémentaire de 50% contre le feu. Elle s’étend jusqu'à recouvrir l'arme tenue par le magicien, ce qui rajoute 2D4 point de dégâts d'acide à sa frappe.
+Éclaboussure : tout opposant qui subit le contrecoup a 50% de chances qu'il se produise sous la forme d'une grosse éclaboussure. Si cela se produit, ce sont 8D8+8 points de dégâts qui lui sont infligés. Un jet contre les sorts permet de réduire les dégâts de moitié et s'il est raté la victime est recouverte d'acide et continue à être rongée pendant 3 rounds, pour des dégâts dégressifs : 6D6+6, 4D4+4, 2D2+2. Pendant ce temps, la douleur résultant de cette corrosion la pénalise de -2 au taco et -1 à la dextérité.
+
+Un seul bouclier élémentaire majeur peut être actif à la fois.~
+@7743 = ~Bouclier élémentaire majeur (Évocation)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'être couverte par un bouclier élémentaire intégral, qui lui donne 90% de résistance à l'élément choisi par le seigneur de guerre ainsi qu'une capacité de contrecoup de 2D8+2 points de dégâts à quiconque la frappe. Le bouclier possède aussi d'autres capacités, qui varient selon sa nature.
+- Feu :
+Flamme ardente : Le bouclier prend la forme d'une grande flamme qui dégage une intense chaleur. 
+Chaque round, toutes les créatures dans un rayon de 2 mètres de portée subissent 2D8 points de dégâts de feu.
+Embrasement : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou prendre feu pendant 5 rounds : dans ce cas il subit des dégâts décroissants comme suit : 2D10+5, 2D8+4, 2D6+3, 2D4+2, 2D2+1. Lorsqu'il prend feu, il doit réussir un autre jet de sauvegarde contre le sorts ou s'enfuir, terrorisé de bruler vif. Tant qu'il brûle, il ne peut plus subit les effets du contrecoup (les 3 premiers rounds) et ne peut pas s'embraser de nouveau.
+Les créatures issues du feu (salamandre, élémentaire, etc) ne peuvent pas s'embraser. 
+- Froid :
+Cristallisation : la peau du sujet protégé se change en glace et cristallise en partie : CA de base portée à 7 et 25% de résistance aux dégâts tranchants et perçants.
+Aura de froid : toute créature qui reste plus de 3 secondes à moins de 3 mètres du sujet est automatiquement ralentie pour le round en cours : -20% au déplacement et -2 aux jets de toucher.
+Glaciation : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou geler sur place, devenant un bloc inerte pour 5 rounds. Il est alors immunisé contre presque toutes les attaques (Il est alors immunisé les attaques contondantes l'affectent encore pour moitié) mais est incapable d'entreprendre la moindre action et subit 1D6+2 dégâts de froid cumulatifs par round jusqu'à la disparition de la glace.
+- Électricité :
+Sphère électrique : le bouclier prend la forme d'une grosse sphère. Chaque round, elle inflige 4D6 points de dégâts aux créatures prises dans son rayon. Un jet de sauvegarde contre les sorts à -2 permet de réduire les dégâts de moitié.
+Choc électrique : Tout opposent qui subit le contrecoup doit réussir un jet de sauvegarde contre les sorts à -2 ou voir les dégâts quadruplés (8D8+8) et subir un choc qui l'étourdit pour un round et lui impose un malus de -2 à tous les jets pour les deux suivants. Les malus de chocs électriques ne sont pas cumulables.
+- Acide :
+Bulle acide : le bouclier prend la forme d'une bulle parcourue de gouttes bouillonnantes. L'humidité de cette enveloppe procure une protection supplémentaire de 50% contre le feu. Elle s’étend jusqu'à recouvrir l'arme tenue par le sujet protégé, ce qui rajoute 2D4 point de dégâts d'acide à sa frappe.
+Éclaboussure : tout opposant qui subit le contrecoup a 50% de chances qu'il se produise sous la forme d'une grosse éclaboussure. Si cela se produit, ce sont 8D8+8 points de dégâts qui lui sont infligés. Un jet contre les sorts permet de réduire les dégâts de moitié et s'il est raté la victime est recouverte d'acide et continue à être rongée pendant 3 rounds, pour des dégâts dégressifs : 6D6+6, 4D4+4, 2D2+2. Pendant ce temps, la douleur résultant de cette corrosion la pénalise de -2 au taco et -1 à la dextérité.
+
+Un seul bouclier élémentaire majeur peut être actif à la fois.~
+@77431 = ~Bouclier élémentaire majeur (Évocation)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 7
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'être couverte par un bouclier élémentaire intégral, qui lui donne 90% de résistance à l'élément choisi par le seigneur de guerre ainsi qu'une capacité de contrecoup de 2D8+2 points de dégâts à quiconque la frappe. Le bouclier possède aussi d'autres capacités, qui varient selon sa nature.
+- Feu :
+Flamme ardente : Le bouclier prend la forme d'une grande flamme qui dégage une intense chaleur. 
+Chaque round, toutes les créatures dans un rayon de 2 mètres de portée subissent 2D8 points de dégâts de feu.
+Embrasement : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou prendre feu pendant 5 rounds : dans ce cas il subit des dégâts décroissants comme suit : 2D10+5, 2D8+4, 2D6+3, 2D4+2, 2D2+1. Lorsqu'il prend feu, il doit réussir un autre jet de sauvegarde contre le sorts ou s'enfuir, terrorisé de bruler vif. Tant qu'il brûle, il ne peut plus subit les effets du contrecoup (les 3 premiers rounds) et ne peut pas s'embraser de nouveau.
+Les créatures issues du feu (salamandre, élémentaire, etc) ne peuvent pas s'embraser. 
+- Froid :
+Cristallisation : la peau du sujet protégé se change en glace et cristallise en partie : CA de base portée à 7 et 25% de résistance aux dégâts tranchants et perçants.
+Aura de froid : toute créature qui reste plus de 3 secondes à moins de 3 mètres du sujet est automatiquement ralentie pour le round en cours : -20% au déplacement et -2 aux jets de toucher.
+Glaciation : tout opposant qui subit le contrecoup doit réussir un jet de sauvegarde à -2 ou geler sur place, devenant un bloc inerte pour 5 rounds. Il est alors immunisé contre presque toutes les attaques (Il est alors immunisé les attaques contondantes l'affectent encore pour moitié) mais est incapable d'entreprendre la moindre action et subit 1D6+2 dégâts de froid cumulatifs par round jusqu'à la disparition de la glace.
+- Électricité :
+Sphère électrique : le bouclier prend la forme d'une grosse sphère. Chaque round, elle inflige 4D6 points de dégâts aux créatures prises dans son rayon. Un jet de sauvegarde contre les sorts à -2 permet de réduire les dégâts de moitié.
+Choc électrique : Tout opposent qui subit le contrecoup doit réussir un jet de sauvegarde contre les sorts à -2 ou voir les dégâts quadruplés (8D8+8) et subir un choc qui l'étourdit pour un round et lui impose un malus de -2 à tous les jets pour les deux suivants. Les malus de chocs électriques ne sont pas cumulables.
+- Acide :
+Bulle acide : le bouclier prend la forme d'une bulle parcourue de gouttes bouillonnantes. L'humidité de cette enveloppe procure une protection supplémentaire de 50% contre le feu. Elle s’étend jusqu'à recouvrir l'arme tenue par le sujet protégé, ce qui rajoute 2D4 point de dégâts d'acide à sa frappe.
+Éclaboussure : tout opposant qui subit le contrecoup a 50% de chances qu'il se produise sous la forme d'une grosse éclaboussure. Si cela se produit, ce sont 8D8+8 points de dégâts qui lui sont infligés. Un jet contre les sorts permet de réduire les dégâts de moitié et s'il est raté la victime est recouverte d'acide et continue à être rongée pendant 3 rounds, pour des dégâts dégressifs : 6D6+6, 4D4+4, 2D2+2. Pendant ce temps, la douleur résultant de cette corrosion la pénalise de -2 au taco et -1 à la dextérité.
+
+Un seul bouclier élémentaire majeur peut être actif à la fois.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+Ils sont couverts par un bouclier élémentaire du même type que celui de la cible, qui donne 60% de résistance, accorde les mêmes bonus associés, avec une capacité de contrecoup qui ne s'applique qu'une fois sur deux (50% de chance) pendant 13 rounds.~
+
+@775 = ~Champ de dissipation suprême ~
+@776 = ~Champ de dissipation suprême (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 3
+Zone d'effet : 10 mètre de rayon
+Jet de sauvegarde : aucun
+
+Ce sort est une version plus puissante de Champ de dissipation, qui agit de la même façon, mais en faisant compter double le niveau du lanceur de sort. Ainsi, si le seigneur de guerre de niveau 16 lance ce sort, il purge la magie sur toutes les créatures dans les 10 mètres de rayon comme s'il était de niveau 32.
+Quel que soit le résultat final, il y a toujours 1% de chance minimum de réussite ou d'échec.~
+@7761 = ~Champ de dissipation suprême (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 3
+Zone d'effet : 10 mètre de rayon
+Jet de sauvegarde : aucun
+
+Ce sort est une version plus puissante de Champ de dissipation, qui agit de la même façon, mais en faisant compter double le niveau du lanceur de sort. Ainsi, quand le seigneur de guerre lance ce sort, il purge la magie sur toutes les créatures dans les 10 mètres de rayon comme s'il était de niveau 40.
+Quel que soit le résultat final, il y a toujours 1% de chance minimum de réussite ou d'échec.~
+
+@777 = ~Courroux de la terre~
+@778 = ~Courroux de la terre (Altération)
+Niveau : 7
+Portée : champ de vision
+Durée : 1 round
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort déchaîne toute la puissance de la terre contre une seule créature. Lorsque le sort est lancé, toutes les activités telluriques du secteur se rejoignent pour créer sous celle-ci une faille sismique. 
+Si la cible réussi un jet de sauvegarde contre les sorts, la faille est limitée et crache une langue de feu qui lui inflige 10D6 points de dégâts.
+Mais si la cible rate le jet de sauvegarde, la faille est suffisamment importante pour que la créature tombe dedans. Elle subit 10D10 points de dégâts contondants supplémentaires lorsque la faille se referme et doit réussir un jet de sauvegarde contre les souffles à -2 pour éviter de mourir écrasée. Si elle réussit ce second jet, elle n'est écrasée qu'en partie et en garde un lourd handicap (-4 à la CA et aux jets de toucher, vitesse de déplacement réduite de moitié).~
+@7781 = ~Écrasement par la faille~
+@7782 = ~Courroux de la terre (Altération)
+Niveau : 7
+Portée : champ de vision
+Durée : 1 round
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort déchaîne toute la puissance de la terre contre une seule créature. Lorsque le sort est lancé, toutes les activités telluriques du secteur se rejoignent pour créer sous celle-ci une faille sismique. 
+Si la cible réussi un jet de sauvegarde contre les sorts, la faille est limitée et crache une langue de feu qui lui inflige 10D6 points de dégâts.
+Mais si la cible rate le jet de sauvegarde, la faille est suffisamment importante pour que la créature tombe dedans. Elle subit 10D10 points de dégâts contondants supplémentaires lorsque la faille se referme et doit réussir un jet de sauvegarde contre les souffles à -2 pour éviter de mourir écrasée. Si elle réussi ce second jet, elle n'est écrasée qu'en partie et en garde un lourd handicap (-4 à la CA et aux jets de toucher, vitesse de déplacement réduite de moitié).~
+@7781 = ~Écrasement par la faille~
+
+@779 = ~Désordre majeur~
+@7710 = ~Désordre majeur (Enchantement)
+Niveau : 7
+Portée : champ de vision du lanceur
+Durée : spéciale
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Désordre majeur vise à créer une attaque cérébrale majeure chez la cible désignée. Si elle rate son jet de sauvegarde, elle est frappée de folie et reste végétative, définitivement. Seul un sort de Restauration majeure ou de Souhait saurait la guérir de cet état. Si elle réussit le jet de sauvegarde, elle reste tout de même confuse pendant 2 tours.~
+@77101 = ~Désordre majeur (Enchantement)
+Niveau : 7
+Portée : champ de vision du lanceur
+Durée : spéciale
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Désordre majeur vise à créer une attaque cérébrale majeure chez la cible désignée. Si elle rate son jet de sauvegarde, elle est frappée de folie et reste végétative, définitivement. Seul un sort de Restauration majeure ou de Souhait saurait la guérir de cet état. Si elle réussit le jet de sauvegarde, elle reste tout de même confuse pendant 2 tours.~
+
+@7711 = ~Dévastation~
+@7712 = ~Dévastation (Nécromancie, Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 rounds / niveau
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort vise à réduire drastiquement les résistances d'une créature trop puissante.
+Il agit en plusieurs temps :
+En premier, il réduit la résistance à la magie de la cible de 20%. Il n'y a pas de jet de sauvegarde possible contre ceci, et la résistance à la magie initiale de la créature ne la protège en rien.
+Ensuite, si le sort n'est pas arrêté par la résistance à la magie restante de la créature, celle-ci voit tous ses jets de sauvegarde réduits de -4. Il n'y a pas encore de jet de sauvegarde possible pour résister.
+Enfin, si la créature rate un jet de sauvegarde contre les sorts, elles subit les malus suivants :
+- 4 à la CA
+Force et constitution fixées à 8
+- 30% de résistance aux dégâts élémentaires
+- 20% de résistance aux dégâts physiques
+
+Si la créature n'a pas de résistance initiale aux dégâts ou aux éléments, cela devient une vulnérabilité.
+
+Les malus imposés par ce sort évoluent avec l'expérience du seigneur, selon le schéma suivant :
+Niveau 15 : La force et la constitution sont fixées à 5.
+Niveau 16 : la réduction de la CA passe à -6
+Niveau 17 : la diminution des résistances élémentaires passe à -50%
+Niveau 18 : la diminution des résistances aux dégâts physiques passe à -35%.
+Niveau 19 : la réduction de la résistance à la magie passe à -30%
+Niveau 20 : les jets de sauvegardes sont réduits de -6
+Niveau 21: le choc infligé par le sort en cas de jet de sauvegarde raté est si puissant que si la créature a moins de 60 pvs, elle en meurt.
+
+Si le sort est lancé plusieurs fois sur une créature, il peut se cumuler selon le schéma suivant :
+Sort annulé par la résistance à la magie : la réduction de la résistance à la magie du sort suivant se cumule.
+Sort annulé par un jet de sauvegarde réussi : La réduction de la résistance à la magie et la réduction des jets de sauvegardes du sort suivant se cumulent.
+Jet de sauvegarde raté : la cible subit les pleins effets et ne peut plus être affecté de nouveau pendant la durée du sort.~
+@77129 = ~Vulnérabilité accrue~
+@771291 = ~Dévastation (Nécromancie, Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Ce sort vise à réduire drastiquement les résistances d'une créature trop puissante.
+Il agit en plusieurs temps :
+En premier, il réduit la résistance à la magie de la cible de 30%. Il n'y a pas de jet de sauvegarde possible contre ceci, et la résistance à la magie initiale de la créature ne la protège en rien.
+Ensuite, si le sort n'est pas arrêté par la résistance à la magie restante de la créature, celle-ci voit tous ses jets de sauvegarde réduits de -6. Il n'y a pas encore de jet de sauvegarde possible pour résister.
+Enfin, si la créature rate un jet de sauvegarde contre les sorts, elle subit les malus suivants :
+- 6 à la CA
+Force est constitution fixées à 5
+- 50% de résistance aux dégâts élémentaires
+- 35% de résistance aux dégâts physiques
+
+Si la créature n'a pas de résistance initiale aux dégâts ou aux éléments, cela devient une vulnérabilité.
+
+Au niveau 21, le choc infligé par le sort en cas de jet de sauvegarde raté est si puissant que si la créature a moins de 60 pvs, elle en meurt.
+
+Si le sort est lancé plusieurs fois sur une créature, il peut se cumuler selon le schéma suivant :
+Sort annulé par la résistance à la magie : la réduction de la résistance à la magie du sort suivant se cumule.
+Sort annulé par un jet de sauvegarde réussi : La réduction de la résistance à la magie et la réduction des jets de sauvegardes du sort suivant se cumulent.
+Jet de sauvegarde raté : la cible subit les pleins effets et ne peut plus être affecté de nouveau pendant la durée du sort.~
+
+@7713 = ~Énergie en tout~
+@7714 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : 0
+Durée : 1 round / 3 niveaux
+Temps d'incantation : 9 
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a essayé de créer ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire, car la toile n'est pas un élément aisément manipulable pour un mage qui ne passe pas de longues années à la comprendre.
+Le sort permet au seigneur de guerre d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le mage se remémore un sort de niveau 1 à 8 (déterminé par le lancer d'un D8; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.
+Il y a aussi 20% - 1% par deux niveaux du lanceur (minimum 10% au niveau 20) de chance à chaque lancer du sort que la tentative de contrôler la toile échoue, provoquant alors l'effet inverse de celui désiré : le lanceur de sort voit sa magie absorbée par la toile et oubli 1D10 sorts.~
+@77141 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : 0
+Durée : 6 rounds (7 au niveau 21)
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a essayé de créer ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire, car la toile n'est pas un élément aisément manipulable pour un mage qui ne passe pas de longues années à la comprendre.
+Le sort permet au seigneur de guerre d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le mage se remémore un sort de niveau 1 à 8 (déterminé par le lancer d'un D8; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.
+Il y a aussi 10% de chance à chaque lancer du sort que la tentative de contrôler la toile échoue, provoquant alors l'effet inverse de celui désiré : le lanceur de sort voit sa magie absorbée par la toile et oubli 1D10 sorts.~
+@77142 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : 0
+Durée : 6 rounds (7 au niveau 21)
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a crée ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire.
+Le sort permet au seigneur de guerre d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le mage se remémore un sort de niveau 1 à 8 (déterminé par le lancer d'un D8; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.~
+@77143 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : 0
+Durée : 6 rounds (7 au niveau 21)
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a crée ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire.
+Le sort permet au seigneur de guerre d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le mage se remémore un sort de niveau 3 à 8 (déterminé par le lancer d'un D6+2; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.~
+@77144 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : champ de vision
+Durée : 6 rounds (7 au niveau 21)
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a crée ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire.
+Le sort permet au mage ciblée (le sort n'a aucun effet sur une cible ne disposant pas de capacité arcanique) d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le bénéficiaire se remémore un sort de niveau 3 à 8 (déterminé par le lancer d'un D6+2; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.~
+@771441 = ~Énergie en tout (Altération, Enchantement)
+Niveau : 7
+Portée : champ de vision
+Durée : 6 rounds (7 au niveau 21)
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre a crée ce sort en partant d'un principe simple : "Si la magie est présente en toute chose, je dois pouvoir en tirer partie". Et le sort fonctionne, mais de manière aléatoire.
+Le sort permet au mage ciblée (le sort n'a aucun effet sur une cible ne disposant pas de capacité arcanique) d'absorber la magie environnante pour restaurer sa propre magie, lui permettant par là de se remémorer des sorts qu'il a déjà lancés. 
+Chaque round, le bénéficiaire se remémore un sort de niveau 3 à 8 (déterminé par le lancer d'un D6+2; il n'est pas possible de se remémorer un sort de niveau 9 de cette manière). Mais il doit se montrer prudent : chaque part de magie que le corps du mage absorbe peut le blesser. Chaque fois qu'il se remémore un sort, le mage doit réussir un jet de sauvegarde contre la mort magique (avec une pénalité de -1 pour les sorts de niveau 4 à 6 et -2 pour les sorts de niveau 7 et 8) ou subir un point de dégâts par niveau du sort remémoré du fait de la décharge magique reçue.
+
+Tous les mages alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils se remémorent un sort de niveau 1 à 6, déterminé par le jet d'un D6, par round pendant 4 rounds.~
+
+@7715 = ~Exécution~
+@7716 = ~Exécution (Nécromancie)
+Niveau : 7
+Portée :Champ de vision
+Durée : instantanée
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Exécution est un sort cruel qui tue radicalement d'un simple regard la victime qui n'y résiste pas. Chez un humanoïde, c'est le cœur qui lâche. Sur une aberration ou un monstre, c'est un autre élément vital qui est affecté. Mais quoi qu'il en soit, la mort est inévitable si le jet est raté à -2. Si le jet de sauvegarde est réussi, le choc métabolique subit par la cible inflige tout de même 4D8 points de dégâts. Exécution ne peut pas tuer les morts-vivants, les créatures artificielles et certaines puissances d'autres plans, mais toutes ces créatures peuvent quand même succomber par les dommages infligés par le sort.~
+@77161 = ~Exécution (Nécromancie)
+Niveau : 7
+Portée :Champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Exécution est un sort cruel qui tue radicalement d'un simple regard la victime qui n'y résiste pas. Chez un humanoïde, c'est le cœur qui lâche. Sur une aberration ou un monstre, c'est un autre élément vital qui est affecté. Mais quoi qu'il en soit, la mort est inévitable si le jet est raté à -2. Si le jet de sauvegarde est réussi, le choc métabolique subit par la cible inflige tout de même 4D8 points de dégâts. Exécution ne peut pas tuer les morts-vivants, les créatures artificielles et certaines puissances d'autres plans, mais toutes ces créatures peuvent quand même succomber par les dommages infligés par le sort.~
+
+@7717 = ~Globe d'anti-magie~
+@7718 = ~Globe d'anti-magie (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée autour du seigneur de guerre un globe protecteur à l'intérieur duquel aucune magie ne peut agir. Lorsque le globe est crée, toute la magie qui agit sur le magicien est aussitôt dissipée. Par la suite, aucune magie ne peut pénétrer le globe, ni agir à l'intérieur. De fait, tant que le globe est actif, si le seigneur de guerre est immunisé à toutes les magies, il est aussi incapable de faire appel à la sienne.
+
+Si le lanceur de sort est protégé par un sort de Magie durable au moment où le Globe d'anti-magie est lancé, la dissipation qu'il devrait subir est annulée par Magie durable, qui en absorbe toute l’énergie avant de disparaître, laissant les autres effets magiques en cours actifs.~
+@77181 = ~Globe d'anti-magie (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée autour du seigneur de guerre un globe protecteur à l'intérieur duquel aucune magie ne peut agir. Lorsque le globe est crée, toute la magie qui agit sur le magicien est aussitôt dissipée. Par la suite, aucune magie ne peut pénétrer le globe, ni agir à l'intérieur. De fait, tant que le globe est actif, si le seigneur de guerre est immunisé à toutes les magies, il est aussi incapable de faire appel à la sienne.
+
+Si le lanceur de sort est protégé par un sort de Magie durable au moment où le Globe d'anti-magie est lancé, la dissipation qu'il devrait subir est annulée par Magie durable, qui en absorbe toute l’énergie avant de disparaître, laissant les autres effets magiques en cours actifs.~
+@771811 = ~Le globe d'anti-magie fait échouer toute tentative d'incantation~
+@77182 = ~Globe d'anti-magie (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée autour de la cible un globe protecteur à l'intérieur duquel aucune magie ne peut agir. Lorsque le globe est crée, toute la magie qui agit sur le sujet est aussitôt dissipée. Par la suite, aucune magie ne peut pénétrer le globe, ni agir à l'intérieur. De fait, tant que le globe est actif, si le bénéficiaire est immunisé à toutes les magies, il est aussi incapable de faire appel à la sienne s'il est jeteur de sort.
+
+Si le sujet est protégé par un sort de Magie durable au moment où le Globe d'anti-magie est lancé, la dissipation qu'il devrait subir est annulée par Magie durable, qui en absorbe toute l’énergie avant de disparaître, laissant les autres effets magiques en cours actifs.~
+@771821 = ~Globe d'anti-magie (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée autour de la cible un globe protecteur à l'intérieur duquel aucune magie ne peut agir. Lorsque le globe est crée, toute la magie qui agit sur le sujet est aussitôt dissipée. Par la suite, aucune magie ne peut pénétrer le globe, ni agir à l'intérieur. De fait, tant que le globe est actif, si le bénéficiaire est immunisé à toutes les magies, il est aussi incapable de faire appel à la sienne s'il est jeteur de sort.
+
+Si le sujet est protégé par un sort de Magie durable au moment où le Globe d'anti-magie est lancé, la dissipation qu'il devrait subir est annulée par Magie durable, qui en absorbe toute l’énergie avant de disparaître, laissant les autres effets magiques en cours actifs.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : il ne dure que 13 rounds.~
+
+@7719 = ~Guérison suprême~
+@7720 = ~Guérison suprême (Nécromancie)
+Niveau : 7
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort de guérison permet au seigneur de guerre de se débarrasser de toute forme de maladies ou de blessures l'affectant. Toutes ses afflictions sont guéries et l'intégralité des points de vie qu'il a perdus lui sont rendus.~
+@77201 = ~Guérison suprême (Nécromancie)
+Niveau : 7
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce puissant sort de guérison permet au seigneur de guerre de se débarrasser de toute forme de maladies ou de blessures l'affectant. Toutes ses afflictions sont guéries et l'intégralité des points de vie qu'il a perdus lui sont rendus.~
+@77202 = ~Guérison suprême (Nécromancie)
+Niveau : 7
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort de guérison permet à la cible de se débarrasser de toute forme de maladies ou de blessures l'affectant. Toutes ses afflictions sont guéries et l'intégralité des points de vie qu'elle a perdus lui sont rendus.~
+@772021 = ~Guérison suprême (Nécromancie)
+Niveau : 7
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce puissant sort de guérison permet à la cible de se débarrasser de toute forme de maladies ou de blessures l'affectant. Toutes ses afflictions sont guéries et l'intégralité des points de vie qu'elle a perdus lui sont rendus.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils récupèrent 75% de leur total de point de vie de base et ont 66% de chances d'être débarrassés des autres afflictions.~
+
+@7721 = ~Pluie acide~
+@7722 = ~Pluie acide (Évocation)
+Niveau : 7
+Portée : champ de vision
+Durée : 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : rayon de 9 mètres 
+Jet de sauvegarde : spécial
+
+Ce sort fait pleuvoir sur la zone désignée une pluie de gouttelettes magiques d'acide gélatineux. Toutes les créatures se trouvant dans la zone d'effet sont recouvertes par des gouttes de cette substance. L'acide reste pendant un round par niveau du seigneur de guerre, puis s'évapore.
+Les créatures ainsi recouvertes subissent 1D4 points de dégâts par round pendant les rounds 1 à 3, puis 1D6 par round pendant les rounds 4 à 6 et 1D8 à chaque round suivant. Les personnages qui ont réussi au premier round leur jet de sauvegarde contre les sorts ne subissent que la moitié des dégâts dus à l'acide les rounds suivants. Quand le sort s'arrête, les effets cessent de même.~
+@77221 = ~Pluie acide (Évocation)
+Niveau : 7
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : rayon de 9 mètres 
+Jet de sauvegarde : spécial
+
+Ce sort fait pleuvoir sur la zone désignée une pluie de gouttelettes magiques d'acide gélatineux. Toutes les créatures se trouvant dans la zone d'effet sont recouvertes par des gouttes de cette substance. L'acide reste pendant un round par niveau du seigneur de guerre, puis s'évapore.
+Les créatures ainsi recouvertes subissent 1D4 points de dégâts par round pendant les rounds 1 à 3, puis 1D6 par round pendant les rounds 4 à 6 et 1D8 à chaque round suivant. Les personnages qui ont réussi au premier round leur jet de sauvegarde contre les sorts ne subissent que la moitié des dégâts dus à l'acide les rounds suivants. Quand le sort s'arrête, les effets cessent de même.~
+
+@7723 = ~Pointes de lave~
+@7724 = ~Pointes de lave (Évocation)
+Niveau : 7
+Portée : lanceur
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½
+
+A la fin de l'incantation du sort, le seigneur de guerre projette dans toutes les directions des pointes de lave en fusion. Chaque créature située dans la zone autour de lui est touchée par l'équivalent d'une pointe par niveau du seigneur de guerre. Chacune inflige 1D4 points de dégâts perforants et 1 point de dégât de feu (max 20D4 + 20). Les créatures qui réussissent un jet de sauvegarde évitent la moitié des impacts.~
+@77241 = ~Pointes de lave (Évocation)
+Niveau : 7
+Portée : lanceur
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½
+
+A la fin de l'incantation du sort, le seigneur de guerre projette dans toutes les directions des pointes de lave en fusion. Chaque créature située dans la zone autour de lui est touchée par l'équivalent de vingts pointes. Chacune inflige 1D4 points de dégâts perforants et 1 point de dégât de feu. Les créatures qui réussissent un jet de sauvegarde évitent la moitié des impacts.~
+
+@7725 = ~Magie durable~
+@7726 = ~Magie durable (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Il n'y a rien de plus frustrant que de voir une batterie de sorts lancés en prévision d'une importante bataille annulée d'un seul coup par une dissipation adverse. C'est en réaction à cette contrariété malencontreusement subie que le seigneur de guerre a développé ce sort.
+Le sort crée une bouclier composé de l'énergie opposée à celle qui sert à dissiper les sorts. Ce bouclier absorbe toutes les tentatives de dissipation, assurant au seigneur de guerre que ses sorts agiront jusqu'à leur terme normal.
+
+Attention tout de même : sous l'effet de cette protection, le lanceur ne peut plus non plus être affecté par "Purge de la magie", ce qui peut s’avérer dangereux s'il est affecté par des effets magiques néfastes.~
+@77261 = ~Magie durable (Abjuration)
+Niveau : 7
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Il n'y a rien de plus frustrant que de voir une batterie de sorts lancés en prévision d'une importante bataille annulée d'un seul coup par une dissipation adverse. C'est en réaction à cette contrariété malencontreusement subie que le seigneur de guerre a développé ce sort.
+Le sort crée une bouclier composé de l'énergie opposée à celle qui sert à dissiper les sorts. Ce bouclier absorbe toutes les tentatives de dissipation, assurant au seigneur de guerre que ses sorts agiront jusqu'à leur terme normal.
+
+Attention tout de même : sous l'effet de cette protection, le lanceur ne peut plus non plus être affecté par "Purge de la magie", ce qui peut s’avérer dangereux s'il est affecté par des effets magiques néfastes.~
+@77262 = ~Magie durable (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Il n'y a rien de plus frustrant que de voir une batterie de sorts lancés en prévision d'une importante bataille annulée d'un seul coup par une dissipation adverse. C'est en réaction à cette contrariété malencontreusement subie que le seigneur de guerre a développé ce sort.
+Le sort crée une bouclier composé de l'énergie opposée à celle qui sert à dissiper les sorts. Ce bouclier absorbe toutes les tentatives de dissipation, assurant au bénéficiaire du sort que tous les effets l'affectant agiront jusqu'à leur terme normal.~
+@772621 = ~Magie durable (Abjuration)
+Niveau : 7
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Il n'y a rien de plus frustrant que de voir une batterie de sorts lancés en prévision d'une importante bataille annulée d'un seul coup par une dissipation adverse. C'est en réaction à cette contrariété malencontreusement subie que le seigneur de guerre a développé ce sort.
+Le sort crée une bouclier composé de l'énergie opposée à celle qui sert à dissiper les sorts. Ce bouclier absorbe toutes les tentatives de dissipation, assurant au bénéficiaire du sort que tous les effets l'affectant agiront jusqu'à leur terme normal.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : pour eux il ne dure que 15 rounds.~

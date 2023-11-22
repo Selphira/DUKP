@@ -1,0 +1,87 @@
+@2101 = ~Way of the Pyromaniac~
+@2102 = ~Way of the Pyromaniac:
+
+The preacher who admires fire as a weapon of mass destruction turns out to be a confirmed pyromaniac. The flames he creates by his spells are generated with a crude sadism, and his fierce determination to see things burn imposes a -2 bonus to saving throws (additional -1 every 5 levels beyond level 20, for a total of -8 at level 50) against them.
+The bond that makes him one with evil plane strengthens when he adopts this mindset, and he is rewarded with a new spell, while others are deeply modified to bring more suffering.
+If his alignment is (loyal) neutral when he choses the Way of the Pyromaniac, it will change to become (neutral) evil.
+
+Refusing the neutrality of the plane of fire brings its inconveniences, and the most obvious, not being anymore able to summon its most powerful inhabitants (best creatures summoning spells are lost by adopting this hla). It thus become impossible to the Preacher linked to the infernal planes to access spells of protection against evil.~
+
+@2105 = ~Recall of the Fire Army~
+@2106 = ~Requirement: having chosen the Way of the Pyromaniac
+
+Recall of the Fire Army
+
+This dark ritual allows the preacher to fetch from infernal planes the souls of fighters dead by fire who enjoyed this last caress before passing away.
+It takes 2 full rounds to practice the ritual, after which 1D10 souls are found and picked up as undead to serve the preacher. The fighters raised this way are in perfect harmony with fire, appreciating its caress and to spread it in combat. There is a 10% chance each time that a powerful pyromancer mage is brought back to life.
+All the souls brought back this way return into abysse if their undead bodies are destroyed or after having spent 8 hours on the primary plane.~
+@21061 = ~Burnt Dead~
+@21062 = ~Charbonized Fighter~
+@21063 = ~Calcined Barbarian~
+@21064 = ~Pyromancer Mage~
+@210641 = ~Chain Contingency - Abi-Dalzim's Horrid Wilting + double Incendiary Cloud~
+@210642 = ~Suffer the bite of fire!~
+@210643 = ~Spell Sequencer - Improved Invisibility + Stoneskin + Fire Shield (Red)~
+@210644 = ~Spell Trigger - triple Sunfire~
+@210645 = ~Contingency - Stoneskin~
+@210646 = ~Minor Sequencer - double Burning Hands~
+
+@2107 = ~Heat Overflow~
+@2108 = ~Requirement: having chosen the Way of the Pyromaniac
+
+Heat Overflow (Necromancy)
+Level: quest
+Sphere: necromancy, elemental (fire)
+Range: visual range of the caster
+Duration: 5 seconds
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell pushes to an intolerable level the internal heat of the target creature. In addition, a cloud of glowing dust is created and pastes on the target. It then suffers 2D6 fire damage points, then 5D6 and finally 10D6, before making a successful saving throw vs. death or it's smashed into pieces. If it survives, it quickly cooles down and will still suffer 3D6 damage before the spell quits.
+This spell has no effect on creatures of fire type.~
+@21081 = ~Heat Overflow (Necromancy)
+Level: quest
+Sphere: necromancy, elemental (fire)
+Range: visual range of the caster
+Duration: 1 round
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell pushes to an intolerable level the internal heat of the target creature. In addition, a cloud of glowing dust is created and pastes on the target. It then suffers 2D6 fire damage points, then 5D6 and finally 10D6, before making a successful saving throw vs. death or it's smashed into pieces. If it survives, it quickly cooles down and will still suffer 3D6 damage before the spell quits.
+This spell has no effect on creatures of fire type.~
+
+@2109 = ~Fire Elemental Transformation~
+@21010 = ~Requirement: having chosen the Way of the Pyromaniac
+
+Fire Elemental Transformation
+
+The preacher who no longer has the ability to summon the most powerful elementals but that understands the nature can become himself an elemental to spread the flames and terror.
+Harnessing the power of fire, this powerful shapechange ability allows the preacher to become a 24HD fire elemental of immense strength. The elemental form has an AC of -5, a THAC0 of 0 and does 1D8 normal and 2D8 fire damage with its attacks. When the preacher returns to human form, he is also healed 3D10 life points.~
+
+@21011 = ~Resounding Spontaneous Combustion~ // Note done for yet, too Arcanic.
+@21012 = ~Requirement: Heat Overflow
+
+Resounding Spontaneous Combustion (Necromancy)
+Level: quest
+Sphere: necromancy, elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: negates
+
+This horrible spell blew all the internal heat of the target if it fails its saving throw vs. death, instantly killing it and making it explode into a fireball that inflicts 10D8 damage point in an area of 10-meters radius (saving throw vs. spells to halve). All creatures hit by the fireball will suffer the effects of the initial spell and they too must make a successful saving throw vs. death or explode into a new fireball.
+It is possible that a creature suffers several fireballs and must make several saving throws, as long as there are creatures that explode. Multiple explosions on the outskirts of the fireball may also shift a lot off the original point the supernumery explosions.~
+@210121 = ~Resounding Spontaneous Combustion (Necromancy)
+Level: quest
+Sphere: necromancy, elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: negates
+
+This horrible spell blew all the internal heat of the target if it fails its saving throw vs. death, instantly killing it and making it explode into a fireball that inflicts 10D8 damage point in an area of 10-meters radius (saving throw vs. spells to halve). All creatures hit by the fireball will suffer the effects of the initial spell and they too must make a successful saving throw vs. death or explode into a new fireball.
+It is possible that a creature suffers several fireballs and must make several saving throws, as long as there are creatures that explode. Multiple explosions on the outskirts of the fireball may also shift a lot off the original point the supernumery explosions.~

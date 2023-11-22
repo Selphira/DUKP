@@ -1,0 +1,276 @@
+@711 = ~Force Shield~
+@712 = ~Force Shield (Evocation)
+Level: 1
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a force aura around the caster that pushes the weapons and other dangerous items that should harm him back. Impacts on him are softened, he gains 5% + 1% per level to physical attacks resistance (maximum 25% at level 20).~
+@7129 = ~Force Shield (Evocation)
+Level: 1
+Range: 0
+Duration: 23 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell creates a force aura around the caster that pushes the weapons and other dangerous items that should harm him back. Impacts on him are softened, he gains 25% physical attacks resistance.~
+@71291 = ~Force Shield (Evocation)
+Level: 1
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates a force aura around the recipient that pushes the weapons and other dangerous items that should harm him back. Impacts on him are softened, he gains 25% physical attacks resistance.~
+@712911 = ~Force Shield (Evocation)
+Level: 1
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates a force aura around the recipient that pushes the weapons and other dangerous items that should harm him back. Impacts on him are softened, he gains 25% physical attacks resistance.
+
+All allies within 5 meters from the target also benefit from softened effects of the spell: 17% resistance to hits for 15 rounds.~
+
+@713 = ~Step Up~
+@714 = ~Step Up (Enchantment)
+Level: 1
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to naturally step up the pace and with no more fatigue. His movement increases by 1 every 2 levels of the caster (maximum +6 at level 12). At level 12 this stepping up allows him to dodge more easily in combat, giving him a +1 bonus to AC.~
+@7141 = ~Step Up (Enchantment)
+Level: 1
+Range: 0
+Duration: 3 turns
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to naturally step up the pace and with no more fatigue. His movement increases by 6. This stepping up allows him to dodge more easily in combat, giving him a +1 bonus to AC.~
+@7142 = ~Step Up (Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to naturally step up the pace and with no more fatigue. His movement increases by 6. This stepping up allows him to dodge more easily in combat, giving him a +1 bonus to AC.~
+@71421 = ~Step Up (Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to naturally step up the pace and with no more fatigue. His movement increases by 6. This stepping up allows him to dodge more easily in combat, giving him a +1 bonus to AC.
+
+All allies within 5 meters from the target also benefit from softened effects of the spell: +4 to movement for 2 turns.~
+
+@715 = ~Massive Strike~ //No icon and the impossibility to create the effect "next hit"
+@716 = ~Massive Strike (Alteration)
+Level: 1
+Range: 0
+Duration: 1 round
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell greatly amplifies the next strike of the caster. It makes it so powerful that if he hits an opponent, the latter suffers additional 1D6 damage points and must make a successful saving throw vs. breath at -2 or be thrown 10 meters back.~
+
+@717 = ~Fist of Iron~
+@718 = ~Fist of Iron (Alteration)
+Level: 1
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord who loses his weapon to continue fighting. The warlord has to clench his fist while casting this spell, after which it takes the consistency of iron. As long as the spell lasts, the mage can't unclench his fist and can't hold any weapon, and has a 50% to fail casting of any spell he tries (he can not properly perform gestures). For most everyday tasks, he must use the other hand.
+The Fist of Iron grants +2 to hit and inflicts 1D4 +4 damage points, but can not affect creatures that can't be hurt except by magical weapons. From level 10 of the warlord the spell is more powerful, the fist of iron is then considered as a magical weapon +1, granting +3 to hit and inflicting 1D4 +5 damage points. From level 15 the spell also increases melee mastery of the caster, granting him an extra attack and +2 to initiative when fighting with the fist of iron.~
+@7181 = ~Fist of Iron (Alteration)
+Level: 1
+Range: 0
+Duration: 25 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord who loses his weapon to continue fighting. The warlord has to clench his fist while casting this spell, after which it takes the consistency of iron. As long as the spell lasts, the mage can't unclench his fist and can't hold any weapon, and has a 50% to fail casting of any spell he tries (he can not properly perform gestures). For most everyday tasks, he must use the other hand.
+The Fist of Iron is considered as a magical weapon +1, granting +3 to hit and inflicts 1D4 +5 damage points.
+The spell also increases melee mastery of the caster, granting him an extra attack and +2 to initiative when fighting with the fist of iron.~
+@7182 = ~Fist of Iron (Alteration)
+Level: 1
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the fighter who loses his weapon to continue fighting. The target has to clench his fist while the spell is cast, after which it takes the consistency of iron. As long as the spell lasts, the recipient can't unclench his fist and can't hold any weapon, and has a 50% to fail casting of any spell he tries (he can not properly perform gestures). For most everyday tasks, he must use the other hand.
+The Fist of Iron is considered as a magical weapon +1, granting +3 to hit and inflicts 1D4 +5 damage points.
+The spell also increases melee mastery of the recipient, granting him an extra attack and +2 to initiative when fighting with the fist of iron.~
+@71821 = ~Fist of Iron (Alteration)
+Level: 1
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the fighter who loses his weapon to continue fighting. The target has to clench his fist while the spell is cast, after which it takes the consistency of iron. As long as the spell lasts, the recipient can't unclench his fist and can't hold any weapon, and has a 50% to fail casting of any spell he tries (he can not properly perform gestures). For most everyday tasks, he must use the other hand.
+The Fist of Iron is considered as a magical weapon +1, granting +3 to hit and inflicts 1D4 +5 damage points.
+The spell also increases melee mastery of the recipient, granting him an extra attack and +2 to initiative when fighting with the fist of iron.
+
+All allies within 5 meters from the target will also benefit of softened effects of the spell: their fist turns into iron but with no mastery improvement, for 17 rounds.~
+
+@719 = ~Expert's Eye~
+@7110 = ~Expert's Eye (Enchantment)
+Level: 1
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell enhances the sense of fighting of the warlord. As long as the spell lasts, his eye can spot the flaws of the enemy and his skill improves. He gains +1 to THAC0 every 5 experience levels (maximum +5 at level 21).~
+@71101 = ~Expert's Eye (Enchantment)
+Level: 1
+Range: 0
+Duration: 23 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell enhances the sense of fighting of the warlord. As long as the spell lasts, his eye can spot the flaws of the enemy and his skill improves. He gains +5 to THAC0.~
+@71102 = ~Expert's Eye (Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell enhances the sense of fighting of the recipient. As long as the spell lasts, his eye can spot the flaws of the enemy and his skill improves. He gains +5 to THAC0.~
+@711021 = ~Expert's Eye (Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell enhances the sense of fighting of the recipient. As long as the spell lasts, his eye can spot the flaws of the enemy and his skill improves. He gains +5 to THAC0.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: they gain +3 to THAC0 for 15 rounds.~
+
+@7111 = ~Resistance~
+@7112 = ~Resistance (Abjuration)
+Level: 1
+Range: 0
+Duration: 2 rounds/level
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to better resist to negative effects that could affect him. As long as the spell lasts, he gets a +1 bonus to saving throws every 5 experience levels (maximum +5 at level 21).~
+@71121 = ~Resistance (Abjuration)
+Level: 1
+Range: 0
+Duration: 4 turns
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to better resist to negative effects that could affect him. As long as the spell lasts, he gets a +5 bonus to saving throws.~
+@71122 = ~Resistance (Abjuration)
+Level: 1
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to better resist to negative effects that could affect him. As long as the spell lasts, he gets a +5 bonus to saving throws.~
+@711221 = ~Resistance (Abjuration)
+Level: 1
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to better resist to negative effects that could affect him. As long as the spell lasts, he gets a +5 bonus to saving throws.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: they get a +3 bonus to saving throws for 27 rounds.~
+
+@7113 = ~Stop!~ //No icon
+@7114 = ~Stop! (Evocation, Enchantment)
+Level: 1
+Range: 20 meters
+Duration: 3 rounds
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: negates
+
+A spell is a straight attack against a creature that aims to stop it tracking the warlord. If it fails a saving throw vs. spells, it is violently shaken for 2 seconds, which has the effect of stunning it for the current round, and imposes it a -2 to AC, THAC0 and saving throws. At second round it puts itself back but still suffers the -2 bonus. At the third round the bonus becomes -1, after which the spell duration expires at the 4th round.
+Every 5 levels of the caster, saving throw vs. this spell is increased by -1 (maximum -4 at level 20).~
+
+@7115 = ~Alternative Mastery~ //Icon to review
+@7116 = ~Alternative Mastery (Alteration, Enchantment)
+Level: 1
+Range: 0
+Duration: 5 rounds + 1 round/2 levels
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to adapt his fighting skills to new weapons to which he limits to devote learning mysteries.
+By casting this spell, he becomes a specialist (2 stars) of dagger or staff, depending on his choice during casting. He also becomes proficient in the associated fighting style (One-Handed weapon for dagger, Two-Handed weapons for staff).
+By experience, the warlord can improve this spell. He becomes expert (3 stars) of the weapon of his choice at level 7, and specialist in the associated fighting style at level 10.~
+@71161 = ~Dagger~
+@71162 = ~Staff~
+@71163 = ~Alternative Mastery (Alteration, Enchantment)
+Level: 1
+Range: 0
+Duration: 15 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to adapt his fighting skills to new weapons to which he limits to devote learning mysteries.
+By casting this spell, he becomes an expert (3 stars) of dagger or staff, depending on his choice during casting. He also becomes a specialist in the associated fighting style (One-Handed weapon for dagger, Two-Handed weapons for staff).~
+@71164 = ~Alternative Mastery (Alteration, Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to adapt his fighting skills to weapons of which those who practice the arcane mysteries use.
+It becomes an expert (3 stars) of dagger or staff, depending on caster's choice during casting. it also becomes a specialist in the associated fighting style (One-Handed weapon for dagger, Two-Handed weapons for staff).~
+@711641 = ~Alternative Mastery (Alteration, Enchantment)
+Level: 1
+Range: visual range of the caster
+Duration: 15 rounds
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to adapt his fighting skills to weapons of which those who practice the arcane mysteries use.
+It becomes an expert (3 stars) of dagger or staff, depending on caster's choice during casting. it also becomes a specialist in the associated fighting style (One-Handed weapon for dagger, Two-Handed weapons for staff).
+
+All allies within 5 meters from the target will also benefit of the softened effects of the spell: they become specialists (2 stars) in the weapon skyll chosen by the caster and gets a point in the associated fighting style for 1 turn.~

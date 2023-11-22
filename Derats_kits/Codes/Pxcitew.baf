@@ -1,0 +1,15 @@
+IF
+	Global("pxcitem","GLOBAL",0)
+	OR(6)
+	Kit(Player1,pxCHANTELAMEUR)
+	Kit(Player2,pxCHANTELAMEUR)
+	Kit(Player3,pxCHANTELAMEUR)
+	Kit(Player4,pxCHANTELAMEUR)
+	Kit(Player5,pxCHANTELAMEUR)
+	Kit(Player6,pxCHANTELAMEUR)
+THEN
+	RESPONSE #100
+	ActionOverride("Container 3",DestroyItem("CHAN01"))
+	ActionOverride("Container 3",CreateItem("pxcarmor",0,0,0))
+	SetGlobal("pxcitem","GLOBAL",1)
+  END

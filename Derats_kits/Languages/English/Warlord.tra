@@ -1,0 +1,44 @@
+@71009 = ~exalted fighter~
+@71 = ~Exalted Fighter~
+@72 = ~EXALTED FIGHTER: He is, among the fighters, a fanatic who lives only to fight, swearing only by war and dreaming only of victories. Some even more fanatical still try by all means to gain power to crush opponents.
+Such a fighter, if he discovers an innate magical potential, can see it as a new source of power and chooses to learn it to make use of it: if that is the case, he gains a new status: he becomes a Warlord.
+
+Advantages:
+- Nothing special as he did not embrace the career of mage.
+- To match a mage, he only needs 17 intelligence and 12 wisdom; his physical characteristics are not important.
+
+Disadvantages:
+- He believes that only the real weapons of war are worthy to being learned.
+- Obsessed by the idea of earning power, he can not be lawfull good.
+- Thinking about ranged fight tactics as cowardly, he refuses to use any ranged weapon.~
+
+@7309 = ~warlord~
+@73 = ~Warlord~
+@74 = ~WARLORD: The warlord if a fanatical fighter who has seen his gift of arcane magic as a unique way to become a pitiless war machine. Continuing to train to combat, he has focused his discovery of "essential" magic, all that would allow him to become more powerful in combat or inflict heavy damage to his opponents. Ignoring traditional magic he forms his own panel of spells, whose whole purpose is shown in combat.
+Proud fighter, he does not use "loose" techniques as hiding behind invocations or fight from afar. On the opposite he does not look for nobility in battle, and therefore has no scruple about inflicting the worst torments to his targets, either mental destruction or total annihilation.
+
+Advantages:
+- Magic comes spontaneously to him, he can continue to lead the fight, and his fighting skills are only partly reduced:
+  * He gains 1 additional hit point per level.
+  * His saving throw vs. death increases by 1 every 4 levels (maximum +5).
+  * His table of THAC0 is aligned to that of a cleric.
+  * He can wear any amor without being bothered to cast spells (when he levels his levels of fighter).
+- An inner research during respited allows him to regularly discover new spells.
+- His skills of memorizing evolves faster than those of a traditional mage.
+
+Disadvantages:
+- Using gifts of innate magic, he understands nothing about arcane magic, and can not use or learn from magic scrolls.
+- Devoting a part of his time to train as a fighter, he can not fully evolve in his mage function (-15% xp).
+- Thinking about ranged fights tactics as cowardly, he refuses to use any ranged weapon.~
+
+@77 = ~I discovered a new spell~
+@7000 = ~I know how to strengthen myself~
+@7001 = ~I know how to create the elements~
+@7002 = ~I know how to manipulate minds~
+@7003 = ~I know how to bully bodies~
+@7004 = ~I know how to master natural forces~
+@7005 = ~I know how to cause death~
+@7006 = ~You already are under the effect of this spell~
+@7007 = ~I am now a Warlord.~
+@7008 = ~I can not become a Warlord, I am not a mage.~
+@7009 = ~I can not become a Warlord, I have evolved in another class.~

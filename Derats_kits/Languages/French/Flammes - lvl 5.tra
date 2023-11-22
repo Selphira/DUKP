@@ -1,0 +1,229 @@
+@251 = ~Colonne de feu (Évocation) 
+Niveau : 5
+Sphère : combat 
+Portée : champ visuel du lanceur 
+Durée : instantanée
+Temps d'incantation : 8 
+Zone d'effet : créature visée
+Jet de sauvegarde : 1/2
+
+Lorsque le prêtre lance ce sort, une colonne de feu verticale tombe en grondant à l'endroit choisi. Toute créature située dans la zone d'effet d'une colonne de feu doit effectuer un jet de sauvegarde contre les sorts. En cas d'échec, la créature subit 1d8 points de dégâts par niveau du prêtre (20D8 maximum), sinon les dégâts sont diminués de moitié.~
+@252 = ~Colonne de feu (Évocation) 
+Niveau : 5
+Sphère : combat 
+Portée : champ de vision 
+Durée : instantanée
+Temps d'incantation : 8 
+Zone d'effet : créature visée
+Jet de sauvegarde : ½
+
+Lorsque le prêtre lance ce sort, une colonne de feu verticale tombe en grondant à l'endroit choisi. Toute créature située dans la zone d'effet d'une colonne de feu doit effectuer un jet de sauvegarde contre les sorts. En cas d'échec, la créature subit 24D8 points de dégâts (26D8 au niveau 30 et 28D8 au niveau 40), sinon les dégâts sont diminués de moitié.~
+@2521 = ~Colonne de feu infernal~
+@2522 = ~Colonne de feu infernal (Conjuration) 
+Niveau : 5
+Sphère : combat, mal
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : 5 mètres de rayon
+Jet de sauvegarde : ½
+
+Le feu des plans infernaux s'abat sur la cible désignée. Elle subit 20D6+20 points de dégâts. Les créatures à proximité subissent elle aussi des dégâts dus aux vapeurs soufrées dégagées par l'impact. Un jet de sauvegarde contre les sorts réussi à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) diminue de moitié les dégâts reçus.~
+
+@254 = ~Convocation d'animaux II (Conjuration/Convocation) 
+Niveau : 5
+Sphère : animal, convocation
+Portée : 30 mètres
+Durée : 3 tours 
+Temps d'incantation : 6
+Zone d'effet : spéciale 
+Jet de sauvegarde : aucun
+
+Le jeteur de sorts peut convoquer jusqu'à 3 créatures ayant 8 dés de vie ou moins. Les créatures ignées ou ayant une affinité avec le feu remplacent les animaux normalement invoquées par ce sort, attirées par le prêcheur seigneur du feu.
+Les créatures convoquées utilisent tous les moyens qu'elles possèdent pour aider le jeteur de sorts. Elles restent tant que le combat n'est pas terminé, que la mission n'est pas accomplie, que le jeteur de sorts n'est pas en sécurité, que ce dernier ne les a pas renvoyés, etc, ou jusqu'à expiration du sort.~
+@2541 = ~Molosse satanique~
+@2542 = ~Pyrophore~
+@2543 = ~Yuan-Ti Pyromancien~
+@25431 = ~Séquenceur mineur : Flou & Image miroir~
+@25432 = ~Contingence - Peau de Pierre~
+
+@255 = ~Appel de serviteur des flammes ~
+@256 = ~Appel de serviteur des flammes (Conjuration, Convocation)
+Niveau : 5
+Sphère : conjuration, élémentaire (feu)
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêcheur des flammes de contacter le plan élémentaire du feu pour appeler à son service un élémental de feu, un éfrit ou une salamandre. Le rang ou la puissance de la créature apparaissant est aléatoire :
+Élémental : à 8 dvs, 12 dvs dans 30% des cas.
+Salamandre : supérieure dans 40% des cas.
+Éfrit : noble dans 8% des cas.~
+@25699 = ~Appel de serviteur des flammes (Conjuration, Convocation)
+Niveau : 5
+Sphère : conjuration, élémentaire (feu)
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 6
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au prêcheur des flammes de contacter le plan élémentaire du feu pour appeler à son service une des créatures qui y réside. Il peut convoquer à peu prêt n'importe quelle créature de type élémentaire ou apparenté, mais le rang ou la puissance de la créature apparaissant reste aléatoire :
+Élémental : à 8 dvs, 12 dvs dans 30% des cas, 16 dvs dans 10% des cas.
+Salamandre : supérieure dans 40% des cas, noble dans 15% des cas.
+Éfrit : noble dans 15% des cas.
+Plasme de feu : géant dans 40% des cas.
+Araignée infernale : 15% de chance d'en voir apparaître une deuxième.
+Chauves-souris de feu : spécial : viennent par groupe de 1D6+3 individus.
+Méphits flamboyants : spécial : viennent par groupe de 1D4+2 individus.~
+@2561 = ~Plasme de feu~
+@25619 = ~Nuage incendiaire~
+@2562 = ~Chauve-souris de feu (groupe)~
+@2563 = ~Chauve-souris de feu~
+@2564 = ~Salamandre~
+@2565 = ~Salamandre supérieure~
+@2566 = ~Salamandre noble~
+@2567 = ~Araignée infernale~
+@2569 = ~Méphites flamboyants (groupe)~
+@25691 = ~Méphite flamboyant~
+@25610 = ~Élémental de feu~
+@25611 = ~Efrit~
+@25612 = ~Efrit noble~
+
+@257 = ~Manteau ardent~
+@258 = ~Manteau ardent (Abjuration)
+Niveau : 5
+Sphère : protection, élémentaire (feu)
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le prêcheur des flammes s'entoure d'une aura d'étincelles crépitantes. Cette aura lui donne un bonus de camouflage de +2 à la CA et lui octroi une immunité totale contre tous les feux, d'origine naturelle ou magique.
+De plus, toute créature qu'il touche subit 2D4 point de dégâts de feu, et toute créature qui le touche subit 2D4 dégâts de feu et doit réussir un jet de sauvegarde contre les sort ou prendre feu.
+Une créature qui a pris feu de cette manière subit 2D4 points de dégâts par round pendant encore 1D6 rounds. Ses jets de toucher sont effectué à -2 pendant ce laps de temps.~
+@2581 = ~Manteau ardent (Abjuration)
+Niveau : 5
+Sphère : protection, élémentaire (feu)
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le prêcheur des flammes s'entoure d'une aura d'étincelles crépitantes. Cette aura lui donne un bonus de camouflage de +2 à la CA et lui octroi une immunité totale contre tous les feux, d'origine naturelle ou magique.
+De plus, toute créature qu'il touche subit 2D4+1 point de dégâts de feu, et toute créature qui le touche subit 2D4+1 dégâts de feu et doit réussir un jet de sauvegarde contre les sort ou prendre feu.
+Une créature qui a pris feu de cette manière subit 2D4+1 points de dégâts par round pendant encore 1D6 rounds. Ses jets de toucher sont effectué à -2 pendant ce laps de temps.
+Toutes les occurrences de 2D4+1 points de dégâts de ce sort deviennent 1D8+2 au niveau 30 et 2D4+2 au niveau 40.~
+@2582 = ~Manteau ardent (Abjuration)
+Niveau : 5
+Sphère : protection, élémentaire (feu)
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le prêcheur des flammes s'entoure d'une aura d'étincelles crépitantes. Cette aura lui donne un bonus de camouflage de +2 à la CA et lui octroi une immunité totale contre tous les feux, d'origine naturelle ou magique.
+De plus, toute créature qu'il touche subit 2D4 point de dégâts de feu, et toute créature qui le touche subit 2D4 dégâts de feu et doit réussir un jet de sauvegarde contre les sort à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) ou prendre feu.
+Une créature qui a pris feu de cette manière subit 2D4 points de dégâts par round pendant encore 1D6 rounds. Ses jets de toucher sont effectué à -2 pendant ce laps de temps.~
+@2583 = ~Camouflé~ ~Camouflée~
+
+@259 = ~Marque du feu~
+@2510 = ~Marque du feu (Altération)
+Niveau : 5
+Sphère : charme, élémentaire (feu)
+Portée : champ de vision
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet de réduire à néant la résistance au feu d'un créature qui y serait résistante ou immunisée. Contre une créature qui n'a aucune résistance particulière au feu, il crée une vulnérabilité qui double tous les dommages de feu reçus.
+Deux marques du feu peuvent être cumulées et créer une vulnérabilité sur une cible normalement immunisée. Ce sort est traité comme une malédiction et la cible qui tente d'y résister le fait avec une résistance à la magie considérée comme réduite de 30%.~
+@25101 = ~Marque du feu (Altération)
+Niveau : 5
+Sphère : charme, élémentaire (feu)
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 7
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort permet de réduire à néant la résistance au feu d'un créature qui y serait résistante ou immunisée. Contre une créature qui n'a aucune résistance particulière au feu, il crée une vulnérabilité qui double tous les dommages de feu reçus.
+Deux marques du feu peuvent être cumulées et créer une vulnérabilité sur une cible normalement immunisée. Ce sort est traité comme une malédiction et ne peut pas être annulé par la résistance à la magie de la cible.~
+@25102 = ~Résistance au feu réduite~
+
+@2511 = ~Combustion explosive~
+@2512 = ~Combustion explosive (Évocation, Nécromancie)
+Niveau : 5
+Sphère : nécromancie, élémentaire, feu 
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 6 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
+
+Ce sort embrase brusquement toutes les créatures dans la zone d'effet. La combustion est brève mais très intense, ce qui à pour effet de pulvériser les créatures les plus faibles. Les créatures plus résistantes sont elles, brûlées selon le tableau suivant :
+
+1 ou 2 dvs : Explosion
+3 ou 4 dvs : Explosion, mort si jet réussi
+5 ou 6 dvs : Mort, 8D6 dégâts si jet réussi
+7 ou 8 dvs : 8D6 dégâts, 4D6 si jet réussi
+9 dvs et+: 4D6 dégâts, rien si jet réussi.
+
+Les créatures qui explosent sont pulvérisées et ne laissent pas de cadavre. Elles engendrent une explosion de 8 mètres de rayon qui inflige 4D6 points de dégâts de feu (jet de sauvegarde pour ½) à toutes les créatures dans la zone.
+Les créature qui "meurent" sont réduites en cendre par une explosion moindre, qui s'étend sur 5 mètres et inflige 2D6 point de dégâts du feu (jet de sauvegarde pour ½).
+Les créatures qui échappent à l'explosion subissent des dégâts de feu, comme indiqués dans le tableau précédent.
+Les jets pour minimiser les effets de ce sort sont effectués à -2, -1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème. Les jets pour diviser les dégâts d'explosion ne sont pas minorés, le prêcheur ne les influençant pas.
+Ce sort n'a aucun effet sur les morts-vivants et les créatures issues du froid ou du feu.~
+
+@2513 = ~Pulvérisation~
+@2514 = ~Pulvérisation (Altération)
+Niveau : 5
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : demi-sphére de 6,5 mètres de rayon
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, le sol à l'endroit désigné chauffe jusqu'à son point de rupture avant d'exploser, projetant feu et éclats brûlants sur toutes les créatures proches. Celles-ci subissent un impact par niveau du lanceur, chacun infligeant un 1D4 points de dégâts contondant et 1D2 point de dégâts de feu (maximum 15D4+15D2). Un jet de sauvegarde contre les sorts permet d'éviter la moitié des impacts.
+Le sort ne peux affecter que la pierre,  le bois et la chair réagissant au sort en brûlant sans exploser. Comme il cible un endroit et non des cibles vivantes, la résistance à la magie des victimes du sort ne les protège pas contre celui-ci.~
+@25141 = ~Pulvérisation (Altération)
+Niveau : 5
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : demi-sphére de 6,5 mètres de rayon
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, le sol à l'endroit désigné chauffe jusqu'à son point de rupture avant d'exploser, projetant feu et éclats brûlants sur toutes les créatures proches. Celles-ci subissent 15D4 points de dégâts contondant et 18D2 points de dégâts de feu. (20D2 points au niveau 30, 21D2 au niveau 40). Un jet de sauvegarde contre les souffles permet d'éviter la moitié des impacts.
+Le sort laisse un petit cratère à l'endroit où il a été lancé, et ne peux affecter que la pierre,  le bois et la chair réagissant au sort en brûlant sans exploser. Comme il cible un endroit et non des cibles vivantes, la résistance à la magie des victimes du sort ne les protège pas contre celui-ci.~
+@25142 = ~Pulvérisation (Altération)
+Niveau : 5
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : demi-sphére de 6,5 mètres de rayon
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, le sol à l'endroit désigné chauffe jusqu'à son point de rupture avant d'exploser, projetant feu et éclats brûlants sur toutes les créatures proches. Celles-ci subissent 15D4 points de dégâts contondants et 15D2 points de dégâts de feu. Un jet de sauvegarde contre les souffles à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) permet d'éviter la moitié des impacts.
+Le sort laisse un petit cratère à l'endroit où il a été lancé, et ne peux affecter que la pierre,  le bois et la chair réagissant au sort en brûlant sans exploser. Comme il cible un endroit et non des cibles vivantes, la résistance à la magie des victimes du sort ne les protège pas contre celui-ci.~
+
+@2515 = ~Protection contre le feu de groupe~
+@2516 = ~Protection contre le feu de groupe (Abjuration) 
+Niveau : 5
+Sphère : protection, élémentaire
+Portée : 30 mètres 
+Durée : 3 rounds + 1 round / niveau 
+Temps d'incantation : 5
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : aucun 
+
+Ce sort confère aux membres du groupe du prêcheur une invulnérabilité totale aux feux normaux (torches, braseros, huile enflammée) et une résistance de 80 % aux feux magiques (souffle de dragon, boule de feu, etc.). Le prêcheur peut lancer ce sort sur une zone, auquel cas seul les membres du groupes présents dans la zone seront couverts par le sort, qui ignorera les ennemis.~

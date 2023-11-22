@@ -1,0 +1,120 @@
+@261 = ~Conjuration d'Animaux~
+@262 = ~Conjuration d'Animaux (Conjuration / Convocation)
+Niveau : 6
+Sphère : conjuration
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet de convoquer et de contrôler 1 ou 2 Tshalas. Ces derniers remplacent les ours normalement convoqués par ce sorts, attirés par l'aura du prêcheur seigneur du feu. Si le convocation le demande, ils peuvent lancer les sorts "Délivrance de la malédiction", "Guérison", "Débilité" et "Labyrinthe" une fois par jour, ainsi que "Boule de feu" une fois par tour et à volonté. S'ils ne lancent pas de sorts, ils attaquent furieusement tout ennemi du prêcheur. Il ne peuvent guère rendre d'autres services.~
+@2621 = ~Tshala~
+@2622 = ~Peut de nouveau lancer Boule de feu~
+
+@264 = ~Convocation d'Animaux III (Conjuration, Convocation)
+Niveau : 6
+Sphère : animale, conjuration
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 7
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun 
+
+Le jeteur de sorts peut convoquer jusqu'à 2 créatures ayant 16 dés de vie ou moins. Les créatures ignées ou ayant une affinité avec le feu remplacent les animaux normalement invoquées par ce sort, attirées par le prêcheur seigneur du feu.
+Elles aident le jeteur de sort du mieux de leurs capacités et lui obéissent jusqu'à leur mort ou la fin du sort.~
+@2641 = ~Vase météorique~
+@26411 = ~Le feu absorbé par la vase météorique lui permet de se diviser~
+@2642 = ~Troll du magma~
+@2643 = ~Serpent des cendres~
+@2644 = ~Géant du feu~
+
+@265 = ~Aura de chaleur~
+@266 = ~Aura de chaleur (Évocation)
+Niveau : 6
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 6
+Zone d'effet : 10 mètres de rayon
+Jet de sauvegarde : aucun
+
+Ce sort enveloppe le prêcheur des flammes d'une aura de feu qui ne brûle pas mais dégage une intense chaleur. Celle-ci le protège contre toute source de chaleur extérieure et lui donne 25% de résistance au froid. Elle irradie également dans une large zone autour du personnage.
+Chaque round, toutes les créatures situées à moins de 10 mètres du lanceur de sort subissent 1D4 points de dégâts de feu, +1D6 pour les créatures à moins de 6,5 mètres et +1D8 pour celles à moins de 3 mètres (pour un total de 1D4+1D6+1D8 points de dégâts aux créatures dans la proximité du personnage).~
+
+@267 = ~Détonation~
+@268 = ~Détonation (Évocation)
+Niveau : 6
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 3 mètres de rayon
+Jet de sauvegarde : spécial
+
+Un simple mot et un mouvement de la main suffisent à lancer ce sort, qui crée une brusque explosion à l'endroit désignée. L'explosion est confinée à une très petite zone afin d'en maximaliser l'impact, si bien qu'en plus d'infliger 1D6+1 points de dégâts par niveau du prêcheur (contondants et feu, jet contre les sorts pour ½), les créatures touchées sont étourdies pour 1D4 rounds si elles ratent un jet de sauvegarde contre les souffles et assourdies pour 1D6 rounds si elles ratent ce même jet à -2.~
+@2682 = ~Détonation (Évocation)
+Niveau : 6
+Sphère : élémentaire (feu)
+Portée : champ de vision
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 3 mètres de rayon
+Jet de sauvegarde : spécial
+
+Un simple mot et un un mouvement de la main suffisent à lancer ce sort, qui crée une brusque explosion à l'endroit désignée. L'explosion est confinée à une très petite zone afin d'en maximaliser l'impact, si bien qu'en plus d'infliger 20D6+20 points de dégâts (contondants et feu, jet contre les sorts à -2 pour ½), les créatures touchées sont étourdies pour 1D4 rounds si elles ratent un jet de sauvegarde contre les souffles à -2 et assourdies pour 1D6 rounds si elles ratent ce même jet à -4.
+Tous les jets contre ce sort sont assortis d'un malus de -1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème.~
+
+@269 = ~Méphites explosifs~
+@2610 = ~Méphites explosifs (Conjuration / Convocation)
+Niveau : 6
+Sphère : charme, conjuration, élémentaire (feu)
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 8
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort agit en deux temps. Premièrement, il convoque 1D4+1 méphites incendiaires soumis à l'entière volonté du prêcheur. Ensuite de quoi il les charges en énergie explosive. Chaque méphite ainsi transformé, lorsqu'il meurt, explose en une boule de feu infligeant 6D8 points de dégâts (jet pour ½) à toutes les créatures proches.~
+@26101 = ~Méphite incendiaire explosif~
+@26102 = ~Méphites / quasits pyrokamikazes~
+@26103 = ~Méphites / quasits pyrokamikazes (Conjuration / Convocation)
+Niveau : 6
+Sphère : charme, conjuration, élémentaire (feu)
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 8
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort peut être utilisé de deux façons différentes :
+L'invocation de Méphites Explosifs convoque 1D4+1 méphites incendiaires soumis à l'entière volonté du prêcheur. Ensuite de quoi il les charges en énergie explosive. Chaque méphite ainsi transformé, lorsqu'il meurt, explose en une boule de feu infligeant 6D8 points de dégâts (jet pour ½) à toutes les créatures proches.
+L'invocation de Quasits Kamikazes convoque 1D4+1 quasits soumis à l'entière volonté du prêcheur. Ensuite de quoi il les charges en énergie explosive. Chaque quasit ainsi chargé se comporte comme un kamikaze et se jettera sur le premier ennemi qu'il verra pour détoner en une explosion incluant la charge et sa propre énergie vitale, pour un total de 6D10+12 points de dégâts (jet contre les souffles pour ½) infligés à quiconque se trouve dans la zone de l'explosion.~
+@26104 = ~Quasit kamikaze~
+@26105 = ~Explosion~
+@26106 = ~Quasits kamikazes~
+
+@2611 = ~Boule de feu élémentaire~
+@2612 = ~Boule de feu élémentaire (Convocation) 
+Niveau : 6
+Sphère : élémentaire (feu)
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 6
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½ 
+
+Ce sort ouvre un portail sur le plan élémentaire du feu, d'où jailli une gerbe de magma qui explose en une boule de feu qui inflige 1D8 point de dégâts par niveau du prêcheur (maximum 15D8). Les victimes qui réussissent un jet de sauvegarde contre les sorts ne subissent que la moitié des dégâts.
+Ce sort est particulièrement utile contre les créatures résistantes à la magie car elles ne peuvent pas s'en protéger : le sort ne les cible pas, il ne fait que conjurer un élément naturel.~
+@26121 = ~Boule de feu infernal~
+@26122 = ~Boule de feu infernal (Convocation) 
+Niveau : 6
+Sphère : élémentaire (feu)
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 6
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : ½ 
+
+Ce sort ouvre un portail sur le plan de la Géhenne, d'où jailli une gerbe de magma qui explose en une boule de feu qui inflige 15D8 point de dégâts. Les victimes qui réussissent un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) ne subissent que la moitié des dégâts.
+Ce sort est particulièrement utile contre les créatures résistantes à la magie car elles ne peuvent pas s'en protéger : le sort ne les cible pas, il ne fait que conjurer un élément naturel.~

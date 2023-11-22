@@ -1,0 +1,423 @@
+@722 = ~Ghost Armor (Conjuration/Summoning)
+Level: 2
+Range: 0
+Duration: 7 rounds + 1 round/level
+Casting Time: 3
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates a magical field of force with the strength of plate armor (AC 3). It is cumulative with Dexterity effects and with the shield bonus. The Ghost Armor spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. At a high level the warlord can improve this spell and create an armor that gives an AC of 2 at level 10, of 1 at level 17 and of 0 at level 24. It lasts until dispelled or until the duration runs out.~
+@7221 = ~Ghost Armor (Conjuration/Summoning)
+Level: 2
+Range: 0
+Duration: 27 rounds
+Casting Time: 1
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates a magical field of force with the strength of plate armor (AC 0). It is cumulative with Dexterity effects and with the shield bonus. The Ghost Armor spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. It lasts until dispelled or until the duration runs out.~
+@7222 = ~Ghost Armor (Conjuration/Summoning)
+Level: 2
+Range: visual range of the caster
+Duration: 27 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates a magical field of force around the recipient with the strength of plate armor (AC 1). It is cumulative with Dexterity effects and with the shield bonus. The Ghost Armor spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. At level 24 the warlord can improve this spell and create an armor that gives an AC of 0. It lasts until dispelled or until the duration runs out.~
+@72221 = ~Ghost Armor (Conjuration/Summoning)
+Level: 2
+Range: visual range of the caster
+Duration: 27 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates a magical field of force around the recipient with the strength of plate armor (AC 1). It is cumulative with Dexterity effects and with the shield bonus. The Ghost Armor spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. At level 24 the warlord can improve this spell and create an armor that gives an AC of 0. It lasts until dispelled or until the duration runs out.
+
+All allies within 5 meters from the target will benefit of the softened effects of the spell: Armor Class of 2 for 18 rounds (Armor Class of 1 at level 24 of warlord).~
+
+@723 = ~Good Luck~
+@724 = ~Good Luck (Enchantment/Charm)
+Level: 2
+Range: 0
+Duration: 2 rounds/level
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who seeks to have a little luck can cast this spell. It slightly influences the course of events in favor of the spellcaster. Good luck can show in several ways, and help depends upon the level of caster.
+Every round, a D6 determines how luck smiles to Warlord:
+1: Nothing
+2: Adverse blunder: bonus to AC
+3: Luck: bonus to saving throws
+4: Helpful observation: bonus to hit
+5: Exceptional Strike: bonus to damage
+6: Chance: additional attack and bonus to hit or damage.
+
+The applied bonus is equal to +1 every 3 levels of the caster (maximum +5 at level 15).~
+@7241 = ~Nothing~
+@7242 = ~Improved Defense~
+@7243 = ~Improved Luck~
+@7244 = ~Improved Accuracy~
+@7245 = ~Improved Strike~
+@7246 = ~Chance~
+@7247 = ~Good Luck (Enchantment/Charm)
+Level: 2
+Range: 0
+Duration: 4 turns
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+The warlord who seeks to have a little luck can cast this spell. It slightly influences the course of events in favor of the spellcaster. Good luck can show in several ways, and help grants a +5 bonus.
+Every round, a D6 determines how luck smiles to Warlord:
+1: Nothing
+2: Adverse blunder: bonus to AC
+3: Luck: bonus to saving throws
+4: Helpful observation: bonus to hit
+5: Exceptional Strike: bonus to damage
+6: Chance: additional attack and bonus to hit or damage.~
+@7248 = ~Good Luck (Enchantment/Charm)
+Level: 2
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord who seeks to have or give a little luck can cast this spell. It slightly influences the course of events in favor of the recipient. Good luck can show in several ways, and help grants a +5 bonus.
+Every round, a D6 determines how luck smiles to the recipient:
+1: Nothing
+2: Adverse blunder: bonus to AC
+3: Luck: bonus to saving throws
+4: Helpful observation: bonus to hit
+5: Exceptional Strike: bonus to damage
+6: Chance: additional attack and bonus to hit or damage.~
+@72481 = ~Good Luck (Enchantment/Charm)
+Level: 2
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord who seeks to have or give a little luck can cast this spell. It slightly influences the course of events in favor of the recipient. Good luck can show in several ways, and help grants a +5 bonus.
+Every round, a D6 determines how luck smiles to the recipient:
+1: Nothing
+2: Adverse blunder: bonus to AC
+3: Luck: bonus to saving throws
+4: Helpful observation: bonus to hit
+5: Exceptional Strike: bonus to damage
+6: Chance: additional attack and bonus to hit or damage.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: they receive aid calculated with a +3 bonus for 27 rounds.~
+
+@725 = ~Static Shock~
+@726 = ~Static Shock (Alteration)
+Level: 2
+Range: 0
+Duration: instantaneous
+Casting Time: 2
+Area of Effect: 2.5-meters radius
+Saving Throw: none
+
+The static shock spell uses electricity naturally present in the air to hurt the opponents of the mage. When the warlord casts this spell, any static electricity around him focuses on the nearby creatures and electrocutes them, inflicting them 1D8 damage every 2 levels of the caster (maximum 5D8, saving throw to halve).~
+@7261 = ~Static Shock (Alteration)
+Level: 2
+Range: 0
+Duration: instantaneous
+Casting Time: 1
+Area of Effect: 2.5-meters radius
+Saving Throw: none
+
+The static shock spell uses electricity naturally present in the air to hurt the opponents of the mage. When the warlord casts this spell, any static electricity around him focuses on the nearby creatures and electrocutes them, inflicting them 5D8 damage points (a saving throw to halve).~
+
+@727 = ~Mirror Image~
+@728 = ~Mirror Image (Illusion/Phantasm)
+Level: 3
+Range: 0
+Duration: 5 round + 1 round/level
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell makes appear several duplicates of the mage. The number of copies that appear depends upon the level:
+Level 3 to 5  : 1D4
+Level 6 to 8  : 1D6
+Level 9 to 11 : 1D4+2
+Level 12 to 14: 1D6+2
+Level 15 to 17: 1D4+4
+Level 18+     : 1D6+4
+Those image do exactly what the wizard does. Since the spell causes a blurring and slight distortion when it is cast, it is impossible for opponents to be certain which are the illusions and which is the actual wizard. When an image is struck by a melee or missile attack, magical or otherwise, it disappears, but any other existing images remain intact until they are struck. However, it is important to note that this will not protect the caster against every attack as it is possible for an enemy to choose the real caster amongst all the images.~
+@7281 = ~Mirror Image (Illusion/Phantasm)
+Level: 3
+Range: 0
+Duration: 25 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell makes appear several duplicates of the mage. The number of copies that appear is random: 1D6 +4.
+Those image do exactly what the wizard does. Since the spell causes a blurring and slight distortion when it is cast, it is impossible for opponents to be certain which are the illusions and which is the actual wizard. When an image is struck by a melee or missile attack, magical or otherwise, it disappears, but any other existing images remain intact until they are struck. However, it is important to note that this will not protect the caster against every attack as it is possible for an enemy to choose the real caster amongst all the images.~
+@7282 = ~Mirror Image (Illusion/Phantasm)
+Level: 3
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell makes appear several duplicates of the recipient. The number of copies that appear is random: 1D6 +4.
+Those image do exactly what the recipient does. Since the spell causes a blurring and slight distortion when it is cast, it is impossible for opponents to be certain which are the illusions and which is the actual recipient. When an image is struck by a melee or missile attack, magical or otherwise, it disappears, but any other existing images remain intact until they are struck. However, it is important to note that this will not protect the recipient against every attack as it is possible for an enemy to choose the real recipient amongst all the images.~
+@72821 = ~Mirror Image (Illusion/Phantasm)
+Level: 3
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell makes appear several duplicates of the recipient. The number of copies that appear is random: 1D6 +4.
+Those image do exactly what the recipient does. Since the spell causes a blurring and slight distortion when it is cast, it is impossible for opponents to be certain which are the illusions and which is the actual recipient. When an image is struck by a melee or missile attack, magical or otherwise, it disappears, but any other existing images remain intact until they are struck. However, it is important to note that this will not protect the recipient against every attack as it is possible for an enemy to choose the real recipient amongst all the images.
+
+All allies within 5 meters from the target will also benefit of softened effects of the spell: they will be protected by 1D6 +2 copies for 17 rounds.~
+
+@7210 = ~Blur (Illusion/Phantasm)
+Level: 2
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 2
+Area of Effect: the caster
+Saving Throw: none
+
+This spell, discovered by the warlord looking for invisibility, gives a reduced but still useful result.
+When a blur spell is cast, the warlord causes the outline of his form to become blurred, shifting and wavering. This distortion causes all missile and melee combat attacks against the caster to be made with -2 penalties. The warlord also gains a +1 to all of his saving throws.
+From level 16 the spell becomes more powerful, making his form even more indistinct: -3 penalty to attacks of opponets and +1 to all his saving throws, additional +1 to saving throws vs. spells.~
+@72101 = ~Blur (Illusion/Phantasm)
+Level: 2
+Range: 0
+Duration: 25 rounds
+Casting Time: 1
+Area of Effect: the caster
+Saving Throw: none
+
+This spell, discovered by the warlord looking for invisibility, gives a reduced but still useful result.
+When a blur spell is cast, the warlord causes the outline of his form to become blurred, shifting and wavering. This distortion causes all missile and melee combat attacks against the caster to be made with -3 penalties. The warlord also gains a +1 to all of his saving throws, additional +1 to saving throws vs. spells.~
+@72102 = ~Blur (Illusion/Phantasm)
+Level: 2
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell, discovered by the warlord looking for invisibility, gives a reduced but still useful result.
+When a blur spell is cast, the warlord causes the outline of the recipient's form to become blurred, shifting and wavering. This distortion causes all missile and melee combat attacks against the recipient to be made with -3 penalties. The recipient also gains a +1 to all of his saving throws, additional +1 to saving throws vs. spells.~
+@721021 = ~Blur (Illusion/Phantasm)
+Level: 2
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell, discovered by the warlord looking for invisibility, gives a reduced but still useful result.
+When a blur spell is cast, the warlord causes the outline of the recipient's form to become blurred, shifting and wavering. This distortion causes all missile and melee combat attacks against the recipient to be made with -3 penalties. The recipient also gains a +1 to all of his saving throws, additional +1 to saving throws vs. spells.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: +2 bonus to AC and +1 to saving throws vs. spells for 17 rounds.~
+
+@7211 = ~Colossus Strength~
+@7212 = ~Colossus Strength (Alteration)
+Level: 2
+Range: 0
+Duration: 3 rounds/2 levels
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell is used to improve the physical strength of the warlord. When this spell is cast, the mage gains a champion's strength, modified by a dice roll. The cast die depends upon the level of the caster, according to the following table:
+Level 3 to 5  : 1D2
+Level 6 to 9  : 1D4
+Level 10 to 13: 1D6
+Level 14 to 17: 1D4 +2
+Level 18 and +: 1D6 +2
+
+The result of the dice determines the strength given to the mage:
+1: 17 strength
+2: 18 strength
+3: 18/33 strength
+4: 18/66 strength
+5: 18/99 strength
+6: 19 strength (hill giant)
+7: 20 strength (stone giant)
+8: 21 strength (cold giant)~
+@72121 = ~Colossus Strength (Alteration)
+Level: 2
+Range: 0
+Duration: 3 turns
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell is used to improve the physical strength of the warlord. When this spell is cast, the mage gains a champion's strength, modified by a dice roll of D6.
+
+The result of the dice determines the strength given to the mage:
+1: 18/33 strength
+2: 18/66 strength
+3: 18/99 strength
+4: 19 strength (hill giant)
+5: 20 strength (stone giant)
+6: 21 strength (cold giant)~
+@72122 = ~Colossus Strength (Alteration)
+Level: 2
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell is used to improve the physical strength of the recipient. When this spell is cast, the recipient gains a champion's strength, modified by a dice roll of D6.
+
+The result of the dice determines the strength given to the recipient:
+1: 18/33 strength
+2: 18/66 strength
+3: 18/99 strength
+4: 19 strength (hill giant)
+5: 20 strength (stone giant)
+6: 21 strength (cold giant)~
+@721221 = ~Colossus Strength (Alteration)
+Level: 2
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell is used to improve the physical strength of the recipient. When this spell is cast, the recipient gains a champion's strength, modified by a dice roll of D6 +2.
+
+The result of the dice determines the strength given to the recipient:
+1: 17 strength
+2: 18 strength
+3: 18/33 strength
+4: 18/66 strength
+5: 18/99 strength
+6: 19 strength (hill giant)
+7: 20 strength (stone giant)
+8: 21 strength (cold giant)
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: strength bonus determined by 1D6 for 2 turns.~
+
+@7213 = ~Instinctive Strike~
+@7214 = ~Instinctive Strike (Divination)
+Level: 2
+Range: 0
+Duration: special
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives the warlord, for a moment, an innate intuition to find the breach in opponent's defence. During the next two rounds following the casting, he gets a +8 bonus to attack and +2 to chance to inflict a critical hit. The power of the spell increases by experience of the caster, the attack bonus becomes +10 at level 11, and a third round of duration of the spell is added at level 18.~
+@72141 = ~Instinctive Strike (Divination)
+Level: 2
+Range: 0
+Duration: 3 rounds
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell gives the warlord, for a moment, an innate intuition to find the breach in opponent's defence. During the next three rounds following the casting, he gets a +10 bonus to attack and +2 to chance to inflict a critical hit.~
+@72142 = ~Instinctive Strike (Divination)
+Level: 2
+Range: visual range of the caster
+Duration: 3 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient, for a moment, an innate intuition to find the breach in opponent's defence. During the next three rounds following the casting, he gets a +10 bonus to attack and +2 to chance to inflict a critical hit.~
+@721421 = ~Instinctive Strike (Divination)
+Level: 2
+Range: visual range of the caster
+Duration: 3 rounds
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the recipient, for a moment, an innate intuition to find the breach in opponent's defence. During the next three rounds following the casting, he gets a +10 bonus to attack and +2 to chance to inflict a critical hit.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: +8 to attack and +2 to chance to inflict critical hits, for 2 rounds.~
+
+@7215 = ~Dispel Magic~
+@7216 = ~Dispel Magic (Abjuration)
+Level: 2
+Range: 0
+Duration: special
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to get rid of all magic effects that affect him. The spell can not be selective, and dissipates the effects created by spells, abilities, items, potions, etc... without distinction, whether they are harmful or not. So it's a spell to use wisely, because it can ruin a strategy of combat readiness.
+When he castes Dispel Magic, the warlord has a base chance of successfully dispelling of 50%. For every level that the warlord of the dispel magic is above the original caster, his chance of success increases by 5%. For every level that the caster of dispel magic is below the original caster, his chance of success decreases by 10%. Thus, if he is of level 10 and tries to dispel a slow cast by a mage of level 12, he will have only 30% chance of success. On the opposite, if the mage who cast slow on warlord is of level 6, the latter will have a 70% chance to dispel the spell. In any case, there is always a 1% chance of success or failure of dispelling.~
+@72161 = ~Dispel Magic (Abjuration)
+Level: 2
+Range: visual range of the caster
+Duration: special
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the warlord to get rid of all magic effects by which the target is affected. The spell can not be selective, and dissipates the effects created by spells, abilities, items, potions, etc... without distinction, whether they are harmful or not. So it's a spell to use wisely, because it can ruin a strategy of combat readiness.
+When he castes Dispel Magic, the warlord has a base chance of successfully dispelling of 50%. For every level that the warlord of the dispel magic is above the target, his chance of success increases by 5%. For every level that the caster of dispel magic is below the target, his chance of success decreases by 10%. Thus, if he is of level 20 and tries to dispel a slow cast by a mage of level 16, he will have 70% chance of success. On the opposite, if the mage who cast slow on warlord is of level 20, the latter will only have a 50% chance to dispel the spell. In any case, there is always a 1% chance of success or failure of dispelling.~
+@721611 = ~Dispel Magic (Abjuration)
+Level: 2
+Range: visual range of the caster
+Duration: special
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the warlord to get rid of all magic effects by which the target is affected. The spell can not be selective, and dissipates the effects created by spells, abilities, items, potions, etc... without distinction, whether they are harmful or not. So it's a spell to use wisely, because it can ruin a strategy of combat readiness.
+When he castes Dispel Magic, the warlord has a base chance of successfully dispelling of 50%. For every level that the warlord of the dispel magic is above the target, his chance of success increases by 5%. For every level that the caster of dispel magic is below the target, his chance of success decreases by 10%. Thus, if he is of level 20 and tries to dispel a slow cast by a mage of level 16, he will have 70% chance of success. On the opposite, if the mage who cast slow on warlord is of level 20, the latter will only have a 50% chance to dispel the spell. In any case, there is always a 1% chance of success or failure of dispelling.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: dispelling as if the warlord was of level 13.~
+
+@7217 = ~Cat's Grace~
+@7218 = ~Cat's Grace (Alteration)
+Level: 2
+Range: 0
+Duration: 2 rounds/level
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+Inspired by the keen senses of cats, this spell gives the warlord an overdeveloped instinct, which helps him to quickly react in many situations. His senses sharpened by this spells gives him a +1 bonus to dexterity every 5 levels (max +4), +1 to saving throws vs. breath and wands every 4 levels (max +5) and +1 to speed factor every 3 levels (max +6).~
+@72181 = ~Cat's Grace (Alteration)
+Level: 2
+Range: 0
+Duration: 4 turns
+Casting Time: 1
+Area of Effect: caster
+Saving Throw: none
+
+Inspired by the keen senses of cats, this spell gives the warlord an overdeveloped instinct, which helps him to quickly react in many situations. His senses sharpened by this spells gives him a +4 bonus to dexterity, +5 to saving throws vs. breath and wands and +6 to speed factor.~
+@72182 = ~Cat's Grace (Alteration)
+Level: 2
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+Inspired by the keen senses of cats, this spell gives the recipient an overdeveloped instinct, which helps him to quickly react in many situations. His senses sharpened by this spells gives him a +4 bonus to dexterity, +5 to saving throws vs. breath and wands and +6 to speed factor.~
+@721821 = ~Cat's Grace (Alteration)
+Level: 2
+Range: visual range of the caster
+Duration: 4 turns
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: none
+
+Inspired by the keen senses of cats, this spell gives the recipient an overdeveloped instinct, which helps him to quickly react in many situations. His senses sharpened by this spells gives him a +4 bonus to dexterity, +5 to saving throws vs. breath and wands and +6 to speed factor.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: +2 to dexterity, +3 to saving throws vs. breath and wants and +4 to speed factor for 26 rounds.~

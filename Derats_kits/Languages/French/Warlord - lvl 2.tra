@@ -1,0 +1,423 @@
+@722 = ~Armure fantomatique (Évocation)
+Niveau : 2
+Portée : 0
+Durée : 7 rounds + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée une armure faite de pure énergie, qui peut remplacer toute ou partie d'une armure endommagée. L'armure fantomatique protège comme une armure de plates et confère au seigneur de guerre une CA de 3. Elle peut être cumulée avec la Dextérité et le bonus de bouclier, n'empêche pas de bouger, ne pèse rien et n'encombre pas le bénéficiaire. A haut niveau le seigneur de guerre de guerre peut améliorer ce sort et créer une armure qui confère une CA de 2 au niveau 10, de 1 au niveau 17 et de 0 au niveau 24. L'armure ainsi crée dure jusqu'à ce que quelqu'un dissipe le sort ou jusqu'à expiration de sa durée normale.~
+@7221 = ~Armure fantomatique (Évocation)
+Niveau : 2
+Portée : 0
+Durée : 27 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée une armure faite de pure énergie, qui peut remplacer toute ou partie d'une armure endommagée. L'armure fantomatique protège comme une armure de plates et confère au seigneur de guerre une CA de 0. Elle peut être cumulée avec la Dextérité et le bonus de bouclier, n'empêche pas de bouger, ne pèse rien et n'encombre pas le bénéficiaire. L'armure ainsi crée dure jusqu'à ce que quelqu'un dissipe le sort ou jusqu'à expiration de sa durée normale.~
+@7222 = ~Armure fantomatique (Évocation)
+Niveau : 2
+Portée : champ de vision
+Durée : 27 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée une armure faite de pure énergie, qui peut remplacer toute ou partie d'une armure endommagée. L'armure fantomatique protège comme une armure de plates et confère à la cible une CA de 1. Elle peut être cumulée avec la Dextérité et le bonus de bouclier, n'empêche pas de bouger, ne pèse rien et n'encombre pas le bénéficiaire. Au niveau 24 le seigneur de guerre de guerre peut améliorer ce sort et créer une armure qui confère une CA de 0. L'armure ainsi crée dure jusqu'à ce que quelqu'un dissipe le sort ou jusqu'à expiration de sa durée normale.~
+@72221 = ~Armure fantomatique (Évocation)
+Niveau : 2
+Portée : champ de vision
+Durée : 27 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée une armure faite de pure énergie, qui peut remplacer toute ou partie d'une armure endommagée. L'armure fantomatique protège comme une armure de plates et confère à la cible une CA de 1. Elle peut être cumulée avec la Dextérité et le bonus de bouclier, n'empêche pas de bouger, ne pèse rien et n'encombre pas le bénéficiaire. Au niveau 24 le seigneur de guerre de guerre peut améliorer ce sort et créer une armure qui confère une CA de 0. L'armure ainsi crée dure jusqu'à ce que quelqu'un dissipe le sort ou jusqu'à expiration de sa durée normale.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : CA de 2 pendant 18 rounds (CA de 1 au niveau 24 du seigneur de guerre).~
+
+@723 = ~Bonne fortune~
+@724 = ~Bonne fortune (Enchantement)
+Niveau : 2
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui cherche à avoir un peu de chance peut lancer ce sort. Il influence très légèrement le cours des événements en faveur du lanceur de sort. La bonne fortune peut se révéler de multiples façons, et l'aide apportée dépend du niveau du lanceur.
+Chaque round, un D6 détermine comment la chance sourie au seigneur de guerre :
+1 : Rien
+2 : Maladresse adverse : bonus à la CA
+3 : Chance : bonus aux jets de sauvegarde
+4 : Observation utile : bonus au toucher
+5 : Frappe exceptionnelle : bonus aux dégâts
+6 : Opportunité : une attaque supplémentaire et bonus au toucher ou aux dégâts.
+
+Le bonus appliqué est égal à +1 par 3 niveaux du lanceur (maximum + 5 au niveau 15)~
+@7241 = ~Rien~
+@7242 = ~Défense augmentée~
+@7243 = ~Chance augmentée~
+@7244 = ~Précision augmentée~
+@7245 = ~Frappe augmentée~
+@7246 = ~Opportunité~
+@7247 = ~Bonne fortune (Enchantement)
+Niveau : 2
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui cherche à avoir un peu de chance peut lancer ce sort. Il influence très légèrement le cours des événements en faveur du lanceur de sort. La bonne fortune peut se révéler de multiples façons, et l'aide apportée offre un bonus de +5.
+Chaque round, un D6 détermine comment la chance sourit au seigneur de guerre :
+1 : Rien
+2 : Maladresse adverse : bonus à la CA
+3 : Chance : bonus aux jets de sauvegarde
+4 : Observation utile : bonus au toucher
+5 : Frappe exceptionnelle : bonus aux dégâts
+6 : Opportunité : une attaque supplémentaire et bonus au toucher ou aux dégâts.~
+@7248 = ~Bonne fortune (Enchantement)
+Niveau : 2
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui cherche à avoir ou donner un peu de chance peut lancer ce sort. Il influence très légèrement le cours des événements en faveur de la cible. La bonne fortune peut se révéler de multiples façons, et l'aide apportée offre un bonus de +5.
+Chaque round, un D6 détermine comment la chance sourit à la cible :
+1 : Rien
+2 : Maladresse adverse : bonus à la CA
+3 : Chance : bonus aux jets de sauvegarde
+4 : Observation utile : bonus au toucher
+5 : Frappe exceptionnelle : bonus aux dégâts
+6 : Opportunité : une attaque supplémentaire et bonus au toucher ou aux dégâts.~
+@72481 = ~Bonne fortune (Enchantement)
+Niveau : 2
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui cherche à avoir ou donner un peu de chance peut lancer ce sort. Il influence très légèrement le cours des événements en faveur de la cible. La bonne fortune peut se révéler de multiples façons, et l'aide apportée offre un bonus de +5.
+Chaque round, un D6 détermine comment la chance sourit à la cible :
+1 : Rien
+2 : Maladresse adverse : bonus à la CA
+3 : Chance : bonus aux jets de sauvegarde
+4 : Observation utile : bonus au toucher
+5 : Frappe exceptionnelle : bonus aux dégâts
+6 : Opportunité : une attaque supplémentaire et bonus au toucher ou aux dégâts.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils reçoivent une aide calculée avec un bonus de +3 pendant 27 rounds.~
+
+@725 = ~Choc statique~
+@726 = ~Choc statique (Altération)
+Niveau : 2
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 2
+Zone d'effet : rayon de 2,5 mètres
+Jet de sauvegarde : aucun
+
+Le sort de choc statique utilise l'électricité naturellement présente dans l'air pour blesser les opposants du magicien. Lorsque le seigneur de guerre lance ce sort, toute l'électricité statique présente autour de lui se concentre sur les créatures proches et les électrocute, ce qui leur occasionne 1D8 points de dégâts par deux niveaux du lanceur (maximum 5D8, jet de sauvegarde pour réduire de moitié).~
+@7261 = ~Choc statique (Altération)
+Niveau : 2
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 2,5 mètres
+Jet de sauvegarde : aucun
+
+Le sort de choc statique utilise l'électricité naturellement présente dans l'air pour blesser les opposants du magicien. Lorsque le seigneur de guerre lance ce sort, toute l'électricité statique présente autour de lui se concentre sur les créatures proches et les électrocute, ce qui leur occasionne 5D8 points de dégâts (jet de sauvegarde pour réduire de moitié).~
+
+@727 = ~Copies illusoires~
+@728 = ~Copies illusoires (Illusion) 
+Niveau : 3
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître plusieurs copies illusoires du magicien. Le nombre de copies qui apparaissent dépend de son niveau :
+niveau 3 à 5 : 1D4
+niveau 6 à 8 : 1D6
+niveau 9 à 11 : 1D4+2
+niveau 12 à 14 : 1D6+2
+niveau 15 à 17 : 1D4+4
+niveau 18 et + : 1D6+4
+Ces répliques agissent exactement de la même façon que le magicien. Comme le sort provoque une légère distorsion visuelle, les ennemis du jeteur de sorts ne peuvent l'identifier parmi toutes les silhouettes. Lorsqu'un sosie est touché dans un combat de mêlée ou de projectiles (magiques ou non), il disparaît; mais les autres restent jusqu'à ce qu'ils soient frappés à leur tour. Il est important de noter que le lanceur du sort n'est pas protégé de toutes les attaques, l'ennemi pouvant très bien le viser parmi ses multiples images.~
+@7281 = ~Copies illusoires (Illusion) 
+Niveau : 3
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître plusieurs copies illusoires du magicien. Le nombre de copies qui apparaissent est aléatoire : 1D6+4.
+Ces répliques agissent exactement de la même façon que le magicien. Comme le sort provoque une légère distorsion visuelle, les ennemis du jeteur de sorts ne peuvent l'identifier parmi toutes les silhouettes. Lorsqu'un sosie est touché dans un combat de mêlée ou de projectiles (magiques ou non), il disparaît; mais les autres restent jusqu'à ce qu'ils soient frappés à leur tour. Il est important de noter que le lanceur du sort n'est pas protégé de toutes les attaques, l'ennemi pouvant très bien le viser parmi ses multiples images.~
+@7282 = ~Copies illusoires (Illusion) 
+Niveau : 3
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître plusieurs copies illusoires de la cible. Le nombre de copies qui apparaissent est aléatoire : 1D6+4.
+Ces répliques agissent exactement de la même façon que le sujet copié. Comme le sort provoque une légère distorsion visuelle, ses ennemis ne peuvent pas l'identifier parmi toutes les silhouettes. Lorsqu'un sosie est touché dans un combat de mêlée ou de projectiles (magiques ou non), il disparaît; mais les autres restent jusqu'à ce qu'ils soient frappés à leur tour. Il est important de noter que le bénéficiaire du sort n'est pas protégé de toutes les attaques, l'ennemi pouvant très bien le viser parmi ses multiples images.~
+@72821 = ~Copies illusoires (Illusion) 
+Niveau : 3
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 3
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort fait apparaître plusieurs copies illusoires de la cible. Le nombre de copies qui apparaissent est aléatoire : 1D6+4.
+Ces répliques agissent exactement de la même façon que le sujet copié. Comme le sort provoque une légère distorsion visuelle, ses ennemis ne peuvent pas l'identifier parmi toutes les silhouettes. Lorsqu'un sosie est touché dans un combat de mêlée ou de projectiles (magiques ou non), il disparaît; mais les autres restent jusqu'à ce qu'ils soient frappés à leur tour. Il est important de noter que le bénéficiaire du sort n'est pas protégé de toutes les attaques, l'ennemi pouvant très bien le viser parmi ses multiples images.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils sont protégés par 1D6+2 copies pendant 17 rounds.~
+
+@7210 = ~Flou (Illusion) 
+Niveau : 2
+Portée : 0
+Durée : 5 rounds + 1 round /niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort, découvert par le seigneur de guerre en cherchant l'invisibilité, donne un résultat mitigé mais utile tout de même.
+Lorsque qu'il lance ce sort, sa silhouette devient floue, se transforme et vacille. Les attaques de projectiles et de mêlée qui le visent écopent alors d'un malus de -2. Il reçoit également un bonus de +1 à ses jets de sauvegarde contre les sorts.
+A partir du niveau 16 le sort devient plus puissant, rendant sa silhouette encore plus indistincte : malus de -3 à l'attaque de ses opposant et bonus de +1 à tous ses jets de sauvegarde, +1 supplémentaire au jet de sauvegarde contre les sorts.~
+@72101 = ~Flou (Illusion) 
+Niveau : 2
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort, découvert par le seigneur de guerre en cherchant l'invisibilité, donne un résultat mitigé mais utile tout de même.
+Lorsque qu'il lance ce sort, sa silhouette devient floue, se transforme et vacille. Les attaques de projectiles et de mêlée qui le visent écopent alors d'un malus de -3. Il reçoit également un bonus de +1 à tous ses jets de sauvegarde, +1 supplémentaire au jet de sauvegarde contre les sorts.~
+@72102 = ~Flou (Illusion) 
+Niveau : 2
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort, découvert par le seigneur de guerre en cherchant l'invisibilité, donne un résultat mitigé mais utile tout de même.
+Lorsque qu'il lance ce sort, la silhouette de la cible devient floue, se transforme et vacille. Les attaques de projectiles et de mêlée qui la visent écopent alors d'un malus de -3. Elle reçoit également un bonus de +1 à tous ses jets de sauvegarde, +1 supplémentaire au jet de sauvegarde contre les sorts.~
+@721021 = ~Flou (Illusion) 
+Niveau : 2
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort, découvert par le seigneur de guerre en cherchant l'invisibilité, donne un résultat mitigé mais utile tout de même.
+Lorsque qu'il lance ce sort, la silhouette de la cible devient floue, se transforme et vacille. Les attaques de projectiles et de mêlée qui la visent écopent alors d'un malus de -3. Elle reçoit également un bonus de +1 à tous ses jets de sauvegarde, +1 supplémentaire au jet de sauvegarde contre les sorts.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : bonus de +2 à la CA et +1 au jet de sauvegarde contre les sorts pendant 17 rounds.~
+
+@7211 = ~Force de colosse~
+@7212 = ~Force de colosse (Altération)
+Niveau : 2
+Portée : 0
+Durée : 3 rounds / 2 niveaux
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort est utilisé pour améliorer la puissance physique du seigneur de guerre. Lorsque le sort est lancé, le magicien gagne la force d'un champion de lutte, modifiée par un jet de dé. Le dé jeté dépend du niveau du lanceur, suivant le tableau suivant :
+Niveau 3 à 5 : 1D2
+Niveau 6 à 9 : 1D4
+Niveau 10 à 13 : 1D6
+Niveau 14 à 17 : 1D4+2
+Niveau 18 et + : 1D6+2
+
+Le résultat sur le dé détermine la force donnée au magicien :
+1 : force de 17
+2 : force de 18
+3 : force de 18/33
+4 : force de 18/66
+5 : force de 18/99
+6 : force de 19 (géant des collines)
+7 : force de 20 (géant des pierres)
+8 : force de 21 (géant du froid)~
+@72121 = ~Force de colosse (Altération)
+Niveau : 2
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort est utilisé pour améliorer la puissance physique du seigneur de guerre. Lorsque le sort est lancé, le magicien gagne la force d'un champion de lutte, modifiée par un jet d'un D6.
+
+Le résultat sur le dé détermine la force donnée au magicien :
+1 : force de 18/33
+2 : force de 18/66
+3 : force de 18/99
+4 : force de 19 (géant des collines)
+5 : force de 20 (géant des pierres)
+6 : force de 21 (géant du froid)~
+@72122 = ~Force de colosse (Altération)
+Niveau : 2
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort est utilisé pour améliorer la puissance physique de la cible. Lorsque le sort est lancé, le bénéficiaire gagne la force d'un champion de lutte, modifiée par un jet d'un D6.
+
+Le résultat sur le dé détermine la force donnée :
+1 : force de 18/33
+2 : force de 18/66
+3 : force de 18/99
+4 : force de 19 (géant des collines)
+5 : force de 20 (géant des pierres)
+6 : force de 21 (géant du froid)~
+@721221 = ~Force de colosse (Altération)
+Niveau : 2
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort est utilisé pour améliorer la puissance physique de la cible. Lorsque le sort est lancé, le bénéficiaire gagne la force d'un champion de lutte, modifiée par un jet d'un D6+2.
+
+Le résultat sur le dé détermine la force donnée :
+1 : force de 17
+2 : force de 18
+3 : force de 18/33
+4 : force de 18/66
+5 : force de 18/99
+6 : force de 19 (géant des collines)
+7 : force de 20 (géant des pierres)
+8 : force de 21 (géant du froid)
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : bonus de force déterminé par 1D6 pendant 2 tours.~
+
+@7213 = ~Frappe instinctive~
+@7214 = ~Frappe instinctive (Divination)
+Niveau : 2
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre, l'espace d'un instant, l'intuition innée pour trouver la faille dans la défense adverse. Pendant les deux rounds suivant l'incantation, il bénéficie d'un bonus de +8 à l'attaque et +2 aux chances de critique. La puissance du sort augmentant avec l'expérience du lanceur, le bonus à l'attaque devient +10 au niveau 11, et un troisième round d’efficacité est rajouté au niveau 18.~
+@72141 = ~Frappe instinctive (Divination)
+Niveau : 2
+Portée : 0
+Durée : 3 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort donne au seigneur de guerre, l'espace d'un instant, l'intuition innée pour trouver la faille dans la défense adverse. Pendant les trois rounds suivant l'incantation, il bénéficie d'un bonus de +10 à l'attaque et +2 aux chances de critique.~
+@72142 = ~Frappe instinctive (Divination)
+Niveau : 2
+Portée : champ de vision
+Durée : 3 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible, l'espace d'un instant, l'intuition innée pour trouver la faille dans la défense adverse. Pendant les trois rounds suivants l'incantation, elle bénéficie d'un bonus de +10 à l'attaque et +2 aux chances de critique.~
+@721421 = ~Frappe instinctive (Divination)
+Niveau : 2
+Portée : champ de vision
+Durée : 3 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort donne à la cible, l'espace d'un instant, l'intuition innée pour trouver la faille dans la défense adverse. Pendant les trois rounds suivants l'incantation, elle bénéficie d'un bonus de +10 à l'attaque et +2 aux chances de critique.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : +8 à l'attaque et +2 aux chances de critique, pendant deux rounds.~
+
+@7215 = ~Purge de la magie~
+@7216 = ~Purge de la magie (Abjuration)
+Niveau : 2
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de se débarrasser de tous les effets magiques qui l'affectent. Le sort ne peut pas être sélectif, et dissipe sans distinction les effets créés par des sorts, des capacités, des objets, des potions, etc, qu'ils soient néfastes ou non. C'est donc un sort à utiliser savamment, car il peut ruiner une stratégie de préparation au combat.
+Lorsqu'il lance purge de la magie, le seigneur de guerre a une base de 50% de chance de dissiper chaque effet. Si son niveau est supérieur à celui de la magie à dissiper, chaque niveau de différence lui fait gagner 5 %. Si son niveau est inférieur à la celui de la magie à dissiper, chaque niveau de différence lui fait perdre 10 %. Par exemple, s'il est de niveau 10 et tente de dissiper une lenteur lancée par une mage de niveau 12, il n'aura que 30% de chance de réussir. A contrario, si le mage qui a lancé lenteur sur le seigneur de guerre est de niveau 6, ce dernier aura 70% de chance d'arriver à dissiper le sort. Dans tous les cas, il y a toujours 1% de chance de réussite ou d’échec de la purge.~
+@72161 = ~Purge de la magie (Abjuration)
+Niveau : 2
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de débarrasser la cible de tous les effets magiques qui l'affectent. Le sort ne peut pas être sélectif, et dissipe sans distinction les effets créés par des sorts, des capacités, des objets, des potions, etc, qu'ils soient néfastes ou non. C'est donc un sort à utiliser savamment, car il peut ruiner une stratégie de préparation au combat.
+Lorsqu'il lance purge de la magie, le seigneur de guerre a une base de 50% de chance de dissiper chaque effet. Si son niveau est supérieur à celui de la magie à dissiper, chaque niveau de différence lui fait gagner 5 %. Si son niveau est inférieur à la celui de la magie à dissiper, chaque niveau de différence lui fait perdre 10 %. Par exemple, comme il est de niveau 20, s'il tente de dissiper une lenteur lancée par une mage de niveau 16, il aura 70% de chance de réussir. A contrario, si le mage qui a lancé lenteur sur le seigneur de guerre est de niveau 20, ce dernier n'aura que 50% de chance d'arriver à dissiper le sort. Dans tous les cas, il y a toujours 1% de chance de réussite ou d’échec de la purge.~
+@721611 = ~Purge de la magie (Abjuration)
+Niveau : 2
+Portée : champ de vision
+Durée : spéciale
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de débarrasser la cible de tous les effets magiques qui l'affectent. Le sort ne peut pas être sélectif, et dissipe sans distinction les effets créés par des sorts, des capacités, des objets, des potions, etc, qu'ils soient néfastes ou non. C'est donc un sort à utiliser savamment, car il peut ruiner une stratégie de préparation au combat.
+Lorsqu'il lance purge de la magie, le seigneur de guerre a une base de 50% de chance de dissiper chaque effet. Si son niveau est supérieur à celui de la magie à dissiper, chaque niveau de différence lui fait gagner 5 %. Si son niveau est inférieur à la celui de la magie à dissiper, chaque niveau de différence lui fait perdre 10 %. Par exemple, comme il est de niveau 20, s'il tente de dissiper une lenteur lancée par une mage de niveau 16, il aura 70% de chance de réussir. A contrario, si le mage qui a lancé lenteur sur le seigneur de guerre est de niveau 20, ce dernier n'aura que 50% de chance d'arriver à dissiper le sort. Dans tous les cas, il y a toujours 1% de chance de réussite ou d’échec de la purge.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : dissipation comme si le seigneur de guerre était de niveau 13.~
+
+@7217 = ~Réflexes félins~
+@7218 = ~Réflexes félins (Enchantement)
+Niveau : 2
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Inspiré par les sens aiguisés des félins, ce sort donne au seigneur de guerre un instinct sur-développé, ce qui l'aide à réagir vite dans de nombreuses situations. Ses sens aiguisés par le sort lui offrent +1 à la dextérité tous les 5 niveaux (max +4), +1 aux jets de sauvegarde contres les souffles et les baguettes tous les 4 niveaux (max +5) et +1 à l'initiative tous les 3 niveaux (max +6).~
+@72181 = ~Réflexes félins (Enchantement)
+Niveau : 2
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Inspiré par les sens aiguisés des félins, ce sort donne au seigneur de guerre un instinct sur-développé, ce qui l'aide à réagir vite dans de nombreuses situations. Ses sens aiguisés par le sort lui offrent +4 à la dextérité, +5 aux jets de sauvegarde contres les souffles et les baguettes et +6 à l'initiative.~
+@72182 = ~Réflexes félins (Enchantement)
+Niveau : 2
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Inspiré par les sens aiguisés des félins, ce sort donne à la cible un instinct sur-développé, ce qui l'aide à réagir vite dans de nombreuses situations. Ses sens aiguisés par le sort lui offrent +4 à la dextérité, +5 aux jets de sauvegarde contres les souffles et les baguettes et +6 à l'initiative.~
+@721821 = ~Réflexes félins (Enchantement)
+Niveau : 2
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Inspiré par les sens aiguisés des félins, ce sort donne à la cible un instinct sur-développé, ce qui l'aide à réagir vite dans de nombreuses situations. Ses sens aiguisés par le sort lui offrent +4 à la dextérité, +5 aux jets de sauvegarde contres les souffles et les baguettes et +6 à l'initiative.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : +2 à la dextérité, +3 aux jets de sauvegarde contres les souffles et les baguettes et +4 à l'initiative pendant 26 rounds.~

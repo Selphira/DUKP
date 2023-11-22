@@ -1,0 +1,19 @@
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	See(Nearestenemyof(Myself))
+	Range(Nearestenemyof(Myself),9)
+	!GlobalTimerNotExpired("breath","LOCALS")
+THEN
+  RESPONSE #25
+	ReallyForceSpellRES("pxf6ser1",NearestEnemyOf(Myself))
+	SetGlobalTimer("breath","LOCALS",6)
+	RESPONSE #25
+	ReallyForceSpellRES("pxf6ser1",NearestEnemyOf(Myself))
+	SetGlobalTimer("breath","LOCALS",12)
+	RESPONSE #25
+	ReallyForceSpellRES("pxf6ser1",NearestEnemyOf(Myself))
+	SetGlobalTimer("breath","LOCALS",18)
+	RESPONSE #25
+	ReallyForceSpellRES("pxf6ser1",NearestEnemyOf(Myself))
+	SetGlobalTimer("breath","LOCALS",24)
+END

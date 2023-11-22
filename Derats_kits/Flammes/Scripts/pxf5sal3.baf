@@ -1,0 +1,64 @@
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Reduc","LOCALS",0)
+THEN
+	RESPONSE #100
+	ReallyForceSpellRES("pxf5sal1",NearestEnemyOf(Myself))
+	SetGlobal("Reduc","LOCALS",1)
+	Wait(6)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Reduc","LOCALS",1)
+	Global("Prems","LOCALS",0)
+THEN
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_BURNING_HANDS)
+		SetGlobal("Prems","LOCALS",1)
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_FIREBALL)
+		SetGlobal("Prems","LOCALS",1)
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_FLAME_ARROW)
+		SetGlobal("Prems","LOCALS",1)
+	RESPONSE #10
+		AttackReevaluate(NearestEnemyOf(Myself),15)
+		SetGlobal("Prems","LOCALS",1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Prems","LOCALS",1)
+THEN
+	RESPONSE #100
+		ReallyForceSpell(NearestEnemyOf(Myself),CLERIC_CONJURE_FIRE_ELEMENTAL)
+		SetGlobal("Prems","LOCALS",2)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Prems","LOCALS",2)
+	GlobalLT("Second","LOCALS",3)
+THEN
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_BURNING_HANDS)
+		IncrementGlobal("Second","LOCALS",1)
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_FIREBALL)
+		IncrementGlobal("Second","LOCALS",1)
+	RESPONSE #30
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_FLAME_ARROW)
+		IncrementGlobal("Second","LOCALS",1)
+	RESPONSE #10
+		AttackReevaluate(NearestEnemyOf(Myself),15)
+		IncrementGlobal("Second","LOCALS",1)
+END
+
+IF
+	Global("Second","LOCALS",3)
+THEN
+	RESPONSE #100
+		ChangeAIScript("",OVERRIDE)
+END
+

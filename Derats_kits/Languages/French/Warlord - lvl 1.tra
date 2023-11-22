@@ -1,0 +1,276 @@
+@711 = ~Bouclier de force~
+@712 = ~Bouclier de force (Évocation) 
+Niveau : 1
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée autour du lanceur une aura de force qui repousse les armes et autres objets dangereux qui devraient l'atteindre. Les impacts sur lui ainsi amortis, il gagne 5% + 1% par niveau de résistance aux attaques physiques (maximum 25% au niveau 20).~
+@7129 = ~Bouclier de force (Évocation) 
+Niveau : 1
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée autour du lanceur une aura de force qui repousse les armes et autres objets dangereux qui devraient l'atteindre. Les impacts sur lui ainsi amortis, il gagne 25% de résistance aux attaques physiques.~
+@71291 = ~Bouclier de force (Évocation) 
+Niveau : 1
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée autour de la cible une aura de force qui repousse les armes et autres objets dangereux qui devraient l'atteindre. Les impacts sur elle ainsi amortis, elle gagne 25% de résistance aux attaques physiques.~
+@712911 = ~Bouclier de force (Évocation) 
+Niveau : 1
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort crée autour de la cible une aura de force qui repousse les armes et autres objets dangereux qui devraient l'atteindre. Les impacts ainsi amortis, elle gagne 25% de résistance aux attaques physiques.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : 17% de résistance aux impacts pendant 15 rounds.~
+
+@713 = ~Grands pas~
+@714 = ~Grands pas (Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 1 tour + 1 rounds / niveau
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'accélérer le pas naturellement et sans plus de fatigue. Son mouvement augmente de 1 tous les 2 niveaux du lanceur (maximum +6 au niveau 12). Au niveau 12 cette accélération lui permet également d'esquiver plus facilement en combat, ce qui lui donne un bonus de +1 à la CA.~
+@7141 = ~Grands pas (Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 3 tours
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'accélérer le pas naturellement et sans plus de fatigue. Son mouvement augmente de 6. Cette accélération lui permet également d'esquiver plus facilement en combat, ce qui lui donne un bonus de +1 à la CA.~
+@7142 = ~Grands pas (Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au bénéficiaire d'accélérer le pas naturellement et sans plus de fatigue. Son mouvement augmente de 6. Cette accélération lui permet également d'esquiver plus facilement en combat, ce qui lui donne un bonus de +1 à la CA.~
+@71421 = ~Grands pas (Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 3 tours
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au bénéficiaire d'accélérer le pas naturellement et sans plus de fatigue. Son mouvement augmente de 6. Cette accélération lui permet également d'esquiver plus facilement en combat, ce qui lui donne un bonus de +1 à la CA.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : +4 au mouvement pendant 2 tours.~
+
+@715 = ~Frappe massive~ //Pas d’icône et impossible de faire l'effet "prochaine frappe"
+@716 = ~Frappe massive (Altération) 
+Niveau : 1
+Portée : 0 
+Durée : 1 round
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort amplifie fortement la prochaine frappe du lanceur de sorts. Il la rend si puissante que s'il touche un adversaire, celui-ci subit 1D6 point de dégâts supplémentaires et doit réussir un jet de sauvegarde contre les souffles à -2 ou être projeté jusqu’à 10 mètres en arrière.~
+
+@717 = ~Poing de fer~
+@718 = ~Poing de fer (Altération) 
+Niveau : 1
+Portée : 0 
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre qui perd son arme de continuer à se battre. Le seigneur de guerre doit serrer le poing en lançant ce sort, après quoi celui-ci prend la consistance du fer. Tant que le sort agit, le magicien ne peut plus desserrer le poing et ne peut tenir aucune arme, et a 50% de chance de rater l'incantation de tout sort qu'il tente de lancer (il ne peux pas effectuer correctement les manipulations). Pour la plupart des gestes du quotidien, il doit utiliser son autre main.
+Le poing de fer accorde +2 au toucher et inflige 1D4+4 points de dégâts, mais ne peut pas affecter les créatures qui ne peuvent être blessées que par des armes magiques. A partir du niveau 10 du seigneur de guerre le sort est renforcé, le poing de fer est alors considéré comme une arme magique +1, accordant +3 au toucher et infligeant 1D4+5 points de dégâts. A partir du niveau 15 le sort améliore aussi la maîtrise du combat désarmé pour le lanceur, lui accordant une attaque supplémentaire et +2 à l'initiative lorsqu’il combat avec le poing de fer.~
+@7181 = ~Poing de fer (Altération) 
+Niveau : 1
+Portée : 0 
+Durée : 25 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre qui perd son arme de continuer à se battre. Le seigneur de guerre doit serrer le poing en lançant ce sort, après quoi celui-ci prend la consistance du fer. Tant que le sort agit, le magicien ne peut plus desserrer le poing et ne peut tenir aucune arme, et a 50% de chance de rater l'incantation de tout sort qu'il tente de lancer (il ne peux pas effectuer correctement les manipulations). Pour la plupart des gestes du quotidien, il doit utiliser son autre main.
+Le poing de fer est considéré comme une arme magique +1, accordant +3 au toucher et infligeant 1D4+5 points de dégâts
+Le sort améliore aussi la maîtrise du combat désarmé pour le lanceur, lui accordant une attaque supplémentaire et +2 à l'initiative lorsqu’il combat avec le poing de fer.~
+@7182 = ~Poing de fer (Altération) 
+Niveau : 1
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au combattant qui perd son arme de continuer à se battre. La cible doit serrer le poing lorsque le sort est lancé, après quoi celui-ci prend la consistance du fer. Tant que le sort agit, le bénéficiaire ne peut plus desserrer le poing et ne peut tenir aucune arme, et a 50% de chance de rater l'incantation de tout sort qu'il tente de lancer (il ne peux pas effectuer correctement les manipulations). Pour la plupart des gestes du quotidien, il doit utiliser son autre main.
+Le poing de fer est considéré comme une arme magique +1, accordant +3 au toucher et infligeant 1D4+5 points de dégâts
+Le sort améliore aussi la maîtrise du combat désarmé pour la cible, lui accordant une attaque supplémentaire et +2 à l'initiative lorsqu’elle combat avec le poing de fer.~
+@71821 = ~Poing de fer (Altération) 
+Niveau : 1
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet au combattant qui perd son arme de continuer à se battre. La cible doit serrer le poing lorsque le sot est lancé, après quoi celui-ci prend la consistance du fer. Tant que le sort agit, le bénéficiaire ne peut plus desserrer le poing et ne peut tenir aucune arme, et a 50% de chance de rater l'incantation de tout sort qu'il tente de lancer (il ne peux pas effectuer correctement les manipulations). Pour la plupart des gestes du quotidien, il doit utiliser son autre main.
+Le poing de fer est considéré comme une arme magique +1, accordant +3 au toucher et infligeant 1D4+5 points de dégâts
+Le sort améliore aussi la maîtrise du combat désarmé pour la cible, lui accordant une attaque supplémentaire et +2 à l'initiative lorsqu’elle combat avec le poing de fer.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : leur poing se change en fer mais sans amélioration de maîtrise, pendant 17 rounds.~
+
+@719 = ~Œil de l’expert~
+@7110 = ~Œil de l’expert (Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 3 rounds + 1 round / niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort améliore le sens du combat du seigneur de guerre. Tant que dure le sort, son œil sait repérer les failles de l'ennemi et sa technique s'affine. Il gagne +1 au taco par tranche de cinq niveaux d'expérience (maximum +5 au niveau 21).~
+@71101 = ~Œil de l’expert (Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 23 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort améliore le sens du combat du seigneur de guerre. Tant que dure le sort, son œil sait repérer les failles de l'ennemi et sa technique s'affine. Il gagne +5 au taco.~
+@71102 = ~Œil de l’expert (Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort améliore le sens du combat de la cible. Tant que dure le sort, son œil sait repérer les failles de l'ennemi et sa technique s'affine. Elle gagne +5 au taco.~
+@711021 = ~Œil de l’expert (Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 23 rounds
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort améliore le sens du combat de la cible. Tant que dure le sort, son œil sait repérer les failles de l'ennemi et sa technique s'affine. Elle gagne +5 au taco.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils gagnent +3 au taco pendant 15 rounds.~
+
+@7111 = ~Résistance~
+@7112 = ~Résistance (Abjuration)
+Niveau : 1
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 2
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de mieux résister aux effets négatifs qui pourraient l'affecter. Tant que le sort est actif, il gagne +1 aux jets de sauvegarde par tranche de cinq niveaux d'expérience (maximum +5 au niveau 21).~
+@71121 = ~Résistance (Abjuration)
+Niveau : 1
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de mieux résister aux effets négatifs qui pourraient l'affecter. Tant que le sort est actif, il gagne +5 aux jets de sauvegarde.~
+@71122 = ~Résistance (Abjuration)
+Niveau : 1
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible de mieux résister aux effets négatifs qui pourraient l'affecter. Tant que le sort est actif, elle gagne +5 aux jets de sauvegarde.~
+@711221 = ~Résistance (Abjuration)
+Niveau : 1
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 2
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible de mieux résister aux effets négatifs qui pourraient l'affecter. Tant que le sort est actif, elle gagne +5 aux jets de sauvegarde.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils gagnent +3 aux jets de sauvegarde pendant 27 rounds.~
+
+@7113 = ~Stop !~ //Pas d’icône
+@7114 = ~Stop ! (Évocation, Enchantement)
+Niveau : 1
+Portée : 20 mètres 
+Durée : 3 rounds
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : annule
+
+Une sort est une attaque directe contre une créature qui a pour but de la stopper dans son élan. Si celle-ci rate un jet de sauvegarde contre les sorts, elle est violemment secouée pendant 2 secondes, ce qui à pour effet de l’étourdir pour le round en cours, et de lui imposer un malus de -2 à la CA, au taco et aux jets de sauvegarde. Au deuxième round elle reprend ses esprit mais subit encore les malus de -2. Au troisième round ces malus passe à -1, après quoi le sort s'achève au quatrième round. 
+Tous les 5 niveaux du lanceur de sort, le jet de sauvegarde contre ce sort est majoré de -1 (maximum -4 au niveau 20).~
+
+@7115 = ~Maîtrise alternative~ //Icône à revoir
+@7116 = ~Maîtrise alternative (Altération, Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 5 rounds + 1 round / 2 niveaux
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'adapter ses connaissances martiales aux nouvelles armes auxquelles il se limite pour se consacrer à l'apprentissage des arcanes.
+En lançant ce sort, il devient un spécialiste (2 étoiles) de la dague ou du bâton, selon son choix lors de l'incantation. Il devient aussi compétent dans le style de combat associé (Arme à une main pour la dague, Armes à deux mains pour le bâton).
+Avec l'expérience, le seigneur de guerre peut améliorer ce sort. Il devient expert (3 étoiles) avec l'arme de son choix au niveau 7, et spécialiste du style de combat associé au niveau 10.~
+@71161 = ~Dague~
+@71162 = ~Bâton~
+@71163 = ~Maîtrise alternative (Altération, Enchantement)
+Niveau : 1
+Portée : 0
+Durée : 15 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre d'adapter ses connaissances martiales aux nouvelles armes auxquelles il se limite pour se consacrer à l'apprentissage des arcanes.
+En lançant ce sort, il devient un expert (3 étoiles) de la dague ou du bâton, selon son choix lors de l'incantation. Il devient aussi spécialiste dans le style de combat associé (Arme à une main pour la dague, Armes à deux mains pour le bâton).~
+@71164 = ~Maîtrise alternative (Altération, Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'adapter ses connaissances martiales aux armes auxquelles ont droit ceux qui pratiques les arcanes des arcanes.
+Elle devient un expert (3 étoiles) de la dague ou du bâton, selon le choix du lanceur lors de l'incantation. Elle devient aussi spécialiste dans le style de combat associé (Arme à une main pour la dague, Armes à deux mains pour le bâton).~
+@711641 = ~Maîtrise alternative (Altération, Enchantement)
+Niveau : 1
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 1
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible d'adapter ses connaissances martiales aux armes auxquelles ont droit ceux qui pratiques les arcanes des arcanes.
+Elle devient un expert (3 étoiles) de la dague ou du bâton, selon le choix du lanceur lors de l'incantation. Elle devient aussi spécialiste dans le style de combat associé (Arme à une main pour la dague, Armes à deux mains pour le bâton).
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils deviennent spécialistes (2 étoiles) dans la compétence d'arme choisie par le lanceur et gagnent un point dans le style de combat associé, ceci pendant 1 tour.~

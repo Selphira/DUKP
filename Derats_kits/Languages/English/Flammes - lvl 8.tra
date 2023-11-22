@@ -1,0 +1,70 @@
+@283 = ~Infernal Orbs~
+@284 = ~Infernal Orbs (Conjuration)
+Level: quest
+Sphere: elemental (fire)
+Range: 0
+Duration: 4 turns
+Casting Time: 6
+Area of Effect: the caster
+Saving Throw: none
+
+This spell creates large fire orbs in the hand of the preacher, that he can cast onto a target at a rate of 5 per round. Only one orb is created at once, and is replaced as soon as it is thrown, up to a total of 15.
+Every orb is considered as a +5 missile, cast with a +5 bonus to touch and inflicting 1D6 +5 slashing damage. Moreover it burns the victim and inflicts 8D6 fire damage points, halved if the latter makes a successful saving throw vs. spells.~
+@2841 = ~Infernal Orb~
+@2842 = ~This Fire Orb has been created by the spell Infernal Orb.~
+
+@285 = ~Incendiary Cloud~
+@286 = ~Incendiary Cloud (Evocation)
+Level: quest
+Sphere: elemental (fire)
+Range: Visual Range of Caster
+Duration: 1 turn
+Casting Time: 7
+Area of Effect: 12-meters radius cloud
+Saving Throw: 1/2
+
+This spell creates a billowing cloud of roaring flame. Any in the area of the spell must leave the cloud immediately, or suffer 20D4 points of fire damage each round while in the area of effect. A successfull saving vs. spells for half. The preacher of flames can move freely in the cloud without suffering the effects.~
+
+@287 = ~Deadly Fire Shield (Red)~
+@288 = ~Deadly Fire Shield (Evocation/Alteration)
+Level: quest
+Range: 0
+Duration: 1 turn
+Casting Time: 8
+Area of Effect: caster
+Saving Throw: none
+
+This spell wraps the preacher in a maelstrom of raging flames. Covered this way he is fully protected against fire and gains a hiding bonus +2 to AC.
+The flames forming the shield are very unstable, and anyone who touches the preacher suffers a random backlash determined by the launch of a D100:
+1 to 15: Burning: 4D4 damage points, saving throw 1/2.
+16 to 30: Burning: 6D6 damage points, saving throw 1/2.
+31 to 45: Burning: 8D8 damage points, saving throw 1/2.
+46 to 60: Burning: 10D10 damage points, saving throw 1/2.
+61 to 75: Burning: 12D12 damage points, saving throw 1/2.
+76 to 78: Explosion of maelstrom (5 meters radius, 4D6 damage points, saving throw 1/2)
+79 to 81: Explosion of maelstrom (8 meters radius, 6D8 damage points, saving throw 1/2)
+82 to 84: Explosion of maelstrom (10 meters radius, 8D10 damage points, saving throw 1/2)
+85 to 87: Incineration (like the spell of level 7, 5 rounds, saving throw to negate)
+88 to 90: Incineration (like the spell of level 7, 5 rounds, saving throw at -3 to negate)
+91 to 93: Incineration (like the spell of level 7, 10 rounds, saving throw to negate)
+94 to 96: Incineration (like the spell of level 7, 10 rounds, saving throw at -3 to negate)
+97 and 98: Pulverisation (death if failed saving throw vs. death, 12D6 damage points if successful, second saving throw 1/2)
+99 and 100: Pulverisation (death if failed saving throw vs. death at -3, 20D10 damage points if successful, second saving throw at -3 1/2)
+
+Note: beside the first saving throw vs. pulverisation, all saving throws are made vs. spells. All damage points are of fire type. And incinerisations caused by the shield are not cumulable.~
+@2889 = ~Turned into Dust~
+
+@289 = ~Fault~
+@2810 = ~Fault (Invocation)
+Level: quest
+Sphere: elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: special
+
+This spell allows to create a conduit of magma from the center of Abeir-Toril directly toward the target.
+When molten lava comes under it, a fault is created and engulfs the target. It suffers 10D10 fire damage points and must make a successful saving throw vs. breath to get out quickly from the abyss into which it has fallen. If it fails (failed saving throw), a second saving throw at -2 determines what will happen to it. Failed, it dies crushed while the fault closes. Successful, it is crushed only partially: it suffer 10D10 crushing damage and gets a heavy handicap: movement speed is reduced by 50% and -3 to attack and armor class.
+This spell does not directly target the victim, but rather the magmatic flow beneath the surface of the soil, magic resistance does protect in no way.~
+@28101 = ~Crushed by the Fault~

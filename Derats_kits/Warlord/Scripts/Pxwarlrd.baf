@@ -1,0 +1,27 @@
+IF
+	Global("pxwarlordg","LOCALS",0)
+	Class(Myself,MAGE)
+THEN
+	RESPONSE #100
+	SetGlobal("pxwarlordg","LOCALS",1)
+	ActionOverride(Myself,AddKit(PxWARLORDM))
+	ChangeAIScript("",GENERAL)
+END
+
+IF
+	Global("pxwarcan","LOCALS",14)
+THEN
+	RESPONSE #100
+	SetGlobal("pxwarcan","LOCALS",30)
+	ActionOverride(Myself,AddKit(PxWARLORDM2))
+	ChangeAIScript("",GENERAL)
+END
+
+IF
+	Global("pxw0m10","LOCALS",3)
+THEN
+	RESPONSE #100
+	SetGlobal("pxw0m10","LOCALS",0)
+	ApplySpellRES("pxwxm10",Myself)
+	ChangeAIScript("",GENERAL)
+END

@@ -1,0 +1,229 @@
+@251 = ~Flame Strike (Evocation)
+Level: 5
+Sphere: Combat
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 8
+Area of Effect: Target creature
+Saving Throw: 1/2
+
+When the priest calls down a flame strike spell, a vertical column of fire roars downward striking the exact location called for by the caster. The target must roll a saving throw vs. spell. Failure means the creature sustains 1d8 points of damage per level of the caster (maximum 20D8); otherwise, the damage is halved.~
+@252 = ~Flame Strike (Evocation)
+Level: 5
+Sphere: Combat
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 8
+Area of Effect: Target creature
+Saving Throw: 1/2
+
+When the priest calls down a flame strike spell, a vertical column of fire roars downward striking the exact location called for by the caster. The target must roll a saving throw vs. spell. Failure means the creature sustains 24d8 points of damage (26d8 at level 30 and 28d8 at level 40); otherwise, the damage is halved.~
+@2521 = ~Hellish Flame Strike~
+@2522 = ~Hellish Flame Strike (Conjuration)
+Level: 5
+Sphere: Combat, Evil
+Range: Visual Range of the Caster
+Duration: instantaneous
+Casting Time: 8
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+The fire of infernal planes hits the designated target. It suffers 20D6 +20 damage points. The surrounding creatures too will suffer from sulfur vapours from the impact. A successful saving throw vs. spells with a -2 bonus (additional -1 every 5 levels of the caster beyond level 20) halves the received damage.~
+
+@254 = ~Animal Summoning II (Conjuration/Summoning)
+Level: 5
+Sphere: animal, summoning
+Range: 30 meters
+Duration: 3 turns
+Casting Time: 6
+Area of Effect: special
+Saving Throw: none
+
+The caster can summon up to 3 creatures with 8 Hit Dice or less. Fire creatures or having an affinity with fire replace animals usually summoned by this spell, attracted by the preacher Firelord.
+The summoned creatures use all means they have to aid the caster. They will remain as long as the fight is not over, that the task is accomplished, the caster is safe, the latter does not send them back, etc.., or until duration of the spell expires.~
+@2541 = ~Hell Hound~
+@2542 = ~Firetail~
+@2543 = ~Yuan-Ti Pyromancer~
+@25431 = ~Minor Sequencer: Blur and Mirror Image~
+@25432 = ~Contingency - Stoneskin~
+
+@255 = ~Call Fire Servant~
+@256 = ~Call Fire Servant (Conjuration/Summoning)
+Level: 5
+Sphere: Summoning, Elemental (Fire)
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 6
+Area of Effect: special
+Saving Throw: none
+
+This spells allows the preacher of flames to contact the elemental plane of fire to call at his service a fire elemental, an efreet or a salamander. The rank or the power of the creature appearing is random:
+Elemental: 8 HD, 12 HD in 30% of cases.
+Salamander: superior in 40% of cases.
+Efreet: noble in 8% of cases.~
+@25699 = ~Call Fire Servant (Conjuration/Summoning)
+Level: 5
+Sphere: Summoning, Elemental (Fire)
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 6
+Area of Effect: special
+Saving Throw: none
+
+This spells allows the preacher of flames to contact the elemental plane of fire to call at his service a fire creature living there. He may call any elementary or related creature type, but the rank or the power of the creature appearing is random:
+Elemental: 8 HD, 12 HD in 30% of cases, 16 HD in 10% of cases.
+Salamander: superior in 40% of cases, noble in 15% of cases.
+Efreet: noble in 15% of cases.
+Fire Plasm: giant in 40% of cases.
+Hellish Spider: 15% chance to see a 2nd appearing.
+Fire Bats: special: come in groups of 1D6 +3 each one.
+Fire Mephits: special: come in groups of 1D4 +2 each one.~
+@2561 = ~Fire Plasm~
+@25619 = ~Incendiary Cloud~
+@2562 = ~Fire Bats (group)~
+@2563 = ~Fire Bat~
+@2564 = ~Salamander~
+@2565 = ~Superior Salamander~
+@2566 = ~Noble Salamander~
+@2567 = ~Inferno Spider~
+@2569 = ~Fire Mephits (group)~
+@25691 = ~Fire Mephit~
+@25610 = ~Fire Elemental~
+@25611 = ~Efreet~
+@25612 = ~Noble Efreet~
+
+@257 = ~Ardent Mantle~
+@258 = ~Ardent Mantle (Abjuration)
+Level: 5
+Sphere: protection, elemental (fire)
+Range: 0
+Duration: 2 rounds/level
+Casting Time: 6
+Area of Effect: caster
+Saving Throw: none
+
+By casting this spell, the preacher of flames surrounds himself by an aura of crackling sparks. This will grant him a +2 camouflage bonus to AC and grants him a full immunity against all fire, natural or magical.
+In addition, any creature he touches suffers 2D4 points of fire damage, and any creature that touches the latter will suffer 2D4 fire damage must make a successful saving throw vs. spells or flares up.
+A creature who flared up in this way suffers 2D4 points of damage for the round and additional 1D6 for rounds. Saving throws are made with a -2 bonus during this time.~
+@2581 = ~Ardent Mantle (Abjuration)
+Level: 5
+Sphere: protection, elemental (fire)
+Range: 0
+Duration: 4 turns
+Casting Time: 6
+Area of Effect: the caster
+Saving Throw: none
+
+By casting this spell, the preacher of flames surrounds himself by an aura of crackling sparks. This will grant him a +2 camouflage bonus to AC and grants him a full immunity against all fire, natural or magical.
+In addition, any creature he touches suffers 2D4 +1 points of fire damage, and any creature that touches the latter will suffer 2D4 +1 fire damage must make a successful saving throw vs. spells or flares up.
+A creature who flared up in this way suffers 2D4 +1 points of damage for the round and additional 1D6 for rounds. Saving throws are made with a -2 bonus during this time.
+All occurrences of 2D4 +1 damage points of this spell will become 1D8 +2 at level 30 and 2D4 +2 at level 40.~
+@2582 = ~Ardent Mantle (Abjuration)
+Level: 5
+Sphere: protection, elemental (fire)
+Range: 0
+Duration: 4 turns
+Casting Time: 6
+Area of Effect: the caster
+Saving Throw: none
+
+By casting this spell, the preacher of flames surrounds himself by an aura of crackling sparks. This will grant him a +2 camouflage bonus to AC and grants him a full immunity against all fire, natural or magical.
+In addition, any creature he touches suffers 2D4 points of fire damage, and any creature that touches the latter will suffer 2D4 fire damage must make a successful saving throw vs. spells with a -2 bonus (additional -1 every 5 levels of the caster beyond level 20) or flares up.
+A creature who flared up in this way suffers 2D4 points of damage for the round and additional 1D6 for rounds. Saving throws are made with a -2 bonus during this time.~
+@2583 = ~Camouflaged~ ~Camouflaged~
+
+@259 = ~Fire Mark~
+@2510 = ~Fire Mark (Alteration)
+Level: 5
+Sphere: charm, Elemental (fire)
+Range: visual range of the caster
+Duration: 5 rounds +1 round/level
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell negates the fire resistance of a creature that would be resistant or immune. Against a creature that has no particular fire resistance, it creates a vulnerability that doubles every fire damage received.
+Two Fire Marks can be combined and create a vulnerability on a target usually immune. This spell is treated like a curse and the target that attempts to resist will do with a magic resistance as if it is reduced by 30%.~
+@25101 = ~Fire Mark (Alteration)
+Level: 5
+Sphere: charm, Elemental (fire)
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell negates the fire resistance of a creature that would be resistant or immune. Against a creature that has no particular fire resistance, it creates a vulnerability that doubles every fire damage received.
+Two Fire Marks can be combined and create a vulnerability on a target usually immune. This spell is treated like a curse and can not be negated by magic resistance of the target.~
+@25102 = ~Reduced Fire Resistance~
+
+@2511 = ~Explosive Combustion~
+@2512 = ~Explosive Combustion (Evocation, Necromancy)
+Level: 5
+Sphere: necromancy, elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 6
+Area of Effect: 9-meters radius
+Saving Throw: special
+
+This spell suddenly flares up all creatures within the area of effect. The combustion is short but very intense, which has the effect of pulverizing the lesser creatures. The more resistant creatures, will be burned according to the following table:
+
+1 or 2 HD: Explosion
+3 or 4 HD: Explosion, death if saving throw is successful
+5 or 6 HD: Death, 8D6 damage points if saving throw is successful
+7 or 8 HD: 8D6 damage points, 4D6 if saving throw is successful
+9 HD and +: 4D6 damage points, negates is saving throw is successful.
+
+The creatures that explode are turned into dust and leaves no dead body behind. They cause an explosion of 8 meters radius that inflicts 4D6 points of fire damage (saving throw to halve) to all creatures within the area.
+The creatures who "die" are turned into ashes by a smaller explosion, which extends over 5 meters and inflicts 2D6 points of fire damage (saving throw to halve).
+The creatures that escape the explosion suffer from fire damage points, as indicated in the above table.
+Saving Throws to minimize the effects of this spell are made with a -2 bonus, additional -1 every 5 levels of the caster beyond level 20. Saving Throws to split explosion damages are not reduced, the preacher does not affect them.
+This spell has no effect over undead and cold and fire creatures.~
+
+@2513 = ~Pulverisation~
+@2514 = ~Pulverisation (Alteration)
+Level: 5
+Sphere: elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 6.5-meters radius half-sphere
+Saving Throw: 1/2
+
+When the preacher of flames casts this spell, the soil at the targeted area heats up to its breaking point before exploding, throwing fire and burning embers on all nearby creatures. These suffer an impact per every level of the caster, each one inflicting 1D4 slashing damage points and 1D2 fire damage points (maximum 15D4 + 15D2). A saving throw vs. spells allows avoiding half of impacts.
+The spell can only affect stone, wood and flesh react to the spell burning without exploding. As he targets a place and not living targets, magic resistance of victims does not protect them against it.~
+@25141 = ~Pulverisation (Alteration)
+Level: 5
+Sphere: elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 6.5-meters radius half-sphere
+Saving Throw: 1/2
+
+When the preacher of flames casts this spell, the soil at the targeted area heats up to its breaking point before exploding, throwing fire and burning embers on all nearby creatures. These suffer 15D4 slashing damage points and 18D2 fire damage points (20D2 points at level 30, 21D2 at level 40). A saving throw vs. breath allows avoiding half of impacts.
+The spell leaves a small crater where it was cast, and can only affect stone, wood and flesh react to the spell burning without exploding. As he targets a place and not living targets, magic resistance of victims does not protect them against it.~
+@25142 = ~Pulverisation (Alteration)
+Level: 5
+Sphere: elemental (fire)
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 6.5-meters radius half-sphere
+Saving Throw: 1/2
+
+When the preacher of flames casts this spell, the soil at the targeted area heats up to its breaking point before exploding, throwing fire and burning embers on all nearby creatures. These suffer 15D4 slashing damage points and 15D2 fire damage point. A saving throw vs. breath at -2 (additional -1 every 5 levels of the caster beyond level 20) allows avoiding half of impacts.
+The spell leaves a small crater where it was cast, and can only affect stone, wood and flesh react to the spell burning without exploding. As he targets a place and not living targets, magic resistance of victims does not protect them against it.~
+
+@2515 = ~Mass Protection From Fire~
+@2516 = ~Mass Protection From Fire (Abjuration)
+Level: 5
+Sphere: Protection, Elemental (fire)
+Range: 30 meters
+Duration: 3 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: 9-meters radius
+Saving Throw: none
+
+When the spell is cast, it confers to the party of the preacher a complete invulnerability to normal fires (torches, bonfires, oil fires, and the like). Likewise this spell absorbs 80% of all damage done by magical fires such as fiery dragon breath, spells such as burning hands, fireball, fire seeds, fire storm, flame strike, meteor swarm, hell hound or pyrohydra breath, etc.. The preacher may cast this spell towards an area, in which case only members of parties within the area will be covered by the spell, which will ignore enemies.~

@@ -1,0 +1,8 @@
+IF
+  See(Nearestenemyof(Myself))
+  Delay(6)
+  !StateCheck(Lastseenby(Myself),STATE_DISEASED)
+THEN
+  RESPONSE #100
+    ForceSpell(Lastseenby(Myself),SNAKE_GAZE)
+END

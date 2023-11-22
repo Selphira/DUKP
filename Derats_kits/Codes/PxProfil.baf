@@ -1,0 +1,177 @@
+//permet de donner le kit de sorcelier à un sorcier sous BG2/BGT
+
+IF
+	Global("Dukpvality","LOCALS",0)
+	!Class(Myself,SORCERER)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@10003)
+	SetGlobal("Dukpvality","LOCALS",4)
+END
+
+IF
+	Global("Dukpvality","LOCALS",0)
+	!Global("pxsok","LOCALS",2)
+	!Kit(Myself,TRUECLASS)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@10002)
+	SetGlobal("Dukpvality","LOCALS",4)
+END
+
+IF
+	Global("Dukpvality","LOCALS",0)
+	Class(Myself,SORCERER)
+THEN
+	RESPONSE #100
+	SetGlobal("Dukpvality","LOCALS",1)
+	SetGlobal("pxsorcel","LOCALS",99)
+END
+
+
+IF
+	Global("pxsorcel","LOCALS",99)
+	OR(2)
+		CheckStat(myself,1,PROFICIENCYQUARTERSTAFF)
+		CheckStat(myself,1,PROFICIENCYDAGGER)
+	CheckStatGT(Myself,14,STR)
+	CheckStatGT(Myself,14,DEX)
+THEN
+	RESPONSE #100
+	SetGlobal("pxsorcel","LOCALS",1)
+	DisplayStringHead(Myself,@115)
+END
+
+IF
+	Global("pxsorcel","LOCALS",1)
+	CheckStatGT(myself,0,PROFICIENCYQUARTERSTAFF)
+	HotKey(B)
+THEN
+	RESPONSE #100
+	ActionOverride(Myself, AddKit(PxSORCELIERB))
+	SetGlobal("pxsorcel","LOCALS",2)
+END
+
+IF
+	Global("pxsorcel","LOCALS",1)
+	HotKey(D)
+	CheckStatGT(myself,0,PROFICIENCYDAGGER)
+THEN
+	RESPONSE #100
+	ActionOverride(Myself, AddKit(PxSORCELIERD))
+	SetGlobal("pxsorcel","LOCALS",2)
+END
+
+IF
+	Global("pxsorcel","LOCALS",2)
+	Global("pxsok","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@116)
+	SetGlobal("pxsok","LOCALS",2)
+	SetGlobal("pxsorcel","LOCALS",3)
+END
+
+IF
+	Global("pxsorcel","LOCALS",2)
+	!GlobalGT("pxsok","LOCALS",0)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself,@10006)
+	SetGlobal("pxsorcel","LOCALS",4)
+END
+
+IF
+	Global("pxsorcel","LOCALS",1)
+	HotKey(B)
+	!CheckStatGT(myself,0,PROFICIENCYQUARTERSTAFF)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @1111)
+END
+
+IF
+	Global("pxsorcel","LOCALS",1)
+	OR(2)
+		HotKey(U)
+		HotKey(D)
+	!CheckStatGT(myself,0,PROFICIENCYDAGGER)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @1112)
+END
+
+IF
+	Global("pxsorcel","LOCALS",99)
+	!GlobalGT("pxsorcelcompet","LOCALS",0)
+	!CheckStat(myself,1,PROFICIENCYQUARTERSTAFF)
+	!CheckStat(myself,1,PROFICIENCYDAGGER)
+THEN
+	RESPONSE #100
+	SetGlobal("pxsorcelcompet","LOCALS",1)
+END
+IF
+	Global("pxsorcel","LOCALS",99)
+	!GlobalGT("pxsorcelcarac","LOCALS",0)
+	OR(2)
+		!CheckStatGT(Myself,14,STR)
+		!CheckStatGT(Myself,14,DEX)
+THEN
+	RESPONSE #100
+	SetGlobal("pxsorcelcarac","LOCALS",1)
+END
+
+IF
+	!Global("pxsorcelfalse","LOCALS",1)
+	OR(2)
+	Global("pxsorcelcompet","LOCALS",1)
+	Global("pxsorcelcarac","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @117)
+	SetGlobal("pxsorcelfalse","LOCALS",1)
+END
+IF
+	Global("pxsorcelfalse","LOCALS",1)
+	Global("pxsorcelcompet","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @1110)
+	SetGlobal("pxsorcelcompet","LOCALS",2)
+END
+IF
+	Global("pxsorcelfalse","LOCALS",1)
+	Global("pxsorcelcarac","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @1113)
+	SetGlobal("pxsorcelcarac","LOCALS",2)
+END
+
+IF
+	PartyRested()
+THEN
+	RESPONSE #100
+	SetGlobal("pxrest","LOCALS",1)
+END
+
+IF
+	Global("pxrest","LOCALS",1)
+	Global("pxsorcel","LOCALS",3)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @10004)
+	SetGlobal("pxrest","LOCALS",0)
+END
+
+IF
+	Global("pxrest","LOCALS",1)
+	!Global("pxsorcel","LOCALS",3)
+THEN
+	RESPONSE #100
+	SetGlobal("pxsorcelcompet","LOCALS",0)
+	SetGlobal("pxsorcelcarac","LOCALS",0)
+	SetGlobal("pxsorcelfalse","LOCALS",0)
+	SetGlobal("Dukpvality","LOCALS",0)
+	SetGlobal("pxrest","LOCALS",0)
+END

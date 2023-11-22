@@ -1,0 +1,475 @@
+@781 = ~Arme tueuse~
+@782 = ~Arme tueuse (Altération, enchantement)
+Niveau : 8
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : spécial
+
+Ce sort donne à l'arme portée par le seigneur de guerre la capacité de décapiter l'adversaire en un seul coup. Le sort favorise les coups vorpals, à hauteur de 5% + 1% de chance par 2 niveaux du lanceur de sort (max 15%). C'est la nature de l'arme qui détermine le coup pour lequel elle est guidée : coupe nette au niveau du cou s'il s'agit d'une arme tranchante, arrachage violent de la tête s'il s'agit d'une arme contondante. Quel que soit le coup, la victime peut y échapper si elle réussi un jet de sauvegarde à -4.
+Toute les créatures ne meurent pas suite à l'ablation de leur tête (golems, morts-vivants...), et certaines n'en ont tout simplement pas (aberration, vases...)~
+@7821 = ~Arme tueuse (Altération, enchantement)
+Niveau : 8
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : spécial
+
+Ce sort donne à l'arme portée par le seigneur de guerre la capacité de décapiter l'adversaire en un seul coup. Le sort favorise de 15% les coups vorpals. C'est la nature de l'arme qui détermine le coup pour lequel elle est guidée : coupe nette au niveau du cou s'il s'agit d'une arme tranchante, arrachage violent de la tête s'il s'agit d'une arme contondante. Quel que soit le coup, la victime peut y échapper si elle réussi un jet de sauvegarde à -4.
+Toute les créatures ne meurent pas suite à l'ablation de leur tête (golems, morts-vivants...), et certaines n'en ont tout simplement pas (aberration, vases...)~
+@7822 = ~Arme tueuse (Altération, enchantement)
+Niveau : 8
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort donne à l'arme portée par la cible la capacité de décapiter l'adversaire en un seul coup. Le sort favorise de 15% les coups vorpals. C'est la nature de l'arme qui détermine le coup pour lequel elle est guidée : coupe nette au niveau du cou s'il s'agit d'une arme tranchante, arrachage violent de la tête s'il s'agit d'une arme contondante, perçage du cœur ou du cerveau s'il s'agit d'une arme perforante. Quel que soit le coup, la victime peut y échapper si elle réussi un jet de sauvegarde à -4.
+Toute les créatures ne meurent pas suite à l'ablation de leur tête ou de leur cœur (golems, morts-vivants...), et certaines n'en ont tout simplement pas (aberration, vases...)~
+@78221 = ~Arme tueuse (Altération, enchantement)
+Niveau : 8
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort donne à l'arme portée par la cible la capacité de décapiter l'adversaire en un seul coup. Le sort favorise de 15% les coups vorpals. C'est la nature de l'arme qui détermine le coup pour lequel elle est guidée : coupe nette au niveau du cou s'il s'agit d'une arme tranchante, arrachage violent de la tête s'il s'agit d'une arme contondante, perçage du cœur ou du cerveau s'il s'agit d'une arme perçante/perforante. Quel que soit le coup, la victime peut y échapper si elle réussi un jet de sauvegarde à -4.
+Toute les créatures ne meurent pas suite à l'ablation de leur tête ou de leur cœur (golems, morts-vivants...), et certaines n'en ont tout simplement pas (aberration, vases...)
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leurs coups sont vorpals dans 10% des cas, avec un jet de sauvegarde à -3 pour l'éviter, pendant 13 rounds.~
+@78239 = ~Coup vorpal !~
+
+@783 = ~Choc élémentaire~
+@784 = ~Choc élémentaire (Évocation)
+Niveau : 8
+Portée : 40m 
+Durée : instantanée
+Temps d'incantation : 1 round
+Zone d'effet : 9 mètres de rayon 
+Jet de sauvegarde : spécial
+
+Le seigneur de guerre à crée ce sort en se rendant compte à quel point un brusque changement de température peut être destructeur pour l'objet qui le subit. Pour appliquer ce principe à des victimes potentielles, ce sort permet simplement au lanceur de jeter simultanément deux sorts offensifs de nature opposée : une fois l'incantation achevée, le mage tend ses deux paumes vers la cible, et de sa main gauche part une boule de feu, tandis que de sa main droite part un orbe de givre. Les dégâts sont de 10D6 pour la boule de feu et 10D4+10 pour l'orbe de givre (jet contre les sorts pour moitié).
+Mais l'orbe de givre arrivant à impact plus lentement que la boule de feu, les victimes sont d'abords brûlées, puis réfrigérées juste après. Elles subissent en conséquence un choc métabolique qui double les dégâts qu'elles reçoivent si elles ratent un jet de sauvegarde contre la métamorphose à -2.
+Les golems de pierre sont particulièrement sensibles à ce sort, pour lesquels le jet de sauvegarde est minoré de -4.
+Le sort à un effet spécial contre les créatures immunisées contre le feu/le froid : celles qui ratent leur jet de sauvegarde contre la métamorphose subissent des dégâts normaux (non doublés) de l'élément dont elle sont immunisées, l'élément opposé du sort œuvrant spécialement en ce sens.~
+@7841 = ~Choc élémentaire (Évocation)
+Niveau : 8
+Portée : 40m 
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : 9 mètres de rayon 
+Jet de sauvegarde : spécial
+
+Le seigneur de guerre à crée ce sort en se rendant compte à quel point un brusque changement de température peut être destructeur pour l'objet qui le subit. Pour appliquer ce principe à des victimes potentielles, ce sort permet simplement au lanceur de jeter simultanément deux sorts offensifs de nature opposée : une fois l'incantation achevée, le mage tend ses deux paumes vers la cible, et de sa main gauche part une boule de feu, tandis que de sa main droite part un orbe de givre. Les dégâts sont de 10D6 pour la boule de feu et 10D4+10 pour l'orbe de givre (jet contre les sorts pour moitié).
+Mais l'orbe de givre arrivant à impact plus lentement que la boule de feu, les victimes sont d'abords brûlées, puis réfrigérées juste après. Elles subissent en conséquence un choc métabolique qui double les dégâts qu'elles reçoivent si elles ratent un jet de sauvegarde contre la métamorphose à -2.
+Les golems de pierre sont particulièrement sensibles à ce sort, pour lesquels le jet de sauvegarde est minoré de -4.
+Le sort à un effet spécial contre les créatures immunisées contre le feu/le froid : celles qui ratent leur jet de sauvegarde contre la métamorphose subissent des dégâts normaux (non doublés) de l'élément dont elle sont immunisées, l'élément opposé du sort œuvrant spécialement en ce sens.~
+
+@785 = ~Copie miroir~
+@786 = ~Copie miroir (Illusion)
+Niveau : 8
+Portée : 0
+Durée : 1 round / niveau
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Ce sort permet au seigneur de guerre de créer une copie illusoire qui peut reproduire n'importe quelle action qu'il peut effectuer. Plus puissante que la copie solide de niveau 6, la copie miroir prend modèle sur le reflet du lanceur de sort est n'est donc plus liée directement à ce dernier. Elle peut donc se déplacer indépendamment du lanceur de sort et engager un combat. Elle ne peut pas effectuer d'autres actions telle qu'ouvrir une porte ou engager une conversation, son statut d'illusion ne lui permettant pas d'interagir pleinement avec le monde physique.
+Lorsqu'elle combat, elle peut affecter toutes les créatures qui la croient réelle (et ne peut donc pas affecter une créature immunisée contre les illusions). Dans ce cas, elle les combat avec 60% des capacités du seigneur de guerre (taco, jet de sauvegarde, compétence martiale, etc), et peut subir des dégâts à hauteur de 60% des points de vie du seigneur de guerre avant de disparaître.
+Elle disparaît également si elle est visée par une vision véritable ou une dissipation de la magie.
+Le seigneur de guerre n'ayant plus de reflet tant que la copie est active, il ne peut pas créer plus d'une copie miroir.~
+@7861 = ~Vous contrôlez déjà une copie miroir. Attendez sa disparition avant d'en créer une autre.~
+@7862 = ~Copie miroir (Illusion)
+Niveau : 8
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Ce sort permet au seigneur de guerre de créer une copie illusoire qui peut reproduire n'importe quelle action qu'il peut effectuer. Plus puissante que la copie solide de niveau 6, la copie miroir prend modèle sur le reflet du lanceur de sort est n'est donc plus liée directement à ce dernier. Elle peut donc se déplacer indépendamment du lanceur de sort et engager un combat. Elle ne peut pas effectuer d'autres actions telle qu'ouvrir une porte ou engager une conversation, son statut d'illusion ne lui permettant pas d'interagir pleinement avec le monde physique.
+Lorsqu'elle combat, elle peut affecter toutes les créatures qui la croient réelle (et ne peut donc pas affecter une créature immunisée contre les illusions). Dans ce cas, elle les combat avec 60% des capacités du seigneur de guerre (taco, jet de sauvegarde, compétence martiale, etc), et peut subir des dégâts à hauteur de 60% des points de vie du seigneur de guerre avant de disparaître.
+Elle disparaît également si elle est visée par une vision véritable ou une dissipation de la magie.
+Le seigneur de guerre n'ayant plus de reflet tant que la copie est active, il ne peut pas créer plus d'une copie miroir.~
+@7863 = ~Copie miroir (Illusion)
+Niveau : 8
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : non
+
+Ce sort permet au seigneur de guerre de créer une copie illusoire de la cible qui peut reproduire n'importe quelle action qu'elle peut effectuer. Plus puissante que la copie solide de niveau 6, la copie miroir prend modèle sur le reflet du bénéficiaire est n'est donc plus liée directement à ce dernier. Elle peut donc se déplacer indépendamment de l'original et engager un combat. Elle ne peut pas effectuer d'autres actions telle qu'ouvrir une porte ou engager une conversation, son statut d'illusion ne lui permettant pas d'interagir pleinement avec le monde physique.
+Lorsqu'elle combat, elle peut affecter toutes les créatures qui la croient réelle (et ne peut donc pas affecter une créature immunisée contre les illusions). Dans ce cas, elle les combat avec 60% des capacités du seigneur de guerre (taco, jet de sauvegarde, compétence martiale, etc), et peut subir des dégâts à hauteur de 60% des points de vie du seigneur de guerre avant de disparaître.
+Elle disparaît également si elle est visée par une vision véritable ou une dissipation de la magie.
+Le sujet copié n'ayant plus de reflet tant que la copie est active, il ne peut pas pas être de nouveau copié par une copie miroir.~
+@78631 = ~Copie miroir (Illusion)
+Niveau : 8
+Portée : champ de vision
+Durée : 2 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : non
+
+Ce sort permet au seigneur de guerre de créer une copie illusoire de la cible qui peut reproduire n'importe quelle action qu'elle peut effectuer. Plus puissante que la copie solide de niveau 6, la copie miroir prend modèle sur le reflet du bénéficiaire est n'est donc plus liée directement à ce dernier. Elle peut donc se déplacer indépendamment de l'original et engager un combat. Elle ne peut pas effectuer d'autres actions telle qu'ouvrir une porte ou engager une conversation, son statut d'illusion ne lui permettant pas d'interagir pleinement avec le monde physique.
+Lorsqu'elle combat, elle peut affecter toutes les créatures qui la croient réelle (et ne peut donc pas affecter une créature immunisée contre les illusions). Dans ce cas, elle les combat avec 60% des capacités du seigneur de guerre (taco, jet de sauvegarde, compétence martiale, etc), et peut subir des dégâts à hauteur de 60% des points de vie du seigneur de guerre avant de disparaître.
+Elle disparaît également si elle est visée par une vision véritable ou une dissipation de la magie.
+Le sujet copié n'ayant plus de reflet tant que la copie est active, il ne peut pas pas être de nouveau copié par une copie miroir.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+leur copie ne dure que 13 rounds.~
+
+@787 = ~Corps de pierre~
+@788 = ~Corps de pierre (Altération)
+Niveau : 8
+Portée : 0
+Durée : 5 rounds + 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Lorsque le sort est lancé, le corps du seigneur de guerre devient pierre mouvante en adoptant la structure du sol sur lequel il est posé. Cette transformation lui confère plusieurs pouvoirs distincts. Tant que le sort fait effet, il ne peut être blessé que par des armes d'un niveau d'enchantement au moins égal à +3, les armes tranchantes et perçantes ne l’affectant que pour un quart. Sa classe d'armure naturelle passe à 1 +/-1 (suivant la structure de la pierre dont il est constitué) et sa force est augmentée de 3 points.
+Les sorts qui affectent la respiration ou la physiologie tels que nuages, poisons, moisissures, ne peuvent l'affecter. Il ignore les attaques électriques et ne subit que 50% des attaques de feu et de froid.
+Malheureusement, ses mouvements deviennent lents et lourds, ce qui se traduit par une pénalité de -2 à son mouvement et sa dextérité, -1 à son initiative et son taco.
+Le magicien sous forme de pierre subit également un augmentation de 1 de ses temps d'incantation et une probabilité de 10% de rater l'incantation de tout sort qu'il tente de lancer, à cause de sa voix devenue gutturale et lente.
+Le magicien doit être en contact avec le sol au moment où il lance le sort ou celui-ci ne fonctionnera pas.~
+@7881 = ~Corps de pierre (Altération)
+Niveau : 8
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Lorsque le sort est lancé, le corps du seigneur de guerre devient pierre mouvante en adoptant la structure du sol sur lequel il est posé. Cette transformation lui confère plusieurs pouvoirs distincts. Tant que le sort fait effet, il ne peut être blessé que par des armes d'un niveau d'enchantement au moins égal à +3, les armes tranchantes et perçantes ne l’affectant que pour un quart. Sa classe d'armure naturelle passe à 1 +/-1 (suivant la structure de la pierre dont il est constitué) et sa force est augmentée de 3 points.
+Les sorts qui affectent la respiration ou la physiologie tels que nuages, poisons, moisissures, ne peuvent l'affecter. Il ignore les attaques électriques et ne subit que 50% des attaques de feu et de froid.
+Malheureusement, ses mouvements deviennent lents et lourds, ce qui se traduit par une pénalité de -2 à son mouvement et sa dextérité, -1 à son initiative et son taco.
+Le magicien sous forme de pierre subit également un augmentation de 1 de ses temps d'incantation et une probabilité de 10% de rater l'incantation de tout sort qu'il tente de lancer, à cause de sa voix devenue gutturale et lente.
+Le magicien doit être en contact avec le sol au moment où il lance le sort ou celui-ci ne fonctionnera pas.~
+@7882 = ~Corps de pierre (Altération)
+Niveau : 8
+Portée : 0
+Durée : 25 rounds
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Lorsque le sort est lancé, le corps du seigneur de guerre devient pierre mouvante en adoptant la structure du sol sur lequel il est posé. Cette transformation lui confère plusieurs pouvoirs distincts. Tant que le sort fait effet, il ne peut être blessé que par des armes d'un niveau d'enchantement au moins égal à +3, les armes tranchantes et perçantes ne l’affectant que pour un quart. Sa classe d'armure naturelle passe à 1 +/-1 (suivant la structure de la pierre dont il est constitué) et sa force est augmentée de 3 points.
+Les sorts qui affectent la respiration ou la physiologie tels que nuages, poisons, moisissures, ne peuvent l'affecter. Il ignore les attaques électriques et ne subit que 50% des attaques de feu et de froid.
+Le magicien doit être en contact avec le sol au moment où il lance le sort ou celui-ci ne fonctionnera pas.~
+@7883 = ~Corps de pierre (Altération)
+Niveau : 8
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : non
+
+Lorsque le sort est lancé, le corps de la cible devient pierre mouvante en adoptant la structure du sol sur lequel il est posé. Cette transformation lui confère plusieurs pouvoirs distincts. Tant que le sort fait effet, elle ne peut être blessée que par des armes d'un niveau d'enchantement au moins égal à +3, les armes tranchantes et perçantes ne l’affectant que pour un quart. Sa classe d'armure naturelle passe à 1 +/-1 (suivant la structure de la pierre dont il est constitué) et sa force est augmentée de 3 points.
+Les sorts qui affectent la respiration ou la physiologie tels que nuages, poisons, moisissures, ne peuvent l'affecter. Elle ignore les attaques électriques et ne subit que 50% des attaques de feu et de froid.
+Le sujet doit être en contact avec le sol au moment où le seigneur de guerre lance le sort ou celui-ci ne fonctionnera pas.~
+@78831 = ~Corps de pierre (Altération)
+Niveau : 8
+Portée : champ de vision
+Durée : 25 rounds
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : non
+
+Lorsque le sort est lancé, le corps de la cible devient pierre mouvante en adoptant la structure du sol sur lequel il est posé. Cette transformation lui confère plusieurs pouvoirs distincts. Tant que le sort fait effet, elle ne peut être blessée que par des armes d'un niveau d'enchantement au moins égal à +3, les armes tranchantes et perçantes ne l’affectant que pour un quart. Sa classe d'armure naturelle passe à 1 +/-1 (suivant la structure de la pierre dont il est constitué) et sa force est augmentée de 3 points.
+Les sorts qui affectent la respiration ou la physiologie tels que nuages, poisons, moisissures, ne peuvent l'affecter. Elle ignore les attaques électriques et ne subit que 50% des attaques de feu et de froid.
+Le sujet doit être en contact avec le sol au moment où le seigneur de guerre lance le sort ou celui-ci ne fonctionnera pas.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort :
+ils adoptent la même forme de pierre mouvante, qui les protège contre les armes +2, leur confère une CA de 1 et augmente leur force de 2. Ils gagnent les mêmes immunités et résistances pendant 17 rounds.~
+
+@789 = ~Courroux des cieux~
+@7810 = ~Courroux des cieux (Altération)
+Niveau : 8
+Portée : champ de vision
+Durée : 1 round
+Temps d'incantation : 8
+Zone d'effet : 1 créature / 5 m de rayon
+Jet de sauvegarde : spécial
+
+Ce sort déchaîne sur une créature la fureur des cieux. Le sort doit être lancé en extérieur, sans quoi il n'aurait aucun effet. Lorsque le sort est lancé, une des nombreuses étoiles filantes qui parcourent le ciel d'Abel-Toril est détournée de sa trajectoire puis guidée par le sort pour aller s'écraser sur la cible.
+Lors de l'impact, celle-ci subit 15D10 points de dégâts. Toutes les créatures dans les 5 mètres alentours subissent 10D10 points de dégâts.
+La déflagration provoquée par l'impact du météore est si brutale qu'elle ignore la résistance à la magie de la cible et n'autorise aucun jet de sauvegarde pour minimiser les dégâts.
+Toutes les créatures qui ont subi l'impact peuvent rester sonnées pendant 1D4+2 rounds si elles ratent un jet de sauvegarde contre les souffles (à -2 pour la cible originale).~
+@78101 = ~Courroux des cieux (Altération)
+Niveau : 8
+Portée : champ de vision
+Durée : 1 round
+Temps d'incantation : 4
+Zone d'effet : 1 créature / 5 m de rayon
+Jet de sauvegarde : spécial
+
+Ce sort déchaîne sur une créature la fureur des cieux. Le sort doit être lancé en extérieur, sans quoi il n'aurait aucun effet. Lorsque le sort est lancé, une des nombreuses étoiles filantes qui parcourent le ciel d'Abel-Toril est détournée de sa trajectoire puis guidée par le sort pour aller s'écraser sur la cible.
+Lors de l'impact, celle-ci subit 15D10 points de dégâts. Toutes les créatures dans les 5 mètres alentours subissent 10D10 points de dégâts.
+La déflagration provoquée par l'impact du météore est si brutale qu'elle ignore la résistance à la magie de la cible et n'autorise aucun jet de sauvegarde pour minimiser les dégâts.
+Toutes les créatures qui ont subi l'impact peuvent rester sonnées pendant 1D4+2 rounds si elles ratent un jet de sauvegarde contre les souffles (à -2 pour la cible originale).~
+
+@7811 = ~Couverture éthérée~
+@7812 = ~Couverture éthérée (Abjuration)
+Niveau : 8
+Portée : 0
+Durée : 5 rounds + 1 round / 2 niveaux
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort recouvre le lanceur d’éther. Toute arme qui tente de le toucher doit passer par cette couverture, et de fait suivre les règles de touche d'une créature éthérée. Tant que le lanceur est protégé par cette couverture, il ne peut pas être touché par des armes non-magiques, et seules les armes magiques puissantes peuvent l'affecter. Il faut une arme d'un niveau d'enchantement au moins égal à +1 par 4 niveaux du lanceur pour le toucher (par exemple, il ne peut être touchée que par les armes +4 au minimum au niveau 16, le maximum étant "au moins +5" au niveau 20).~
+@78121 = ~Couverture éthérée (Abjuration)
+Niveau : 8
+Portée : 0
+Durée : 15 rounds
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort recouvre le lanceur d’éther. Toute arme qui tente de le toucher doit passer par cette couverture, et de fait suivre les règles de touche d'une créature éthérée. Tant que le lanceur est protégé par cette couverture, il ne peut pas être touché par des armes non-magiques, et seules les armes magiques au moins +5 peuvent l'affecter.~
+@78122 = ~Couverture éthérée (Abjuration)
+Niveau : 8
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort recouvre la cible d’éther. Toute arme qui tente de la toucher doit passer par cette couverture, et de fait suivre les règles de touche d'une créature éthérée. Tant que le sujet est protégé par cette couverture, il ne peut pas être touché par des armes non-magiques, et seules les armes magiques au moins +5 peuvent l'affecter.~
+@781221 = ~Couverture éthérée (Abjuration)
+Niveau : 8
+Portée : champ de vision
+Durée : 15 rounds
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort recouvre la cible d’éther. Toute arme qui tente de la toucher doit passer par cette couverture, et de fait suivre les règles de touche d'une créature éthérée. Tant que le sujet est protégé par cette couverture, il ne peut pas être touché par des armes non-magiques, et seules les armes magiques au moins +5 peuvent l'affecter.
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : il faut au moins une arme +3 pour les toucher pendant 1 tour.~
+
+@7813 = ~Désordre de masse~
+@7814 = ~Désordre de masse (Enchantement)
+Niveau : 8
+Portée : portée de vue
+Durée : spéciale
+Temps d'incantation : 8
+Zone d'effet : cube de 18 m d'arête maximum
+Jet de sauvegarde : annule
+
+En lançant ce sort, le seigneur de guerre essaie de détruire le mental de toutes les créatures dans la zone visée. Si celles-ci ratent le jet de sauvegarde pour s'en prévenir, elles subissent une attaque cérébrale. Le seigneur de guerre ne maîtrisant pas vraiment les rouages des cerveaux, la conséquence est variable : malaise, confusion, abrutissement, étourdissement, migraine, etc, ainsi que la durée (qui peut être réduite par une dissipation réussie).
+A partir du niveau 22, la puissance du sort augmentant, le sort peut créer une lésion plus grave, qui peut rendre les victimes folles, débiles, végétatives, etc... dans ce cas, l'effet et permanent et seule une restauration majeure ou un souhait pourront rendre leurs facultés aux créatures affectées.~
+@78141 = ~Désordre de masse (Enchantement)
+Niveau : 8
+Portée : portée de vue
+Durée : spéciale
+Temps d'incantation : 4
+Zone d'effet : cube de 18 m d'arête maximum
+Jet de sauvegarde : annule
+
+En lançant ce sort, le seigneur de guerre essaie de détruire le mental de toutes les créatures dans la zone visée. Si celles-ci ratent le jet de sauvegarde pour s'en prévenir, elles subissent une attaque cérébrale. Le seigneur de guerre ne maîtrisant pas vraiment les rouages des cerveaux, la conséquence est variable : malaise, confusion, abrutissement, étourdissement, migraine, etc, (qui peut être réduite par une dissipation réussie) et peut être définitive dans le cas de lésions plus graves rendant les victimes folles, débiles, végétatives, etc (dans ce cas, seule une restauration majeure ou un souhait pourront rendre leurs facultés aux créatures affectées).~
+
+@7815 = ~Expertise de bourreau~
+@7816 = ~Expertise de bourreau (Divination)
+Niveau : 8
+Portée : 0
+Durée : 2 rounds / niveau
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de déceler instinctivement les points faibles des autres créatures, ce qui lui confère un bonus de +4 au jet d’attaque, +4 au critique possible (si le personnage réussit habituellement un coup critique sur un 20, il pourra y prétendre sur un 16-20).~
+@78161 = ~Vous avez déjà l'œil de l'expert~
+@78162 = ~Expertise de bourreau (Divination)
+Niveau : 8
+Portée : 0
+Durée : 4 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort permet au seigneur de guerre de déceler instinctivement les points faibles des autres créatures, ce qui lui confère un bonus de +4 au jet d’attaque et +4 au critique possible (si le personnage réussit habituellement un coup critique sur un 20, il pourra y prétendre sur un 16-20).~
+@78163 = ~Expertise de bourreau (Divination)
+Niveau : 8
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible de déceler instinctivement les points faibles des autres créatures, ce qui lui confère un bonus de +4 au jet d’attaque et +4 au critique possible (si le personnage réussit habituellement un coup critique sur un 20, il pourra y prétendre sur un 16-20).~
+@781631 = ~Expertise de bourreau (Divination)
+Niveau : 8
+Portée : champ de vision
+Durée : 4 tours
+Temps d'incantation : 8
+Zone d'effet : une créature
+Jet de sauvegarde : aucun
+
+Ce sort permet à la cible de déceler instinctivement les points faibles des autres créatures, ce qui lui confère un bonus de +4 au jet d’attaque et +4 au critique possible (si le personnage réussit habituellement un coup critique sur un 20, il pourra y prétendre sur un 16-20).
+
+Tous les alliés à moins de 5 mètres de la cible profitent également des effets amoindris du sort : ils gagnent un bonus de +3 au jet d'attaque et au critique possible pendant 27 rounds.~
+
+@7817 = ~Libérer la bête~
+@7818 = ~Libérer la bête (Altération)
+Niveau : 8
+Portée : 0 
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui a compris que le pouvoir qui s'agite en lui ne peut provenir que d'une puissante créature magique quelque part dans sa lignée peut user de ce sort pour réveiller la créature qui a laissé sa marque dans son sang.
+La vérité sur cette puissante ascendance se révèle dès le premier lancement du sort : le lanceur de sort se transforme en un terrifiant diantrefosse, dont il gagne tous les attributs physiques :
+Force :18/00
+Classe d'armure : -5
+Mouvement : 11
+Attaques par round : 5, dont une morsure qui empoisonne mortellement
+Régénération : 2 pvs par round
+Ne peut être touché que par des armes +3 minimum
+Immunisé au feu et au poison
+Résistant au froid : 50%
+
+Il ne gagne en revanche aucun pouvoir magique supplémentaire, ni non plus de résistance à la magie. Tout son équipement est fondu dans sa nouvelle forme, et tout équipement nouvellement acquit le sera de même (y compris les armes créées par un sort).
+Il y a un inconvénient majeur à l'utilisation de ce sort : 5% de chance à chaque lancement du sort que le seigneur de guerre acquière aussi la sauvagerie de la bête et devienne incontrôlable : il attaquera alors sans distinction amis comme ennemis, et ce jusqu'à la fin du sort.~
+@78181 = ~Perd le contrôle~
+@78182 = ~Arme fondue dans la métamorphose~
+@78183 = ~Libérer la bête (Altération)
+Niveau : 8
+Portée : 0 
+Durée : 2 tours
+Temps d'incantation : 4
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui a compris que le pouvoir qui s'agite en lui ne peut provenir que d'une puissante créature magique quelque part dans sa lignée peut user de ce sort pour réveiller la créature qui a laissé sa marque dans son sang.
+La vérité sur cette puissante ascendance se révèle dès le premier lancement du sort : le lanceur de sort se transforme en un terrifiant diantrefosse, dont il gagne tous les attributs physiques :
+Force :18/00
+Classe d'armure : -5
+Mouvement : 11
+Attaques par round : 5, dont une morsure qui empoisonne mortellement
+Régénération : 2 pvs par round
+Ne peut être touché que par des armes +3 minimum
+Immunisé au feu et au poison
+Résistant au froid : 50%
+
+Il ne gagne en revanche aucun pouvoir magique supplémentaire, ni non plus de résistance à la magie. Tout son équipement est fondu dans sa nouvelle forme, et tout équipement nouvellement acquit le sera de même (y compris les armes créées par un sort).
+Il y a un inconvénient majeur à l'utilisation de ce sort : 5% de chance à chaque lancement du sort que le seigneur de guerre acquière aussi la sauvagerie de la bête et devienne incontrôlable : il attaquera alors sans distinction amis comme ennemis, et ce jusqu'à la fin du sort.~
+@78184 = ~Libérer la bête (Altération)
+Niveau : 8
+Portée : 0 
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui a compris que le pouvoir qui s'agite en lui ne peut provenir que d'une puissante créature magique quelque part dans sa lignée peut user de ce sort pour réveiller la créature qui a laissé sa marque dans son sang.
+La vérité sur cette puissante ascendance se révèle dès le premier lancement du sort : le lanceur de sort se transforme en un terrifiant diantrefosse, dont il gagne tous les attributs physiques :
+Force :18/00
+Classe d'armure : -5
+Mouvement : 11
+Attaques par round : 5, dont une morsure qui empoisonne mortellement
+Régénération : 2 pvs par round
+Ne peut être touché que par des armes +3 minimum
+Immunisé au feu et au poison
+Résistant au froid : 50%
+
+Il ne gagne en revanche aucun pouvoir magique supplémentaire, ni non plus de résistance à la magie. Tout son équipement est fondu dans sa nouvelle forme, et tout équipement nouvellement acquit le sera de même (y compris les armes créées par un sort).~
+@78185 = ~Libérer la bête (Altération)
+Niveau : 8
+Portée : 0 
+Durée : 1 round / niveau
+Temps d'incantation : 9
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Le seigneur de guerre qui a compris que le pouvoir qui s'agite en lui ne peut provenir que d'une puissante créature magique quelque part dans sa lignée peut user de ce sort pour réveiller la créature qui a laissé sa marque dans son sang.
+La vérité sur cette puissante ascendance se révèle dès le premier lancement du sort : le lanceur de sort se transforme en un terrifiant diantrefosse, dont il gagne tous les attributs physiques :
+Force :18/00
+Classe d'armure : -5
+Mouvement : 11
+Attaques par round : 5, dont une morsure qui empoisonne mortellement
+Régénération : 2 pvs par round
+Ne peut être touché que par des armes +3 minimum
+Immunisé au feu et au poison
+Résistant au froid : 50%
+
+Il ne gagne en revanche aucun pouvoir magique supplémentaire, ni non plus de résistance à la magie. Tout son équipement est fondu dans sa nouvelle forme, et tout équipement nouvellement acquit le sera de même (y compris les armes créées par un sort).
+
+Ce sort agissant sur les origines lointaines du seigneur de guerre ne peut pas être appliqué sur une autre personne.~
+
+@7819 = ~Nuée de météores~
+@7820 = ~Nuée de météores (Évocation)
+Niveau : 8
+Portée : 90 m
+Durée : 4 rounds
+Temps d'incantation : 8
+Zone d'effet : rayon de 10 m
+Jet de sauvegarde : non
+
+Ce sort crée un déluge de météores embrasés sur la zone désignée. Toutes les créatures prises sous la nuée sont touchées par 1D8+3 météores chaque round, chacun infligeant 1D4 point de dégâts contondant et 1D4 point de dégâts de feu. La fréquence de chute des météores ne permet aucune sauvegarde et la résistance à la magie protège pas contre les météores.~
+@78201 = ~Nuée de météores (Évocation)
+Niveau : 8
+Portée : 90 m
+Durée : 4 rounds
+Temps d'incantation : 4
+Zone d'effet : rayon de 10 m
+Jet de sauvegarde : non
+
+Ce sort crée un déluge de météores embrasés sur la zone désignée. Toutes les créatures prises sous la nuée sont touchées par 1D8+3 météores chaque round, chacun infligeant 1D4 point de dégâts contondant et 1D4 point de dégâts de feu. La fréquence de chute des météores ne permet aucune sauvegarde et la résistance à la magie protège pas contre les météores.~
+
+@7823 = ~Roches agressives~
+@7824 = ~Roches agressives (Altération)
+Niveau : 8
+Portée : 40m 
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : 9 mètres de rayon 
+Jet de sauvegarde : ½
+
+Ce sort crée à l'endroit désigné des poches de roches en fusion qui jaillissent du sol en prenant la forme de stalagmites acérées. Toutes les créatures présentes dans la zone subissent 1D6 points de dégâts par niveau du lanceur, la moitié de feu et l'autre de dégâts perforants (Max 20D6). Les victimes qui réussissent un jet de sauvegarde contre les sorts ne subissent que la moitié des dégâts. La cible du sort étant le sol lui-même, la résistance à la magie des victimes ne peut pas les protéger contre ce sort.~
+@78241 = ~Roches agressives (Altération)
+Niveau : 8
+Portée : 40m 
+Durée : instantanée
+Temps d'incantation : 4
+Zone d'effet : 9 mètres de rayon 
+Jet de sauvegarde : ½
+
+Ce sort crée à l'endroit désigné des poches de roches en fusion qui jaillissent du sol en prenant la forme de stalagmites acérées. Toutes les créatures présentes dans la zone subissent 20D6 points de dégâts, la moitié de feu et l'autre de dégâts perforants. Les victimes qui réussissent un jet de sauvegarde contre les sorts ne subissent que la moitié des dégâts. La cible du sort étant le sol lui-même, la résistance à la magie des victimes ne peut pas les protéger contre ce sort.~
+
+@7825 = ~Prévoyance~
+@7826 = ~Prévoyance (Enchantement, métamagie)
+Niveau : 8
+Portée : 0 
+Durée : spéciale
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
+
+Poussant toujours plus loin sa maîtrise des arcanes, le seigneur de guerre a compris qu'il pouvait "retarder" l'action de ses sorts pour les utiliser plus tard. Il peut de fait s'en servir pour prévenir certaines situations qu'il n'aurait pas prévues. En utilisant ce sort, il devient capable de préparer ses sorts pour les libérer sous certaines conditions. 
+Techniquement, lorsqu’il prépare ses sorts, il doit déterminer quels sorts il choisit et sous quelle condition ceux-ci seront libérés. La condition peut être : impuissance, empoisonnement, vie réduite, ou simplement vue d'un ennemi, et les sorts peuvent être n'importe lesquels, en accord cependant avec la condition.
+Il peut préparer ainsi deux sorts de niveau 6 maximum pour être lancés plus tard.
+Au niveau 21, il peut préparer deux sorts de niveau 7 maximum
+Au niveau 23, il peut préparer deux sorts de niveau 8 maximum
+Au niveau 25, il peut préparer deux sorts de niveau 8 maximum ou trois sorts de niveau 6 ou moins
+Au niveau 27, il peut préparer deux sorts de niveau 9 maximum ou trois sorts de niveau 7 ou moins
+Au niveau 29, il peut préparer deux sorts de niveau 9 maximum ou trois sorts de niveau 8 ou moins
+Au niveau 31, il peut préparer trois sorts de niveau 9 maximum.
+
+Il ne peut pas avoir plusieurs sorts préparés en même temps, toute nouvelle préparation échouera automatiquement s'il y en a déjà une de prête.
+
+Note : les sorts de niveau 10 sont traités comme des sorts de niveau 9 et peuvent être préparé dès le niveau 27.
+
+Ce sort créé par le seigneur de guerre après une étude approfondie sur la métamagie ne peux pas être utilisé par une autre cible.~
+@78261 = ~Deux sorts de niveau 8~
+@78262 = ~Deux sorts de niveau 9~
+@78263 = ~Trois sorts de niveau 6~
+@78264 = ~Trois sorts de niveau 7~
+@78265 = ~Trois sorts de niveau 8~

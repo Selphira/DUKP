@@ -1,0 +1,45 @@
+@71111 = ~Recherches arcaniques~
+@71112 = ~Recherches arcaniques
+
+Exclu par : Recherche intérieure.
+
+Le seigneur de guerre qui poursuit dans cette voie cherche à mieux comprendre la magie telle que la perçoivent les vrais magiciens, en s’appliquant à décrypter ce que sont les runes, le mysticisme et la fameuse "toile" dont il a entendu parler.
+En s'exerçant à décrypter les runes, il gagne la possibilité de lire et libérer l’énergie des parchemins de mage. Il n'est cependant toujours pas en mesure d'apprendre de nouveaux sorts par l’entremise de ceux-ci.
+En travaillant sur les sorts qu'il connaît déjà, il parvient à corriger ceux qui ont des défauts.
+Enfin, en continuant à progresser dans la voie des arcanes, il peut dépasser la limite des sorts connus et créer à partir du prochain niveau d’expérience des sorts de niveau 10. Ces sorts sont mémorisés comme des sorts de niveau 9, et ses facultés de mémorisation s'accordant avec ce niveau de sort, il gagne un sort de niveau 9 mémorisable supplémentaire pour chaque tranche de 3 sorts de niveau 10 développés.~
+@711121 = ~Facultés de mémorisation améliorées : un sort de niveau 9 en plus~
+
+@71113 = ~Développement arcanique : métamagie~
+@71114 = ~Développement arcanique : métamagie
+
+Requis : Recherches arcaniques
+
+Les recherches sur la métamagie permettent au seigneur de guerre d'améliorer son utilisation de l’énergie magique. Il développe de fait un nouveau sort : "Prévoyance", améliore deux sorts qu'il connaît déjà : "Énergie en tout" et "Transfomigration", et gagne la capacité de combiner deux sorts une fois par jour.
+
+Combinaison de sorts : En utilisant ce don, le seigneur de guerre peut combiner deux sorts pour les lancer en une seule fois.
+Techniquement, cela lui demande 5 segments de temps, après quoi il choisi deux sorts pour être fusionnés. Ses sorts sont effacés de sa mémoire, et il gagne la capacité de lancer le nouveau sort créé en un segment de temps.
+Il ne peut fusionner que des sorts à cible identique : deux sorts qui le ciblent lui-même, ou deux sorts qui visent une créature, ou deux sorts qui visent une zone, mais n'importe quel sort peut être choisi pour ce processus.
+Le sort fusionné peut rester indéfiniment "prêt", comme une annexe à ses capacités de mémorisation, mais empêche toute nouvelle combinaison tant qu'il n'est pas libéré (lancé).~
+@711141 = ~Combinaison de sorts~
+@711142 = ~Sorts combinés~
+
+@71115 = ~Amélioration arcanique : dépersonnalisation~
+@71116 = ~Amélioration arcanique : dépersonnalisation
+
+Requis : Développement arcanique : métamagie
+
+Les notions de métamagie que le seigneur de guerre à développées, couplées à son travail sur l'amélioration de ses sorts lui ont permis de développer un nouvel avantage pour ses sorts d'amélioration personnelle. De même qu'il arrive à lancer des sorts offensifs sur une cible unique, il peut maintenant lancer ses sorts bénéfiques sur une tierce personne, et ce dans la limite de son champ de vision. Le sort sur cette cible agit comme s'il l'avait lancé sur lui même (à l’exception des sorts qui modifient ses compétences en se basant sur ses compétences occultées ou innées)
+
+Il ne peut pas dériver ainsi les sorts de niveau 10, particuliers et complexes.~
+
+@71117 = ~Perfectionnement arcanique : diffusion de l'aura~
+@71118 = ~Perfectionnement arcanique : diffusion de l'aura
+
+Requis : Amélioration arcanique : dépersonnalisation
+
+Toujours en se basant sur les possibilités déjà existantes de ses sorts offensifs (notamment ceux attaquant le mental), le seigneur de guerre parvient à dériver ses sorts bénéfiques en sorts de zone. Plus exactement, il peut les diffuser en aura à partir de la cible originale : celle-ci bénéficie alors de tous les avantages du sort, alors que tous les alliés dans les 5 mètres alentours bénéficient des mêmes effets réduits d'un tiers de puissance et durée.
+
+Dans le cas des sorts qui ne peuvent pas être cumulés, une personne affectée par l'aura d'un tel sort ne peut pas être affectée par le sort principal, et vice-versa.~
+
+
+

@@ -1,0 +1,425 @@
+@731 = ~Ghost Weapon~
+@732 = ~Ghost Weapon (Evocation)
+Level: 3
+Range: 0
+Duration: 3 rounds/2 levels
+Casting Time: 3
+Area of Effect: special
+Saving Throw: none
+
+The warlord that run out of weapons can create one with the spell Ghost Weapon. This spell creates in the hand of the mage a portion of ether that he can mold to give it the shape of a weapon he masters. After that the weapon can not leave his hand throughout the duration of the spell, unless replaced by another weapon shaped the same way. Such a weapon has damage points doubled (a ghost long sword therefore inflits 2D8 damage points per hit) and a better penetration, for a +2 THAC0 bonus. The ghost weapon also inflicts 6 additional damage points to undead that are particularly vulnerable to it.
+
+Note: Do not create a two-handed sword or a halberd if you are equipped with a shield; this inconsistency would crash the game. If you want such a weapon, then take under consideration to unequip your shield first.~
+@73291 = ~Ghost Sword~
+@73292 = ~Ghost Katana~
+@73293 = ~Ghost Axe~
+@73294 = ~Ghost Hammer~
+@73295 = ~Ghost Flail~
+@73296 = ~Ghost Halberd~
+@73297 = ~Ghost Weapon (Evocation)
+Level: 3
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: special
+Saving Throw: none
+
+The warlord that run out of weapons can create one with the spell Ghost Weapon. This spell creates in the hand of the mage a portion of ether that he can mold to give it the shape of a weapon he masters. After that the weapon can not leave his hand throughout the duration of the spell, unless replaced by another weapon shaped the same way. Such a weapon has damage points doubled (a ghost long sword therefore inflits 2D8 damage points per hit) and a better penetration, for a +2 THAC0 bonus. The ghost weapon also inflicts 6 additional damage points to undead that are particularly vulnerable to it.
+
+Note: Do not create a two-handed sword or a halberd if you are equipped with a shield; this inconsistency would crash the game. If you want such a weapon, then take under consideration to unequip your shield first.~
+@73298 = ~Ghost Weapon (Evocation)
+Level: 3
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord that is in need of a weapon can create one with the spell Ghost Weapon. This spell creates in the hand of the recipient a portion of ether that takes the shape of a weapon that the warlord chose while casting the spell. He can only choose a weapon he masters. After that the weapon can not leave the hand of the recipient throughout the duration of the spell, unless replaced by another weapon shaped the same way. Such a weapon has damage points doubled (a ghost long sword therefore inflits 2D8 damage points per hit) and a better penetration, for a +2 THAC0 bonus. The ghost weapon also inflicts 6 additional damage points to undead that are particularly vulnerable to it.
+
+Note: don't create a two-handed sword or a halberd if the recipient is equipped with a shield; this inconsistency would crash the game. If you want such a weapon, take into consideration to unequip his shield first.~
+@732981 = ~Ghost Weapon (Evocation)
+Level: 3
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+The warlord that is in need of a weapon can create one with the spell Ghost Weapon. This spell creates in the hand of the recipient a portion of ether that takes the shape of a weapon that the warlord chose while casting the spell. He can only choose a weapon he masters. After that the weapon can not leave the hand of the recipient throughout the duration of the spell, unless replaced by another weapon shaped the same way. Such a weapon has damage points doubled (a ghost long sword therefore inflits 2D8 damage points per hit) and a better penetration, for a +2 THAC0 bonus. The ghost weapon also inflicts 6 additional damage points to undead that are particularly vulnerable to it.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell: in their hands the same weapon is being created, but for a duration of only 2 turns.
+
+Note: Do not create a two-handed sword or a halberd if one of the recipients is equipped with a shield; this inconsistency would crash the game. If you want such a weapon, then take under consideration to unequip the shields first.~
+
+@733 = ~Shiver Armor~
+@734 = ~Shiver Armor (Illusion, Enchantment)
+Level: 3
+Range: 0
+Duration: 3 rounds +1 round/level
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: special
+
+The spell surrounds the caster with a cloud of crackling black sparks, made of nightmares and torments. This dark armor generates fear by creating ghosts based on phobias of the aggressors of the Warlord. Thus, any opponent who hits the mage protected by the armor of fear faces his deepest fears and must make a successful saving throw vs. spells or gives up the fight and flees for 1D4 rounds, terrified. The power of the armor increases by the level of the mage, and every 4 levels of experience beyond level 5 adds a -1 bonus to saving throws and increases the duration of the illusion by 1 round.~
+@7341 = ~Shiver Armor (Illusion, Enchantment)
+Level: 3
+Range: 0
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: special
+
+The spell surrounds the caster with a cloud of crackling black sparks, made of nightmares and torments. This dark armor generates fear by creating ghosts based on phobias of the aggressors of the Warlord. Thus, any opponent who hits the mage protected by the armor of fear faces his deepest fears and must make a successful saving throw vs. spells at -5 or gives up the fight and flees for 1D4 +5 rounds, terrified.~
+@7342 = ~Shiver Armor (Illusion, Enchantment)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: special
+
+The spell surrounds the recipient with a cloud of crackling black sparks, made of nightmares and torments. This dark armor generates fear by creating ghosts based on phobias of the aggressors of the wearer. Thus, any opponent who hits the recipient protected by the armor of fear faces his deepest fears and must make a successful saving throw vs. spells at -5 or gives up the fight and flees for 1D4 +5 rounds, terrified.~
+@73421 = ~Shiver Armor (Illusion, Enchantment)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: special
+
+The spell surrounds the recipient with a cloud of crackling black sparks, made of nightmares and torments. This dark armor generates fear by creating ghosts based on phobias of the aggressors of the wearer. Thus, any opponent who hits the recipient protected by the armor of fear faces his deepest fears and must make a successful saving throw vs. spells at -5 or gives up the fight and flees for 1D4 +5 rounds, terrified.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell:
+they are covered for 15 rounds by an armor that imposes a -3 penalty and make enemies flee for 1D4 +3 rounds.~
+
+@735 = ~Chameleon~
+@736 = ~Chameleon (Illusion)
+Level: 3
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 4
+Area of Effect: caster
+Saving Throw: none
+
+Looking for invisibility, the warlord reached a softened but still useful result, this spell.
+Chameleon makes the warlord almost invisible. In fact, he is not really invisible but blends into the background by becoming transparent. He then gains a bonus in hiding of +1 to AC and +1 to saving throws.
+As long as he moves he can be spotted. But if stops moving and stands still for 1 round, then he will really become invisible. He loses this advantage if he casts a spell or takes an offensive action, but any new round standing still would make him invisible again. He can repeat it as many times as desired as the spell lasts.~
+@7361 = ~Chameleon (Illusion)
+Level: 3
+Range: 0
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+Looking for invisibility, the warlord reached a softened but still useful result, this spell.
+Chameleon makes the warlord almost invisible. In fact, he is not really invisible but blends into the background by becoming transparent. He then gains a bonus in hiding of +1 to AC and +1 to saving throws.
+As long as he moves he can be spotted. But if stops moving and stands still for 1 round, then he will really become invisible. He loses this advantage if he casts a spell or takes an offensive action, but any new round standing still would make him invisible again. He can repeat it as many times as desired as the spell lasts.~
+@7362 = ~Chameleon (Illusion)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+Looking for invisibility, the warlord reached a softened but still useful result, this spell.
+Chameleon makes the recipient almost invisible. In fact, he is not really invisible but blends into the background by becoming transparent. He then gains a bonus in hiding of +1 to AC and +1 to saving throws.
+As long as he moves he can be spotted. But if stops moving and stands still for 1 round, then he will really become invisible. He loses this advantage if he casts a spell or takes an offensive action, but any new round standing still would make him invisible again. He can repeat it as many times as desired as the spell lasts.~
+@73621 = ~Chameleon (Illusion)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: none
+
+Looking for invisibility, the warlord reached a softened but still useful result, this spell.
+Chameleon makes the recipient almost invisible. In fact, he is not really invisible but blends into the background by becoming transparent. He then gains a bonus in hiding of +1 to AC and +1 to saving throws.
+As long as he moves he can be spotted. But if stops moving and stands still for 1 round, then he will really become invisible. He loses this advantage if he casts a spell or takes an offensive action, but any new round standing still would make him invisible again. He can repeat it as many times as desired as the spell lasts.
+
+All allies within 5 meters from the target will also benefit from softened effects of the spell:
+They benefit of a less pronounced Transparency that grants +1 to AC, and can become invisible standing still 1 round, this for 15 rounds.~
+
+@737 = ~Haste~
+@738 = ~Haste (Alteration)
+Level: 3
+Range: 0
+Duration: 5 rounds + 1 round/level
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell hastes the warlord. He gets a movement speed bonus of +7, gets +1 to speed factor, +1 to casting speed and armor class, and can make an additional attack per round. Haste can not be cumulated with other haste effects, and does not negate a slow spell.~
+@7389 = ~You already are under the effects of Haste~ ~You already are under the effects of Haste~
+@7381 = ~Haste (Alteration)
+Level: 3
+Range: 0
+Duration: 25 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell hastes the warlord. He gets a movement speed bonus of +7, gets +2 to speed factor, +1 to casting speed and armor class, and can make an additional attack per round. Haste can not be cumulated with other haste effects, and does not negate a slow spell.~
+@7382 = ~Haste (Alteration)
+Level: 3
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell hastes the recipient. He gets a movement speed bonus of +7, gets +2 to speed factor, +1 to casting speed and armor class, and can make an additional attack per round. Haste can not be cumulated with other haste effects, and does not negate a slow spell.~
+@73821 = ~Haste (Alteration)
+Level: 3
+Range: visual range of the caster
+Duration: 25 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell hastes the recipient. He gets a movement speed bonus of +7, gets +2 to speed factor, +1 to casting speed and armor class, and can make an additional attack per round. Haste can not be cumulated with other haste effects, and does not negate a slow spell.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: +5 to movement speed, +1 to speed factor, 1 additional attack per round, for 17 rounds.~
+
+@739 = ~Circle of Ice~
+@7310 = ~Circle of Ice (Alteration)
+Level: 3
+Range: 0
+Duration: special
+Casting Time: 3
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+This spell glices all of a sudden the air around the warlord and agglomerates ice crystals in a frozen wave that spreads from him for a distance of 5 meters. All creatures in the path of the wave are deeply chilled and suffer 1D4 +1 cold damage points per level of the wizard (max. 10D4 +10) and become numb (-15% to movement speed, -1 to THAC0 and -2 to dexterity) for a round per level (max 1 turn).
+Those who make a successful saving throw vs. spells receive only half damage and avoid numbness.~
+@73101 = ~Numb~
+@73102 = ~Circle of Ice (Alteration)
+Level: 3
+Range: 0
+Duration: special
+Casting Time: 2
+Area of Effect: 5-meters radius
+Saving Throw: 1/2
+
+This spell glices all of a sudden the air around the warlord and agglomerates ice crystals in a frozen wave that spreads from him for a distance of 5 meters. All creatures in the path of the wave are deeply chilled, suffer 10D4 +10 cold damage points and become numb (-15% to movement speed, -1 to THAC0 and -2 to dexterity) for 1 turn.
+Those who make a successful saving throw vs. spells receive only half damage and avoid numbness.~
+
+@7311 = ~Chain Lightning~
+@7312 = ~Chain Lightning (Invocation/Evocation)
+Level: 3
+Range: visual range of caster
+Duration: Instant
+Casting Time: 3
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+When the warlord casts chain lightning, arcs of electrical energy burst from his fingertips. These brilliant arcs of lightning leap at all enemies near the caster, burning them with electrical damage. The lightning, when hitting a first target, splits to hit all the creatures within 9-meters radius. Caution should be exercised in using this spell, because lightning does not differentiate and equally strikes enemies and allies of the wizard. The lightning causes 1d6 points of damage for every level of the caster (maximum 10D6). If the target of the lightning saves against spells only half damage is inflicted.~
+@73121 = ~Chain Lightning (Invocation/Evocation)
+Level: 3
+Range: visual range of caster
+Duration: Instant
+Casting Time: 2
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+When the warlord casts chain lightning, arcs of electrical energy burst from his fingertips. These brilliant arcs of lightning leap at all enemies near the caster, burning them with electrical damage. The lightning, when hitting a first target, splits to hit all the creatures within 9-meters radius. Caution should be exercised in using this spell, because lightning does not differentiate and equally strikes enemies and allies of the wizard. The lightning causes 10d6 points of damage. If the target of the lightning saves against spells only half damage is inflicted.~
+@73122 = ~Chain Lightning (Invocation/Evocation)
+Level: 3
+Range: visual range of caster
+Duration: Instant
+Casting Time: 3
+Area of Effect: 9-meters radius
+Saving Throw: 1/2
+
+When the warlord casts chain lightning, arcs of electrical energy burst from his fingertips. These brilliant arcs of lightning leap at all enemies near the caster, burning them with electrical damage. The lightning, when hitting a first target, splits to hit all the creatures within 9-meters radius. The mage can freely lead lightning to hit his enemies only. The lightning causes 10d6 points of damage. If the target of the lightning saves against spells only half damage is inflicted.~
+
+@7313 = ~Dispelling Field~
+@7314 = ~Dispelling Field (Abjuration)
+Level: 3
+Range: 0
+Duration: special
+Casting Time: 2
+Area of Effect: 10-meters radius
+Saving Throw: none
+
+This spell reproduces the effect of Dispel Magic, but extends dispelling to an area of 10 meters radius around the caster, dispelling any creature within the area. Chances of a successful dispelling stays the same, always at least 1% chance of success/failure. Every affected creature is treated independently, dispelling can, therefore, be very successful for one and fails for another.~
+
+@7315 = ~Ghost Hit~
+@7316 = ~Ghost Hit (Evocation)
+Level: 3
+Range: 20 meters
+Duration: instantaneous/special
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: special
+
+The search for an unstoppable hit led the warlord to create this spell. It makes appear in the air a sword forged of pure wild magic that inevitably hits the designated target and inflicts 1D8 damage. Moreover, while hitting the sword generates one of the following:
+- 2D8 points of damage
+- 4D8 points of damage
+- Paralysis for 2D4 rounds if a saving throw vs. spells is failed, 1D3 rounds if saving throw is successful
+
+Starting from level 12, the warlord controls a little better the spell and can influence the chaotic magic that drives the sword to add more violent or other elemental random effects:
+- 6D8 points of fire damage
+- 8D8 points of cold damage
+- Dispel Magic (no saving throw)
+- Flesh to Stone if a saving throw vs. petrification is failed with a -2 bonus, otherwise paralysis for 2D4 rounds
+- 10D8 points of electricity damage.~
+@73161 = ~Ghost Hit (Evocation)
+Level: 3
+Range: 20 meters
+Duration: instantaneous/special
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: special
+
+The search for an unstoppable hit led the warlord to create this spell. It makes appear in the air a sword forged of pure wild magic that inevitably hits the designated target and inflicts 1D8 damage. Moreover, while hitting the sword generates one of the following:
+- 2D8 points of damage
+- 4D8 points of damage
+- Paralysis for 2D4 rounds if a saving throw vs. spells is failed, 1D3 rounds if saving throw is successful
+- 6D8 points of fire damage
+- 8D8 points of cold damage
+- Dispel Magic (no saving throw)
+- Flesh to Stone if a saving throw vs. petrification is failed with a -2 bonus, otherwise paralysis for 2D4 rounds
+- 10D8 points of electricity damage.~
+
+@7317 = ~Elemental Resistance~
+@7318 = ~Elemental Resistance (Abjuration)
+Level: 3
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to better resist to fire and cold. When he casts the spell, he must choose against which element he wishes being protected, then he gains 4% per level (max 80%) of resistance against that element, be it of magical origin or not: spells, weapons, wands, breathes, etc.
+From level 8, the warlord can also chose being protected against electricity.
+From level 11, he may also chose being protected against acid.
+This spell can be cast multiple times to cumulate protection against the different elements, but not several times for the same element.~
+@73181 = ~Fire~
+@73182 = ~Cold~
+@73183 = ~Electricity~
+@73184 = ~Acid~
+@73185 = ~Elemental Resistance (Abjuration)
+Level: 3
+Range: 0
+Duration: 3 turns
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell allows the warlord to better resist to fire, cold, electricity and acid. When he casts the spell, he must choose against which element he wishes being protected, after which he gains 80% of resistance against that element, be it of magical origin or not: spells, weapons, wands, breathes, etc.
+This spell can be cast multiple times to cumulate protection against the different elements, but not several times for the same element.~
+@73186 = ~Elemental Protection (Abjuration)
+Level: 3
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to better resist to fire, cold, electricity and acid. When the warlord casts the spell, he must choose against which element he wishes to create a protection, after which the recipient gains 80% of resistance against that element, be it of magical origin or not: spells, weapons, wands, breathes, etc.
+This spell can be cast multiple times to cumulate protection against the different elements, but not several times for the same element.~
+@731861 = ~Elemental Resistance (Abjuration)
+Level: 3
+Range: visual range of the caster
+Duration: 3 turns
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell allows the recipient to better resist to fire, cold, electricity and acid. When the warlord casts the spell, he must choose against which element he wishes to create a protection, after which the recipient gains 80% of resistance against that element, be it of magical origin or not: spells, weapons, wands, breathes, etc.
+This spell can be cast multiple times to cumulate protection against the different elements, but not several times for the same element.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: 53% resistance against the element chosen by the warlord for 2 turns.~
+
+@7319 = ~Intuition~
+@7320 = ~Intuition (Divination)
+Level: 3
+Range: 0
+Duration: 3 rounds + 1 round/level
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+This spell helps the warlord to have a premonition the evil things that could happen to him. Under the cover of this spell, he gains a general bonus of +1 to Armor Class and saving throws vs. breath, and can not be hit by a sneak attack.~
+@73201 = ~Intuition (Divination)
+Level: 3
+Range: 0
+Duration: 23 rounds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+This spell helps the warlord to have a premonition the evil things that could happen to him. Under the cover of this spell, he gains a general bonus of +1 to Armor Class and saving throws vs. breath, and can not be hit by a sneak attack.~
+@73202 = ~Intuition (Divination)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell helps the recipient to have a premonition the evil things that could happen to him. Under the cover of this spell, he gains a general bonus of +1 to Armor Class and saving throws vs. breath, and can not be hit by a sneak attack.~
+@732021 = ~Intuition (Divination)
+Level: 3
+Range: visual range of the caster
+Duration: 23 rounds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell helps the recipient to have a premonition the evil things that could happen to him. Under the cover of this spell, he gains a general bonus of +1 to Armor Class and saving throws vs. breath, and can not be hit by a sneak attack.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell: it will last for 15 rounds only.~
+
+@7321 = ~Iron Tornado~
+@7322 = ~Iron Tornado (Enchantment)
+Level: 3
+Range: 0
+Duration: 10 seconds
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+It's by looking for a way to haste hitting that the warlord found out this spell, incomplete but very effective. It dramatically improves handlings of the caster for a short period of time, allowing him to get 10 attacks per found for 10 seconds. The spell does not, however, gives his mind the same haste, making his movements rough and imposes him a -5 penalty to THAC0 and 50% chance to fail his castings. Only the experience of the wizard allows to overcome this drawback, which decreases by 1/10% every 4 levels of the caster beyond level 5 (-1 to THAC0 and 10% chance to fail a casting at level 21).~
+@73221 = ~Iron Tornado (Enchantment)
+Level: 3
+Range: 0
+Duration: 10 seconds
+Casting Time: 2
+Area of Effect: caster
+Saving Throw: none
+
+It's by looking for a way to haste hitting that the warlord found out this spell, incomplete but very effective. It dramatically improves handlings of the caster for a short period of time, allowing him to get 10 attacks per found for 10 seconds. The spell does not, however, gives his mind the same haste, making his movements rough and imposes him a -1 penalty to THAC0 and 10% chance to fail his castings.~
+@73222 = ~Iron Tornado (Enchantment)
+Level: 3
+Range: 0
+Duration: 10 seconds
+Casting Time: 3
+Area of Effect: caster
+Saving Throw: none
+
+It's by looking for a way to haste hitting that the warlord found out this very effective spell. It dramatically improves handlings of the caster for a short period of time, allowing him to get 10 attacks per found for 10 seconds.~
+@73223 = ~Iron Tornado (Enchantment)
+Level: 3
+Range: visual range of the caster
+Duration: 10 seconds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+It's by looking for a way to haste hitting that the warlord found out this very effective spell. It dramatically improves handlings of the recipient for a short period of time, allowing him to get 10 attacks per found for 10 seconds.~
+@732231 = ~Iron Tornado (Enchantment)
+Level: 3
+Range: visual range of the caster
+Duration: 10 seconds
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: none
+
+It's by looking for a way to haste hitting that the warlord found out this very effective spell. It dramatically improves handlings of the recipient for a short period of time, allowing him to get 10 attacks per found for 10 seconds.
+
+All allies within 5 meters from the recipient will also benefit from softened effects of the spell:
+They get 8 attacks per round for the round following the casting.~

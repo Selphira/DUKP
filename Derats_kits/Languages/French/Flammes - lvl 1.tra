@@ -1,0 +1,106 @@
+@212 = ~Apaisement (Abjuration) 
+Niveau : 1
+Sphère : charme 
+Portée : 10 mètres
+Durée : 1 heure
+Temps d'incantation : 1 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : spécial
+
+Le prêtre insuffle du courage aux bénéficiaires du sort et élève leur moral à son plus haut niveau. Au fur et à mesure que la durée du sort s'écoule, le moral des cibles revient à son niveau normal.
+Le prêcheur des flammes ayant perdu toutes facultés curatives, la version d'apaisement qu'il lance ne peut pas annuler la peur de quelqu'un déjà effrayé.~
+@2121 = ~Apaisement (Abjuration) 
+Niveau : 1
+Sphère : charme 
+Portée : champ visuel du lanceur
+Durée : 1 tour
+Temps d'incantation : 1 
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : aucun
+
+Le prêtre insuffle du courage au bénéficiaire du sort et élève son moral à son plus haut niveau. Au fur et à mesure que la durée du sort s'écoule, le moral de la cible revient à son niveau normal. Le prêcheur des flammes ayant perdu toutes facultés curatives, la version d'apaisement qu'il lance ne peut pas annuler la peur de quelqu'un déjà effrayé.~ //Texte de IWDEE
+
+@213 = ~Dard de feu~
+@214 = ~Dard de feu (Évocation)
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 10 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un dard enflammé part de ses mains et file droit vers la cible désignée. Il inflige à l'impact 1D3 point de dégâts de feu et à 50% de chance d''exploser, embrasant alors la cible pour 1D4 points de dégâts supplémentaires par 2 niveaux du lanceur (max 10D4). Si la cible réussi un jet de sauvegarde contre les sorts elle ne subit que la moitié des dégâts provoqués par l'embrasement.~
+@2141 = ~Dard de feu (Évocation)
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 10 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un dard enflammé part de ses mains et file droit vers la cible désignée. Il inflige à l'impact 1D4 point de dégâts de feu et à 50% de chance d''exploser, embrasant alors la cible pour 12D4 points de dégâts supplémentaires (13D4 au niveau 30 et 14D4 au niveau 40). Si la cible réussi un jet de sauvegarde contre les sorts, elle ne subit que la moitié des dégâts provoqués par l'embrasement.~
+@2142 = ~Dard de feu (Évocation)
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 10 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : 1 créature
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un dard enflammé part de ses mains et file droit vers la cible désignée. Il inflige à l'impact 1D3 point de dégâts de feu et à 50% de chance d''exploser, embrasant alors la cible pour 10D4 points de dégâts supplémentaires. Si la cible réussi un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) elle ne subit que la moitié des dégâts provoqués par l'embrasement.~
+
+@215 = ~Incinérateur~
+@216 = ~Incinérateur (Évocation) 
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 20 m
+Durée : 2 rounds
+Temps d'incantation : 1 
+Zone d'effet : 0,5x20 m 
+Jet de sauvegarde : aucun
+
+Un jet de flamme apparaît au bout des doigts du lanceur et s'élance en direction de la cible. Celle-ci subit 2-16 points de dégâts, sans jet de sauvegarde. Les autres créatures qui traversent le jet de flammes subissent les mêmes dommages. Le jet persiste un certains temps et inflige encore 2-16 points de dégâts le round suivant avant de s’éteindre.~
+@2161 = ~Incinérateur (Évocation) 
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 20 m
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : 0,5x20 m 
+Jet de sauvegarde : aucun
+
+Un jet de flamme apparaît au bout des doigts du lanceur et s'élance en direction de la cible. Celle-ci subit 2-20 points de dégâts (2-22 au niveau 30 et 2-24 au niveau 40), sans jet de sauvegarde. Les autres créatures qui traversent le jet de flammes subissent les mêmes dommages. Le jet persiste un certains temps et inflige les mêmes dégâts le round suivant avant de s’éteindre.~
+
+@218 = ~Mains ardentes (Altération) 
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 2 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : arc de 60 degrés
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un jet de flammes brûlantes jaillit du bout de ses doigts. Il doit joindre ses deux pouces et placer ses autres doigts en éventail pour que les flammes puissent jaillir vers l'avant. Ces flammes font 1,5 m de long, sur un arc horizontal d'environ 60° devant le prêtre. Toute créature dans la zone d'effet des flammes subit 1D4 points de dégâts, plus 2 points pour chaque niveau du jeteur de sorts, atteignant 1D4 + 20 points de dégâts du feu maximum. Une créature réussissant un jet de sauvegarde contre les sorts ne subit que la moitié des dégâts.~
+@2181 = ~Mains ardentes (Altération) 
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 2 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : arc de 60 degrés
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un jet de flammes brûlantes jaillit du bout de ses doigts. Il doit joindre ses deux pouces et placer ses autres doigts en éventail pour que les flammes puissent jaillir vers l'avant. Ces flammes font 1,5 m de long, sur un arc horizontal d'environ 60° devant le prêtre. Toute créature dans la zone d'effet des flammes subit 1D4 + 24 points de dégâts du feu (1D4 + 26 au niveau 30 et 1D4 + 28 au niveau 40). Une créature réussissant un jet de sauvegarde contre les sorts ne subit que la moitié des dégâts.~
+@2182 = ~Mains ardentes (Altération) 
+Niveau : 1
+Sphère : élémentaire (feu)
+Portée : 2 mètres 
+Durée : instantanée
+Temps d'incantation : 1 
+Zone d'effet : arc de 60 degrés
+Jet de sauvegarde : ½
+
+Lorsque le prêcheur des flammes lance ce sort, un jet de flammes brûlantes jaillit du bout de ses doigts. Il doit joindre ses deux pouces et placer ses autres doigts en éventail pour que les flammes puissent jaillir vers l'avant. Ces flammes font 1,5 m de long, sur un arc horizontal d'environ 60° devant le prêtre. Toute créature dans la zone d'effet des flammes subit 1d4 + 20 points de dégâts du feu. Une créature réussissant un jet de sauvegarde contre les sorts à -2 (-1 supplémentaire par tranche de 5 niveaux du lanceur de sort après le 20ème) ne subit que la moitié des dégâts.~

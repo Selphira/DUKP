@@ -1,0 +1,357 @@
+///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////   OMBREMAGE   //////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+
+BEGIN @150
+REQUIRE_PREDICATE GAME_IS ~BGT TOB BGEE BG2EE IWDEE~ @0009
+
+ADD_KIT ~pxOMBREMAGE~
+~pxOMBREMAGE            1           0           1           1           0           0           0           0~
+~pxOMBREMAGE            0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 1 1 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
+~pxOMBREMAGE            0       9       0       9       0       0~
+~pxOMBREMAGE            0       0       0       0       0       0~
+~pxOMBREMAGE            0       17      0       0       0       0~
+~pxOMBREMAGE            0       15      0       0       0       0~
+~pxOMBREMAGE            1       0       0       1       0       0       1       0       0~
+~pxOMBREMAGE            1       1       1       0       0       0~
+~Derats_kits/Ombremage/pxOmbMag.2da~
+~K_T_G~
+~0x00040000    4~
+~PXG~
+~LEAT14 * * BAG28 RING06 RING05,10 * BOOT02 AMUL19 BRAC16 BELT06 * BULL03,40 * POTN52,5 POTN04,2 POTN14,5 SLNG05 SW1H28 STAF08~
+SAY @1509
+SAY @151
+SAY @152
+
+ACTION_IF GAME_IS ~BGEE BG2EE IWDEE~ THEN BEGIN
+	LAF fl#add_kit_ee	STR_VAR	kit_name = pxOMBREMAGE	thiefskl = ~40 15~	clsrcreq = ~0 0 0 0 0 1 0~	END
+END
+
+ADD_PROJECTILE ~Derats_kits/Ombremage/Pros/pxg2miss.pro~
+COPY_EXISTING	~Derats_kits/Flammes/Pros/pxf5pulv.pro~	~override/pxg3pous.pro~	WRITE_LONG 0x204 128	WRITE_LONG 0x206 128	WRITE_ASCII 0x21c ~pxg3pouv~ #8
+ADD_PROJECTILE ~override/pxg3pous.pro~
+
+COPY	~Derats_kits/Ombremage/Bams~					~override~
+		~Derats_kits/Ombremage/Cres~					~override~
+		~Derats_kits/Ombremage/Items~					~override~
+		~Derats_kits/Ombremage/Spells/Copy~				~override~
+		~Derats_kits/Ombres/Bams~						~override~
+		~Derats_kits/Ombres/Spells/Copy/pxoinv1.spl~	~override~
+		~Derats_kits/Ombres/Spells/Copy/pxomant1.eff~	~override~
+COPY	~Derats_kits/Ombres/Spells/pxotrans.spl~		~override~	SAY NAME1 @12161
+COPY	~Derats_kits/Warlord/Spells/Copy/pxw6cop1.spl~	~override/pxg7imag.spl~	WRITE_BYTE 0x9e 4
+
+
+COPY_EXISTING	~pxg103.2da~				~override/pxg104.2da~	REPLACE_TEXTUALLY ~3	3~ ~4	3~
+COPY_EXISTING	~pxg104.2da~				~override/pxg105.2da~	REPLACE_TEXTUALLY ~4~ ~5~
+COPY_EXISTING	~pxg104.2da~				~override/pxg106.2da~	REPLACE_TEXTUALLY ~4~ ~6~
+COPY_EXISTING	~pxg106.2da~				~override/pxg107.2da~
+				~pxg206.2da~				~override/pxg207.2da~	REPLACE_TEXTUALLY ~6~ ~7~	REPLACE_TEXTUALLY ~07~ ~06~
+COPY_EXISTING	~pxg107.2da~				~override/pxg108.2da~
+				~pxg207.2da~				~override/pxg208.2da~	REPLACE_TEXTUALLY ~7~ ~8~
+COPY_EXISTING	~pxg108.2da~				~override/pxg109.2da~
+				~pxg208.2da~				~override/pxg209.2da~	REPLACE_TEXTUALLY ~8~ ~9~
+COPY_EXISTING	~pxg109.2da~				~override/pxg110.2da~
+				~pxg209.2da~				~override/pxg210.2da~
+				~pxg309.2da~				~override/pxg310.2da~	REPLACE_TEXTUALLY ~9~ ~10~
+COPY_EXISTING	~pxg111.2da~				~override/pxg112.2da~
+				~pxg211.2da~				~override/pxg212.2da~	
+				~pxg211.2da~				~override/pxg212.2da~	REPLACE_TEXTUALLY ~11~ ~12~	REPLACE_TEXTUALLY ~ar12~ ~ar11~	REPLACE_TEXTUALLY ~mo12~ ~mo11~	REPLACE_TEXTUALLY ~po12~ ~po11~
+COPY_EXISTING	~pxg112.2da~				~override/pxg113.2da~
+				~pxg212.2da~				~override/pxg213.2da~
+				~pxg312.2da~				~override/pxg313.2da~
+				~pxg412.2da~				~override/pxg413.2da~	REPLACE_TEXTUALLY ~12~ ~13~	REPLACE_TEXTUALLY ~as13~ ~as12~
+COPY_EXISTING	~pxg113.2da~				~override/pxg114.2da~
+				~pxg213.2da~				~override/pxg214.2da~
+				~pxg313.2da~				~override/pxg314.2da~
+				~pxg413.2da~				~override/pxg414.2da~
+				~pxg5ma13.2da~				~override/pxg5ma14.2da~	REPLACE_TEXTUALLY ~13~ ~14~
+COPY_EXISTING	~pxg113.2da~				~override/pxg115.2da~
+				~pxg213.2da~				~override/pxg215.2da~
+				~pxg313.2da~				~override/pxg315.2da~
+				~pxg413.2da~				~override/pxg415.2da~
+				~pxg5ma13.2da~				~override/pxg5ma15.2da~	REPLACE_TEXTUALLY ~13~ ~15~	REPLACE_TEXTUALLY ~mo11~ ~mo15~
+COPY_EXISTING	~pxg113.2da~				~override/pxg116.2da~
+				~pxg213.2da~				~override/pxg216.2da~	REPLACE_TEXTUALLY ~13~ ~16~
+COPY_EXISTING	~pxg315.2da~				~override/pxg316.2da~
+				~pxg415.2da~				~override/pxg416.2da~	REPLACE_TEXTUALLY ~15~ ~16~	REPLACE_TEXTUALLY ~3mo16~ ~3mo15~	REPLACE_TEXTUALLY ~11~ ~16~	REPLACE_TEXTUALLY ~af16~ ~af15~
+COPY_EXISTING	~pxg515.2da~				~override/pxg516.2da~	REPLACE_TEXTUALLY ~ma15~ ~ma16~	REPLACE_TEXTUALLY ~do15~ ~do16~
+COPY_EXISTING	~pxg116.2da~				~override/pxg117.2da~
+				~pxg216.2da~				~override/pxg217.2da~
+				~pxg316.2da~				~override/pxg317.2da~
+				~pxg416.2da~				~override/pxg417.2da~
+				~pxg516.2da~				~override/pxg517.2da~
+				~pxg5ma16.2da~				~override/pxg5ma17.2da~
+				~pxg6ma16.2da~				~override/pxg6ma17.2da~	REPLACE_TEXTUALLY ~16~ ~17~	REPLACE_TEXTUALLY ~mo17~ ~mo16~	REPLACE_TEXTUALLY ~mo13~ ~mo17~	
+COPY_EXISTING	~pxg116.2da~				~override/pxg118.2da~
+				~pxg216.2da~				~override/pxg218.2da~
+				~pxg316.2da~				~override/pxg318.2da~
+				~pxg5ma16.2da~				~override/pxg5ma18.2da~
+				~pxg6ma16.2da~				~override/pxg6ma18.2da~	REPLACE_TEXTUALLY ~16~ ~18~
+COPY_EXISTING	~pxg417.2da~				~override/pxg418.2da~
+				~pxg517.2da~				~override/pxg518.2da~	REPLACE_TEXTUALLY ~17~ ~18~	REPLACE_TEXTUALLY ~15~ ~18~	REPLACE_TEXTUALLY ~mo18~ ~mo17~
+COPY_EXISTING	~pxg116.2da~				~override/pxg119.2da~
+				~pxg216.2da~				~override/pxg219.2da~
+				~pxg316.2da~				~override/pxg319.2da~
+				~pxg5ma16.2da~				~override/pxg5ma19.2da~
+COPY_EXISTING	~pxg6ma16.2da~				~override/pxg6ma19.2da~	REPLACE_TEXTUALLY ~16~ ~19~
+COPY_EXISTING	~pxg418.2da~				~override/pxg419.2da~
+				~pxg518.2da~				~override/pxg519.2da~	
+				~pxg618.2da~				~override/pxg619.2da~	REPLACE_TEXTUALLY ~18~ ~19~
+COPY_EXISTING	~pxg116.2da~				~override/pxg120.2da~
+				~pxg216.2da~				~override/pxg220.2da~
+				~pxg316.2da~				~override/pxg320.2da~
+				~pxg5ma16.2da~				~override/pxg5ma20.2da~
+				~pxg6ma16.2da~				~override/pxg6ma20.2da~	REPLACE_TEXTUALLY ~16~ ~20~
+COPY_EXISTING	~pxg419.2da~				~override/pxg420.2da~
+				~pxg519.2da~				~override/pxg520.2da~
+				~pxg619.2da~				~override/pxg620.2da~	
+				~pxg6ma19.2da~				~override/pxg6ma20.2da~	REPLACE_TEXTUALLY ~19~ ~20~	REPLACE_TEXTUALLY ~15~ ~20~
+COPY_EXISTING	~pxg320.2da~				~override/pxg321.2da~
+				~pxg420.2da~				~override/pxg421.2da~
+				~pxg520.2da~				~override/pxg521.2da~	REPLACE_TEXTUALLY ~15~ ~21~	REPLACE_TEXTUALLY ~16~ ~21~	REPLACE_TEXTUALLY ~17~ ~21~
+COPY_EXISTING	~pxg5anim.cre~				~override/pxg5aniz.cre~	WRITE_BYTE 0x275 4
+
+COPY_EXISTING	~spidgisu.eff~				~override/pxg3gnol.eff~	WRITE_ASCII 0x30 ~pxg3gnol~ #8	WRITE_ASCII 0x70 ~pxgombre~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3goba.eff~	WRITE_ASCII 0x30 ~pxg3goba~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3gobh.eff~	WRITE_ASCII 0x30 ~pxg3gobh~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3hoba.eff~	WRITE_ASCII 0x30 ~pxg3hoba~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3hobe.eff~	WRITE_ASCII 0x30 ~pxg3hobe~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3orqa.eff~	WRITE_ASCII 0x30 ~pxg3orqa~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3orqh.eff~	WRITE_ASCII 0x30 ~pxg3orqh~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3orog.eff~	WRITE_ASCII 0x30 ~pxg3orog~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg3leza.eff~	WRITE_ASCII 0x30 ~pxg3leza~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4loup.eff~	WRITE_ASCII 0x30 ~pxg4loup~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4ogre.eff~	WRITE_ASCII 0x30 ~pxg4ogre~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4ours.eff~	WRITE_ASCII 0x30 ~pxg4ours~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4lion.eff~	WRITE_ASCII 0x30 ~pxg4lion~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4verc.eff~	WRITE_ASCII 0x30 ~pxg4verc~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4arai.eff~	WRITE_ASCII 0x30 ~pxg4arai~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg4ette.eff~	WRITE_ASCII 0x30 ~pxg4ette~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5mino.eff~	WRITE_ASCII 0x30 ~pxg5mino~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5yuan.eff~	WRITE_ASCII 0x30 ~pxg5yuan~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5arai.eff~	WRITE_ASCII 0x30 ~pxg5arai~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5trol.eff~	WRITE_ASCII 0x30 ~pxg5trol~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5yuam.eff~	WRITE_ASCII 0x30 ~pxg5yuam~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5wive.eff~	WRITE_ASCII 0x30 ~pxg5wive~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5ombr.eff~	WRITE_ASCII 0x30 ~pxg5ombr~ #8
+COPY_EXISTING	~pxg3gnol.eff~				~override/pxg5etti.eff~	WRITE_ASCII 0x30 ~pxg5etti~ #8
+COPY_EXISTING	~spidgisu.eff~				~override/pxg5anim.eff~	WRITE_ASCII 0x30 ~pxg5anim~ #8	WRITE_ASCII 0x70 ~pxganima~ #8
+COPY_EXISTING	~pxg5anim.eff~				~override/pxg5aniz.eff~	WRITE_ASCII 0x30 ~pxg5aniz~ #8
+COPY_EXISTING	~dawndam.eff~				~override/pxl2arm1.eff~	WRITE_BYTE 0x1c 1	WRITE_BYTE 0x22 64	WRITE_BYTE 0x38 0	WRITE_BYTE 0x3c 0
+
+COPY_EXISTING	~pxgdmomb.itm~				~override/pxgombre.itm~	WRITE_BYTE 0x76 133
+COPY_EXISTING	~B3-12.itm~					~override/pxg5etti.itm~	WRITE_BYTE 0x88 6
+
+
+COPY	~Derats_kits/Ombremage/Spells/pxgsort1.spl~		~override~	SAY NAME1 @127
+COPY	~Derats_kits/Ombremage/Spells/pxgsort2.spl~		~override~	SAY NAME1 @128
+COPY	~Derats_kits/Ombremage/Spells/pxgsort3.spl~		~override~	SAY NAME1 @129
+COPY	~Derats_kits/Ombremage/Spells/pxgsort4.spl~		~override~	SAY NAME1 @1210
+COPY	~Derats_kits/Ombremage/Spells/pxgsort5.spl~		~override~	SAY NAME1 @1212
+COPY	~Derats_kits/Ombremage/Spells/pxgsort6.spl~		~override~	SAY NAME1 @71286
+COPY	~Derats_kits/Ombremage/Spells/pxgsort7.spl~		~override~	SAY NAME1 @71287
+COPY	~Derats_kits/Ombremage/Spells/pxgsort8.spl~		~override~	SAY NAME1 @71288
+COPY	~Derats_kits/Ombremage/Spells/pxg1ca1.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg1ca11.spl~		~override~	SAY NAME1 @153
+COPY	~Derats_kits/Ombremage/Spells/pxg1ch11.spl~		~override~	SAY NAME1 @1526
+COPY	~Derats_kits/Ombremage/Spells/pxg2mi11.spl~		~override~	SAY NAME1 @154	WRITE_SHORT 0x98 ~%pxg2miss%~
+COPY	~Derats_kits/Ombremage/Spells/pxg3po11.spl~		~override~	SAY NAME1 @155	WRITE_SHORT 0x98 ~%pxg3pous%~
+COPY	~Derats_kits/Ombremage/Spells/pxg3ca11.spl~		~override~	SAY NAME1 @156
+COPY	~Derats_kits/Ombremage/Spells/pxg3mo11.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg3mo15.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg3mo21.spl~		~override~	SAY NAME1 @157
+COPY	~Derats_kits/Ombremage/Spells/pxg4mo13.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg4mo17.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg4mo21.spl~		~override~	SAY NAME1 @158
+COPY	~Derats_kits/Ombremage/Spells/pxg4ma11.spl~		~override~	SAY NAME1 @159
+COPY	~Derats_kits/Ombremage/Spells/pxg4af11.spl~		~override~	SAY NAME1 @1510
+COPY	~Derats_kits/Ombremage/Spells/pxg4as12.spl~		~override~	SAY NAME1 @1511
+COPY	~Derats_kits/Ombremage/Spells/pxg4bo12.spl~		~override~	SAY NAME1 @1512
+COPY	~Derats_kits/Ombremage/Spells/pxg5mo13.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg5mo17.spl~		~override~
+		~Derats_kits/Ombremage/Spells/pxg5mo21.spl~		~override~	SAY NAME1 @1513
+COPY_EXISTING	~pxg4ma11.spl~				~override/pxg5ma13.spl~	SAY NAME1 @1514	WRITE_ASCII 0x76 ~pxg5magi~ #8	WRITE_ASCII 0x76 ~pxg5ma13~ #8
+COPY	~Derats_kits/Ombremage/Spells/pxg5an14.spl~		~override~	SAY NAME1 @1515
+COPY	~Derats_kits/Ombremage/Spells/pxg5do14.spl~		~override~	SAY NAME1 @1516
+COPY	~Derats_kits/Ombremage/Spells/pxg5vo15.spl~		~override~	SAY NAME1 @1517
+COPY_EXISTING	~pxg4ma11.spl~				~override/pxg6ma16.spl~	SAY NAME1 @1518	WRITE_ASCII 0x76 ~pxg6magi~ #8	WRITE_ASCII 0x76 ~pxg6ma16~ #8
+COPY	~Derats_kits/Ombremage/Spells/pxg6af16.spl~		~override~	SAY NAME1 @1519
+COPY	~Derats_kits/Ombremage/Spells/pxg6im17.spl~		~override~	SAY NAME1 @1520
+COPY	~Derats_kits/Ombremage/Spells/pxg6in18.spl~		~override~	SAY NAME1 @1521
+COPY	~Derats_kits/Ombremage/Spells/pxg7in19.spl~		~override~	SAY NAME1 @1522
+COPY	~Derats_kits/Ombremage/Spells/pxg7im20.spl~		~override~	SAY NAME1 @1523
+COPY	~Derats_kits/Ombremage/Spells/pxg8en23.spl~		~override~	SAY NAME1 @1524
+COPY	~Derats_kits/Ombremage/Spells/pxg8in24.spl~		~override~	SAY NAME1 @1525
+COPY	~Derats_kits/Ombremage/Spells/pxghla1.spl~		~override~	SAY NAME1 @1541	SAY NAME1 @1542
+COPY	~Derats_kits/Ombremage/Spells/pxghla2.spl~		~override~	SAY NAME1 @1543	SAY NAME1 @1544
+COPY	~Derats_kits/Ombremage/Spells/pxghla3.spl~		~override~	SAY NAME1 @1545	SAY NAME1 @1546
+COPY	~Derats_kits/Ombremage/Spells/pxghla4.spl~		~override~	SAY NAME1 @1547	SAY NAME1 @1548
+COPY	~Derats_kits/Ombremage/Spells/pxghla5.spl~		~override~	SAY NAME1 @1549	SAY NAME1 @1550
+COPY	~Derats_kits/Ombremage/Spells/pxghla6.spl~		~override~	SAY NAME1 @1551	SAY NAME1 @1552
+
+COPY_EXISTING	~pxg1ca11.spl~				~override/pxg1ca2.spl~	FOR (a=2 ; a< 8 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 30 END	WRITE_ASCIIE 0x1fe ~pxg1ca2~ #8	LPF CORRUPTION INT_VAR proba = 9 END
+COPY_EXISTING	~spwi117.spl~				~override/pxg1to2.spl~
+				~spwi106.spl~				~override/pxg1ce2.spl~	LPF CORRUPTION INT_VAR proba = 9 END				
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo1im2.spl~	~override/pxg1im2.spl~	LPF CORRUPTION INT_VAR proba = 9 END
+COPY_EXISTING	~pxg1so11.spl~				~override/pxg1so3.spl~	FOR (a=2 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 30 END	LPF CORRUPTION INT_VAR proba = 8 END
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo1ha2.spl~	~override/pxg1ha3.spl~	LPF CORRUPTION INT_VAR proba = 8 END
+COPY_EXISTING	~pxg1ch11.spl~				~override/pxg1ch3.spl~	LPF CORRUPTION INT_VAR proba = 8 END
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo2im5.spl~	~override/pxg2im4.spl~	WRITE_BYTE 0xa8 42	LPF CORRUPTION INT_VAR proba = 7 END
+COPY_EXISTING	~spwi205.spl~				~override/pxg2ho4.spl~
+				~spwi223.spl~				~override/pxg2su4.spl~	LPF CORRUPTION INT_VAR proba = 7 END
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo2fl5.spl~	~override/pxg2fl5.spl~	WRITE_ASCIIE 0x28e ~pxg2fl5~ #8	LPF CORRUPTION INT_VAR proba = 6 END
+COPY_EXISTING	~spwi206.spl~				~override/pxg2in5.spl~	LPF CORRUPTION INT_VAR proba = 6 END
+COPY_EXISTING	~pxg2ra11.spl~				~override/pxg2ra6.spl~	FOR (a=2 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 36 END	LPF CORRUPTION INT_VAR proba = 5 END
+COPY_EXISTING	~pxg2mi11.spl~				~override/pxg2mi6.spl~	WRITE_BYTE 0xfe 6	LPF CORRUPTION INT_VAR proba = 5 END
+COPY_EXISTING	~spwi307.spl~				~override/pxg3in7.spl~
+				~pxg3po11.spl~				~override/pxg3po7.spl~	LPF CORRUPTION INT_VAR proba = 4 END
+COPY_EXISTING	~pxg3fo11.spl~				~override/pxg3fo8.spl~	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 96 END	LPF CORRUPTION INT_VAR proba = 3 END
+COPY_EXISTING	~spwi414.spl~				~override/pxg3ar11.spl~	WRITE_BYTE 0x34 3	WRITE_BYTE 0x9d 2
+COPY_EXISTING	~pxg3ar11.spl~				~override/pxg3ar8.spl~
+				~spwi310.spl~				~override/pxg3no8.spl~	LPF CORRUPTION INT_VAR proba = 3 END
+COPY_EXISTING	~pxg3ca11.spl~				~override/pxg3ca9.spl~	FOR (a=2 ; a< 22 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 54 END	WRITE_BYTE 	0x9e 9	WRITE_ASCIIE 0x49e ~pxg3ca9~ #8	LPF CORRUPTION INT_VAR proba = 2 END
+COPY_EXISTING	~pxg3mo11.spl~				~override/pxg3mo9.spl~	LPF CORRUPTION INT_VAR proba = 2 END
+COPY_EXISTING	~pxg4in11.spl~				~override/pxg4in10.spl~	FOR (a=3 ; a< 11 ; a+=1) BEGIN 	WRITE_SHORT 0xa8+a*0x30 78 END	LPF CORRUPTION INT_VAR proba = 1 END
+COPY_EXISTING	~pxg4la11.spl~				~override/pxg4la10.spl~	WRITE_BYTE 0xa8 76	WRITE_BYTE 0x108 76	LPF CORRUPTION INT_VAR proba = 1 END
+COPY_EXISTING	~pxg3mo11.spl~				~override/pxg3mo10.spl~	LPF CORRUPTION INT_VAR proba = 1 END
+
+OUTER_FOR ( i=3 ; i<11 ; i +=1) BEGIN 	//Pour chaque sort à créer du 3ème au 10ème
+	COPY_EXISTING	~pxg1to2.spl~		~override/pxg1to%i%.spl~
+					~pxg1ce2.spl~		~override/pxg1ce%i%.spl~	WRITE_BYTE 0xac 11 -i
+	COPY_EXISTING	~pxg1ca2.spl~		~override/pxg1ca%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_ASCIIE 0x22e ~pxg1ca%i%~ #8	//Au 9eme effet, indiquer la protection contre "Nom du sort crée suivant niveau"
+	FOR (a=3 ; a< 9 ; a+=1) BEGIN 		//pour chaque effet du 4ème au 9eme
+		WRITE_SHORT 0xa8+a*0x30 30+6*(i -2)	//indiquer une durée de 6 x le "niveau du sort" +30
+	END
+	COPY_EXISTING	~pxg1im2.spl~		~override/pxg1im%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_SHORT 0xd8 36+6*(i -2)
+END
+COPY_EXISTING	~pxg1ha3.spl~				~override/pxg1ha4.spl~	WRITE_BYTE 0xac 7	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-2~ END
+COPY_EXISTING	~pxg1ha4.spl~				~override/pxg1ha5.spl~	WRITE_BYTE 0xac 6
+COPY_EXISTING	~pxg1ha4.spl~				~override/pxg1ha6.spl~	WRITE_BYTE 0xac 5	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-3~ END
+COPY_EXISTING	~pxg1ha6.spl~				~override/pxg1ha7.spl~	WRITE_BYTE 0xac 4
+COPY_EXISTING	~pxg1ha6.spl~				~override/pxg1ha8.spl~	WRITE_BYTE 0xac 3	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-4~ END
+COPY_EXISTING	~pxg1ha8.spl~				~override/pxg1ha9.spl~	WRITE_BYTE 0xac 2
+COPY_EXISTING	~pxg1ha8.spl~				~override/pxg1ha10.spl~	WRITE_BYTE 0xac 1	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-5~ END
+OUTER_FOR ( i=4 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg1so3.spl~		~override/pxg1so%i%.spl~	WRITE_BYTE 0xac 11 -i	FOR (a=3 ; a< 6 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 60+30*(i -3) END
+	COPY_EXISTING	~pxg1ch3.spl~		~override/pxg1ch%i%.spl~	WRITE_BYTE 0xac 11 -i
+END
+OUTER_FOR ( i=5 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg2im4.spl~		~override/pxg2im%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_SHORT 0xd8 48+6*(i -4)
+	COPY_EXISTING	~pxg2ho4.spl~		~override/pxg2ho%i%.spl~	WRITE_BYTE 0xac 11 -i
+	COPY_EXISTING	~pxg2su4.spl~		~override/pxg2su%i%.spl~	WRITE_BYTE 0xac 11 -i
+END
+OUTER_FOR ( i=6 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg2fl5.spl~		~override/pxg2fl%i%.spl~	WRITE_BYTE 0xac 11 -i	FOR (a=3 ; a< 12 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 84+12*(i -5)	END	WRITE_ASCIIE 0x2b ~pxg2fl%i%~ #8
+	COPY_EXISTING	~pxg2in5.spl~		~override/pxg2in%i%.spl~	WRITE_BYTE 0xac 11 -i
+END
+OUTER_FOR ( i=7 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg2ra6.spl~		~override/pxg2ra%i%.spl~	WRITE_BYTE 0xac 11 -i	FOR (a=3 ; a< 6 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 30+6*(i -6) END
+	COPY_EXISTING	~pxg2mi6.spl~		~override/pxg2mi%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_BYTE 0x12e i
+END
+OUTER_FOR ( i=8 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg3in7.spl~		~override/pxg3in%i%.spl~	WRITE_BYTE 0xac 11 -i
+	COPY_EXISTING	~pxg3po7.spl~		~override/pxg3po%i%.spl~	WRITE_BYTE 0xac 11 -i
+END
+OUTER_FOR ( i=9 ; i<11 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg3fo8.spl~		~override/pxg3fo%i%.spl~	WRITE_BYTE 0xac 11 -i	FOR (a=2 ; a< 7 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 96+12*(i -8) END
+	COPY_EXISTING	~pxg3no8.spl~		~override/pxg3no%i%.spl~	WRITE_BYTE 0xac 11 -i
+	COPY_EXISTING	~pxg3ar8.spl~		~override/pxg3ar%i%.spl~	WRITE_BYTE 0xac 11 -i
+END
+COPY_EXISTING	~pxg3ca9.spl~				~override/pxg3ca10.spl~	WRITE_BYTE 0xac 1	FOR (a=3 ; a< 23 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 60 END	WRITE_BYTE	0xce 10	WRITE_ASCIIE 0x4ce ~pxg3ca10~ #8
+
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo1ha2.spl~	~override/pxg1ha11.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-5~ END
+COPY	~Derats_kits/Ombres/Spells/Copy/pxo1ha2.spl~	~override/pxg1ha12.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-6~ END
+OUTER_FOR ( i=12 ; i<21 ; i +=1) BEGIN //Pour chaque sort à créer du 12ème au 20ème
+	COPY_EXISTING	~pxg1ca11.spl~		~override/pxg1ca%i%.spl~	FOR (a=2 ; a< 8 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 84+6*(i -11) END	WRITE_ASCIIE 0x1fe ~pxg1ca%i%~ #8
+	COPY	~Derats_kits/Ombres/Spells/Copy/pxo1im2.spl~	~override/pxg2im%i%.spl~	WRITE_SHORT 0xa8 84+6*(i -11)
+	COPY_EXISTING	~pxg1so11.spl~		~override/pxg1so%i%.spl~	FOR (a=2 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 330+30*(i -11) END
+	COPY_EXISTING	~pxg2im4.spl~		~override/pxg2im%i%.spl~	WRITE_SHORT 0xa8 84+6*(i -11)
+	COPY ~Derats_kits/Ombres/Spells/Copy/pxo2fl5.spl~	~override/pxg2fl%i%.spl~	FOR (a=2 ; a< 11 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 156+12*(i -11) END	WRITE_ASCIIE 0x28e ~pxg2fl%i%~ #8
+	COPY_EXISTING	~pxg2ra11.spl~		~override/pxg2ra%i%.spl~	FOR (a=2 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 66+6*(i -11) END
+	COPY_EXISTING	~pxg2mi11.spl~		~override/pxg2mi%i%.spl~	WRITE_BYTE 0xfe i
+	COPY_EXISTING	~pxg3fo11.spl~		~override/pxg3fo%i%.spl~	FOR (a=1 ; a< 6 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 132+12*(i -11) END
+	COPY_EXISTING	~pxg3ca11.spl~		~override/pxg3ca%i%.spl~	FOR (a=2 ; a< 22 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 66+6*(i -11) END	WRITE_BYTE	0x9e i	WRITE_ASCIIE 0x49e ~pxg3ca%i%~ #8
+	COPY_EXISTING	~pxg4in11.spl~		~override/pxg4in%i%.spl~	FOR (a=3 ; a< 11 ; a+=1) BEGIN 	WRITE_SHORT 0xa8+a*0x30 84+6*(i -11) END
+	COPY_EXISTING	~pxg4la11.spl~		~override/pxg4la%i%.spl~	WRITE_BYTE 0xa8 84+6*(i -11)	WRITE_BYTE 0x108 84+6*(i -11)
+END
+COPY_EXISTING	~pxg4af11.spl~				~override/pxg4af15.spl~	WRITE_BYTE 0x9e 3
+COPY_EXISTING	~pxg4af11.spl~				~override/pxg4af20.spl~	WRITE_BYTE 0x9e 4
+OUTER_FOR ( i=14 ; i<21 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg5ma13.spl~			~override/pxg5ma%i%.spl~	WRITE_ASCII 0x76 ~pxg5ma%i%~ #8
+	COPY_EXISTING	~pxg5bi13.spl~			~override/pxg5bi%i%.spl~	FOR (a=0 ; a< 7 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 102+6*(i -14) END
+	COPY_EXISTING	~pxg5bf13.spl~			~override/pxg5bf%i%.spl~	FOR (a=0 ; a< 7 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 102+6*(i -14) END
+END
+OUTER_FOR ( i=15 ; i<21 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg5do14.spl~		~override/pxg5do%i%.spl~	WRITE_BYTE 0xa8 84+6*(i -14)	WRITE_BYTE 0xd8 84+6*(i -14)
+	COPY_EXISTING	~pxg5an14.spl~			~override/pxg5an15.spl~	LPF ADD_SPELL_EFFECT INT_VAR opcode = 177 target = 1  duration = 120 parameter2 = 2 resist_dispel = 2 STR_VAR resource = pxg5anim END
+	COPY_EXISTING	~pxg5an15.spl~			~override/pxg5an18.spl~	LPF ADD_SPELL_EFFECT INT_VAR opcode = 177 target = 1  duration = 120 parameter2 = 2 resist_dispel = 2 STR_VAR resource = pxg5aniz END
+	COPY_EXISTING	~pxg5vo15.spl~			~override/pxg5vo18.spl~	LPF ADD_SPELL_EFFECT INT_VAR opcode = 171 target = 1  timing = 1 resist_dispel = 2 STR_VAR resource = pxotrans END
+END
+ACTION_IF GAME_IS ~TOB BGT BGEE BG2EE~ THEN BEGIN
+	COPY	~Derats_kits/Projo/Copy/spwi467b.bam~			~override~
+			~Derats_kits/Projo/Copy/#FF_M103.wav~			~override~
+	COPY_EXISTING	~amcall.vvc~			~override/pxm4prov.vvc~	WRITE_ASCII 0x8 ~MFMISSX~ #8
+	COPY_EXISTING	~inareasm.pro~				~override/pxm4proj.pro~	WRITE_LONG 0x204 50	WRITE_LONG 0x206 50
+	ADD_PROJECTILE ~override/pxm4proj.pro~
+	COPY	~Derats_kits/Ombremage/Spells/pxg4proe.spl~		~override~	LPF SPELL_PROJO INT_VAR projectile = pxm4proj END
+	COPY	~Derats_kits/Ombremage/Spells/pxg5pr13.spl~		~override~	SAY NAME1 @135
+	COPY_EXISTING	~pxg5pr13.spl~				~override/pxg5pr14.spl~	WRITE_BYTE 0x12e 9
+	COPY_EXISTING	~pxg5pr13.spl~				~override/pxg5pr15.spl~	WRITE_BYTE 0x12e 10
+	COPY_EXISTING	~pxg5pr15.spl~				~override/pxg5pr16.spl~	WRITE_SHORT 0x98 71
+	COPY_EXISTING	~pxg5pr16.spl~				~override/pxg5pr17.spl~	WRITE_BYTE 0x12e 11
+	COPY_EXISTING	~pxg5pr16.spl~				~override/pxg5pr18.spl~	WRITE_BYTE 0x12e 12
+	COPY_EXISTING	~pxg5pr18.spl~				~override/pxg5pr19.spl~	WRITE_SHORT 0x98 72
+	COPY_EXISTING	~pxg5pr19.spl~				~override/pxg5pr20.spl~	WRITE_BYTE 0x12e 13
+END
+COPY_EXISTING	~spwi403d.spl~			~override/pxg5boui.spl~
+				~spwi418d.spl~			~override/pxg5bouf.spl~	WRITE_BYTE 0xba 6	WRITE_BYTE 0x9e 1
+COPY_EXISTING	~pxg5boui.spl~			~override/pxg6boui.spl~
+				~pxg5bouf.spl~			~override/pxg6bouf.spl~	WRITE_BYTE 0xba 7
+COPY_EXISTING	~pxg4proj.spl~			~override/pxg5proj.spl~	WRITE_BYTE 0xba 1
+COPY_EXISTING	~pxg4proj.spl~			~override/pxg6proj.spl~	WRITE_BYTE 0x9e 1
+COPY_EXISTING	~pxg4toil.spl~			~override/pxg5toil.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xac+a*0x30 65 END
+COPY_EXISTING	~pxg4toil.spl~			~override/pxg6toil.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xac+a*0x30 80 END
+COPY_EXISTING	~pxg4boul.spl~			~override/pxg5boul.spl~
+				~pxg4ecla.spl~			~override/pxg5ecla.spl~	WRITE_BYTE 0xb6 3	WRITE_BYTE 0x96 1	WRITE_BYTE 0xce 1
+COPY_EXISTING	~pxg4boul.spl~			~override/pxg6boul.spl~
+				~pxg4ecla.spl~			~override/pxg6ecla.spl~	WRITE_BYTE 0xb6 4	WRITE_BYTE 0xe6 4
+COPY_EXISTING	~pxg5temp.spl~			~override/pxg6temp.spl~	WRITE_BYTE 0xba 8
+COPY_EXISTING	~pxg5bf16.spl~			~override/pxg6bf16.spl~	WRITE_BYTE 0x9e 40	WRITE_BYTE 0xce 40	WRITE_ASCII 0x1ce ~pxg6bouf~ #8
+COPY_EXISTING	~pxg5bi16.spl~			~override/pxg6bi16.spl~	WRITE_BYTE 0x9e 40	WRITE_BYTE 0xce 40	WRITE_ASCII 0x1ce ~pxg6boui~ #8
+OUTER_FOR ( i=17 ; i<21 ; i +=1)	BEGIN
+	COPY_EXISTING	~pxg6ma16.spl~			~override/pxg6ma%i%.spl~	WRITE_ASCII 0x76 ~pxg6ma%i%~ #8
+	COPY_EXISTING	~pxg6af16.spl~			~override/pxg6af%i%.spl~
+	FOR (a=0 ; a< 8 ; a+=1) BEGIN WRITE_SHORT 0xb6+a*0x30 i END
+	FOR (a=8 ; a< 16 ; a+=1) BEGIN WRITE_SHORT 0xb6+a*0x30 i -1  WRITE_SHORT 0xba+a*0x30 5 END
+	FOR (a=16 ; a< 24 ; a+=1) BEGIN WRITE_SHORT 0xb6+a*0x30 4 END
+	WRITE_BYTE 0xb6 i
+	COPY_EXISTING	~pxg6bi16.spl~		~override/px6gbi%i%.spl~	FOR (a=0 ; a< 7 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 120+6*(i -17) END
+	COPY_EXISTING	~pxg6bf16.spl~		~override/pxg6bf%i%.spl~	FOR (a=0 ; a< 7 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 120+6*(i -17) END
+END
+COPY_EXISTING	~pxg6co16.spl~			~override/pxg6co17.spl~	WRITE_BYTE 0xb6 9
+COPY_EXISTING	~pxg6co17.spl~			~override/pxg6co18.spl~	WRITE_BYTE 0xe6 9	WRITE_BYTE 0xce 7
+COPY_EXISTING	~pxg6co18.spl~			~override/pxg6co19.spl~	WRITE_BYTE 0xb6 10	WRITE_BYTE 0x9e 8
+COPY_EXISTING	~pxg6co19.spl~			~override/pxg6co20.spl~	WRITE_BYTE 0xe6 10	WRITE_BYTE 0xce 8
+
+OUTER_FOR ( i=18 ; i<21 ; i +=1) BEGIN
+	COPY_EXISTING	~pxg6im17.spl~		~override/pxg6im%i%.spl~	WRITE_BYTE 0xa8 102+6*(i -17)
+END
+ACTION_IF GAME_IS ~TOB BGT BGEE BG2EE~ THEN BEGIN
+	COPY_EXISTING	~pxg5pr16.spl~				~override/pxg6pr16.spl~	WRITE_BYTE 0x12e 13	WRITE_BYTE 0x9e 1
+	COPY_EXISTING	~pxg6pr16.spl~				~override/pxg6pr17.spl~	WRITE_BYTE 0x12e 14
+	COPY_EXISTING	~pxg5pr16.spl~				~override/pxg6pr19.spl~	WRITE_BYTE 0x12e 15	WRITE_SHORT 0x98 72
+	COPY_EXISTING	~pxg5pr19.spl~				~override/pxg6pr20.spl~	WRITE_BYTE 0x12e 16
+END
+COPY_EXISTING	~amcall.vvc~				~override/pxgombrv.vvc~	WRITE_ASCII 0x8 ~pxgombre~ #8
+COPY_EXISTING	~amcall.vvc~				~override/pxg3pouv.vvc~	WRITE_ASCII 0x8 ~pxg3pouv~ #8	WRITE_BYTE 0x34 25
+COPY_EXISTING	~sparm2.vvc~				~override/pxg3bouv.vvc~	WRITE_ASCII 0x8 ~pxg3bou1~ #8	WRITE_BYTE 0x34 11	WRITE_BYTE 0x20 (THIS | 64)	WRITE_BYTE 0x18 (THIS | 2)
+COPY_EXISTING	~amcall.vvc~				~override/pxg4assv.vvc~	WRITE_ASCII 0x8 ~pxg4ass1~ #8	WRITE_BYTE 0x28 10	WRITE_BYTE 0x2c 0	WRITE_BYTE 0x4c 50
+COPY_EXISTING	~amcall.vvc~				~override/pxoformv.vvc~	WRITE_ASCII 0x8 ~pxoforme~ #8
+COPY_EXISTING	~icclkfr.vvc~				~override/pxomantv.vvc~	WRITE_ASCII 0x8 ~pxomante~ #8
+COPY_EXISTING	~amcall.vvc~				~override/pxotra2v.vvc~	WRITE_ASCII 0x8 ~pxotran2~ #8	WRITE_BYTE 0x2c 51
+COPY_EXISTING	~pxotra2v.vvc~				~override/pxotranv.vvc~	WRITE_ASCII 0x8 ~pxotrans~ #8	WRITE_ASCII 0x78 ~ARE_M15~ #8
+
+COMPILE ~Derats_kits/Ombres/pxombres.baf~
+COMPILE ~Derats_kits/Ombremage/pxgombre.baf~

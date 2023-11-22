@@ -1,0 +1,20 @@
+IF
+	Global("pxsitem","GLOBAL",0)
+	OR(12)
+	Kit(Player1,PxSORCELIERD)
+	Kit(Player1,PxSORCELIERB)
+	Kit(Player2,PxSORCELIERD)
+	Kit(Player2,PxSORCELIERB)
+	Kit(Player3,PxSORCELIERD)
+	Kit(Player3,PxSORCELIERB)
+	Kit(Player4,PxSORCELIERD)
+	Kit(Player4,PxSORCELIERB)
+	Kit(Player5,PxSORCELIERD)
+	Kit(Player5,PxSORCELIERB)
+	Kit(Player6,PxSORCELIERD)
+	Kit(Player6,PxSORCELIERB)
+THEN
+	RESPONSE #100
+	ActionOverride("skeleton 1",CreateItem("pxsogi",0,0,0))
+	SetGlobal("pxsitem","GLOBAL",1)
+  END

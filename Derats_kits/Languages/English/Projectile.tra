@@ -1,0 +1,94 @@
+@909 = ~savant artilleryman~
+@91 = ~Savant Artilleryman~
+@92 = ~SAVANT ARTILLERYMAN: The spell Magic Missile is one of the representative icons of arcane magic, a good example of raw magic and one of the favourite spells of most young mages. It is no wonder that some mages focus their studies on this spell, determined to improve it more than any other. The Savant Artilleryman belongs to those, passionate about this spell due to its infallibility to hit the target.
+
+Obsessively exploring all runes and magical symbols composing the spell to break its limits, he eventually ended up developing the ability to pervert the original energy to create new effects. Embedding every facet of the spell into his mind, he becomes a true expert, able to transcend the dweomer to make a tool of major devastation.
+
+By using and abusing this spell, he forgave the principles of his school and earns a new title: he becomes a Savant Artilleryman.
+
+Advantages:
+- At level 3, he can surround himself once a day by a magic shield that reproduces the effects of the "Shield" spell and lasts three rounds per level.
+- At level 6, he can restructure the spell Magic Missile into an elemental spell. This custom spell can not be stopped by the spell Shield.
+- At level 8, if he learns the "Mordenkainen's Force Missiles" spell, he also begins to study it.
+- At level 9, he breaks the limit of the spell Magic Missile: +1 missile every 3 following levels up to 8th missile, +1 missile every 4 levels thereafter.
+- At level 11, his shield evolves and can stop magic missiles from wands, traps, special abilities, etc...
+- At level 14, he improves "Mordenkainen's Force Missiles" to be no longer stopped by the Shield spell and imposes a -2 to saving throws against the explosion.
+- At level 15, his Magic Missile spell penetrates more easily magic resistances: each missile has 5% chance to pierce the target magic resistance.
+- At level 16, he gains a free use of Magic Missile as a special ability once a day. Additional uses are gained at levels 21, 27 and 33.
+- At level 18, his Shield sends back all Magic Missile whom he is the target.
+- At level 20, he further enhances "Mordenainen's Force Missiles" spell: area of impact of explosion is increased by 15% and, if the saving throw is failed, the impacted targets stay stunned for 1D2 rounds.
+- At level 25, he breaks the limit of "Mordenkainen's Force Missiles" spell: +1 missile every 4 following levels up to the 11th missile.
+
+Disadvantages:
+- He has the same restrictions as a summoner: enchantment school prohibited.
+- He does not have the improved memorization normally given to a specialized wizard.
+- He does not use scrolls or wands of Magic Missile. It would be a mess, he has no control over these pre-memorized spells.~
+
+
+@921 = ~SAVANT ARTILLERYMAN: The spell Magic Missile is one of the representative icons of arcane magic, a good example of raw magic and one of the favourite spells of most young mages. It is no wonder that some mages focus their studies on this spell, determined to improve it more than any other. The Savant Artilleryman belongs to those, passionate about this spell due to its infallibility to hit the target.
+
+Obsessively exploring all runes and magical symbols composing the spell to break its limits, he eventually ended up developing the ability to pervert the original energy to create new effects. Embedding every facet of the spell into his mind, he becomes a true expert, able to transcend the dweomer to make a tool of major devastation.
+
+By using and abusing this spell, he forgave the principles of his school and earns a new title: he becomes a Savant Artilleryman.
+
+Advantages:
+- At level 3, he can surround himself once a day by a magic shield that reproduces the effects of the "Shield" spell and lasts three rounds per level.
+- At level 6, he can restructure the spell Magic Missile into an elemental spell. This custom spell can not be stopped by the spell Shield.
+- At level 8, he learns the "Mordenkainen's Force Missiles" spell, he also begins to learn it.
+- At level 9, he breaks the limit of the spell Magic Missile: +1 missile every 3 following levels up to 8th missile, +1 missile every 4 levels thereafter.
+- At level 11, his shield evolves and can stop magic missiles from wands, traps, special abilities, etc...
+- At level 14, he improves "Mordenkainen's Force Missiles" to be no longer stopped by the Shield spell and imposes a -2 to saving throws against the explosion.
+- At level 15, his Magic Missile spell penetrates more easily magic resistances: each missile has 5% chance to pierce the target magic resistance.
+- At level 16, he gains a free use of Magic Missile as a special ability once a day. Additional uses are gained at levels 21, 27 and 33.
+- At level 18, his Shield sends back all Magic Missile whom he is the target.
+- At level 20, he further enhances "Mordenainen's Force Missiles" spell: area of impact of explosion is increased by 15% and, if the saving throw is failed, the impacted targets stay stunned for 1D2 rounds.
+- At level 25, he breaks the limit of "Mordenkainen's Force Missiles" spell: +1 missile every 4 following levels up to the 11th missile.
+
+Disadvantages:
+- He has the same restrictions as a summoner: divination and conjuration schools prohibited.
+- He does not have the improved memorization normally given to a specialized wizard.
+- He does not use scrolls or wands of Magic Missile. It would be a mess, he has no control over these pre-memorized spells.~
+
+@93 = ~Magic Missile (improved)~
+@94 = ~Magic Missile (improved) (Evocation)
+Level: 1
+Range: visual range of the caster
+Duration: instantaneous
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell creates missiles of magical energy that dart forth from the wizard's fingertip and unerringly strike their target, which must be a creature of some sort. Each of these missiles can be made up of fire, cold, electricity, acid or force, choice of the caster. Each missile inflicts 1D4 +1 damage points of the chosen element.
+The mage can create other missiles after the first by gaining experience, according to the following:
+Level 3-9: additional missile every two levels of experience
+Level 12-18: additional missile every three experience levels
+Level 22-30: additional missile every four levels of experience
+up to 11 missiles at level 30.
+At level 15, this spell penetrates easily magic resistance of targets: 5% to penetrated resistance for each missile.~
+
+@95 = ~Mordenkainen's Force Missiles~
+@96 = ~Mordenkainen's Force Missiles (Invocation)
+Level: 4
+Range: visual range of the caster
+Duration: Instant
+Casting Time: 4
+Area of Effect: 1.5-meters radius
+Saving Throw: special
+
+This spell creates a brilliant globe of magical energy that streaks forth from the mage's hand to unerringly strike its target, much like a Magic Missile spell. The character creates one missile at 7th level and an additional missile at every third level after 7th—in other words, two missiles at 10th level, three at 13th, four at 16th, and so on, to a maximum of seven missiles at 25th level. Each missile inflicts 2d4 points of damage to the target and then bursts in a 1.50-m radius concussive blast that inflicts 1 point of damage per level of the caster—for example, a 12th-level mage could conjure two force missiles, each of which strikes for 2d4+12 points of magic damage. Creatures taking damage can attempt a Saving Throw vs. Spell to negate the concussion damage, but the impact of the missile itself allows no Saving Throw. The 1st-level mage spell Shield will absorb the force missiles harmlessly, including the concussion damage.~
+
+@97 = ~Mordenkainen's Force Missiles (improved)~
+@98 = ~Mordenkainen's Force Missiles (improved) (Invocation)
+Level: 4
+Range: visual range of the caster
+Duration: Instant
+Casting Time: 4
+Area of Effect: 1.5-meters radius
+Saving Throw: special
+
+This spell creates a brilliant globe of magical energy that streaks forth from the mage's hand to unerringly strike its target, much like a Magic Missile spell. Each missile inflicts 2d4 points of damage and then bursts in a 1.50-m radius concussive blast that inflicts 1 point of damage per level of the mage (up to a maximum of 30 points of damage). From level 20 of the caster of the spell the blast can also stun targets for 1D2 rounds. Creatures taking damage can attempt a Saving Throw vs. Spell at -2 to negate the concussion damage, but the initial target can not avoid the 2d4 points of missile.
+The mage can create other missiles gaining experience, according to the following:
+level 10 to 25: an additional missile every three experience levels
+Level 29-41: an additional missile every four levels of experience
+up to 11 missiles at level 41.
+The Shield spell does not protect against this spell.~

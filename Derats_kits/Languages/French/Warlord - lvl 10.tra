@@ -1,0 +1,395 @@
+@7101 = ~Annihilation~
+@7102 = ~Annihilation (Nécromancie)
+Niveau : 10
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort dangereux est un sacrifice nécessaire pour le seigneur de guerre qui désire annihiler totalement une cible.
+Lorsqu'il est lancé, une grande partie de l'énergie vitale du lanceur est drainée pour se concentrer et s'écraser sur la cible. Celle ci-voit sa résistance à la magie réduite de 50% pour résister à ce sort, et doit réussir un jet de sauvegarde à -8 ou être totalement atomisée. Si c'est le cas, aucun sort ne pourra la ramener, si ce n'est peut-être Souhait.
+Si la cible réussit son jet de sauvegarde, elle subit 20D12 points de dégâts, et si elle survit, est sonnée pour 1D4 tours.
+Ce sort puisant dans l'énergie du seigneur de guerre la force nécessaire à une telle destruction, celui-ci perd 20D4 points de vie lorsque le sort se résout. Ceci peut le tuer, sauf s'il réussit un jet de sauvegarde contre la mort auquel cas le sort ne peut pas drainer plus de points de vie qu'il n'en a et le laisse à 1 point de vie.~
+@71029 = ~Annihilation (Nécromancie)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort dangereux est un sacrifice nécessaire pour le seigneur de guerre qui désire annihiler totalement une cible.
+Lorsqu'il est lancé, une grande partie de l'énergie vitale du lanceur est drainée pour se concentrer et s'écraser sur la cible. Celle ci-voit sa résistance à la magie réduite de 50% pour résister à ce sort, et doit réussir un jet de sauvegarde à -8 ou être totalement atomisée. Si c'est le cas, aucun sort ne pourra la ramener, si ce n'est peut-être Souhait.
+Si la cible réussit son jet de sauvegarde, elle subit 20D12 points de dégâts, et si elle survit, est sonnée pour 1D4 tours.
+Ce sort puisant dans l'énergie du seigneur de guerre la force nécessaire à une telle destruction, celui-ci perd 20D4 points de vie lorsque le sort se résout. Ceci peut le tuer, sauf s'il réussit un jet de sauvegarde contre la mort auquel cas le sort ne peut pas drainer plus de points de vie qu'il n'en a et le laisse à 1 point de vie.~
+
+@7103 = ~Miracle~
+@7104 = ~Miracle (Universel)
+Niveau : 10
+Portée : spéciale
+Durée : spéciale
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
+
+Ce sort altère le facteur chance du seigneur de guerre pour le pousser à son maximum. L'aide apportée par ce sort est telle qu'elle dépasse les limites du possible et combine toutes les probabilités pour en tirer le meilleur pour le lanceur. Bien que ce sort ne soit en aucun cas lié à aucune divinité que ce soit, il n'y a pas d'autre mot que "miracle" pour en désigner l'effet obtenu.
+Le résultat de ce sort reste aléatoire, le lanceur n'ayant aucun moyen de savoir ce qui va se passer, mais sera toujours bénéfique pour lui ou son groupe, ou maléfique pour ses ennemis. L'effet du sort est si puissant qu'il pompe dans le capital chance futur du lanceur pour donner son maximum à la résolution. Une fois l'effet du sort passé, le seigneur de guerre restera pendant un jour complet sous le coup de chance négative : -2 à tous les jets pendant les premières 8 heures et -1 à tous les jets les 16 heures suivantes, et impossibilité d'être sujet à toute forme de chance magique. Il ne pourra pas non plus relancer "Miracle" pendant ce laps de temps.
+
+Note : les effets offensifs de ce sort affectent toutes les créatures qui vous entourent qui ne font pas partie du groupe. Cela inclut les créatures neutres et les invocations. Pensez-y au moment de lancer le sort.~
+
+@710401 = ~Vous devenez une bête de guerre~
+@710402 = ~Tous les membres du groupe sont taillés pour le combat.~
+@710404 = ~Vous êtes guéri et revigoré, et vous régénérez~ ~Vous êtes guérie et revigorée, et vous régénérez~
+@710405 = ~Tous les membres du groupe sont guéris et revigorés~
+@710406 = ~Tous les membres du groupe sont reposés~
+@710407 = ~Vous êtes protégé par une combinaison de boucliers élémentaires~ ~Vous êtes protégée par une combinaison de boucliers élémentaires~
+@710408 = ~Les éléments ne vous affectent plus~
+@710409 = ~Tous les membres du groupe sont protégés contre les éléments~
+@710410 = ~Votre résistance aux dégâts physiques augmente~
+@710411 = ~Tous les membres du groupe ont une résistance aux dégâts physiques augmentée~
+@710413 = ~Tous les membres du groupe ont des jets de sauvegarde augmentés~
+@710414 = ~Vous êtes invulnérable~
+@710415 = ~Tous les membres du groupe sont invulnérables~
+@710416 = ~Toutes vos frappes sont des coups critiques~
+@710417 = ~Toutes les frappes des membres du groupe sont des coups critiques~
+@710418 = ~Vos chances d'effectuer un coup critique augmentent~
+@710419 = ~Tous les membres du groupe ont de meilleures chances d'effectuer des coups critiques~
+@710421 = ~Tous les membres du groupe sont protégés par des boucliers de l’exalté~
+@710423 = ~La magie ne vous affecte plus~
+@710424 = ~Tous les membres du groupe ont une résistance à la magie augmentée~
+@710425 = ~Vous êtes protégé par plusieurs copies solides~ ~Vous êtes protégée par plusieurs copies solides~
+@710426 = ~Tous les membres du groupe sont protégés par des copies solides~
+@710427 = ~Vous renvoyez à l'expéditeur tous les sorts qui vous visent~
+@710428 = ~ Tous les membres du groupe renvoient à l’expéditeur les sorts de niveau inférieur à 7 qui les ciblent~
+@710429 = ~Vous régénérez rapidement~
+@710430 = ~Tous les membres du groupe régénèrent rapidement~
+@710431 = ~Vous pouvez enchaîner les sorts rapidement~
+@710432 = ~Vous pouvez enchaîner les sorts et en remémoriser certains.~
+@710433 = ~Tous les membres du groupe sont camouflés~
+@710434 = ~Tous les membres du groupe sont frénétiques~
+@710435 = ~Toutes vos frappes peuvent être mortelles~
+@710436 = ~Toutes les frappes des membres du groupe peuvent être mortelles~
+@710437 = ~Le temps s’arrête pour vous. Vous pouvez enchaîner les sorts~
+@710438 = ~Le temps s’arrête pour vous. Vous pouvez multiplier les coups~
+@710439 = ~Le temps s'arrête pour tous les membres du groupe~
+@710440 = ~Vous êtes protégé contre les prochains impacts~ ~Vous êtes protégée contre les prochains impacts~
+@710441 = ~Tous les membres du groupe sont protégés contre les prochains impacts~
+@710442 = ~Vous avez plusieurs copies animées~
+@710443 = ~Tous les membres du groupe ont une copie animée~
+@710444 = ~Tous vos ennemis perdent des niveaux~
+@710445 = ~Les pires tourments s'abattent sur vos ennemis~
+@710446 = ~Tous vos ennemis sont paralysés~
+@710447 = ~Tous vos ennemis sont pétrifiés~
+@710448 = ~Tous vos ennemis sont dévastés et vulnérables~
+@710449 = ~Tous vos ennemis sont détruits~
+@710450 = ~Tous vos ennemis sont vaporisés~
+@710451 = ~La fureur des cieux s'abat sur vos ennemis~
+@710453 = ~Le Ciel interfère en votre faveur~
+@7104531 = ~Solaire~
+@710454 = ~Les Abysses interfèrent en votre faveur~
+@7104541 = ~Glabrezu~
+@7104542 = ~Marilith~
+@7104543 = ~Balor~
+@710455 = ~Les Enfers interfèrent en votre faveur~
+@7104551 = ~Diantrefosse~
+@7104552 = ~Cornugon~
+@710456 = ~Les éléments s'associent pour vous venir en aide~
+@710457 = ~Tous les membres du groupe peuvent multiplier les coups~
+@710458 = ~Vous gagnez en expérience~
+@710459 = ~Tous les membres du groupe gagnent en expérience~
+@710460 = ~Vous avez trouvé un objet qui n'a rien à faire là~
+@7104611 = ~Vos caractéristiques ont changé : vous êtes plus fort~ ~Vos caractéristiques ont changé : vous êtes plus forte~
+@7104612 = ~Vos caractéristiques ont changé : vous êtes plus adroit~ ~Vos caractéristiques ont changé : vous êtes plus adroite~
+@7104613 = ~Vos caractéristiques ont changé : vous êtes de meilleure constitution~
+@7104614 = ~Vos caractéristiques ont changé : vous êtes plus intelligent~ ~Vos caractéristiques ont changé : vous êtes plus intelligente~
+@7104615 = ~Vos caractéristiques ont changé : vous avez de meilleures sauvegardes~
+@7104616 = ~Vos caractéristiques ont changé : Vous résistez mieux à la nécromancie~
+@7104617 = ~Vos caractéristiques ont changé : vous avez plus de points de vie~
+@7104618 = ~Vos caractéristiques ont changé : vous avez la peau plus dure.~
+@7104619 = ~Vos caractéristiques ont changé : vous résistez mieux à la magie.~
+@71046110 = ~Votre physiologie a changé : les poisons ne vous affectent plus.~
+@71046111 = ~Votre physiologie a changé : les maladies ne vous affectent plus.~
+@7104621 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : vous régénérez.~
+@7104622 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : les poisons ne vous affectent plus.~
+@7104623 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : vous résistez à la magie.~
+@7104624 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : vous résistez au feu.~
+@7104625 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : vous résistez à l’électricité.~
+@7104626 = ~Vos origines refont surface : vous avez développé une nouvelle capacité : les armes non-magiques ne peuvent plus vous affecter.~
+@7104627 = ~Vos origines refont surface : vous avez développé un nouveau pouvoir.~
+@71046271 = ~Projection d'image~
+@710463 = ~Improbable : double miracle :~
+@710464 = ~Improbable : miracle sans effets négatifs :~
+@710465 = ~Vous êtes sous le coup de Chance négative. Vous ne pouvez pas être affecté par ce sort pour le moment.~
+@71041 = ~Miracle (Universel)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : spéciale
+Durée : spéciale
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
+
+Ce sort altère le facteur chance du seigneur de guerre pour le pousser à son maximum. L'aide apportée par ce sort est telle qu'elle dépasse les limites du possible et combine toutes les probabilités pour en tirer le meilleur pour le lanceur. Bien que ce sort ne soit en aucun cas lié à aucune divinité que ce soit, il n'y a pas d'autre mot que "miracle" pour en désigner l'effet obtenu.
+Le résultat de ce sort reste aléatoire, le lanceur n'ayant aucun moyen de savoir ce qui va se passer, mais sera toujours bénéfique pour lui ou son groupe, ou maléfique pour ses ennemis. L'effet du sort est si puissant qu'il pompe dans le capital chance futur du lanceur pour donner son maximum à la résolution. Une fois l'effet du sort passé, le seigneur de guerre restera pendant un jour complet sous le coup de chance négative : -2 à tous les jets pendant les premières 8 heures et -1 à tous les jets les 16 heures suivantes, et impossibilité d'être sujet à toute forme de chance magique. Il ne pourra pas non plus relancer "Miracle" pendant ce laps de temps.
+
+Note : les effets offensifs de ce sort affectent toutes les créatures qui vous entourent qui ne font pas partie du groupe. Cela inclut les créatures neutres et les invocations. Pensez-y au moment de lancer le sort.~
+
+@7105 = ~Hybridation~
+@7106 = ~Hybridation (Transmutation)
+Niveau : 10
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1 round
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Hybridation est basé sur le sort "Libérer la bête", mais en contient l'effet principal : la transformation. En fait, Hybridation investit le seigneur de guerre de tous les pouvoirs du démon qui est à la base de ses origines, mais sans le métamorphoser entièrement. Sa peau durcit et prend une couleur rougeâtre, ses muscles gonflent et sa vitesse augmente, son corps devient plus résistant et son esprit s'affine, mais il reste humain.
+Concrètement, les effets du sort sont les suivants :
+Carrure plus grande, plus imposante et impressionnante : force +3, constitution +2 et charisme +2.
+Réactions plus vives : dextérité +2, mouvement +4, jet de sauvegarde contre les souffles et les baguettes +1 et attaques par round fixées à 5.
+Esprit plus vif et réfléchi : intelligence +2, sagesse +1 et jet de sauvegarde contre les sorts +2.
+Corps plus résistant : CA +4, immunité au poison, résistance au feu +75%, résistance au froid +40%, résistance à la magie +20%, jet de sauvegarde contre la mort +2 et jet de sauvegarde contre la métamorphose +1. Immunités aux armes normales et magiques +1 et régénération de 1 point de vie par round.~
+@71061 = ~Hybridation (Transmutation)
+Niveau : 10
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1 round
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Requis : Recherches arcaniques
+
+Hybridation est basé sur le sort "Libérer la bête", mais en contient l'effet principal : la transformation. En fait, Hybridation investit le seigneur de guerre de tous les pouvoirs du démon qui est à la base de ses origines, mais sans le métamorphoser entièrement. Sa peau durcit et prend une couleur rougeâtre, ses muscles gonflent et sa vitesse augmente, son corps devient plus résistant et son esprit s'affine, mais il reste humain.
+Concrètement, les effets du sort sont les suivants :
+Carrure plus grande, plus imposante et impressionnante : force +3, constitution +2 et charisme +2.
+Réactions plus vives : dextérité +2, mouvement +4, jet de sauvegarde contre les souffles et les baguettes +1 et attaques par round fixées à 5.
+Esprit plus vif et réfléchi : intelligence +2, sagesse +1 et jet de sauvegarde contre les sorts +2.
+Corps plus résistant : CA +4, immunité au poison, résistance au feu +75%, résistance au froid +40%, résistance à la magie +20%, jet de sauvegarde contre la mort +2 et jet de sauvegarde contre la métamorphose +1. Immunités aux armes normales et magiques +1 et régénération de 1 point de vie par round.~
+
+@7107 = ~Bouclier contre-magie~
+@7108 = ~Bouclier contre-magie (Abjuration)
+Niveau : 10
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1 round
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Ce sort crée un bouclier de runes magiques autour du lanceur de sorts. Chaque rune représente un type de magie, et absorbe celle-ci si elle doit heurter le magicien protégé. Il n'y a pas de limite au nombre de sorts absorbés par chacune des runes, aussi tant que le sort est actif, le magicien est protégé contre tous les sorts, à l'exception de ceux qu'il souhaite voir agir, de ceux qui ne sont pas affectés par la résistance à la magie, et des capacités surnaturelles des créatures.~
+@71081 = ~Bouclier contre-magie (Abjuration)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1 round
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Ce sort crée un bouclier de runes magiques autour du lanceur de sorts. Chaque rune représente un type de magie, et absorbe celle-ci si elle doit heurter le magicien protégé. Il n'y a pas de limite au nombre de sorts absorbés par chacune des runes, aussi tant que le sort est actif, le magicien est protégé contre tous les sorts, à l'exception de ceux qu'il souhaite voir agir, de ceux qui ne sont pas affectés par la résistance à la magie, et des capacités surnaturelles des créatures.~
+
+@7109 = ~Frappe majeure du chaos~
+@71010 = ~Frappe majeure du chaos (Évocation, Altération, Nécromancie)
+Niveau : 10
+Portée : champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 1 round
+Zone d'effet : 1 cible
+Jet de sauvegarde : spécial
+
+Ce sort combine toute la maîtrise élémentaire du seigneur de guerre et les sorts de frappe fantôme.
+Qualifié de "Rage du seigneur de guerre", c'est le sort ultime de destruction, que le lanceur réserve à son pire ennemi. L’énergie magique nécessaire à la résolution de ce sort est telle que le seigneur de guerre oublie 3 sorts (celui-ci et deux autres) en le lançant. Il est aussi épuisé, et s'il rate un jet de sauvegarde contre la mort, subit -2 à tous ses jets pendant 4 tours.
+Une fois le sort lancé, la cible désignée est frappée par 6 lances d’énergie issues de l'essence même du chaos.
+
+La première frappe inflige 2D6 points de dégâts perçants et réduit la résistance de la créature : tous ses jets de sauvegarde subissent un malus de 1D4+2 points pour la suite.
+La deuxième frappe inflige 2D6 points de dégâts perçants et 2D8 points de dégâts magique. Les résistances à la magie et aux dégâts magiques de la cible sont diminuées de 40% pour un tour (20% en cas de jet de sauvegarde contre les sorts réussi).
+La troisième frappe inflige 2D6 points de dégâts perçants et 1D6 dégâts de feu, de froid, d'acide et d'électricité. La cible voit ses résistances élémentaires diminuées de 50% pour un tour (25% en cas de jet de sauvegarde contre les sorts réussi).
+La quatrième frappe inflige 2D6 points de dégâts perçants et 4D8 points de dégâts d'énergie négative. La victime perd deux niveaux d'expérience, un seul si elle réussit un jet de sauvegarde contre la mort.
+La cinquième frappe inflige 2D6 points de dégâts perçants et 2D8 dégâts de feu, de froid, d'acide et d'électricité. Le conflux énergétique engendré atomise la cible si elle rate un jet de sauvegarde contre la mort à -2.
+La sixième lame transperce la cible de part en part, inflige 4D6 points de dégâts perçants et raie la trame de la réalité. La victime change d'état, d'emplacement, et de temps si elle rate un jet de sauvegarde contre la métamorphose à -4. Si le jet est raté, la cible devient autre chose, ailleurs, avant ou après.
+
+ATTENTION : Si la trame de la réalité est rayée, les actions liées à la cible peuvent ne plus opérer (script, dialogues, etc) et perturber le déroulement normal de votre partie. N'utilisez pas ce sort sur des cibles spéciales comme le Démogorgon ou la Main, par exemple.~
+@710101 = ~Atomisé~
+@710102 = ~Devenu autre chose dans un autre endroit et un autre temps.~
+@710103 = ~Frappe majeure du chaos (Évocation, Altération, Nécromancie)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : champ de vision du lanceur
+Durée : instantanée
+Temps d'incantation : 1 round
+Zone d'effet : 1 cible
+Jet de sauvegarde : spécial
+
+Ce sort combine toute la maîtrise élémentaire du seigneur de guerre et les sorts de frappe fantôme.
+Qualifié de "Rage du seigneur de guerre", c'est le sort ultime de destruction, que le lanceur réserve à son pire ennemi. L’énergie magique nécessaire à la résolution de ce sort est telle que le seigneur de guerre oublie 3 sorts (celui-ci et deux autres) en le lançant. Il est aussi épuisé, et s'il rate un jet de sauvegarde contre la mort, subit -2 à tous ses jets pendant 4 tours.
+Une fois le sort lancé, la cible désignée est frappée par 6 lances d’énergie issues de l'essence même du chaos.
+
+La première frappe inflige 2D6 points de dégâts perçants et réduit la résistance de la créature : tous ses jets de sauvegarde subissent un malus de 1D4+2 points pour la suite.
+La deuxième frappe inflige 2D6 points de dégâts perçants et 2D8 points de dégâts magique. Les résistances à la magie et aux dégâts magiques de la cible sont diminuées de 40% pour un tour (20% en cas de jet de sauvegarde contre les sorts réussi).
+La troisième frappe inflige 2D6 points de dégâts perçants et 1D6 dégâts de feu, de froid, d'acide et d'électricité. La cible voit ses résistances élémentaires diminuées de 50% pour un tour (25% en cas de jet de sauvegarde contre les sorts réussi).
+La quatrième frappe inflige 2D6 points de dégâts perçants et 4D8 points de dégâts d'énergie négative. La victime perd deux niveaux d'expérience, un seul si elle réussit un jet de sauvegarde contre la mort.
+La cinquième frappe inflige 2D6 points de dégâts perçants et 2D8 dégâts de feu, de froid, d'acide et d'électricité. Le conflux énergétique engendré atomise la cible si elle rate un jet de sauvegarde contre la mort à -2.
+La sixième lame transperce la cible de part en part, inflige 4D6 points de dégâts perçants et raie la trame de la réalité. La victime change d'état, d'emplacement, et de temps si elle rate un jet de sauvegarde contre la métamorphose à -4. Si le jet est raté, la cible devient autre chose, ailleurs, avant ou après.~
+
+@71011 = ~Mort-magie~
+@71012 = ~Mort-magie (Abjuration)
+Niveau : 10
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 12 mètres de rayon
+Jet de sauvegarde : aucun
+
+Le sort de Mort-Magie est le sort de disjonction ultime. Lorsqu'il est lancé par le seigneur de guerre, une vague de force entropique déferle et couvre une zone de 12 mètres autour de lui. La puissance de Mort-magie a plusieurs effets distincts :
+- Tous les effets magiques sont dissipés sur le lanceur, sans tenir compte du niveau et sans possibilité de sauvegarde.
+- Tous les effets magiques sont dissipés dans la zone, avec un niveau de sort 40, et avec toujours 1% de chance d'échec.
+- Toutes les créatures invoquées sont irrémédiablement renvoyées.
+- Tous les lanceurs de sorts arcaniques présents dans la zone (le lanceur excepté) oublient 1D6 sorts.
+- Tous les objets magiques à charges (sauf ceux du lanceur) dans la zone perdent 1D4 charges.
+De plus, l'onde persiste quelque temps, créant pour 3 rounds une zone de magie morte où tout sort lancé échoue automatiquement. Cette zone affecte le Seigneur de guerre.~
+@710121 = ~Un sort oublié~
+@710122 = ~Deux sorts oubliés~
+@710123 = ~Trois sorts oubliés~
+@710124 = ~Quatre sorts oubliés~
+@710125 = ~Cinq sorts oubliés~
+@710126 = ~Six sorts oubliés~
+@710127 = ~Les objets magiques perdent une charge~
+@710128 = ~Les objets magiques perdent deux charges~
+@710129 = ~Les objets magiques perdent trois charges~
+@7101210 = ~Les objets magiques perdent quatre charges~
+@7101211 = ~Mort-magie (Abjuration)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 12 mètres de rayon
+Jet de sauvegarde : aucun
+
+Le sort de Mort-Magie est le sort de disjonction ultime. Lorsqu'il est lancé par le seigneur de guerre, une vague de force entropique déferle et couvre une zone de 12 mètres autour de lui. La puissance de Mort-magie a plusieurs effets distincts :
+- Tous les effets magiques sont dissipés sur le lanceur, sans tenir compte du niveau et sans possibilité de sauvegarde.
+- Tous les effets magiques sont dissipés dans la zone, avec un niveau de sort 40, et avec toujours 1% de chance d'échec.
+- Toutes les créatures invoquées sont irrémédiablement renvoyées.
+- Tous les lanceurs de sorts arcaniques présents dans la zone (le lanceur excepté) oublient 1D6 sorts.
+- Tous les objets magiques à charges (sauf ceux du lanceur) dans la zone perdent 1D4 charges.
+De plus, l'onde persiste quelque temps, créant pour 3 rounds une zone de magie morte où tout sort lancé échoue automatiquement. Cette zone affecte le Seigneur de guerre.~
+
+@71013 = ~Nova d’énergie~
+@71014 = ~Nova d'énergie (Évocation)
+Niveau : 10
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : rayon de 10 mètres
+Jet de sauvegarde : spécial
+
+Quand ce sort est lancé, une colonne de pure énergie vient frapper l'endroit désigné par le seigneur de guerre. Les créatures sous l'impact subissent 20D6+40 points de dégâts (contondants et magiques) et peuvent être étourdies (3 rounds) si elles ratent un jet de sauvegarde contre les sorts à -2.
+Les créatures dans les 10 mètres alentours subissent une pression moindre, qui inflige10D6+20 points de dégâts. Elles peuvent être assommées (2 rounds) si elles ratent un jet de sauvegarde contre les sorts.
+La nova est constituée d’énergie brute et aucun jet de sauvegarde ne permet de minimiser les dégâts.
+A l'exception du lanceur de sort (qui peut fermer les yeux ou détourner le regard à la fin de l'incantation du sort), toutes les créatures de la zone sont aveuglées par l'intense lumière dégagée (permanent, 1 tour en cas de jet de sauvegarde contre les sorts réussi).~
+@710141 = ~Nova d'énergie (Évocation)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 40 mètres
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : rayon de 10 mètres
+Jet de sauvegarde : spécial
+
+Quand ce sort est lancé, une colonne de pure énergie vient frapper l'endroit désigné par le seigneur de guerre. Les créatures sous l'impact subissent 20D6+40 points de dégâts (contondants et magiques) et peuvent être étourdies (3 rounds) si elles ratent un jet de sauvegarde contre les sorts à -2.
+Les créatures dans les 10 mètres alentours subissent une pression moindre, qui inflige10D6+20 points de dégâts. Elles peuvent être assommées (2 rounds) si elles ratent un jet de sauvegarde contre les sorts.
+La nova est constituée d’énergie brute et aucun jet de sauvegarde ne permet de minimiser les dégâts.
+A l'exception du lanceur de sort (qui peut fermer les yeux ou détourner le regard à la fin de l'incantation du sort), toutes les créatures de la zone sont aveuglées par l'intense lumière dégagée (permanent, 1 tour en cas de jet de sauvegarde contre les sorts réussi).~
+
+@71015 = ~Sphère sombre de vengeance~
+@71016 = ~Sphère sombre de vengeance (Abjuration, Évocation)
+Niveau : 10
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Ce sort crée une sphère d'énergie sombre autour du seigneur de guerre, dont la fonction est de rendre coup pour coup à tout agresseur. Tant que le seigneur de guerre est entouré de ce globe sombre, tout adversaire le frappant au corps à corps subit 4D10 points de dégâts (jet contre les sorts à -2 pour 1/2). Tout projectile lancé contre lui se retourne contre celui qui l'a envoyé. Enfin, tout sort offensif dont il est la cible se voit renvoyé vers le lanceur.
+Le pouvoir de renvoi des sorts permet de renvoyer 35 niveaux de sorts. Après quoi cette protection s'estompe. Par contre les pouvoir de contrecoup et de renvoi des projectiles ne sont pas sujets à limitation et ne s'arrêtent qu'à la fin du sort. ~
+@710161 = ~Contre-coup : vengeance~
+@710162 = ~Sphère sombre de vengeance (Abjuration, Évocation)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 9
+Zone d'effet : lanceur
+Jet de sauvegarde : aucun
+
+Ce sort crée une sphère d'énergie sombre autour du seigneur de guerre, dont la fonction est de rendre coup pour coup à tout agresseur. Tant que le seigneur de guerre est entouré de ce globe sombre, tout adversaire le frappant au corps à corps subit 4D10 points de dégâts (jet contre les sorts à -2 pour 1/2). Tout projectile lancé contre lui se retourne contre celui qui l'a envoyé. Enfin, tout sort offensif dont il est la cible se voit renvoyé vers le lanceur.
+Le pouvoir de renvoi des sorts permet de renvoyer 35 niveaux de sorts. Après quoi cette protection s'estompe. Par contre les pouvoir de contrecoup et de renvoi des projectiles ne sont pas sujets à limitation et ne s'arrêtent qu'à la fin du sort. ~
+
+@71017 = ~Tempête cryogénique~
+@71018 = ~Tempête cryogénique (Évocation) 
+Niveau : 10
+Portée : champ de vision
+Durée : 4 rounds
+Temps d'incantation : 1 round
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : spécial
+
+Ce sort crée à l'endroit désigné une averse de grêlons extrêmement froids. Chaque round, les créatures prises sous l'averse subissent 8D10 points de dégâts (¼ contondants, ¾ de froid) et doivent réussir un jet de sauvegarde contre les sorts ou geler sur place. Si cela arrive, un jet de sauvegarde contre la mort détermine ce qu'elles deviennent : s'il est réussi, elle sont emprisonnées dans la glace pendant 5 rounds. Dans cet état elles sont incapables de bouger et subissent 1D8+2 points de dégâts cumulatifs par round. Elles sont par contre protégées contre presque tous les attaques extérieures, seul les chocs contondants les affectant encore pour ½ dégâts seulement. Si le jet contre la mort est raté, elles font corps avec la glace en devenant glace elles-mêmes. Dans ce cas leur sort est scellé, car le moindre choc suffit à les fissurer mortellement et le bombardement de grêlons ne leur laisse aucun échappatoire.~
+@710181 = ~Tempête cryogénique (Évocation)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : champ de vision
+Durée : 4 rounds
+Temps d'incantation : 1 round
+Zone d'effet : 9 mètres de rayon
+Jet de sauvegarde : spécial
+
+Ce sort crée à l'endroit désigné une averse de grêlons extrêmement froids. Chaque round, les créatures prises sous l'averse subissent 8D10 points de dégâts (¼ contondants, ¾ de froid) et doivent réussir un jet de sauvegarde contre les sorts ou geler sur place. Si cela arrive, un jet de sauvegarde contre la mort détermine ce qu'elles deviennent : s'il est réussi, elle sont emprisonnées dans la glace pendant 5 rounds. Dans cet état elles sont incapables de bouger et subissent 1D8+2 points de dégâts cumulatifs par round. Elles sont par contre protégées contre presque tous les attaques extérieures, seul les chocs contondants les affectant encore pour ½ dégâts seulement. Si le jet contre la mort est raté, elles font corps avec la glace en devenant glace elles-mêmes. Dans ce cas leur sort est scellé, car le moindre choc suffit à les fissurer mortellement et le bombardement de grêlons ne leur laisse aucun échappatoire.~
+
+@71019 = ~Dernier recours~ //Pas fait, il manque une très grosse animation de "boum".
+@71020 = ~Dernier recours (Transmutation)
+Niveau : 10
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 25 mètres de rayon
+Jet de sauvegarde : spécial
+
+Ce sort est un sacrifice ultime pour le seigneur de guerre, qui met en jeu tout ce qu'il a pour dévaster une zone.
+Lorsque ce sort est lancé, une grande partie de l'énergie vitale et magique du seigneur de guerre est transformée en pure énergie pour créer une onde destructrice qui s’étend jusqu’à 25 mètres autour de lui, en traversant tout se qui se présente (les objets solides tels que murs, portes et autres obstacles ne protègent pas contre ce sort). Toutes les créatures situées dans la zone subissent 24D20 points de dégâts magiques et restent étourdies pendant 1D4+2 rounds. Celles qui réussissent un jet de sauvegarde contre les sort ne subissent que 16D20 et ne sont étourdies que pendant 1D3 rounds.
+Ce sort puisant dans l'énergie du seigneur de guerre la force nécessaire à une telle destruction, celui-ci succombe automatiquement s'il à moins de 60 point de vie lorsque le sort se résout. S'il a plus de point de vie, il doit réussir un jet de sauvegarde contre la mort à -2 pour survivre. S'il réussit, toute l'énergie vitale drainée par le sort le laisse à 1 point de vie, le reste de l’énergie étant puisée dans 1D10 sorts qu'il "oubli". S'il n'a pas réussi son jet avec au moins 4 points de plus que le minimum nécessaire, le choc le fait sombrer dans l'inconscience pour 1D4+1 rounds.
+
+Note : le seigneur de guerre sacrifiant son énergie vitale pour alimenter ce sort, s'il est protégé par le sort Invulnérabilité il ne peut pas mourir mais descendra quand même à 1 point de vie restant.~
+@710201 = ~Dernier recours (Transmutation)
+
+Requis : Recherches arcaniques
+
+Niveau : 10
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : 25 mètres de rayon
+Jet de sauvegarde : spécial
+
+Requis : Recherches arcaniques
+
+Ce sort est un sacrifice ultime pour le seigneur de guerre, qui met en jeu tout ce qu'il a pour dévaster une zone.
+Lorsque ce sort est lancé, une grande partie de l'énergie vitale et magique du seigneur de guerre est transformée en pure énergie pour créer une onde destructrice qui s’étend jusqu’à 25 mètres autour de lui, en traversant tout se qui se présente (les murs, portes et tous autres obstacles ne protègent pas contre ce sort). Toutes les créatures situées dans la zone subissent 24D20 points de dégâts magiques et restent étourdies pendant 1D4+2 rounds. Celles qui réussissent un jet de sauvegarde contre les sort ne subissent que 16D20 et ne sont étourdies que pendant 1D3 rounds.
+Ce sort puisant dans l'énergie du seigneur de guerre la force nécessaire à une telle destruction, celui-ci succombe automatiquement s'il à moins de 60 point de vie lorsque le sort se résout. S'il a plus de point de vie, il doit réussir un jet de sauvegarde contre la mort à -2 pour survivre. S'il réussit, toute l'énergie vitale drainée par le sort le laisse à 1 point de vie, le reste de l’énergie étant puisée dans 1D10 sorts qu'il "oubli". S'il n'a pas réussi son jet avec au moins 4 points de plus que le minimum nécessaire, le choc le fait sombrer dans l'inconscience pour 1D4+1 rounds.~

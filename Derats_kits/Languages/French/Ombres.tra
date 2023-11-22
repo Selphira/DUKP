@@ -1,0 +1,45 @@
+@1209 = ~arpenteur d'ombres~
+@121 = ~Arpenteur d'ombres~
+@122 = ~ARPENTEUR D'OMBRES : L'ordre des arpenteur d'ombres est une organisation très ancienne, dont tous les membres ont une affinité particulière avec l'ombre. Les rumeurs racontent que les plus grands maîtres de l'ordre sont de véritable ombres, et que c'est la magie qui les a façonnés. Quoi-qu'il en soit, ce lien très particulier avec l'ombre donne aux arpenteur d'ombres un précieux avantage.
+Le recrutement dans l'ordre se fait uniquement par désignation des maîtres. L'initié, s'il accepte, est associé à un mentor qui est chargé de lui enseigner les techniques de l'ombre et la magie qui lui est associée. Tout membre officiel de l'ordre sait utiliser l'ombre à son avantage et manipule des sorts simples pour l'aider dans sa tâche. La vraie magie de l'ombre, cependant, n'est pratiquée que par les plus anciens maîtres.
+Les arpenteur d'ombres ne sont pas des voleurs classiques. Résolument tournés vers le bien, ils jurent d'utiliser leur facultés exceptionnelles pour venger les victimes. Se comportant en justiciers, ils pourchassent et frappent les criminels qui ont échappé à la justice traditionnelle.
+
+Avantages :
+- Il peut étudier tous les parchemins magiques des écoles d'abjuration, altération, illusion et divination, et utiliser la magie de l'ombre pour lancer ces sorts comme des pouvoirs magiques, jusqu'à 4 fois par jour par niveau de sort. Il maîtrise un niveau de sort supérieur tous les 4 niveaux, jusqu'au 4ème niveau de sort.
+- Ses compétences magiques lui font bénéficier d'un bonus de +1 à ses jets de sauvegarde contre les baguettes et les sorts.
+- Il voit dans le noir comme s'il avait l'infravision.
+- Aux niveaux 3, 5 et 7 il peux utiliser "Aura d'ombres" une fois par jour.
+- Aux niveaux 8, 10 et 12 il peut utiliser "Manteau d'ombre" une fois par jour.
+- Aux niveaux 13, 15 et 17 il peut utiliser "Forme d'ombre" une fois par jour.
+
+Inconvénients :
+- Seul les humains, elfes et demi-elfes peuvent être désignés.
+- Seule une bonne âme peut accepter de suivre la voie des arpenteur d'ombres.
+- L'étude de la magie lui laissant peu de temps pour l’entraînement martial, il est un piètre combattant : son taco suit de près celui des mages (-1 tous les 6 niveaux à partir du niveau 5) et il n'utilise que des armes légères.
+- L'étude des techniques de l'ombre se faisant en parallèle de son apprentissage de voleur, il ne reçoit que 20% à répartir dans les compétences à chaque montée de niveau.
+
+
+AURA D'OMBRES :
+lorsqu'il crée une aura d'ombres, une aura semi-magique recouvre l'arpenteur d'ombres, qui bénéficie alors d'un bonus de +25% en dissimulation. L'aura peut être maintenue pendant un round par niveau.
+
+MANTEAU D'OMBRES :
+Lorsqu'il se couvre du manteau d'ombre, l'arpenteur d'ombres adopte une forme ombragée. Dans cet état partiellement translucide, il bénéficie d'un bonus de camouflage de +1 à la CA et aux jets de sauvegarde. Il gagne également +50% en dissimulation. S'il reste immobile pendant un round au moins, il devient invisible. Tant qu'il est sous le couvert du manteau (un round par niveau) il peut se rendre invisible à volonté, en restant immobile un round.
+
+FORME D'OMBRE :
+L'arpenteur d'ombres qui utilise cette capacité se transforme en ombre vivante. Sous cette forme il est quasiment invisible et gagne +4 à la CA et aux jets de sauvegarde. Il peut attaquer ou lancer un sort sans revenir visible, mais les créatures peuvent le remarquer quelques instants de temps en temps, comme un mouvement dans l'ombre. La détection de l'invisibilité ne permet pas de le révéler et la vision lucide ne le révèle que par intermittence. S'il vient à être attaqué, seules les armes magiques peuvent l'affecter. Sous forme d'ombre il ne peut utiliser ses armes, car éthérées elle passeraient au travers des cibles sans les affecter. Mais son toucher acquiert les propriétés du contact ombrageux : 1D4+1 points de dégâts et réduction d'un point de force pour 2 tours en cas de jet de sauvegarde contre la mort à -3 raté.
+Il peut rester sous forme d'ombre pendant 1 round par niveau ou revenir à l'état normal quand il le désire.~
+
+@123 = ~Aura d'ombre~ 
+@1231 = ~Camouflé~
+@124 = ~Manteau d'ombres~
+@125 = ~Forme d'ombre~
+@126 = ~Annuler Forme d'ombre~
+@127 = ~Sorts de niveau 1~
+@128 = ~Sorts de niveau 2~
+@129 = ~Sorts de niveau 3~
+@1210 = ~Sorts de niveau 4~
+@1211 = ~Contact de l'ombre~
+@1212 = ~Sorts de niveau 5~
+
+//Sort non repris dans BGEE
+@12300 = ~Oeil de magicien~

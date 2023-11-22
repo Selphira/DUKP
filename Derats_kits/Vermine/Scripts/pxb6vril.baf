@@ -1,0 +1,36 @@
+IF
+	Global("pxvrillette","LOCALS",0)
+	See(Nearestenemyof(Myself))
+THEN
+	RESPONSE #25
+		SetGlobalTimer("gong","LOCALS",9)
+		SetGlobal("Pxvrillette","LOCALS",1)
+	RESPONSE #25
+		SetGlobalTimer("gong","LOCALS",12)
+		SetGlobal("Pxvrillette","LOCALS",1)
+	RESPONSE #25
+		SetGlobalTimer("gong","LOCALS",15)
+		SetGlobal("Pxvrillette","LOCALS",1)
+	RESPONSE #25
+		SetGlobalTimer("gong","LOCALS",18)
+		SetGlobal("Pxvrillette","LOCALS",1)
+END
+
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	Global("pxvrillette","LOCALS",1)
+	See(Nearestenemyof(Myself))
+	Range(Nearestenemyof(Myself),15)
+	OR(2)
+	GlobalTimerExpired("gong","LOCALS")
+	HPLT(Myself,20)
+THEN
+	RESPONSE #100
+		SetGlobal("Pxvrillette","LOCALS",2)
+		CreateVisualEffectObject("PXW5HUV1",Myself)
+		CreateVisualEffectObject("PXW5HUV2",Myself)
+		ReallyForceSpellRES("pxb6vri1",Myself)
+		DisplayString(Myself,@1016)
+		Attack(Nearestenemyof(Myself))
+		ChangeAIScript("",OVERRIDE)
+END

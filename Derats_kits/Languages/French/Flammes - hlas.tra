@@ -1,0 +1,17 @@
+@2111 = ~Alchimie du feu~
+@2112 = ~Alchimie du feu :
+
+Ce don permet au prêcheur des flammes de créer une potion en rapport avec le feu une fois par jour. Chaque création coûte 100 pièces d'or d’ingrédients au prêcheur~
+@21121 = ~Potion de fournaise interne~
+@21122 = ~Cette potion est dangereuse à ingérer, et peut même s'avérer mortelle. Mais c'est principalement dans son effet secondaire que réside son principal intérêt.
+
+PARAMETRES :
+
+Le consommateur reçoit 8d6 points de dégâts du feu (jet contre la métamorphose à –4 pour annuler) mais sa résistance au froid passe à 100% pendant 4 rounds.~
+
+@2113 = ~Rage du prêcheur~
+@2114 = ~Rage du prêcheur :
+
+Le prêcheur des flammes qui maîtrise parfaitement le feu peut générer un feu intense à partir de la colère qui l'habite. Lorsqu'il converti la frénésie qu'il ressent au combat en chaleur, il génère une importante explosion qui calcine tout se qui se trouve dans la zone.
+Toutes les créatures à moins de 10 mètres de lui subissent 16D6 points de dégâts, majoré de moitié si elles réussissent un jet sauvegarde contre les sorts. Celles qui échouent au premier jet de sauvegarde doivent alors en réussir un contre la mort ou être carbonisé pour 16D6 supplémentaire (total 32D6 points de dégâts si les deux jets sont ratés). La résistance à la magie des victimes ne leur est d'aucun secours contre cette capacité surnaturelle.
+Convertir sa fureur est un exercice épuisant pour le prêcheur, qui lorsqu’il l'exécute doit réussir un jet de sauvegarde contre la mort ou s'évanouir pour 1D4 rounds.~

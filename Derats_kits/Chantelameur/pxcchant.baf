@@ -1,0 +1,116 @@
+IF
+	Global("chantemai2","LOCALS",0)
+	HasItemSlot(Myself,SLOT_SHIELD)
+THEN
+	RESPONSE #100
+	SetGlobal("chantemai2","LOCALS",1)
+	SetGlobal("pxchantk","LOCALS",0)
+	ApplySpellRES("pxcnospl",Myself)
+END
+
+IF
+	Global("chantemai2","LOCALS",1)
+	!HasItemSlot(Myself,SLOT_SHIELD)
+THEN
+	RESPONSE #100
+	SetGlobal("chantemai2","LOCALS",0)
+	SetGlobal("pxchantk","LOCALS",0)
+	ApplySpellRES("pxcokspl",Myself)
+END
+
+IF
+	Global("chantemai1","LOCALS",0)
+	HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	SetGlobal("chantemai1","LOCALS",1)
+	SetGlobal("pxchantk","LOCALS",0)
+	ApplySpellRES("pxccast2",Myself)
+END
+
+IF
+	Global("chantemai1","LOCALS",1)
+	!HasWeaponEquiped(Myself)
+THEN
+	RESPONSE #100
+	SetGlobal("chantemai1","LOCALS",0)
+	SetGlobal("pxchantk","LOCALS",0)
+	ApplySpellRES("pxccast0",Myself)
+END
+
+IF
+	Global("pxchantk","LOCALS",0)
+	Global("chantemai1","LOCALS",0)
+	Global("chantemai2","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @83)
+	SetGlobal("pxchantk","LOCALS",1)
+END
+
+IF
+	Global("pxchantk","LOCALS",0)
+	Global("chantemai1","LOCALS",0)
+	Global("chantemai2","LOCALS",0)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @85)
+	SetGlobal("pxchantk","LOCALS",1)
+END
+
+IF
+	Global("pxchantk","LOCALS",0)
+	Global("chantemai1","LOCALS",1)
+	Global("chantemai2","LOCALS",0)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @87)
+	SmallWait(15)
+	DisplayStringHead(Myself, @84)
+	SetGlobal("pxchantk","LOCALS",1)
+END
+
+IF
+	Global("pxchantk","LOCALS",0)
+	Global("chantemai1","LOCALS",1)
+	Global("chantemai2","LOCALS",1)
+THEN
+	RESPONSE #100
+	DisplayStringHead(Myself, @86)
+	SetGlobal("pxchantk","LOCALS",1)
+END
+
+IF
+	Global("pxcmait","LOCALS",0)
+	OR(4)
+		CheckStat(myself,5,PROFICIENCYLONGSWORD)
+		CheckStat(myself,5,PROFICIENCYBASTARDSWORD)
+		CheckStat(myself,5,PROFICIENCYKATANA)
+		CheckStat(myself,5,PROFICIENCYSCIMITARWAKISASHININJATO)
+THEN
+	RESPONSE #100
+	SetGlobal("pxcmait","LOCALS",5)
+END
+
+IF
+	Global("pxcmait","LOCALS",5)
+	Global("pxcspeci","LOCALS",0)
+	Global("chantemai1","LOCALS",1)
+	Global("chantemai2","LOCALS",0)
+THEN
+	RESPONSE #100
+	SetGlobal("pxcspeci","LOCALS",1)
+	ApplySpellRES("spcl141",Myself)
+END
+
+IF
+	Global("pxcmait","LOCALS",5)
+	Global("pxcspeci","LOCALS",1)
+	OR(2)
+	!Global("chantemai1","LOCALS",1)
+	!Global("chantemai2","LOCALS",0)
+THEN
+	RESPONSE #100
+	SetGlobal("pxcspeci","LOCALS",0)
+	ApplySpellRES("pxcspeci",Myself)
+END

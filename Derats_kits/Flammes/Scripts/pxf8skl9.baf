@@ -1,0 +1,17 @@
+IF	
+	GlobalLT("pxf8barb","LOCALS",4)
+	See(Nearestenemyof(Myself))
+	!GlobalTimerNotExpired("rage","LOCALS")
+THEN
+  RESPONSE #100
+	Spell(Myself,BARBARIAN_RAGE)
+	SetGlobalTimer("rage","LOCALS",18)
+	IncrementGlobal("pxf8barb","LOCALS",1)
+END
+
+IF
+	Global("pxf8barb","LOCALS",4)
+THEN
+	RESPONSE #100
+		ChangeAIScript("",OVERRIDE)
+END

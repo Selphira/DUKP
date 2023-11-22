@@ -1,0 +1,15 @@
+IF
+  See(Nearestenemyof(Myself))
+  Delay(10)
+THEN
+  RESPONSE #100
+    ReallyForceSpell(Nearestenemyof(Myself),HELL_HOUND_FLAME)
+END
+
+IF
+  See(Nearestenemyof(Myself))
+THEN
+  RESPONSE #100
+    AttackReevaluate(Nearestenemyof(Myself),5)
+END
+

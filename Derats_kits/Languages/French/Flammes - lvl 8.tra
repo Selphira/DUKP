@@ -1,0 +1,70 @@
+@283 = ~Orbes infernales~
+@284 = ~Orbes infernales (Conjuration)
+Niveau : quête
+Sphère : élémentaire (feu)
+Portée : 0
+Durée : 4 tours.
+Temps d'incantation : 6
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : aucun
+
+Ce sort crée de grosses orbes de feu dans la main du prêcheur, qu'il peut lancer sur une cible au rythme de 5 par round. Une seule orbe est crée à la fois, et est remplacée sitôt qu'elle est lancée, jusqu’à un total de 15 crées.
+Chaque orbe est considérée comme un missile +5, lancée avec un bonus de +5 au toucher et infligeant 1D6+5 dégâts contondant. De plus il embrase la cible, infligeant 6D6 points de dégâts de feu, réduits de moitié si la cible réussit un jet de sauvegarde contre les sorts.~
+@2841 = ~Orbe infernale~
+@2842 = ~Cette orbe de feu à été crée avec le sortilège Orbes infernales.~
+
+@285 = ~Nuage incendiaire~
+@286 = ~Nuage incendiaire (Évocation)
+Niveau : quête
+Sphère : élémentaire (feu)
+Portée : champ de vision 
+Durée : 1 tour
+Temps d'incantation : 7
+Zone d'effet : nuage de 12 mètres de rayon
+Jet de sauvegarde : ½
+
+Ce sort crée un vaste nuage de flammes dévorantes. Tout ce qui est dans la zone d'effet doit quitter le nuage immédiatement ou subir 20D4 points de dégâts du feu à chaque round passé dans le nuage. Un jet de sauvegarde contre les sorts réussi réduira les dégâts de moitié. Le prêcheur des flammes peut se déplacer librement dans le nuage sans en subir les effets.~
+
+@287 = ~Bouclier de flammes mortelles~
+@288 = ~Bouclier de flammes mortelles (Évocation, Altération)
+Niveau : quête
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 8
+Zone d'effet : le lanceur de sorts
+Jet de sauvegarde : non
+
+Ce sort enveloppe le prêcheur dans un maelström de flammes en furie. Ainsi couvert il est totalement protégé contre le feu et gagne un bonus de camouflage de +2 à la CA.
+Les flammes composant le bouclier sont très instables, et toute personne qui touche le prêcheur protégé subit un contrecoup aléatoire déterminé par le lancer d'un D100  :
+1 à 15 : Brûlure : 4D4 points de dégâts, jet pour ½.
+16 à 30 : Brûlure : 6D6 points de dégâts, jet pour ½.
+31 à 45 : Brûlure : 8D8 points de dégâts, jet pour ½.
+46 à 60 : Brûlure : 10D10 points de dégâts, jet pour ½.
+61 à 75 : Brûlure : 12D12 points de dégâts, jet pour ½.
+76 à 78 : Explosion du maelström (5 mètres de rayon, 4D6 points de dégâts, jet pour ½)
+79 à 81 : Explosion du maelström (8 mètres de rayon, 6D8 points de dégâts, jet pour ½)
+82 à 84 : Explosion du maelström (10 mètres de rayon, 8D10 points de dégâts, jet pour ½)
+85 à 87 : Incinération (comme le sort de niveau 7, 5 rounds, jet pour annuler)
+88 à 90 : Incinération (comme le sort de niveau 7, 5 rounds, jet à -3 pour annuler)
+91 à 93 : Incinération (comme le sort de niveau 7, 10 rounds, jet pour annuler)
+94 à 96 : Incinération (comme le sort de niveau 7, 10 rounds, jet à -3 pour annuler)
+97 et 98 : Pulvérisation (mort si jet contre la mort raté, 12D6 points de dégâts en cas de réussite, second jet pour ½)
+99 et 100 : Pulvérisation (mort si jet contre la mort raté à -3, 20D10 points de dégâts en cas de réussite, second jet à -3 pour ½)
+
+Note : à part le premier jet contre la pulvérisation, tous les jets de sauvegarde sont fait contre les sorts. Tous les dégâts sont de type feu. Et les incinérations causées par le bouclier ne sont pas cumulables.~
+@2889 = ~Pulvérisé~
+
+@289 = ~Faille~
+@2810 = ~Faille (Invocation)
+Niveau : quête
+Sphère : élémentaire (feu)
+Portée : champ de vision 
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : une créature
+Jet de sauvegarde : spécial
+
+Ce sort permet de créer un conduit de magma du centre de Abel-Toril directement vers la cible.
+Quand la lave en fusion arrive sous elle, une faille se crée et englouti la cible. Elle subit 10D10 points de dégâts de feu et doit réussir un jet de sauvegarde contre les souffle pour s'extraire rapidement du gouffre dans lequel elle est tombée. Si elle n'y parvient pas (jet raté), un deuxième jet à -2 détermine ce qui lui arrive. Raté, elle meurt écrasée alors que la faille se referme. Réussi, elle n'est écrasé qu'en partie : elle subit 10D10 points de dégâts contondants et garde un lourd handicap : vitesse de déplacement réduite de 50% et -3 à l'attaque et à la classe d'armure.
+Ce sort ne ciblant pas directement la victime mais plutôt les flux de magma sous la surface du sol, la résistance à la magie de celle-ci ne la protège en rien.~
+@28101 = ~Écrasement par la faille~

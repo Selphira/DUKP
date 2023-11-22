@@ -1,0 +1,71 @@
+@1209 = ~shadow walker~
+@121 = ~Shadow walker~
+@122 = ~Shadow Walker: The order of shadow walkers is a very ancient organization, whose members have a special affinity with shadows. Rumours say that the greatest masters of the order are true shadows, and that's shaped them. Whatever they are, this very special bond with shadows gives the shadow walkers a valuable benefit.
+Recruitment in the order is made only by appointment of masters. The initiate, if he's accepted, is paired to a mentor who is responsible for teaching him the techniques of shadows and magic associated with it. Any official member of the order knows how to use shadows to their advantage and conjures simple spells to help him in his task. The real magic of shadows, however, is only practised by the most ancient masters.
+Shadow Walkers are not conventional thieves. Resolutely turned towards good, they swear to use their special abilities to avenge victims. Acting as vigilantes, they hunt and beat criminals who escaped traditional justice.
+
+Advantages:
+- He can study all magic scrolls of abjuration, alteration, illusion and divination schools, and use magic of shadows to cast these spells like magic powers, up to 4 times per day per spell level. He masters a higher level spell every 4 levels, up to 4th level spell.
+- His magical skills make him benefit of a +1 bonus to his saving throws vs. wands and spells.
+- He sees in the dark as if he had Infravision.
+- At levels 3, 5 and 7 he can use "Aura of Shadows" once a day.
+- At levels 8, 10 and 12 he can use "Mantle of Shadows" once a day.
+- At levels 13, 15 and 17 he can use "Shape of Shadow" once a day.
+
+Disadvantages:
+- Only human, elves and half-elves can be designated.
+- Only a good soul can choose to follow the way of the Shadow walker.
+- The study of magic leaves him little time for martial training, he is a poor fighter: his THAC0 follows that of mages (-1 every 6 levels starting from level 5) and he use light weapons and short bows only.
+- The study of techniques of shadows goes hand in hand with his learning as thief, he receives only 20% to distribute among skills for every levelling up.
+
+
+SHADOW AURA:
+When he creates an aura of shadows, a half-magical aura covers the Shadow walker, which then has a +25% bonus in hiding. The aura can be kept a round per level.
+
+SHADOW CLOAK:
+When he covers himself with the mantle of shadows, the Shadow walker takes a shaded shape. In this partially translucent state, he has a +1 hiding bonus to AC and saving throws. He also gets a 50% bonus in hiding. If he stays firm for at least 1 round, he becomes invisible. While in the guise of the mantle (1 round per level) he can become invisible at will, staying firm 1 round.
+
+SHADOW FORM:
+The Shadow walker that uses this ability can become a living shadow. Under this shape he is almost invisible and gains a +4 to AC and saving throws. He can attack or cast a spell without returning visible, but the creatures may notice him a few moments from time to time, as a movement in the shadows. Detection of invisibility does not allow to reveal him and true sight reveals him only intermittently. If he comes to be attacked, only magical weapons can affect him. Under shape of shadow he can not use his weapons, as they ethereal they will pass through the targets without affecting them. But his touch will gain the properties of a shadow touch: 1D4 +1 damage points and strength reduction of 1 point for 2 turns when a saving throw vs. death at -3 is failed.
+He can remain in the shape of shadow for 1 round per level or return to normal state when he desires.~
+
+@123 = ~Aura of Shadows~
+@1231 = ~Hidden~
+@124 = ~Mantle of Shadows~
+@125 = ~Shape of Shadow~
+@126 = ~Undo Shape of Shadow~
+@127 = ~Level 1 Spells~
+@128 = ~Level 2 Spells~
+@129 = ~Level 3 Spells~
+@1210 = ~Level 4 Spells~
+@1211 = ~Shadow Touch~
+@1212 = ~Level 5 Spells~
+
+@1213 = ~Mastery of Shadow: Greater Shape of Shadow~
+@1214 = ~The Shadow walker who has practiced a lot connection with the half-plane of shadow strengthened his binding with it and can take advantage when he transforms into a shadow. He may then take the shape of a reflection. Under this shape, only magic weapon of at least +2 can affect him, he gets 15% magic resistance, and his touch becomes more harmful: 1D8 additional cold damage points and 1 level drain of experience if the saving throw is failed at -4, 1 point drain of strength is the saving throw is successful.~
+
+@1215 = ~Mastery of Shadow: Teleport by Shadows~
+@1216 = ~The Shadow walker who fully grasped how to put a foot in the shadow plane and gets out can use it to move from a place to another. Using this power, he can enter into the shadow plane, follow the straight line that leads him to the shadow of the place he wants to go, and exit from the shadow plane. The journey lasts a few seconds and is like a teleport for a person that does not know the trick. The Shadow walker that master this power, can use it five times a day.~
+@12161 = ~Teleport by Shadows~
+
+@1217 = ~Mastery of Shadow: Animate Shadows~
+@1218 = ~The affinity of the Shadow walker with the shadows allows him to animate these latters with a very limited form of intelligence. At each use of this gift, he animates 3D4 shadows under the shape of 3HD monsters. Each of these animated shadows has the power to drain force of common monsters and can be affected only by magic weapons, but does not generate other shadows killing a creature.~
+@12181 = ~Animate Shadows~
+@12182 = ~Shadow~ //IWDEE Compatibility
+
+@1219 = ~Mastery of Mysteries: Additional School: Enchantment~
+@1220 = ~The years that the Shadow walker spent using magic gave him an almost intuitive understanding of mysteries, and now this allows him to understand the spells of the school of enchantment, which some characteristics overlap those of schools he already masters. By choosing this ability, the Shadow walker can now cast enchantment spells in addition to those he already knows.~
+
+@1221 = ~Mastery of Mysteries: Instinctive Use~
+@1222 = ~Requires: the character must be able to cast enchantment spells.
+
+Arcane knowledge of the Shadow walker improves constantly, he can cast in a more instinctive way his spells. He can then cast more spells than his skills allow him. By choosing this ability, the Shadow walker can cast 5 spells per spell level a day.~
+
+@1223 = ~Mastery of Mysteries: Higher Level~
+@1224 = ~Requires: the character must be able to cast enchantment spells.
+
+The almost intuitive understanding of the Shadow walker allows him to understand much more things about mysteries that he mastered at the beginning of his training. So much that he can master a spell level of which he is not trained. By choosing this ability, he gets the chance to learn Level 5 spells (including enchantment) and to cast one once a day. He can pick up this ability up to 5 times, each one giving him a new daily use.~
+
+
+//Spell not included in BGEE
+@12300 = ~Wizard Eye~

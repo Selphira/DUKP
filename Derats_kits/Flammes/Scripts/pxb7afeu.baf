@@ -1,0 +1,19 @@
+IF
+	!StateCheck(Myself,STATE_HELPLESS)
+	GlobalLT("pxb7fusion","LOCALS",4)
+	See(Nearestenemyof(Myself))
+	!GlobalTimerNotExpired("web","LOCALS")
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("pxb7afe1",NearestEnemyOf(Myself))
+		SetGlobalTimer("web","LOCALS",63)
+		IncrementGlobal("pxb7fusion","LOCALS",1)
+		Attack(Nearestenemyof(Myself))
+END
+
+IF
+	Global("pxb7fusion","LOCALS",4)
+THEN
+	RESPONSE #100
+		ChangeAIScript("",OVERRIDE)
+END

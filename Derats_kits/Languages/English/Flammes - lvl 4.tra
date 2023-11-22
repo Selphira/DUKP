@@ -1,0 +1,161 @@
+@242 = ~Free Action (Abjuration)
+Level: 4
+Sphere: charm
+Range: Touch
+Duration: 1 turn + 1 round/level
+Casting Time: 5
+Area of Effect: creature touched
+Saving Throw: none
+
+While under the effects of this spell, the recipient becomes immune to anything that limits his movement. This includes the effects of web, hold person, grease and entangle. The preacher of flames having lost all healing skills, casts a version of the spell that can't free a target already paralyzed.~
+@2421 = ~Free Action (Abjuration)
+Level: 4
+Sphere: charm
+Range: Touch
+Duration: 1 turn/level
+Casting Time: 7
+Area of Effect: 1 creature
+Saving Throw: none
+
+This spell gives the affected creature an immunity to magic that impedes movement (such as Grease, Web, or Slow spells) and negates the effects of paralysis and hold spells. The recipient of the spell can still be hasted and receive beneficial movement effects such as those granted by the boots of speed.
+Special: The preacher of flames having lost all healing skills, casts a version of the spell that can't free a target already paralyzed.~ //Texte pour IWDEE
+
+@246 = ~Animal Summoning I (Conjuration, Summoning)
+Level: 4
+Sphere: animal, summoning
+Range: 20 m
+Duration: 3 turns
+Casting Time: 5
+Area of Effect: special
+Saving Throw: none
+
+By means of this spell, the caster calls up to three animals that have 4 Hit Dice or less. Fire creatures or having an affinity with fire replace animals usually called by this spell, attracted by the preacher Firelord. They will remain under the caster's control until slain or the spell duration expires.~
+@2461 = ~Firedrake~
+@2462 = ~Fire Spider~
+@2463 = ~Firenewt~
+
+@247 = ~Conjure Lesser Fire Elemental~
+@248 = ~Conjure Lesser Fire Elemental (Conjuration/Summoning)
+Level: 4
+Sphere: elemental (fire)
+Range: visual range of the caster
+Duration: 1 turn + 1 round/level
+Casting Time: 1 round
+Area of Effect: special
+Saving Throw: none
+
+This spell allows the cleric to summon a lesser fire elemental. The elementals will do everything in their power to help the preacher as long as the spell lasts, after which they will return to their plane of existence.
+The spell does not automatically summons elementals. In fact there is a fluctuation depending upon the location of the place where the portal opens. Thus, at each casting of the spell there is a 50% that 1 to 4 2HD elementals appear, 30% 1 to 3 4HD elementals appear and 20% 1 or 2 6HD elementals appear.~
+@2481 = ~Lesser Fire Elemental~
+
+@249 = ~Blazing~
+@2410 = ~Blazing (Necromancy)
+Level: 4
+Sphere: necromancy
+Range: visual range of the caster
+Duration: 5 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: negates
+
+If the target of the spell fails a saving throw vs. spells, it blazes up. For the next 5 rounds during which the flames burn his flesh, the victim suffers from the following damage: 4D10 +5, 4D8 +4, 4D6 +3, 4D4 +2, 4D2 +1, after which flames extinguish. When it flares up, the victim must make another successful saving throw vs. spells with a -3 bonus or flees away, scared of burning alive.
+The spell does not only carbonize flesh, it also make blood boiling; and pain resulting from such treatment hampers significantly the target, which gets all saving throws reduced by -2, including THAC0, for 9 rounds (The pain will persist after flames extinguish).
+Blazing has no effect towards fire creatures.~
+@24101 = ~Blazing (Necromancy)
+Level: 4
+Sphere: necromancy
+Range: visual range of the caster
+Duration: 5 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: negates
+
+If the target of the spell fails a saving throw vs. spells, it flares up. For the next 5 rounds while flames burn his flesh, the victim suffers the following damage: 4D10 +10, 4D8 +8, 4D6 +6, 4D4 +4, 4D2 +2, after which flames extinguish. When he flares up, the victim must make another successful saving throw vs. spells with a -3 bonus or it flees, terrified of burning alive.
+The spell does not only carbonize flesh, it also make blood boiling; and the pain resulting from such a treatment hampers significantly the target, that has all saving throws decreased by -2, including THAC0, for 9 rounds (The pain will persist after flames extinguish).
+At level 30 of the caster of the spell, the damages from blazing are 3D12 +12, 3D10 +10, 3D8 +8, 3D6 +6, 3D4 +4.
+At level 40 of the caster of the spell, a 6th round of blazing is added, for a total damage of 4D12 +6, 4D10 +5, 4D8 +4, 4D6 +3, 4D4 +2, 4D2 +1.
+Blazing has no effect towards fire creatures.~
+@24102 = ~Blazing (Necromancy)
+Level: 4
+Sphere: necromancy
+Range: visual range of the caster
+Duration: 5 rounds
+Casting Time: 4
+Area of Effect: 1 creature
+Saving Throw: negates
+
+If the target of the spell fails a saving throw vs. spells with a -2 bonus (additional -1 every 5 levels of the caster beyond level 20), it blazes up. For the next 5 rounds during which the flames burn his flesh, the victim suffers from the following damage: 4D10 +5, 4D8 +4, 4D6 +3, 4D4 +2, 4D2 +1, after which flames extinguish. When it flares up, the victim must make another successful saving throw vs. spells or flees away, scared of burning alive.
+The spell does not only carbonize flesh, it also make blood boiling; and pain resulting from such treatment hampers significantly the target, which gets all saving throws reduced by -2, including THAC0, for 9 rounds (The pain will persist after flames extinguish).
+Blazing has no effect towards fire creatures.~
+
+@2411 = ~Fire Form~
+@2412 = ~Fire Form (Polymorph)
+Level: 4
+Sphere: elemental (fire)
+Range: 0
+Duration: 1 turn + 1 round/level
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+When he casts this spell, the body of the preacher of flames gradually turns into fire, while his equipment blends into the mass to adopt the final shape of a fire elemental. Thus turned he becomes immune to all types of fire damage, as well as poisons, non-magical weapons and sneak attacks. His natural armor class is set at 4 and his fists inflict additional 1D8 fire damage. His THAC0, abilities as well as his HD stay the same, and he keeps the ability to cast spells. While he's under elemental shape, he burns web, entangling roots and grease, safely passing through each of these.~
+@24121 = ~Fire Form (Polymorph)
+Level: 4
+Sphere: elemental (fire)
+Range: 0
+Duration: 3 turns
+Casting Time: 4
+Area of Effect: the caster
+Saving Throw: none
+
+When he casts this spell, the body of the preacher of flames gradually turns into fire, while his equipment blends into the mass to adopt the final shape of a fire elemental. Thus turned he becomes immune to all types of fire damage, as well as poisons, non-magical weapons and sneak attacks. His natural armor class is set at 4 and his fists inflict additional 1D10 (2D6 -1 at level 30 and 1D12 at level 40) fire damage. His THAC0, abilities as well as his HD stay the same, and he keeps the ability to cast spells. While he's under elemental shape, he burns web, entangling roots and grease, safely passing through each of these.~
+
+@2413 = ~Fire Breath~
+@2414 = ~Fire Breath (Alteration)
+Level: 4
+Sphere: elemental (fire)
+Range: 5 meters
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 80 degrees arc
+Saving Throw: 1/2
+
+This spell allows the preacher to blow fire. His breath takes a conical shape which can extend up to 4 meters, inflicting 1D4 + 2 points of fire damage per level to all creatures taken in the breath (maximum 12D4 + 24). Victims who pass a saving throw against breath suffer only half damage.
+
+Warning: this spell crashes the game if TobEx is installed and/or on BG2EE.~
+@24141 = ~Fire Breath (Alteration)
+Level: 4
+Sphere: elemental (fire)
+Range: 5 meters
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 80 degrees arc
+Saving Throw: 1/2
+
+This spell allows the preacher to blow fire. His breath takes a conical shape which can extend up to 4 meters, inflicting 15D4 + 27 points of fire damage per level to all creatures taken in the breath (16D4 + 30 at level 30 and 17D4 + 33 at level 40). Victims who pass a saving throw against breath suffer only half damage.
+
+Warning: this spell crashes the game if TobEx is installed and/or on BG2EE.~
+@24142 = ~Fire Breath (Alteration)
+Level: 4
+Sphere: elemental (fire)
+Range: 5 meters
+Duration: instantaneous
+Casting Time: 4
+Area of Effect: 80 degrees arc
+Saving Throw: 1/2
+
+This spell allows the preacher to blow fire. His breath takes a conical shape which can extend up to 4 meters, inflicting 12D4 + 24 points of fire damage per level to all creatures taken in the breath. Victims who pass a saving throw against breath at -2 (additional -1 every 5 levels of the spellcaster beyond level 20) suffer only half damage.
+
+Warning: this spell crashes the game if TobEx is installed and/or on BG2EE.~
+
+@2415 = ~Lower Fire Resistance II~
+@2416 = ~Lower Fire Resistance II (Abjuration, Alteration)
+Level: 4
+Sphere: charm, elemental (fire)
+Range: visual range of the caster
+Duration: 5 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: 10-meters radius
+Saving Throw: 1/2
+
+When the preacher of flames casts this spell, the targeted area is traveled by elemental energies. All creatures present in the area must make a successful saving throw vs. spells or have their fire resistance reduced by 3% per every level of the preacher (max 60%). Magic resistance of creatures does not allow to stand this spell, and a successful saving throw only halves the suffered reduction.~

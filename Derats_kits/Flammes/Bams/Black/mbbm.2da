@@ -1,0 +1,41 @@
+mbbm / Black beetle de IWD sur slot IC_BEETLE_BLACK
+***
+                 SOUND
+ATTACK           mbbm03a mbbm03b nosound nosound
+ATTACK           0 0
+AWAKE            ***
+AWAKE            0
+CAST             ***
+CAST             0
+CONJURE          ***
+CONJURE          0
+DAMAGE           mbbm07 mbbm08
+DAMAGE           2 2
+DIE              mbbm09
+DIE              0 0
+HEAD_TURN        ***
+HEAD_TURN        0
+READY            ***
+READY            0
+SHOOT            ***
+SHOOT            0
+TWITCH           ***
+TWITCH           0
+WALK             ***
+WALK             0
+ATTACK_SLASH     mbbm03a nosound
+ATTACK_SLASH     0 0
+ATTACK_BACKSLASH mbbm03b nosound
+ATTACK_BACKSLASH 0 0
+ATTACK_JAB       mbbm03a nosound
+ATTACK_JAB       0 0
+EMERGE           ***
+EMERGE           0
+HIDE             ***
+HIDE             0
+SLEEP            ***
+SLEEP            0
+Battle_Cry       mbbm02
+Battle_Cry       0 0
+Selection        mbbm01
+Selection        0 0

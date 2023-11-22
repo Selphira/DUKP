@@ -1,0 +1,136 @@
+@0009 = ~This component works only with Throne of Bhaal expansion or an Enhanced Version.~
+@10 = ~Ranger Kit : Hunter of Vermin~
+@20 = ~Cleric Kit : Preacher of Flames~
+@30 = ~Fighter (half-orc) Kit : Hatred Carrier~
+@40 = ~Thief (gnome) Kit : Shadowmage~
+@50 = ~Druid Kit : Master of the Swarm~
+@60 = ~Multi-Class Cleric/Mage (human) Kit : Theurgical Explorer~
+@70 = ~Dual-Class Fighter -> Mage Kit : Warlord~
+@80 = ~Multi-Class Fighter/Mage (elf) Kit : Bladesinger~
+@90 = ~Mage Kit (it replaces the summoner) : Savant Artilleryman~
+@110 = ~Wizard Kit : Sorcerer~
+@120 = ~Thief Kit : Shadow Walker~
+@130 = ~Cleric Kit (dwarf) : Chanter of the Stone~
+@140 = ~Cleric Kit : Garagos crusader~
+@150 = ~Multi-Class Thief/Necromancer : Anatomist~
+
+
+
+//Planned, fully written but I can not properly write the dialogues "Evil talks to Evil" to justify (help welcomed):
+@00 = ~Paladin Kit (Evolution of Hatred Carrier) : Champion of Xvim~ //additional anti-paladin capabilities beside his own capabilities.
+@00 = ~Cleric Kit (Priest of the Cult of Kossuth, alternative class switching for Preacher of Flames) : Fire Walker~ //P&P according to TSR F9516 - Religions and Avatars book.
+
+//Planned, priority, very advanced but lacking icons of spells (helpe welcomed) :
+@00 = ~Mage (necromancer) Kit : Master of Unlife~ //Pro-Necromancer specialized, many new necromancy spells, management, invocation and creation of undead, hlas ranging up to an alternative licheat. Moreover Invocation school prohibited.
+@00 = ~Mage (summoner) Specialization: Cryomancer~ //Elementalist of ice, many new cold spells, conversion of spells of other elements into cold, total refusal of fire element. Moreover Divination and Illusion schools prohibited.
+@00 = ~Monk Kit : Monk of the Forgotten Order~ //Monk who can cast spells up to level 6, and whose special abilities are defences against spells.
+@00 = ~Mage Kit : Pyromancer~ //Half-genasi of fire, can't learn any mage spell, instead he learns "invocations" based on fire. Can throw small fire missiles at will.
+
+//Planned, secondary, very advanced but lacking a background:
+@00 = ~Ranger Kit : Shady~ //Affinity with the shadows, improved camouflage/sneak attacks abilities, mage spell mastery of shade instead of divine spells, THAC0 and life points reduced.
+@00 = ~Ranger Kit : Time Surveyor~ //Can walk the half-plane of time, abilities using time.
+@00 = ~Mage Kit (Necromancer) : Deathsinger~ //Based on the Ghoul Lord in the TSR 2146 -CGR3- The Complete Sha'ir's Handbook.
+@00 = ~Thief Kit : Arcane Assassin~ //Can use eight "trances" granting him various advantages.
+
+//Items for the Preacher of Flames
+@1001 = ~Blood of Kossuth~
+@1002 = ~Kossuth, the Lord of Flames, rarely takes physical form in the Forgotten Realms, but when this happens, his arrival always means mass destruction. He was summoned in 801 CV by a large gathering of worshippers who said they needed him to defend a coastal temple threatened by a monstrous octopus. Kossuth appeared in the middle of a terrifying blaze and fought the supernatural monster. The avatar overcame the octopus, but the latter managed to weaken the essence of Kossuth. The divine fire ran up along the body of the creature and took place in one of its eyes, instantly turning it into a weird black sphere lit from within by a permanent flame.
+The sphere has been crimped in a silver pendant and is the catalyst for every believer who wishes to have some of the powers of Kossuth... if ready to pay the price.
+
+STATISTICS:
+
+Equipment capacity:
+Fire resistance: -30%
+Casting Time reduced by 2
+The inflicted hits will ignore the fire resistance of the target
+
+Only Usable By:
+Fire Elementalist
+Pyromancer
+Preacher of Flames~
+
+//Items for the Sorcerer
+@1003 = ~Great Robe of Ogi-Luke~
+@1004 = ~This robe was made by a durable fabric, then dyed in midnight blue, the favorite color of its owner, the Archmage Ogi-Luke. Born in Sembia, Ogi-Luke was also a powerful and strong man by body and mind. But this was not enough; he wanted to have a colossal force. When he pulled on his robe, even the proudest fighters parted and boasters immediately silent as well. But the pride of Ogi-Luke was of no help against Nesk Whaltim, a Red Wizard who killed him and took his robe. Later, the cloth was stolen and sold by an audacious thief.
+
+STATISTICS:
+
+Armor Class: 4
+Special: grants 18/99 to Strength and +2 to Constitution
+Weight: 5
+Usable Only By:
+ Mage (single class)~
+
+@1005 = ~Combat Robe of Sarat-Tapai~
+@1006 = ~Sarat-Tapai of Cormyr was born strong in body and mind. Very young, he was chosen to integrate schools in dark arts, but this was not his deepest desire. He was diligent to learn arts and became an extremely powerful combat mage, but this did not satisfy him. In fact, he only wanted to mix with fighterse and to settle his issues by staff.
+He worked many years in the design of the robe that would give him legitimacy.
+The robe is woven by thin threads of iridium and powerfully enchanted. It gives its weaver all the attributes of the spell "Tenser's Transformation", without preventing him from casting spells. Only Sarat-Tapai could wear it during his lifetime, threads would narrow and clock neck if anyone else tries to put it on.
+Today, no one can wear this robe, the locking system is still active operating for any mage attempting to wear the robe. But it is said that a mage resolutely turned towards fight as it was Sarat-Tapai could tame the item. That remains to be seen.
+
+STATISTICS:
+
+Equipment abilities:
+Armor Class: set at 1
+Melee THAC0: +10
+Melee Damage: +2
+Life Points: +40
+
+Special: It grants an extra attack per round
+
+Weight: 5
+Requires: 15 Strength and Dexterity
+Only Usable By:
+ Sorcerer~
+
+//Items for the Bladesinger
+@1007 = ~Elven Chainmail +2 of the Bladesinger.~
+@1008 = ~This magnificent armor is composed of thousands of small metal plates finely crafted and perfectly nested. It sparkles, each of the plates reflect such a mirror the surrounding light. Flexible and lightweight, it could be suitable for any fighter, if it was not smart.
+Indeed, this armor seems to have an ego that pushes it to choose its wearer, and for all the non-elected, it closes its plates to become too narrow to be worn. In fact, it accepts to be worn by the elite elven fighters.
+ 
+STATISTICS:
+
+Special: the wearer can memorize an extra level 1 - 4 spell.
+
+AC: 4
+Weight: 4
+Required Strength: 13
+Required Dexterity: 15
+Only Usable By:
+Bladesinger
+Archer-Mage
+Windblade~
+
+//Items for the Theurgical Explorer
+@1009 = ~Sacred Symbol of Azuth~
+@10010 = ~Only the noblest and most faithful servants of the Lord of Spells receive this kind of award. This symbol is unique, existing only to be worn by a true seeker.
+
+STATISTICS
+
+Equipped Abilities:
+Can memorize 1 additional spell of 6 - 7 level of each class.
+Wisdom: +1.
+
+Only Usable By:
+Theurgical Explorer~
+
+@10000 = ~SPECIALIZER SCRIPT OF DUKP~
+@10001 = ~
+This script allows a character meeting the requirements (remember to read the read_me) to obtain a matching specialization of DUPK.
+Pair this script to a character and let yourself be guided by text on screen~
+@10002 = ~The Script Specializer of DUKP can do nothing for me: I already have a specialization. Consider assigning me another script.~
+@10003 = ~The Script Specializer of DUKP can do nothing for me: I do not match any class required by this script. Consider assigning me another script.~
+@10004 = ~I no longer need the Script Specializer of DUKP. Consider assigning me another script.~
+@10006 = ~Sorcerer Specialization is not installed.~
+
+@10007 = ~Treaty over the strange careers~
+@10008 = ~This big notebook deals with various people the author met, all having in common to follow an amazing career.
+One of the pages talk about a wizard who had devoted his time to master stick handling, and that today would be almost equal to a fighter. A similar page speaks of another wizard who defeated a fighter in a fight with two daggers. Both would actually be called "Sorcerers".
+Two pages about the middle of book speak of a fighter hungry for power, which is discovering an innate magic power, who partially diverted his fighter career to learn to control his new spells, thereby becoming a dervish of destruction. He would self-proclaim "Warlord".
+
+A wizard character who wants to become Sorcerer and has at least 15 strength and dexterity and 1 skill point in the weapon proficiency that interests him can use this manual to become Sorcerer.
+An exalted warrior character that just turned mage and whose script has not worked can use this book to become a warlord.~
+
+//Textes relatifs au maître de l'essaim
+@5477 = ~Copper Beetle~
+@57382 = ~Blazing Web~
+@573112 = ~Dephase~

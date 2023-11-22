@@ -1,0 +1,195 @@
+@1109 = ~SORCELIER~
+@11091 = ~SORCELIER (bâton)~
+@11092 = ~SORCELIER (dague(s))~
+@111 = ~Sorcelier~
+@112 = ~SORCELIER : Le sorcelier, à l'instar du sorcier dont il est très proche, à un sens innée de la magie, hérité d'une origine inconnue telle que dieu, démon ou dragon. Il peut lancer comme lui des sorts de manière instinctive, qu'il choisi mais n'apprend pas. Mais il ne choisi pas de se consacrer uniquement aux arcanes, et consacre une partie de son entraînement à la pratique des arts martiaux. Entre ses mains, le traditionnel bâton de mage devient une arme mortelle, qu'il manie avec une dextérité forçant l'admiration. Le sorcelier a moins de capacités arcaniques qu'un sorcier, mais contrairement à ce dernier, il n'est pas dépourvu de moyens lorsque les sorts lui font défauts.
+
+Avantages :
++1 au taco en mêlée tous les 2 niveaux.
++½ attaque par round aux niveaux 8 et 15.
++1 niveau de maîtrise du bâton aux niveaux 1, 3, 9 et 15.
++½ attaque par round quand il atteint les niveaux de maître et haut maître du bâton.
++1D2 points de vie par niveau jusqu'au niveau 10, +1 point de vie par niveau suivant.
++1 au jet de sauvegarde contre la mort tous les 4 niveaux.
++1 au jet de sauvegarde contre la métamorphose tous les 8 niveaux.
+- Peux utiliser ses points de compétence pour progresser dans le style de combat "Arme à deux mains".
+- Développe des versions améliorées de certains sorts de combat.
+- Peux choisir des Hlas de guerrier en plus de ceux de mage.
+
+Inconvénients :
+- pas de ½ attaque gagnée quand il atteint le niveau de grand maître du bâton.
+- Ne peut pas utiliser les objets réservés aux guerriers.
+- Ne bénéficie pas des bonus de constitution et force exceptionnelle auxquels ont droit les guerriers.
+- Capacité de lancer des sorts réduite d'un sort par niveau de sorts.
+- Progression ralentie par la pratique non-exclusive de la magie : -15% d'xp.
+
+SORTS AMÉLIORÉS : lorsqu’il lance certains sorts le sorcelier peut profiter d'effets améliorés, variables selon les sorts :
+ * Frappe précise : durée rallongée : 1 round / 3 niveaux
+ * Armure : temps d'incantation réduit, CA réduite : -1 CA / 3 niveaux
+ * Force : force améliorée si lancé sur lui même : fixée à 19
+ * Bouclier de feu (rouge/bleu) : arme affectée : +1D8 dégâts~
+@1129 = ~SORCELIER : Le sorcelier, à l'instar du sorcier dont il est très proche, à un sens innée de la magie, hérité d'une origine inconnue telle que dieu, démon ou dragon. Il peut lancer comme lui des sorts de manière instinctive, qu'il choisi mais n'apprend pas. Mais il ne choisi pas de se consacrer uniquement aux arcanes, et consacre une partie de son entraînement à la pratique des arts martiaux. Entre ses mains, le traditionnel bâton de mage devient une arme mortelle, qu'il manie avec une dextérité forçant l'admiration. Le sorcelier a moins de capacités arcaniques qu'un sorcier, mais contrairement à ce dernier, il n'est pas dépourvu de moyens lorsque les sorts lui font défauts.
+
+Avantages :
++1 au taco en mêlée tous les 2 niveaux.
++½ attaque par round aux niveaux 8 et 15.
++1 niveau de maîtrise du bâton aux niveaux 1, 3, 9 et 15.
++½ attaque par round quand il atteint les niveaux de maître et haut maître du bâton.
++1 au jet de sauvegarde contre la mort tous les 4 niveaux.
++1 au jet de sauvegarde contre la métamorphose tous les 8 niveaux.
+- Points de vie alignés sur la table des voleurs
+- Peux utiliser ses points de compétence pour progresser dans le style de combat "Arme à deux mains".
+- Développe des versions améliorées de certains sorts de combat.
+- Peux choisir des Hlas de guerrier en plus de ceux de mage.
+
+Inconvénients :
+- pas de ½ attaque gagnée quand il atteint le niveau de grand maître du bâton.
+- Ne peut pas utiliser les objets réservés aux guerriers.
+- Capacité de lancer des sorts réduite d'un sort par niveau de sorts.
+- Progression ralentie par la pratique non-exclusive de la magie : -15% d'xp.
+
+SORTS AMÉLIORÉS : lorsqu’il lance certains sorts le sorcelier peut profiter d'effets améliorés, variables selon les sorts :
+  * Frappe précise : durée rallongée : 1 round / 3 niveaux
+  * Armure : temps d'incantation réduit, CA réduite : -1 CA / 3 niveaux
+  * Force : force améliorée si lancé sur lui même : fixée à 19
+  * Bouclier de feu (rouge/bleu) : arme affectée : +1D8 dégâts~
+
+@113 = ~SORCELIER : Le sorcelier, à l'instar du sorcier dont il est très proche, à un sens innée de la magie, hérité d'une origine inconnue telle que dieu, démon ou dragon. Il peut lancer comme lui des sorts de manière instinctive, qu'il choisi mais n'apprend pas. Mais il ne choisi pas de se consacrer uniquement aux arcanes, et consacre une partie de son entraînement à la pratique des arts martiaux. Entre ses mains, une simple dague devient une arme mortelle, qu'il manie avec une dextérité forçant l'admiration. Le sorcelier a moins de capacités arcaniques qu'un sorcier, mais contrairement à ce dernier, il n'est pas dépourvu de moyens lorsque les sorts lui font défauts.
+
+Avantages :
++1 au taco en mêlée tous les 2 niveaux.
++½ attaque par round aux niveaux 8 et 15.
++1 niveau de maîtrise de la dague aux niveaux 1, 3, 9 et 15.
++½ attaque par round quand il atteint les niveaux de maître et haut maître de la dague.
++1D2 points de vie par niveau jusqu'au niveau 10, +1 point de vie par niveau suivant.
++1 au jet de sauvegarde contre la mort tous les 4 niveaux.
++1 au jet de sauvegarde contre la métamorphose tous les 8 niveaux.
+- Peux utiliser ses points de compétence pour progresser dans les styles de combat "Arme à une main" et "Deux armes".
+- Développe des versions améliorées de certains sorts de combat.
+- Peux choisir des Hlas de guerrier en plus de ceux de mage.
+
+Inconvénients :
+- pas de ½ attaque gagnée quand il atteint le niveau de grand maître de la dague.
+- Ne peut pas utiliser les objets réservés aux guerriers.
+- Ne bénéficie pas des bonus de constitution et force exceptionnelle auxquels ont droit les guerriers.
+- Capacité de lancer des sorts réduite d'un sort par niveau de sorts.
+- Progression ralentie par la pratique non-exclusive de la magie : -15% d'xp.
+
+SORTS AMÉLIORÉS : lorsqu’il lance certains sorts le sorcelier peut profiter d'effets améliorés, variables selon les sorts :
+  * Frappe précise : durée rallongée : 1 round / 3 niveaux
+  * Armure : temps d'incantation réduit, CA réduite : -1 CA / 3 niveaux
+  * Force : force améliorée si lancé sur lui même : fixée à 19
+  * Bouclier de feu (rouge/bleu) : arme affectée : +1D8 dégâts~
+@1139 = ~SORCELIER : Le sorcelier, à l'instar du sorcier dont il est très proche, à un sens innée de la magie, hérité d'une origine inconnue telle que dieu, démon ou dragon. Il peut lancer comme lui des sorts de manière instinctive, qu'il choisi mais n'apprend pas. Mais il ne choisi pas de se consacrer uniquement aux arcanes, et consacre une partie de son entraînement à la pratique des arts martiaux. Entre ses mains, une simple dague devient une arme mortelle, qu'il manie avec une dextérité forçant l'admiration. Le sorcelier a moins de capacités arcaniques qu'un sorcier, mais contrairement à ce dernier, il n'est pas dépourvu de moyens lorsque les sorts lui font défauts.
+
+Avantages :
++1 au taco en mêlée tous les 2 niveaux.
++½ attaque par round aux niveaux 8 et 15.
++1 niveau de maîtrise de la dague aux niveaux 1, 3, 9 et 15.
++½ attaque par round quand il atteint les niveaux de maître et haut maître de la dague.
++1 au jet de sauvegarde contre la mort tous les 4 niveaux.
++1 au jet de sauvegarde contre la métamorphose tous les 8 niveaux.
+- Points de vie alignés sur la table des voleurs
+- Peux utiliser ses points de compétence pour progresser dans les styles de combat "Arme à une main" et "Deux armes".
+- Développe des versions améliorées de certains sorts de combat.
+- Peux choisir des Hlas de guerrier en plus de ceux de mage.
+
+Inconvénients :
+- pas de ½ attaque gagnée quand il atteint le niveau de grand maître de la dague.
+- Ne peut pas utiliser les objets réservés aux guerriers.
+- Capacité de lancer des sorts réduite d'un sort par niveau de sorts.
+- Progression ralentie par la pratique non-exclusive de la magie : -15% d'xp.
+
+SORTS AMÉLIORÉS : lorsqu’il lance certains sorts le sorcelier peut profiter d'effets améliorés, variables selon les sorts :
+  * Frappe précise : durée rallongée : 1 round / 3 niveaux
+  * Armure : temps d'incantation réduit, CA réduite : -1 CA / 3 niveaux
+  * Force : force améliorée si lancé sur lui même : fixée à 19
+  * Bouclier de feu (rouge/bleu) : arme affectée : +1D8 dégâts~
+
+@114 = ~J'ai un point de compétence inutile. Je peux le convertir en point utile en choisissant mon style de combat et en pressant une touche :
+(U) pour le style de combat "arme à Une main"
+(D) pour le style de combat "Deux armes"~
+@1141 = ~Mon point de compétence en "Bâton" a été converti en "Armes à une main"~
+@1142 = ~Mon point de compétence en "Bâton" a été converti en "Deux armes"~
+@1143 = ~Mon point de compétence en "Fronde" a été converti en "Armes à une main"~
+@1144 = ~Mon point de compétence en "Fronde" a été converti en "Deux armes"~
+@1145 = ~Mon point de compétence en "Fléchette" a été converti en "Armes à une main"~
+@1146 = ~Mon point de compétence en "Fléchette" a été converti en "Deux armes"~
+@1147 = ~Mon point de compétence en "Dague" à été converti en "Armes à deux mains"~
+@1148 = ~Mon point de compétence en "Fronde" a été converti en "Armes à deux mains"~
+@1149 = ~Mon point de compétence en "Fléchette" a été converti en "Armes à deux mains"~
+
+@115 = ~Je correspond aux requis pour être un Sorcelier. Si je désire l'être, je dois choisir mon arme de prédilection en pressant une touche :
+(B) pour le Bâton
+(D) pour la Dague~
+@116 = ~Je suis à présent un Sorcelier.~
+@117 = ~Je ne peux pas être Sorcelier.~
+@1110 = ~Je n'ai aucune compétence avec un bâton ou une dague.~
+@1111 = ~Je n'ai aucune compétence avec un bâton. Pour la dague la touche est (D).~
+@1112 = ~Je n'ai aucune compétence avec une dague. Pour le bâton la touche est (B).~
+@1113 = ~Mes caractéristiques ne sont pas suffisantes pour me permettre d'améliorer ma maîtrise du combat.~
+
+@1114 = ~Armure de Mage
+Niveau : 1
+École : Conjuration
+Portée : jeteur du sort
+Durée : 8 heures
+Temps d'incantation : 5
+Zone d'effet : jeteur du sort
+Jet de sauvegarde : aucun
+
+Grâce à ce sort, le magicien crée un champ de force magique qui fixe sa classe d'armure de base à 6. Cet effet s'améliore de 1 point de CA par tranche de trois niveaux du lanceur, jusqu'à une classe d'armure minimale de 0 au niveau 19. L'armure ne pèse rien, n'encombre pas l'utilisateur et n'exclut pas non plus la possibilité de lancer des sorts. Le sort dure jusqu'à dissipation ou jusqu'à expiration.~
+
+@1115 = ~Frappe précise~
+@1116 = ~Frappe précise
+Niveau : 1
+École : Divination
+Portée : jeteur du sort
+Durée : 1 round / 3 niveaux
+Temps d'incantation : 1
+Zone d'effet : jeteur du sort 
+Jet de sauvegarde : aucun 
+
+En lançant ce sort, le magicien peut temporairement apercevoir l'avenir proche. Tout ses jets d'attaque effectués pendant la durée du sort bénéficient d'un bonus de perception de +10.~
+
+@1118 = ~Force (Altération) 
+Niveau : 2
+Portée : toucher
+Durée : 1 tour/niveau
+Temps d'incantation : 1round 
+Zone d'effet : personne touchée
+Jet de sauvegarde : aucun 
+
+Ce sort confère au personnage touché une Force de 18/50. Si le personnage avait déjà une Force comprise entre 18/01 et 18/50, 50 points sont ajoutés à son pourcentage de Force exceptionnelle. Si sa Force était comprise entre 18/50 et 18/00, elle est fixée à 18/00. Si sa Force était supérieure à 19, elle est ramenée à 18/50.
+Exemples :
+Force de départ : Force d'arrivée
+12 --> 18/50
+18/25 --> 18/75
+18/78 --> 18/00
+20 --> 18/50
+
+Si le magicien utilise ce sort sur lui-même, la force conférée est automatiquement de 19.~
+
+@1119 = ~Bouclier de feu (rouge)~
+@1120 = ~Bouclier de feu (rouge) (Évocation, Altération)
+Niveau : 4
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : Lanceur
+Jet de Sauvegarde : Non
+
+Ce bouclier de feu rouge protège le lanceur du feu en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de Résistance au feu, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 m. Tout adversaire attaquant le lanceur avec un arme ou un sort subit 1d8 +2 points de dégâts de feu.
+Le magicien peut aussi élargir le bouclier jusqu'à recouvrir son arme, ce qui rajoute 1D8 points de dégâts de feu à chacune de ses frappes.~
+
+@1121 = ~Bouclier de feu (bleu)~
+@1122 = ~Bouclier de feu (bleu) (Évocation, Altération)
+Niveau : 4
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : Lanceur
+Jet de Sauvegarde : Non
+
+Ce bouclier de feu bleu protège le lanceur du froid en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de Résistance au froid, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 m. Tout adversaire attaquant le lanceur avec un arme ou un sort subit 1d8 +2 points de dégâts de froid.
+Le magicien peut aussi élargir le bouclier jusqu'à recouvrir son arme, ce qui rajoute 1D8 points de dégâts de froid à chacune de ses frappes.~
