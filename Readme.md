@@ -45,7 +45,7 @@ A pack of kits including :
   
 - A ranger kit: the Hunter of Vermin.
   
-- A cleric kit: the Preacher of Fire.
+- A cleric kit: the Preacher of Flames.
   
 - A cleric kit: the Garagos crusader.
   
@@ -53,7 +53,7 @@ A pack of kits including :
   
 - A thief kit: the Shadow Walker.
   
-- A thief (gnome) kit : the Shadowmage.
+- A thief (gnome) kit: the Shadowmage.
   
 - A wizard kit: the Sorcerer. (accessible by script for non-EE editions)
   
@@ -62,8 +62,10 @@ A pack of kits including :
 - A fighter dual classed to a mage kit: the Warlord.
   
 - A multi-class thief/necromancer kit: The Anatomist. (Selection on thief class)
-  
+
 - A multi-class fighter/mage (elf) kit: The Bladesinger. (Selection on fighter class)
+  
+- A multi-class cleric/wild mage (human) kit: The Theurgical Explorer. (Selection on cleric class)
   
 - A multi-class cleric/wild mage (human) kit: The Theurgical Explorer. (Selection on cleric class)
   
