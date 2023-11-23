@@ -13,7 +13,7 @@
 Un pack de kits incluant :
 
 - Un profil de guerrier (demi-orque) : le Porteur de haine.
-- 
+  
 - Un profil de rôdeur : le Chasseur de vermines.
   
 - Un profil de clerc : le Prêcheur des flammes.
@@ -42,7 +42,7 @@ Un pack de kits incluant :
 A pack of kits including : 
 
 - A fighter (half-orc) kit: the Bearer of Hate.
-- 
+  
 - A ranger kit: the Hunter of Vermin.
   
 - A cleric kit: the Preacher of Fire.
