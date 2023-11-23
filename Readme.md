@@ -9,3 +9,19 @@
 
 ## Description:
 -------------
+
+Un pack de kits incluant :
+
+- Un profil de guerrier (demi-orque) : le Porteur de haine.
+		- Un profil de rôdeur : le Chasseur de vermines.
+		- Un profil de clerc : le Prêcheur des flammes.
+		- Un profil de clerc : le Croisé de Garagos.
+		- Un profil de clerc (nain) : le Chantre de la pierre.
+		- Un profil de voleur : l'Arpenteur d'ombres.
+		- Un profil de voleur (gnome) : l'Ombremage.
+		- Un profil d'ensorceleur : le Sorcelier. (Accessible par script pour les éditions non-EE)
+		- Un profil de mage : le Savant Artilleur. (remplace l'invocateur)
+		- Un profil de guerrier jumelé vers mage : le Seigneur de guerre.
+		- Un profil de multiclassé voleur/nécromancien : l'Anatomiste. (sélection sous la classe de voleur)
+		- Un profil de multiclassé guerrier/mage (elfe): le Chantelameur. (sélection sous la classe de guerrier)
+		- Un profil de multiclassé clerc/entropiste (humain): l'Explorateur théurgique (sélection sous la classe de clerc)
