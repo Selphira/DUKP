@@ -66,6 +66,3 @@ A pack of kits including :
 - A multi-class fighter/mage (elf) kit: The Bladesinger. (Selection on fighter class)
   
 - A multi-class cleric/wild mage (human) kit: The Theurgical Explorer. (Selection on cleric class)
-  
-- A multi-class cleric/wild mage (human) kit: The Theurgical Explorer. (Selection on cleric class)
-  
