@@ -40,6 +40,7 @@ Un pack de kits incluant :
   
 - Un profil de multiclassé clerc/entropiste (humain): l'Explorateur théurgique (sélection sous la classe de clerc)
 
+------------
 
 A pack of kits including : 
 
