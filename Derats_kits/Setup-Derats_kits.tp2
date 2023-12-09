@@ -13,7 +13,7 @@ ALWAYS
 		PATCH_IF (SOURCE_SIZE > 0x71) BEGIN
 			READ_ASCII 0x22 animation (2)
 			PATCH_IF (~%animation%~ STRING_EQUAL_CASE ~S3~) BEGIN
-				WRITE_BYTE 0x29 (THIS BAND 0b00000000) //Patch de correction des katanas pour les rendre utilisables par tout le monde de la colonne clerc/druide/barbare/entropiste (comme TOUTES les autres ÈpÈes)
+				WRITE_BYTE 0x29 (THIS BAND 0b00000000) //Patch de correction des katanas pour les rendre utilisables par tout le monde de la colonne clerc/druide/barbare/entropiste (comme TOUTES les autres √©p√©es)
 			END
 		END
 		BUT_ONLY
@@ -21,7 +21,7 @@ ALWAYS
 		// BG:EE/BG2:EE/IWD:EE tra conversion
 		// Code borrowed from Edwin Romance and adjusted: HANDLE_CHARSETS in now included in WeiDU 237
 		// For complete description check Edwin Romance and the WeiDU forum topic on HANDLE_CHARSETS
-		// Tous les fichiers tra sont mentionnÈs dans l'instruction LANGUAGE, il faut donc les recharger aprËs conversion
+		// Tous les fichiers tra sont mentionn√©s dans l'instruction LANGUAGE, il faut donc les recharger apr√®s conversion
 		ACTION_DEFINE_ARRAY px_reload BEGIN
 		"Setup"
 		"Vermine"
@@ -286,7 +286,7 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BGEE BG2EE IWDEE EET~ @0009 // Ce composant n
 // Note : j'ai inclue sur les instructions de ce kit des aides que vous pouvez copier-coller lorsque vous programmez votre propre kit afin de vous aider.
 ADD_KIT ~pxHAINE~
 //AIDE WCLASWEAP   SMALL_SWORD LARGE_SWORD     BLUNT     MISSILE       BOW        SPIKED       AXE        SPEAR
-~pxHAINE                1           1           1           1           1           1           1           1~ // Types d'armes autorisÈs - CLASWEAP
+~pxHAINE                1           1           1           1           1           1           1           1~ // Types d'armes autoris√©s - CLASWEAP
 //AIDE WEAPPROF                                 T   S           F   Q             S S
 //AIDE WEAPPROF         L S                     W   C           L   U             W I
 //AIDE WEAPPROF         A M             B L S   O   I   W       A   A             O N
@@ -298,24 +298,24 @@ ADD_KIT ~pxHAINE~
 //AIDE WEAPPROF         O O B E U K A I D O W A D A W G M L E E N A T B B B A I D S A P R R R R R R R R A A A A A A A A A A A
 //AIDE WEAPPROF         R R O A N E X L S R O X S N A E E U A R I C A O O O R N E H P O A A A A A A A A 1 1 1 1 1 1 1 1 1 1 2
 //AIDE WEAPPROF         D D W R T D E E W D R E W A K R R B R D N E F W W W T G D I O N 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
-~pxHAINE                5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 2 2 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5~ // CompÈtences autorisÈes - WEAPPROF.2da
+~pxHAINE                5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 2 2 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5~ // Comp√©tences autoris√©es - WEAPPROF.2da
 //AIDE ABCxxxxx        STR     DEX     CON     INT     WIS     CHR
-~pxHAINE                9       0       0       0       0       0~ // Scores de caractÈristiques minimaux nÈcessaires - ABCLASRQ.2da
-~pxHAINE                0       0       0      -1      -1      -1~ // Modificateurs des scores de caractÈristiques - ABCLSMOD.2da
-~pxHAINE                17      0       0       0       0       0~ // CaractÈristiques minimales pour se jumeler VERS le kit - ABDCDSRQ.2da
-~pxHAINE                15      0       0       0       0       0~ // CaractÈristiques minimales pour se jumeler DEPUIS le kit - ABDCSCRQ.2da
+~pxHAINE                9       0       0       0       0       0~ // Scores de caract√©ristiques minimaux n√©cessaires - ABCLASRQ.2da
+~pxHAINE                0       0       0      -1      -1      -1~ // Modificateurs des scores de caract√©ristiques - ABCLSMOD.2da
+~pxHAINE                17      0       0       0       0       0~ // Caract√©ristiques minimales pour se jumeler VERS le kit - ABDCDSRQ.2da
+~pxHAINE                15      0       0       0       0       0~ // Caract√©ristiques minimales pour se jumeler DEPUIS le kit - ABDCSCRQ.2da
  //AIDE ALIGNMNT       L_G     L_N     L_E     N_G     N_N     N_E     C_G     C_N     C_E
-~pxHAINE                0       0       0       0       0       1       0       1       1~ // Alignements autorisÈs - ALIGNMNT.2da
+~pxHAINE                0       0       0       0       0       1       0       1       1~ // Alignements autoris√©s - ALIGNMNT.2da
  //AIDE DUALCLAS     FIGHTER  CLERIC   MAGE   THIEF   DRUID   RANGER
-~pxHAINE                0       1       1       1       1       0~ //PossibilitÈs de jumelage - DUALCLAS.2da
-~Derats_kits/Haine/pxHaine.2da~ // HabilitÈs gagnÈes par niveau - 2da personnel
+~pxHAINE                0       1       1       1       1       0~ //Possibilit√©s de jumelage - DUALCLAS.2da
+~Derats_kits/Haine/pxHaine.2da~ // Habilit√©s gagn√©es par niveau - 2da personnel
 ~K_F_HO~ //Races et classes acceptants le kit - KITTABLE.2da   -> K = Kit, obligatoire F = Fighter, HO = Half_Orc
 ~0x00000001 2~ // Autorisation d'objets - KITLIST.2da
-~Fi0~ // HabiletÈs de Haut niveau - LUABBR.2da
-~CHAN09 * HELM07 BAG20 RING06 RING31 * BOOT01 AMUL19 BRAC16 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 HAMM07 SW1H27 STAF08~ //…quipement au dÈbut de TOB - 25STWEAP.2da
+~Fi0~ // Habilet√©s de Haut niveau - LUABBR.2da
+~CHAN09 * HELM07 BAG20 RING06 RING31 * BOOT01 AMUL19 BRAC16 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 HAMM07 SW1H27 STAF08~ //√âquipement au d√©but de TOB - 25STWEAP.2da
 SAY @309 // Nom du kit tout en minuscules
 SAY @31 // Description du kit
-SAY @32 // Nom du kit en minuscules avec majuscule au dÈbut (Casse de phrase)
+SAY @32 // Nom du kit en minuscules avec majuscule au d√©but (Casse de phrase)
 
 ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
  //AIDE clrcreq		 										H E HE D HA G HO -> Human / Elf / Half Elf / Dwarf / Halfelin / Gnome / Half Orque
@@ -428,7 +428,7 @@ COPY_EXISTING	~pxf8orbc.bam~				~override/pxf8orbb.bam~
 				~pxfxgarc.bam~				~override/pxfxgarb.bam~
 				~pxfycalc.bam~				~override/pxfycalb.bam~
 
-COPY_EXISTING	~efreetsu.cre~							~override~	WRITE_BYTE 0x234 10	WRITE_BYTE 0x270 4//correction du niveau et de l'attribut alliÈ manquant
+COPY_EXISTING	~efreetsu.cre~							~override~	WRITE_BYTE 0x234 10	WRITE_BYTE 0x270 4//correction du niveau et de l'attribut alli√© manquant
 COPY_EXISTING	~elfirpr2.cre~							~override~	WRITE_BYTE 0x238 20 //correction de force illogique
 COPY	~Derats_kits/Flammes/Cres/pxf4drak.cre~			~override~	SAY NAME1 @2461	SAY NAME2 @2461
 COPY	~Derats_kits/Flammes/Cres/pxf4arai.cre~			~override~	SAY NAME1 @2462	SAY NAME2 @2462
@@ -614,44 +614,44 @@ ACTION_IF GAME_IS ~BGEE BG2 TOB BGT BG2EE EET~ THEN BEGIN
 	END
 END
 
-CREATE SPL pxf0spe //Sort qui supprime tous les sorts contenant restauration / guÈrison / soins / rÈgÈnÈration / rÈsurrection
+CREATE SPL pxf0spe //Sort qui supprime tous les sorts contenant restauration / gu√©rison / soins / r√©g√©n√©ration / r√©surrection
 	WRITE_LONG 0x18 THIS | BIT11 | BIT14 | BIT25	// ajoute No LOS required - Non-magical ability - Castable when silenced
 	WRITE_SHORT 0x1c 4	// spelltype = innate
 	WRITE_LONG  0x34 1	// spelllevel
-	LPF ~GW_DEF_OFFSETS_FILE~ STR_VAR GW_file_sig = SPL RET GW_oe GW_oc GW_al GW_fx GW_fi GW_fc GW_min_size END	// D…FINITION des offsets gÈnÈraux des fichiers SPL, ITM et CRE.
+	LPF ~GW_DEF_OFFSETS_FILE~ STR_VAR GW_file_sig = SPL RET GW_oe GW_oc GW_al GW_fx GW_fi GW_fc GW_min_size END	// D√âFINITION des offsets g√©n√©raux des fichiers SPL, ITM et CRE.
 	LPF ~GW_ADD_HEADERS~ INT_VAR GW_Headers = 1 END
 	LPF ~ALTER_SPELL_HEADER~ INT_VAR location = 4 new_header_type = 1 target = 5 range = 0 min_level = 0 speed = 0 projectile = 1 END
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR715 END //Parole infernale
-	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR710 END //Parole sacrÈe
-	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR705 END //TempÍte de feu
+	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR710 END //Parole sacr√©e
+	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR705 END //Temp√™te de feu
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR604 END //Conjuration d'animaux
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR602 END //Convocation d'animaux III
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR503 END //Colonne de feu
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR501 END //Convocation d'animaux II
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR408 END //Protection contre le mal 3m
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR402 END //Convocation d'animaux
-	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR206 END //Lame enflammÈe
+	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR206 END //Lame enflamm√©e
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1  STR_VAR resource = SPPR107 END //Protection contre le mal
-	FOR (level = 7 ; level > 0 ; level = level - 1) BEGIN					// Je commence par le niveau 7 car la fonction ADD_SPELL_CFEFFECT par dÈfaut un effet en premiËre position.
-		SET bornesup = level*100 + 99										// Je fixe la borne supÈrieure du sort ‡ chercher (199 - 299 - 399 ....)
-		FOR (spellcode = bornesup ; spellcode > level*100 ; spellcode = spellcode - 1) BEGIN	// Je lis chaque sort SPPR (101 ‡ 199 ; 201 ‡ 299 ...)
+	FOR (level = 7 ; level > 0 ; level = level - 1) BEGIN					// Je commence par le niveau 7 car la fonction ADD_SPELL_CFEFFECT par d√©faut un effet en premi√®re position.
+		SET bornesup = level*100 + 99										// Je fixe la borne sup√©rieure du sort √† chercher (199 - 299 - 399 ....)
+		FOR (spellcode = bornesup ; spellcode > level*100 ; spellcode = spellcode - 1) BEGIN	// Je lis chaque sort SPPR (101 √† 199 ; 201 √† 299 ...)
 			PATCH_IF (FILE_EXISTS_IN_GAME "SPPR%spellcode%.spl") BEGIN							// Test qui permet de gagner du temps de traitement.
-				LPF NAME_NUM_OF_SPELL_RES STR_VAR spell_res = EVAL "SPPR%spellcode%" RET spell_num spell_name END	// Fonction de WeiDU 239 qui retourne le numÈro du sort et son code du fichier SPELL.ids
-				SET GW_opcode_checked = 0			// Test Èvitant de retrouver le mÍme sort plusieurs fois s'il utilise au moins deux des opcodes ‡ vÈrifier.
+				LPF NAME_NUM_OF_SPELL_RES STR_VAR spell_res = EVAL "SPPR%spellcode%" RET spell_num spell_name END	// Fonction de WeiDU 239 qui retourne le num√©ro du sort et son code du fichier SPELL.ids
+				SET GW_opcode_checked = 0			// Test √©vitant de retrouver le m√™me sort plusieurs fois s'il utilise au moins deux des opcodes √† v√©rifier.
 				PATCH_MATCH ~%spell_name%~ WITH
-					"CLERIC_.*" BEGIN				// Si le ce code SPELL.IDS commence par "CLERIC_", c'est un nsort de prÍtre.
-													// «a permet d'Ècarter les sorts spÈciaux de certines crÈatures ou de piËges.
+					"CLERIC_.*" BEGIN				// Si le ce code SPELL.IDS commence par "CLERIC_", c'est un nsort de pr√™tre.
+													// √áa permet d'√©carter les sorts sp√©ciaux de certines cr√©atures ou de pi√®ges.
 						INNER_ACTION BEGIN
 							COPY_EXISTING - ~SPPR%spellcode%.spl~ ~override~
-								PATCH_FOR_EACH GW_opcode_to_check IN 11 23 26 32 46 79 81 98 161 162 224 242 304 BEGIN	// On vÈrifie l'existance de ces opcodes dans le sort.
-									PATCH_IF GW_opcode_checked = 0 BEGIN						// Utilisation du test dÈcrit plus haut
-										LPF ~GW_SEARCH_OPCODE~ INT_VAR GW_opcode_to_check RET GW_opcode_checked END	// Valeur retournÈe	==> 0 = pas d'opcode	-	1 = opcodeprÈsent dans le fichier
+								PATCH_FOR_EACH GW_opcode_to_check IN 11 23 26 32 46 79 81 98 161 162 224 242 304 BEGIN	// On v√©rifie l'existance de ces opcodes dans le sort.
+									PATCH_IF GW_opcode_checked = 0 BEGIN						// Utilisation du test d√©crit plus haut
+										LPF ~GW_SEARCH_OPCODE~ INT_VAR GW_opcode_to_check RET GW_opcode_checked END	// Valeur retourn√©e	==> 0 = pas d'opcode	-	1 = opcodepr√©sent dans le fichier
 									END
 								END
 								// Cas particulier de l'opcode Stat: Current HP Modifier [17] :
-								// Si paramËtre 2 = 0 et paramËtre 1 > 0 alors l'effet ajoute des PV.
-								// Si paramËtre 2 = 2 et paramËtre 1 >= 100, alors l'effet ajoute des PV.
-								PATCH_IF GW_opcode_checked = 0 BEGIN						// Utilisation du test dÈcrit plus haut
+								// Si param√®tre 2 = 0 et param√®tre 1 > 0 alors l'effet ajoute des PV.
+								// Si param√®tre 2 = 2 et param√®tre 1 >= 100, alors l'effet ajoute des PV.
+								PATCH_IF GW_opcode_checked = 0 BEGIN						// Utilisation du test d√©crit plus haut
 									LPF ~GW_DERAT_FIND_CURE_HP~ INT_VAR GW_opcode_to_check = 17 GW_param1_to_check = 1 GW_param2_to_check = 0 RET GW_opcode_Cure_checked END
 									PATCH_IF GW_opcode_Cure_checked = 1 BEGIN				// Si c'est un sort de soins
 										SET GW_opcode_checked = 1
@@ -664,8 +664,8 @@ CREATE SPL pxf0spe //Sort qui supprime tous les sorts contenant restauration / g
 								END
 							BUT_ONLY
 						END	// of INNER_ACTION
-						PATCH_IF GW_opcode_checked = 1 BEGIN		// Si on a trouvÈ un sort utilisant les opcodes qui t'intÈressent
-																	// La fonction ADD_SPELL_CFEFFECT ajoute un casting feature ‡ ton nouveau sort.
+						PATCH_IF GW_opcode_checked = 1 BEGIN		// Si on a trouv√© un sort utilisant les opcodes qui t'int√©ressent
+																	// La fonction ADD_SPELL_CFEFFECT ajoute un casting feature √† ton nouveau sort.
 							LPF ~ADD_SPELL_CFEFFECT~ INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = EVAL "SPPR%spellcode%" END
 						END
 						
@@ -686,7 +686,7 @@ ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 	COPY	~Derats_kits/Flammes/BGEE_patch/IWDEE/pxf2flax.spl~	~override~	SAY UNIDENTIFIED_DESC @22161
 	COPY_EXISTING	~pxf0spe.spl~						~override~
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr215 END //Baie magique
-	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr217 END //Soin des blessures modÈrÈes
+	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr217 END //Soin des blessures mod√©r√©es
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr321 END //Exaltation
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr331 END //Faveur d'Ilmater
 	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 172 target = 1 timing = 1 STR_VAR resource = sppr419 END //Flammes
@@ -1022,7 +1022,7 @@ COMPILE	~Derats_kits/Pierre/PxPierre.baf~
 
 
 /////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////   CROIS… DE GORAGOS   ////////////////////////////////
+//////////////////////////////   CROIS√â DE GORAGOS   ////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -1226,7 +1226,7 @@ ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
 	COPY	~Derats_kits/Ombremage/BGEE_patch/LUPXG.2da~		~Derats_kits/Ombremage/Spells/Copy~ //SCS and Lefreut's enhanced UI compatibility patch
 END
 
-DEFINE_PATCH_FUNCTION CORRUPTION	STR_VAR resource = ~~ //Ajoute X% de chances de perdre 1 niveau ou 1 point de constitution (Ombremage dÈbutant)
+DEFINE_PATCH_FUNCTION CORRUPTION	STR_VAR resource = ~~ //Ajoute X% de chances de perdre 1 niveau ou 1 point de constitution (Ombremage d√©butant)
 BEGIN
 	LPF ADD_SPELL_EFFECT
 	INT_VAR
@@ -1465,12 +1465,12 @@ COPY_EXISTING	~pxg4in11.spl~				~override/pxg4in10.spl~	FOR (a=3 ; a< 11 ; a+=1)
 COPY_EXISTING	~pxg4la11.spl~				~override/pxg4la10.spl~	WRITE_BYTE 0xa8 76	WRITE_BYTE 0x108 76	LPF CORRUPTION INT_VAR proba = 1 END
 COPY_EXISTING	~pxg3mo11.spl~				~override/pxg3mo10.spl~	LPF CORRUPTION INT_VAR proba = 1 END
 
-OUTER_FOR ( i=3 ; i<11 ; i +=1) BEGIN 	//Pour chaque sort ‡ crÈer du 3Ëme au 10Ëme
+OUTER_FOR ( i=3 ; i<11 ; i +=1) BEGIN 	//Pour chaque sort √† cr√©er du 3√®me au 10√®me
 	COPY_EXISTING	~pxg1to2.spl~		~override/pxg1to%i%.spl~
 					~pxg1ce2.spl~		~override/pxg1ce%i%.spl~	WRITE_BYTE 0xac 11 -i
-	COPY_EXISTING	~pxg1ca2.spl~		~override/pxg1ca%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_ASCIIE 0x22e ~pxg1ca%i%~ #8	//Au 9eme effet, indiquer la protection contre "Nom du sort crÈe suivant niveau"
-	FOR (a=3 ; a< 9 ; a+=1) BEGIN 		//pour chaque effet du 4Ëme au 9eme
-		WRITE_SHORT 0xa8+a*0x30 30+6*(i -2)	//indiquer une durÈe de 6 x le "niveau du sort" +30
+	COPY_EXISTING	~pxg1ca2.spl~		~override/pxg1ca%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_ASCIIE 0x22e ~pxg1ca%i%~ #8	//Au 9eme effet, indiquer la protection contre "Nom du sort cr√©e suivant niveau"
+	FOR (a=3 ; a< 9 ; a+=1) BEGIN 		//pour chaque effet du 4√®me au 9eme
+		WRITE_SHORT 0xa8+a*0x30 30+6*(i -2)	//indiquer une dur√©e de 6 x le "niveau du sort" +30
 	END
 	COPY_EXISTING	~pxg1im2.spl~		~override/pxg1im%i%.spl~	WRITE_BYTE 0xac 11 -i	WRITE_SHORT 0xd8 30+6*(i -2)
 END
@@ -1510,11 +1510,11 @@ END
 COPY_EXISTING	~pxg3ca9.spl~				~override/pxg3ca10.spl~	WRITE_BYTE 0xac 1	FOR (a=3 ; a< 23 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 60 END	WRITE_BYTE	0xce 10	WRITE_ASCIIE 0x4ce ~pxg3ca10~ #8
 COPY	~Derats_kits/Ombres/Spells/Copy/pxo1ha2.spl~	~override/pxg1ha11.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-5~ END
 COPY	~Derats_kits/Ombres/Spells/Copy/pxo1ha2.spl~	~override/pxg1ha12.spl~	FOR (a=0 ; a< 5 ; a+=1) BEGIN WRITE_BYTE 0xf2+a*0x30 ~-6~ END
-OUTER_FOR ( i=11 ; i<21 ; i +=1) BEGIN //Pour chaque sort ‡ crÈer du 11Ëme au 20Ëme
+OUTER_FOR ( i=11 ; i<21 ; i +=1) BEGIN //Pour chaque sort √† cr√©er du 11√®me au 20√®me
 	COPY	~Derats_kits/Ombres/Spells/Copy/pxo2im5.spl~	~override/pxg2im%i%.spl~	WRITE_SHORT 0xa8 84+6*(i -11)
 	COPY	~Derats_kits/Ombres/Spells/Copy/pxo2fl5.spl~	~override/pxg2fl%i%.spl~	FOR (a=2 ; a< 11 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 156+12*(i -11) END	WRITE_ASCIIE 0x28e ~pxg2fl%i%~ #8
 END
-OUTER_FOR ( i=12 ; i<21 ; i +=1) BEGIN //Pour chaque sort ‡ crÈer du 12Ëme au 20Ëme
+OUTER_FOR ( i=12 ; i<21 ; i +=1) BEGIN //Pour chaque sort √† cr√©er du 12√®me au 20√®me
 	COPY_EXISTING	~pxg1ca11.spl~		~override/pxg1ca%i%.spl~	FOR (a=2 ; a< 8 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 84+6*(i -11) END	WRITE_ASCIIE 0x1fe ~pxg1ca%i%~ #8
 	COPY	~Derats_kits/Ombres/Spells/Copy/pxo1im2.spl~	~override/pxg1im%i%.spl~	WRITE_SHORT 0xa8 84+6*(i -11)
 	COPY_EXISTING	~pxg1so11.spl~		~override/pxg1so%i%.spl~	FOR (a=2 ; a< 5 ; a+=1) BEGIN WRITE_SHORT 0xa8+a*0x30 330+30*(i -11) END
@@ -1698,7 +1698,7 @@ COMPILE ~Derats_kits/Ombres/pxombres.baf~
 
 BEGIN @90
 
-//Repris de Idwification (crÈe le parchemin de Projectiles de force de Mordenkainen associÈ ‡ son numÈro d'IDS, quel qu'il soit)
+//Repris de Idwification (cr√©e le parchemin de Projectiles de force de Mordenkainen associ√© √† son num√©ro d'IDS, quel qu'il soit)
 DEFINE_PATCH_FUNCTION CREATE_PARCH STR_VAR spell = rien BEGIN
 	WRITE_ASCIIE 0x3a "%DEST_RES%"
 	WRITE_ASCII  0x41 a #1
@@ -1801,14 +1801,14 @@ ACTION_IF GAME_IS ~TOB BGT BGEE BG2EE EET~ THEN BEGIN
 	ACTION_IF ((IDS_OF_SYMBOL (~spell~ ~WIZARD_MORDENKAINENS_FORCE_MISSILES~)) > 0) THEN BEGIN OUTER_SPRINT WIZARD_MORDENKAINENS_FORCE_MISSILES_RES "%temp467%"
 		COPY ~Derats_kits/Projo/scrlpxm.itm~	~override/scrlpxm.itm~ SAY 0x0c @95 SAY 0x54 @96	LPF CREATE_PARCH STR_VAR spell = EVAL "%temp467%" END
 		WRITE_BYTE 0x2d (THIS | BIT1) // ajoute l'unusable enchanteur
-		WRITE_BYTE  0x7e 1 // cible : une crÈature
-		WRITE_SHORT 0x80 50 // portÈe
+		WRITE_BYTE  0x7e 1 // cible : une cr√©ature
+		WRITE_SHORT 0x80 50 // port√©e
 	END
 	 //Ajout de la gestion du sort PFM par le sort "Bouclier"
 	COPY_EXISTING	~spwi114.spl~						~override~	LPF ADD_SPELL_EFFECT INT_VAR opcode = 206 target = 1 duration = 300 power = 1 resist_dispel = 3 STR_VAR resource = EVAL "%temp467%" END
 	COPY	~override/pxmprook.spl~						~override~
 			~override/pxmbouc.spl~						~override~	LPF ALTER_EFFECT STR_VAR match_resource = spwi430 resource = EVAL "%temp467%" END
-	//Changement du 2DA suivant numÈro de sort
+	//Changement du 2DA suivant num√©ro de sort
 	COPY_EXISTING	~Clabma07.2da~						~override~	REPLACE_TEXTUALLY ~cdia430~ ~%temp467%~
 END
 
@@ -1906,13 +1906,6 @@ ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 	COPY_EXISTING ~hobart.sto~								~override~	ADD_STORE_ITEM ~pxstapai~	AFTER  ~braceip~ #1 #1 #1 ~IDENTIFIED~ #1
 END
 
-ACTION_IF GAME_IS ~TOB BG2EE EET~ THEN BEGIN
-	COPY	~Derats_kits/Sorcelier/Items/pxsogi.itm~		~override~	SAY NAME2 @1003	SAY DESC @1004
-	SILENT
-	EXTEND_TOP "AR0201.bcs" "Derats_kits/Codes/pxsitem.baf"
-	VERBOSE
-END
-
 ACTION_IF GAME_IS ~TOB BGT~ THEN BEGIN
 	COPY	~Derats_kits/Sorcelier/EE patch/K_S_H.2da~	~override~
 	COPY_EXISTING	~K_S_H.2da~				~override/K_S_E.2da~
@@ -1992,6 +1985,13 @@ ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
 	SAY @111
 	SAY @1139
 	LAF fl#add_kit_ee	STR_VAR kit_name = pxSORCELIERD	hpclass = ~hprog~	clswpbon = ~1 0 2~	END
+END
+
+ACTION_IF GAME_IS ~TOB BG2EE EET~ THEN BEGIN
+	COPY	~Derats_kits/Sorcelier/Items/pxsogi.itm~		~override~	SAY NAME2 @1003	SAY DESC @1004
+	SILENT
+	EXTEND_TOP "AR0201.bcs" "Derats_kits/Codes/pxsitem.baf"
+	VERBOSE
 END
 
 SILENT
@@ -2122,7 +2122,7 @@ ADD_PROJECTILE ~override/pxcast60.pro~
 ADD_PROJECTILE ~override/pxw0mien.pro~
 ADD_PROJECTILE ~override/pxw0mial.pro~
 COPY_EXISTING	~icestorm.pro~							~override~
-				~metswarm.pro~							~override~	WRITE_BYTE 0x216 4 //Correction du nombre de rounds ou Áa devrait impacter (selon les descriptions ingame)
+				~metswarm.pro~							~override~	WRITE_BYTE 0x216 4 //Correction du nombre de rounds ou √ßa devrait impacter (selon les descriptions ingame)
 
 COPY	~Derats_kits/Warlord/Bams~						~override~
 		~Derats_kits/Warlord/Bams/Spell icons~			~override~
@@ -2373,7 +2373,7 @@ COPY_EXISTING	~pxwba33.spl~				~override/pxwba53.spl~
 				~pxwba29.spl~				~override/pxwba511.spl~
 READ_LONG 0x6a effects_off
 READ_SHORT 0x90 num_effects
-FOR (i = 0; i < num_effects; i += 1) BEGIN					// Pour chaque effet du sort (une seule habilitÈ)
+FOR (i = 0; i < num_effects; i += 1) BEGIN					// Pour chaque effet du sort (une seule habilit√©)
 	WRITE_ASCII (effects_off + 0x30*i + 0x014) ~pxwlvl5~ #8	// Ecrire "pxwlvl5" en tant que ressource
 END
 COPY_EXISTING	~pxwba33.spl~				~override/pxwba63.spl~
@@ -2431,9 +2431,9 @@ COPY_EXISTING	~pxwlvl1.spl~				~override/pxwtout1.spl~
 				~pxwlvl9.spl~				~override/pxwtout9.spl~
 READ_LONG 0x6a effects_off
 READ_SHORT 0x90 num_effects
-FOR (i = 0; i < num_effects; i += 1) BEGIN			// Pour chaque effet du sort (une seule habilitÈ)
-	WRITE_BYTE (effects_off + 0x30*i + 0x013) 0		// Fixer le % minimum ‡ 0
-	WRITE_BYTE (effects_off + 0x30*i + 0x012) 100	// Fixer le % maximum ‡ 100
+FOR (i = 0; i < num_effects; i += 1) BEGIN			// Pour chaque effet du sort (une seule habilit√©)
+	WRITE_BYTE (effects_off + 0x30*i + 0x013) 0		// Fixer le % minimum √† 0
+	WRITE_BYTE (effects_off + 0x30*i + 0x012) 100	// Fixer le % maximum √† 100
 END
 COPY_EXISTING	~pxw2pugg.spl~				~override/pxw6cogg.spl~	WRITE_ASCII 0xae ~pxw6copi~ #8
 COPY_EXISTING	~pxw2pugg.spl~				~override/pxw8ligg.spl~	WRITE_ASCII 0xae ~pxw8libe~ #8
@@ -2561,7 +2561,7 @@ ACTION_IF GAME_IS ~BGEE~ THEN BEGIN
 	END
 	COPY	~Derats_kits/Warlord/Spells/pxw7gloy.spl~	~override~	SAY NAME1 @7717	SAY UNIDENTIFIED_DESC @77181	SAY 0x4be #25097
 	FOR (a=0 ; a< 9 ; a+=1) BEGIN	//pour chaque effet jusqu'au 9eme
-		SAY 0x9e+a*0x30 @771811		//indiquer l'impossibilitÈ de caster
+		SAY 0x9e+a*0x30 @771811		//indiquer l'impossibilit√© de caster
 	END
 	COPY_EXISTING	~pxw7glog.spl~						~override~	SAY 0x36e #25097
 	COPY	~Derats_kits/Warlord/Spells/pxw7magi.spl~	~override~	SAY NAME1 @7725	SAY UNIDENTIFIED_DESC @7726	SAY 0x15e #26437	SAY 0x18e #25820	SET ZF_inc_duree = 6	LPF MULTI_LEVELS END
@@ -2664,7 +2664,7 @@ ACTION_IF GAME_IS ~TOB BGT BG2EE IWDEE EET~ THEN BEGIN
 	COPY	~Derats_kits/Warlord/Spells/pxw7glob.spl~	~override~	SAY NAME1 @7717	SAY UNIDENTIFIED_DESC @7718
 	COPY	~Derats_kits/Warlord/Spells/pxw7gloy.spl~	~override~	SAY NAME1 @7717	SAY UNIDENTIFIED_DESC @77181
 	FOR (a=0 ; a< 9 ; a+=1) BEGIN	//pour chaque effet jusqu'au 9eme
-		SAY 0x9e+a*0x30 @771811		//indiquer l'impossibilitÈ de caster
+		SAY 0x9e+a*0x30 @771811		//indiquer l'impossibilit√© de caster
 	END
 END
 
@@ -3048,7 +3048,7 @@ COPY	~Derats_kits/Warlord/Spells/pxw4bouf.spl~		~override~
 		~Derats_kits/Warlord/Spells/pxw4boua.spl~		~override~	LPF MULTI_LEVELS END
 READ_LONG 0x64 abilities_off
 READ_SHORT 0x68 num_abilities
-FOR (i = 0; i < num_abilities; i += 1) BEGIN			// pour chaque habiletÈ
+FOR (i = 0; i < num_abilities; i += 1) BEGIN			// pour chaque habilet√©
 	WRITE_BYTE (abilities_off + 0x120*i + 0x234) 34+i*2	// indiquer la valeur du premier effet comme lvlx2 + 20
 END
 COPY_EXISTING	~pxw4boyf.spl~				~override/pxw4boxf.spl~
@@ -3095,7 +3095,7 @@ COPY	~Derats_kits/Warlord/Spells/pxw4ra1g.spl~		~override~	SAY NAME1 @7421
 COPY	~Derats_kits/Warlord/Spells/pxw4ra2g.spl~		~override~	SAY NAME1 @74221
 COPY	~Derats_kits/Warlord/Spells/pxw4ra1y.spl~		~override~	SAY NAME1 @7421
 FOR (a=0 ; a< 9 ; a+=1) BEGIN	//pour chaque effet jusqu'au 9eme
-	SAY 0x9e+a*0x30 @742231		//indiquer l'impossibilitÈ de caster
+	SAY 0x9e+a*0x30 @742231		//indiquer l'impossibilit√© de caster
 END
 COPY	~Derats_kits/Warlord/Spells/pxw4ra2y.spl~		~override~	SAY NAME1 @74221
 FOR (a=0 ; a< 9 ; a+=1) BEGIN
@@ -3356,7 +3356,7 @@ WRITE_LONG 0x18 (THIS | 49152)	WRITE_BYTE 0x7e 4	WRITE_BYTE 0x80 1	WRITE_SHORT 0
 COPY	~Derats_kits/Warlord/Spells/pxw6resu.spl~		~override~	SAY NAME1 @7623	SAY UNIDENTIFIED_DESC @7624
 COPY	~Derats_kits/Warlord/Spells/pxw6resy.spl~		~override~	SAY NAME1 @7623	SAY UNIDENTIFIED_DESC @76241
 FOR (a=0 ; a< 9 ; a+=1) BEGIN	//pour chaque effet jusqu'au 9eme
-	SAY 0x9e+a*0x30 @762411		//indiquer l'impossibilitÈ de caster
+	SAY 0x9e+a*0x30 @762411		//indiquer l'impossibilit√© de caster
 END
 COPY	~Derats_kits/Warlord/Spells/pxw6resx.spl~		~override~	SAY NAME1 @7623	SAY UNIDENTIFIED_DESC @76242
 COPY_EXISTING	~pxw6vigy.spl~				~override/pxw6vigx.spl~	SAY UNIDENTIFIED_DESC @76262	WRITE_BYTE 0x84 7	WRITE_ASCII 0x6de ~pxw6vigx~ #8	LPF CHANGE_TARGET  END
@@ -3404,8 +3404,8 @@ COPY_EXISTING	~pxw7boa1.spl~				~override/pxw7boag.spl~
 				~pxw7boi1.spl~				~override/pxw7boig.spl~
 READ_LONG 0x6a effects_off
 READ_SHORT 0x90 num_effects
-FOR (i = 0; i < num_effects; i += 1) BEGIN			// Pour chaque effet du sort (une seule habilitÈ)
-	WRITE_BYTE (effects_off + 0x30*i + 0x013) 51	// Fixer le % minimum ‡ 51
+FOR (i = 0; i < num_effects; i += 1) BEGIN			// Pour chaque effet du sort (une seule habilit√©)
+	WRITE_BYTE (effects_off + 0x30*i + 0x013) 51	// Fixer le % minimum √† 51
 END
 COPY	~Derats_kits/Warlord/Spells/pxw7diss.spl~		~override~	SAY NAME1 @775	SAY UNIDENTIFIED_DESC @776
 COPY	~Derats_kits/Warlord/Spells/pxw7disy.spl~		~override~	SAY NAME1 @775	SAY UNIDENTIFIED_DESC @7761
@@ -3831,7 +3831,7 @@ COPY_EXISTING	~pxpstm1v.vvc~				~override/pxpstm5v.vvc~	WRITE_ASCII 0x8 ~pxpstme
 COPY_EXISTING	~pxpstm1v.vvc~				~override/pxpstm6v.vvc~	WRITE_ASCII 0x8 ~pxpstme6~ #8
 COPY_EXISTING	~ICRMPARI.vvc~				~override/pxwyin2v.vvc~	WRITE_ASCII 0x8 ~pxwyin20~ #8	WRITE_BYTE 0x20 (THIS | 64)
 
-//Ce script modifie tous les parchemins de mage pour les interdire au sdg. Obligatoire pour la compatibilitÈ avec certains mods comme "Spell revision" qui fait passer certains parchemins en "universel".
+//Ce script modifie tous les parchemins de mage pour les interdire au sdg. Obligatoire pour la compatibilit√© avec certains mods comme "Spell revision" qui fait passer certains parchemins en "universel".
 COPY_EXISTING_REGEXP GLOB ~.*\.itm~ override PATCH_IF SOURCE_SIZE>0x71 BEGIN
 	READ_SHORT 0x1c item
 	PATCH_IF item=0xb BEGIN
